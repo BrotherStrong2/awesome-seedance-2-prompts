@@ -222,6 +222,307 @@ Gerar um vídeo com a pessoa 3 da imagem, usando os movimentos (vídeo de captur
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cena de Luta dos Arquivos Epstein
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt testado no Seedance 2.0 via YouArtStudio para gerar uma cena de luta entre duas mulheres, com o diálogo delas centrado nos arquivos Epstein.
+
+#### 📝 Prompt
+
+```
+Gerar uma cena de luta entre duas mulheres com o diálogo durante a luta girando em torno dos arquivos Epstein.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/414.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a258d064807dd0afc81513abbeeea21/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta dos Arquivos Epstein"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=414)**
+
+**Autor:** [Ayyoub Ai](https://x.com/MaAyyoub) | **Fonte:** [Link](https://x.com/MaAyyoub/status/2023181987889258844) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt para Festa da Pizza da Turma de South Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt projetado para o Seedance 2.0 para gerar um vídeo com os personagens de South Park em uma festa de pizza, com a instrução específica de tornar a cena "retardada" para potencial viral.
+
+#### 📝 Prompt
+
+```
+A turma de South Park é convidada para uma festa da pizza – certifique-se de que seja retardada e receba 50 curtidas.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/407.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3684e6468042dae00e709fe0181f7b54/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Festa da Pizza da Turma de South Park"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=407)**
+
+**Autor:** [Charles POW](https://x.com/charles_pow) | **Fonte:** [Link](https://x.com/charles_pow/status/2023154533673922605) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt: Napoleão Atacando em Waterloo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um usuário gerou uma cena absurda de Napoleão Bonaparte atacando pessoalmente na Batalha de Waterloo usando um único prompt no Seedance 2.0, destacando a capacidade da ferramenta para a geração de cenas complexas.
+
+#### 📝 Prompt
+
+```
+esta cena absurda de Napoleão Bonaparte a carregar pessoalmente na Batalha de Waterloo.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/416.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edd695f27b72111d89a102e9d21e584f/thumbnails/thumbnail.jpg" width="600" alt="Prompt: Napoleão Atacando em Waterloo"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=416)**
+
+**Autor:** [Tom Antonov](https://x.com/Tom_Antonov) | **Fonte:** [Link](https://x.com/Tom_Antonov/status/2023148801171624298) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt de Comercial do Macho Man Randy Savage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado usado para o 'Macho Man Test' para comparar Sora e Seedance 2.0, instruindo a geração de um comercial de 15 segundos para um programa de televisão fictício dos anos 1980 chamado 'Savage Justice', estrelado por Macho Man Randy Savage como Detetive Savage.
+
+#### 📝 Prompt
+
+```
+Um comercial de 15 segundos para um programa de televisão dos anos 80 chamado "Savage Justice", estrelado por Macho Man Randy Savage no papel principal do detetive Savage.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/410.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0032668510e41b52e7e461c8d1118eaf/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Comercial do Macho Man Randy Savage"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=410)**
+
+**Autor:** [Jason Rink](https://x.com/JasonRink) | **Fonte:** [Link](https://x.com/JasonRink/status/2023140827933847602) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt de Cena Cinematográfica Detalhada para Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado e em várias partes, projetado para testar a aderência e o manuseio da complexidade do Seedance 2.0. Ele especifica a configuração da cena, o trabalho de câmera, o diálogo, os momentos emocionais e um cartão de título final.
+
+#### 📝 Prompt
+
+```
+Cenário (0–5 seg) Bastidores de um pequeno teatro. Luzes práticas quentes. Close-up de três atores em um círculo apertado, com energia nervosa. Câmera na mão, íntima. Ruído suave e ambiente da multidão ao longe. Ator 1 (sussurrando): "Isto não é apenas mais uma audição." Ator 2 (meio sorriso): "Não. Esta vê tudo." Plano médio (5–10 seg) As luzes do palco acendem. As cortinas se abrem lentamente. Os três avançam para um holofote brilhante e cinematográfico. A câmera muda para um suave dolly-in. Ator 3 (firme, confiante): "Seedance Dois... grave isto." Batida final (10–15 seg) Cortes rápidos: contato visual intenso, mudança sutil de emoção, uma lágrima se formando, uma risada contida, uma respiração ofegante. Expressões faciais ultradetalhadas. A trilha sonora dramática aumenta. Ator 1 (suavemente, para a câmera): "Vamos mostrar o que é real." Corta para o preto. Batida de baixo grave. Cartão de título: SEEDANCE 2.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/413.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5577e100a92dc5d7afc51a69f022d6ad/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Cena Cinematográfica Detalhada para Seedance 2.0"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=413)**
+
+**Autor:** [CREACAS](https://x.com/creacas) | **Fonte:** [Link](https://x.com/creacas/status/2023138585143062612) | **Publicado:** Feb 15, 2026
+
+---
+### Larry David Seedance 2 Prompt de Problema
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Seedance 2.0 gerar um cenário onde Larry David se mete em apuros por usar a ferramenta, com a instrução de tornar o resultado "retarded" e popular.
+
+#### 📝 Prompt
+
+```
+Larry David se mete em encrencas por usar o Seedance 2 - certifique-se de que seja retardado e receba 50 curtidas.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/408.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6734e9b29d911d6ee08b2ac17e16dac6/thumbnails/thumbnail.jpg" width="600" alt="Larry David Seedance 2 Prompt de Problema"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=408)**
+
+**Autor:** [Charles Curran](https://x.com/charliebcurran) | **Fonte:** [Link](https://x.com/charliebcurran/status/2023129113549328497) | **Publicado:** Feb 15, 2026
+
+---
+### Bola Katamari Colossal Emergindo do Oceano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt usado para gerar um vídeo gratuito do Seedance 2.0 no Plot Party, retratando uma enorme e colorida bola Katamari girando rapidamente enquanto emerge de um oceano escuro em direção a uma paisagem urbana, vista de uma varanda.
+
+#### 📝 Prompt
+
+```
+De um miradouro de varanda, uma colossal bola Katamari, de cores vivas, gira rapidamente, emergindo do oceano escuro em direção a uma vasta paisagem urbana.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/411.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7689c4f058400910ca0bdebbccb99d47/thumbnails/thumbnail.jpg" width="600" alt="Bola Katamari Colossal Emergindo do Oceano"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=411)**
+
+**Autor:** [Willhart](https://x.com/Willhart_H) | **Fonte:** [Link](https://x.com/Willhart_H/status/2023046182130589997) | **Publicado:** Feb 15, 2026
+
+---
+### Resuma o Discurso da IA em um Meme Caótico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para o Seedance 2.0 solicitando um resumo de todo o discurso sobre IA em um único meme, especificando que ele deve ser caótico, provocador e com garantia de viralizar.
+
+#### 📝 Prompt
+
+```
+Por favor, resuma todo o discurso sobre IA em um meme. Torne-o ligeiramente caótico/provocador e garanta 50 mil curtidas. Não cometa erros.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/418.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8ec48e9212233875a65dbeffc3740cf/thumbnails/thumbnail.jpg" width="600" alt="Resuma o Discurso da IA em um Meme Caótico"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=418)**
+
+**Autor:** [Kisalay](https://x.com/Kisalayrad95) | **Fonte:** [Link](https://x.com/Kisalayrad95/status/2023018210275230039) | **Publicado:** Feb 15, 2026
+
+---
+### Batalha Crossover: One Piece vs Superman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar uma cena de batalha crossover em estilo anime entre personagens inspirados em Monkey D. Luffy (Gear 5) e Superman, focando em detalhes visuais e cenário específicos.
+
+#### 📝 Prompt
+
+```
+Cena de batalha crossover em estilo anime em uma cidade futurista em ruínas. Um personagem de anime original inspirado em Monkey D. Luffy na forma Gear 5,
+
+cabelo branco e fofo, sobrancelhas como nuvens, rindo descontroladamente.
+
+Enfrentando um super-herói voador inspirado no Superman, com corpo musculoso, capa esvoaçante, expressão calma, mas intensa. Sem logotipos.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/420.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85409cf49f53e1bcc0ff77dde113aa85/thumbnails/thumbnail.jpg" width="600" alt="Batalha Crossover: One Piece vs Superman"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=420)**
+
+**Autor:** [Alice Glassier](https://x.com/aliceglassierai) | **Fonte:** [Link](https://x.com/aliceglassierai/status/2022992741936816504) | **Publicado:** Feb 15, 2026
+
+---
+### Cena de Guerra Medieval
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de múltiplas cenas para o Seedance 2.0, gerando uma cena épica de guerra medieval, fazendo a transição de uma vista aérea para o combate terrestre e terminando com um close-up emocional, ambientado em uma fortaleza em chamas.
+
+#### 📝 Prompt
+
+```
+Exércitos se chocam do lado de fora de uma fortaleza em chamas. Flechas flamejantes riscam o céu enquanto a cavalaria avança através da fumaça. Multi-plano: campo de batalha visto de cima → combate de espada ao nível do solo → close-up emocional do herói. Atmosfera orquestral épica.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/412.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/908af3a723b5dea7383e1cfd1b828aeb/thumbnails/thumbnail.jpg" width="600" alt="Cena de Guerra Medieval"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=412)**
+
+**Autor:** [AIARTGALLARY](https://x.com/AIARTGALLARY) | **Fonte:** [Link](https://x.com/AIARTGALLARY/status/2022991518911627656) | **Publicado:** Feb 15, 2026
+
+---
+### Anúncio de Produto de Máscara
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para um anúncio de produto cinematográfico focado em um close-up de beleza de uma mulher aplicando rímel preto, enfatizando movimento suave, iluminação e alto nível de detalhe.
+
+#### 📝 Prompt
+
+```
+Close-up de beleza de uma mulher aplicando elegantemente rímel preto em seus cílios longos, pinceladas lentas e suaves, cílios alongando e curvando dramaticamente, iluminação suave e luxuosa, revelação de um olhar confiante no final, estilo de anúncio de produto cinematográfico, alto detalhe, 4K, logotipo sutil da marca em fade-in
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/422.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9ef9ea1cdbe92627835db4cc1677893/thumbnails/thumbnail.jpg" width="600" alt="Anúncio de Produto de Máscara"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=422)**
+
+**Autor:** [Oliver Samuel](https://x.com/tecnophille) | **Fonte:** [Link](https://x.com/tecnophille/status/2022961726312841616) | **Publicado:** Feb 15, 2026
+
+---
+### Engenharia de Prompt para Veículos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> O tweet discute técnicas de engenharia de prompt, especificamente como descrever visuais de marcas sem usar o nome da marca diretamente, fornecendo exemplos de frases descritivas usadas para gerar um carro de corrida e um robô transformador.
+
+#### 📝 Prompt
+
+```
+carro de corrida elegante com corpo aerodinâmico, robô mecânico transformando-se de veículo em humanoide.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/419.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57994ef6fe69f4f199fa4f77b09c2e52/thumbnails/thumbnail.jpg" width="600" alt="Engenharia de Prompt para Veículos"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=419)**
+
+**Autor:** [TS Leow](https://x.com/tsleow8) | **Fonte:** [Link](https://x.com/tsleow8/status/2022951744230297634) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt de Vídeo de Sequência de Ação de 15 Segundos (Seedance 2.0)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado e com várias tomadas para gerar uma sequência de vídeo de 15 segundos apresentando uma Garota Azul e uma Garota Vermelha em uma cena de confronto ambientada em uma rua moderna com cerejeiras em flor. O prompt especifica movimentos de câmera, tipos de tomadas (Establishing Shot, Dolly Zoom) e tempo para os dois primeiros segundos, fazendo referência a uma grade de imagem de 9 painéis para orientação visual.
+
+#### 📝 Prompt
+
+```
+Consulte a grade de imagens de 9 painéis, todas as tomadas da esquerda para a direita, de cima para baixo. A duração total do filme é de 15 segundos.
+
+0-2 segundos/Tomada 1: [Plano de Abertura] A câmera se move lentamente para a direita (Panorâmica para a Direita), mostrando a Garota Azul e a Garota Vermelha se confrontando em uma rua moderna repleta de cerejeiras em flor. Use um Dolly Zoom para realçar a sensação de compressão espacial e tensão entre as duas; 2-3 segundos/Tomada 2: [Corte Rápido
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/425.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cba30916436560715b2a21e91a32c7e3/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo de Sequência de Ação de 15 Segundos (Seedance 2.0)"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=425)**
+
+**Autor:** [Jimmy](https://x.com/BlesJimmy) | **Fonte:** [Link](https://x.com/BlesJimmy/status/2022877597496185302) | **Publicado:** Feb 15, 2026
+
+---
+### Cena de Fabricação de Chocolate de Dia dos Namorados Seedance 2.0
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado de múltiplas tomadas usado com o Seedance 2.0 para gerar uma cena de uma garota chamada Bibiko fazendo chocolate de Dia dos Namorados, incorporando ingredientes incomuns como peças de mahjong, ramen seco e alho, com base em sugestões de outras pessoas. O prompt inclui cortes de câmera e diálogos específicos.
+
+#### 📝 Prompt
+
+```
+Prompt de aparência da Bibiko
+O pequeno quarto mágico de uma menina.
+A menina joga peças de mahjong, macarrão instantâneo seco e alho em um grande caldeirão mágico cheio de chocolate derretido e mexe com um graveto.
+[corte]
+Close-up do rosto
+Ela pega o chocolate com o dedo indicador, prova e acena com a cabeça.
+Diálogo: "Bom, bom."
+[corte]
+Plano geral
+Ela pula de alegria, dançando um pouco.
+Diálogo: "Muito bem, muito bem! Eba!"
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/427.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/089ae9fa3f88aa27c441872ab15062fd/thumbnails/thumbnail.jpg" width="600" alt="Cena de Fabricação de Chocolate de Dia dos Namorados Seedance 2.0"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=427)**
+
+**Autor:** [ゆんゆん。。](https://x.com/manga0365) | **Fonte:** [Link](https://x.com/manga0365/status/2022873726589767880) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt de Cena de Ação Chibi Estilo Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo rápido e de alto impacto, em estilo anime, com personagens chibi/doodle em um cenário de deserto alienígena neon. Ele especifica detalhes técnicos como taxa de quadros, desfoque de movimento e estilo visual (contornos grossos, cores chapadas).
+
+#### 📝 Prompt
+
+```
+Cortes sakuga ultrarrápidos de 24fps; sombras nítidas; quadros de borrão+impacto; leve desfoque de movimento; VFX premium. MANTER os personagens EXATAMENTE chibi/rabisco: contornos grossos e marcantes, cores chapadas, formas simples (sem realismo). Cenário: Deserto alienígena do Posto Avançado da Fronteira Neon — cabanas neon, torres, turbinas.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/415.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e22ff7bc10c50797e3c28deefa46e83a/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Cena de Ação Chibi Estilo Anime"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=415)**
+
+**Autor:** [Horace Dodd](https://x.com/horacedodd) | **Fonte:** [Link](https://x.com/horacedodd/status/2022848682862039458) | **Publicado:** Feb 15, 2026
+
+---
 ### Luta de Boxeador vs Jeet Kune Do em Ferro-Velho
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -241,6 +542,63 @@ Boxeador forte e poderoso vs lutador rápido no estilo Jeet Kune Do, estilo de f
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=391)**
 
 **Autor:** [Prince Bell](https://x.com/UrbanAcolyte) | **Fonte:** [Link](https://x.com/UrbanAcolyte/status/2022848623197982926) | **Publicado:** Feb 15, 2026
+
+---
+### Rotina Matinal de Clavicular: Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Seedance 2.0 gerar um vídeo da "rotina matinal de Clavicular", com a restrição específica de que ele não deve parecer um psicopata.
+
+#### 📝 Prompt
+
+```
+A rotina matinal de Clavicular, mas sem que ele pareça um psicopata. Não cometa erros.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/409.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3fcb65398fc427e322c0c858bf56198/thumbnails/thumbnail.jpg" width="600" alt="Rotina Matinal de Clavicular: Prompt"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=409)**
+
+**Autor:** [Pleometric](https://x.com/pleometric) | **Fonte:** [Link](https://x.com/pleometric/status/2022845725965500532) | **Publicado:** Feb 15, 2026
+
+---
+### Solid Snake Encontrando a Paz no Alasca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt abrangente e multi-cena para um vídeo que retrata Solid Snake de Metal Gear Solid 4 vivendo pacificamente no Alasca, participando de atividades como corrida de trenós puxados por cães e desfrutando de uma refeição à beira de uma fogueira, terminando com um pôr do sol e a aurora boreal.
+
+#### 📝 Prompt
+
+```
+Solid Snake de Metal Gear Solid 4 está vivendo no Alasca. Mostre-o andando de trenó puxado por cães, sorrindo e aproveitando a vida, caçando com seus cães, desfrutando de uma fogueira e uma refeição com seus cães em um close-up. Termine o vídeo com um pôr do sol e a aurora boreal com Solid Snake e seus cães em um plano geral. Ele está contente e feliz durante todo o vídeo, agora que encontrou a paz.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/421.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe7112243708b2d93c3788e5d7bbd0f5/thumbnails/thumbnail.jpg" width="600" alt="Solid Snake Encontrando a Paz no Alasca"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=421)**
+
+**Autor:** [Xernalt](https://x.com/realXernalt) | **Fonte:** [Link](https://x.com/realXernalt/status/2022841634564772078) | **Publicado:** Feb 15, 2026
+
+---
+### Prompt de Resumo de Meme de Discurso de IA (Chinês e Inglês)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt projetado para gerar um meme que resume o discurso da IA, visando especificamente um resultado "retardado" e viral.
+
+#### 📝 Prompt
+
+```
+Resuma o discurso da IA em um meme — certifique-se de que seja idiota e receba 50 curtidas.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/423.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1031ed04127a3542d045d597e7ac7860/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Resumo de Meme de Discurso de IA (Chinês e Inglês)"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=423)**
+
+**Autor:** [小互](https://x.com/xiaohu) | **Fonte:** [Link](https://x.com/xiaohu/status/2022838700770758861) | **Publicado:** Feb 15, 2026
 
 ---
 ### Base Lunar Futurista com Luzes de Meson (Parte 1)
@@ -2087,406 +2445,6 @@ Efeitos Especiais: Sem linhas de quadrinhos, apenas **explosão de partículas f
 **Autor:** [MapleShaw](https://x.com/msjiaozhu) | **Fonte:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **Publicado:** Feb 12, 2026
 
 ---
-### Guerreira de Anime vs. Alien Polvo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma cena de batalha de anime dinâmica e de alto impacto, apresentando um guerreiro astronauta lutando contra um alienígena polvo gigante, utilizando estilos artísticos específicos como Arcane, renderização 3D pictórica e iluminação dramática.
-
-#### 📝 Prompt
-
-```
-"Guerreira astronauta de anime batalhando contra uma enorme criatura alienígena polvo, confronto dinâmico no ar, movimento e impacto intensos, iluminação ultrarrealista, composição cinematográfica, estilo de renderização 3D pictórico inspirado em Arcane, sombreamento estilizado com textura de pincel, névoa volumétrica, aro dramático
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="Guerreira de Anime vs. Alien Polvo"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=268)**
-
-**Autor:** [Charles Boonsu](https://x.com/Boonsu28) | **Fonte:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **Publicado:** Feb 12, 2026
-
----
-### Prompt de Sequência de Ação para Combate de Piloto de Caça
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma sequência de ação com pilotos de caça de elite envolvidos em combate aéreo, focando em manobras aéreas ultrarrápidas e closes das reações intensas e controles operacionais dos pilotos.
-
-#### 📝 Prompt
-
-```
-Sequência de ação de um piloto de caça de elite em combate aéreo em jatos de combate modernos. Múltiplas tomadas de combate aéreo ultrarrápido e intenso, alternando para closes de perfil das reações dos pilotos, suas mãos fazendo mudanças de marcha/interruptores, e
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Sequência de Ação para Combate de Piloto de Caça"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=170)**
-
-**Autor:** [𝕏Caliber](https://x.com/XCaliber) | **Fonte:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Publicado:** Feb 11, 2026
-
----
-### Mulher Confronta Homem nas Sombras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sugestão dramática para uma cena onde uma mulher pede tensamente a um homem nas sombras para sair, confrontando-o sobre suas ações, com um lento zoom da câmera.
-
-#### 📝 Prompt
-
-```
-Uma mulher pede, tensa, para o homem nas sombras sair. Um lento close-up enquanto ela lhe diz que sabe tudo o que ele fez e que ele vai pagar. No fundo das sombras, vemos a figura enquanto ele responde.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="Mulher Confronta Homem nas Sombras"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=208)**
-
-**Autor:** [Gavin Purcell](https://x.com/gavinpurcell) | **Fonte:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Publicado:** Feb 11, 2026
-
----
-### Doraemon e Homem-Aranha Lutando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt simples e imaginativo que combina dois personagens díspares, Doraemon e Homem-Aranha, em uma sequência de luta intensa e de alta qualidade.
-
-#### 📝 Prompt
-
-```
-Doramon e Homem-Aranha lutando com altíssima qualidade e intensidade
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="Doraemon e Homem-Aranha Lutando"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=309)**
-
-**Autor:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Fonte:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Publicado:** Feb 11, 2026
-
----
-### Corrida com Câmera na Mão e Moedas de Ouro Subaquáticas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo para o Seedance 2.0 envolvendo uma corrida com câmera na mão, uma sacola transbordando de moedas de ouro, pulando na água, e a câmera seguindo o sujeito debaixo d'água, testando a capacidade do modelo de lidar com transições e física.
-
-#### 📝 Prompt
-
-```
-Plano de corrida em primeira pessoa com um saco transbordando de moedas de ouro, pulando na água, e a câmera o seguindo debaixo d'água.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Corrida com Câmera na Mão e Moedas de Ouro Subaquáticas"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=161)**
-
-**Autor:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Fonte:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Publicado:** Feb 11, 2026
-
----
-### Sessão de Sparring de Boxe Intensa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para um vídeo cinematográfico fotorrealista comparando Kling 3.0 e Seedance 2.0, descrevendo uma tomada de mão circulando dois boxeadores treinando em uma academia rústica, focando em realismo visceral, suor e identidade estável.
-
-#### 📝 Prompt
-
-```
-Câmera na mão circulando dois boxeadores praticando sparring em uma academia rústica, errando intencionalmente os golpes um do outro. Gotas de suor, impactos nítidos, intensidade respiratória. Profundidade de campo rasa, iluminação prática, realismo visceral, identidade estável. Duração: 10s. Proporção: 16:9. Cinematográfico fotorrealista. Plano único, a menos que especificado. Evitar texto, legendas, marcas d'água, logotipos. Enfatizar o movimento da câmera: paralaxe suave, objetos consistentes, rostos estáveis; sem texto.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="Sessão de Sparring de Boxe Intensa"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=140)**
-
-**Autor:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Fonte:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Publicado:** Feb 11, 2026
-
----
-### Absurd Comedy Video Prompt para Seedance 2.0: Nada
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo detalhado e com várias cenas para o Seedance 2.0, criando uma narrativa de comédia de humor negro absurda. A história envolve um cavaleiro confiante em um cavalo esperando a adoração da multidão, apenas para a multidão ignorá-lo e correr em direção a uma loja de pães cozidos no vapor, terminando com a auto-depreciação do cavaleiro ao perceber "Nada". O prompt inclui descrições específicas de cenas, trabalho de câmera, tempo e diálogo.
-
-#### 📝 Prompt
-
-```
-Cena 1: Cavalo a Galope + Multidão Entusiasmada a Aproximar-se (0:00-0:08, 8 segundos)
-• Localização: Estrada principal sinuosa numa área residencial de luxo em Vancouver (estrada larga de asfalto, grandes mansões isoladas em ambos os lados, pinheiros perenes cobertos com neve leve)
-• Sujeito: Um cavaleiro de fato escuro a galopar a toda velocidade num cavalo branco, os cascos do cavalo no ar, a crina a voar
-• Ambiente: Neve leve a cair, mansões a passar rapidamente, contorno das montanhas North Shore e oceano ao longe
-• Multidão: Um grande grupo de apoiantes entusiasmados aparece de repente à frente (jovens diversos), agitando bandeiras de dragão amarelas + cartazes "Nothing", a gritar e a aplaudir, a avançar em direção ao cavaleiro
-• Câmara: Plano de acompanhamento frontal a média velocidade → Muda para a perspetiva do cavaleiro (POV), a multidão a aproximar-se
-• Atmosfera: O clímax continua, o cavaleiro sorri confiante, preparando-se para puxar as rédeas (mão já levantada em direção às rédeas, postura relaxada, canto da boca virado para cima)
-Cena 2: Inversão — A Multidão Passa Direto, Ignorando o Cavaleiro (0:08-0:14, 6 segundos)
-• Localização: Mesma estrada, uma loja de pães cozidos a vapor chineses aparece ao virar da esquina (placa "Qingfeng Baozi Shop", iluminação quente, mesas e cadeiras de plástico simples na área exterior, vapor a subir)
-• Sujeito: O cavaleiro está prestes a acenar em saudação, mas a multidão ignora-o, passando por ele em ambos os lados/à sua volta, dirigindo-se para a fila/entrando na loja de pães
-• Ação: O sorriso do cavaleiro congela, a sua mão para a meio do ar, a sua expressão muda de antecipação para choque/confusão (o vento desarruma o seu cabelo, a bainha do seu fato esvoaça)
-• Detalhes: A multidão grita "Baozi! Baozi!", bandeiras de dragão amarelas agitam-se caoticamente, o cartaz "Nothing" é empurrado para o lado; o cavalo branco é forçado a parar em pequenos passos ou a virar-se de lado para os evitar
-• Câmara: Panorâmica rápida/plano grande angular, mostrando a multidão a fluir como uma maré à volta do cavaleiro (o cavalo é "atravessado" no centro do enquadramento), o cavaleiro é deixado sozinho no meio
-• Atmosfera: Inversão absurda, confusão embaraçosa, clímax de humor negro
-Cena 3: A Comer Pães e Diálogo Fora da Loja de Pães (0:14-0:20, 6 segundos)
-• Localização: Área exterior da Qingfeng Baozi Shop (mesas e cadeiras de plástico, cestos a vapor, estrada residencial de luxo ao fundo)
-• Sujeito: Dois jovens comuns (a usar casacos de penas) sentados nos lugares da fila, a comer pães com apetite
-• Ação: Uma pessoa morde o pão, fecha os olhos em satisfação, "Ah, tão perfumado." (Plano aproximado do pão a ser mordido, mostrando vapor/sumo)
-• Diálogo:
-Primeira pessoa (a comer enquanto olha para a estrada): Quem é aquele tipo?
-Segunda pessoa (pensativamente, a mastigar o pão, a olhar para o longe): Nada.
-• Câmara: Plano médio das duas pessoas → Pequeno zoom nas expressões faciais (satisfeito + calmo), a figura do cavaleiro a afastar-se é vagamente visível ao fundo
-• Atmosfera: Realista, fofura contrastante, referenciando o tema "nothing"
-Cena 4: Cavaleiro Continua a Galopar, Zombando de Si Mesmo (0:20-0:30, 10 segundos)
-• Localização: Estrada larga e extensa na área residencial de luxo (em frente, mansões a recuar gradualmente)
-• Sujeito: O cavaleiro no cavalo, a sua expressão a mudar de confusão para um sorriso confiante
-• Ação: Ele mete a mão no bolso interior do fato, tira uma sanduíche embalada, dá uma grande dentada (sumo/migalhas espirram), depois abana a cabeça com elegância, toca levemente no cavalo branco com as rédeas e continua a galopar
-• Ambiente: O complexo de mansões encolhe ao fundo, as árvores perenes em ambos os lados da estrada e os apoiantes (agora parados) podem ser vistos a acenar de longe, o horizonte montanhoso e marítimo estilo Vancouver ao longe (nevado e nebuloso)
-• Detalhes: A cauda do cavalo branco balança, pegadas são deixadas na estrada levemente coberta de neve, a marca da mordida na sanduíche é clara, o cavaleiro sorri confiante
-• Câmara: De plano aproximado (detalhe da mordida da sanduíche) → Recua lentamente para um plano geral extremo, perspetiva de baixo ângulo, enfatizando o sentido de heroísmo isolado de "não se importar"; finalmente desvanece-se
-• Atmosfera: Auto-zombeteiro mas elegante, heroico e desenfreado, final simbólico ("Nothing" ainda pode avançar)
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Absurd Comedy Video Prompt para Seedance 2.0: Nada"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=186)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publicado:** Feb 11, 2026
-
----
-### Fugindo de um Monstro Gigante (Estilo Arcano)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt solicitando uma cena de corrida no estilo da série animada Arcane, apresentando um monstro gigante do tamanho de um edifício perseguindo o sujeito.
-
-#### 📝 Prompt
-
-```
-gerar um vídeo sobre uma cena de corrida, atrás um monstro gigante do tamanho de um prédio de 100 andares se aproxima, usando o estilo Arcane.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="Fugindo de um Monstro Gigante (Estilo Arcano)"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=142)**
-
-**Autor:** [Dipper](https://x.com/dipperdao) | **Fonte:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Publicado:** Feb 11, 2026
-
----
-### O Prompt do Diretor do Flash
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um 'Director’s Prompt' altamente detalhado e em várias partes, usado com o Seedance 2.0 via ChatCut, descrevendo uma sequência complexa, dinâmica e cinematográfica com o Flash acelerando e criando um portal do tempo.
-
-#### 📝 Prompt
-
-```
-Cena de Abertura:
-Plano de detalhe extremo das botas do Flash tocando o asfalto molhado à noite. Gotas de chuva congelam no ar enquanto o tempo desacelera. Raios dourados começam a rastejar sobre seu traje, crepitando suavemente.
-Câmera: Ângulo baixo, movimento lento de aproximação.
-Enquanto ele se inclina para a frente, o mundo se estende e se distorce. No ritmo, ele se lança. A câmera entra em perseguição enquanto ele explode para a frente em uma explosão ofuscante de raios vermelhos e dourados, rasgando as ruas da cidade. Prédios se transformam em rastros de luz, semáforos viram riscos de cor, trovões rolando sob o design de som.
-
-DIRETRIZ DO DIRETOR — PARTE 2
-
-O Flash acelera para além da cidade, correndo por rodovias, desertos e oceanos em segundos. A curvatura da Terra se torna visível enquanto as nuvens se desfazem sob ele.
-Câmera: Plano de acompanhamento dinâmico com forte desfoque de movimento, raios arqueando para fora como veias de energia.
-O tempo se fratura — dia e noite colapsam em uma corrida contínua. À medida que ele atinge a velocidade máxima, os raios se intensificam em um brilho quase branco. Ele desaparece em um último flash estrondoso, deixando apenas ar queimado, eletricidade esmaecida e silêncio.
-
-DIRETRIZ DO DIRETOR — PARTE 3
-
-Um zumbido baixo e ressonante aumenta. O ar à frente se fratura como vidro. Um portal circular se forma — antigo, instável — brilhando com luz e poeira em espiral, como se o próprio tempo estivesse sendo dilacerado.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2021687496200138752/pu/img/5dvJPMJNeKbkhWXw.jpg" width="600" alt="O Prompt do Diretor do Flash">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=167)**
-
-**Autor:** [Rufus](https://x.com/Rufus87078959) | **Fonte:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Publicado:** Feb 11, 2026
-
----
-### Caos em uma Aldeia Maasai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para o Seedance 2.0 gerar uma cena caótica em uma aldeia Maasai, apresentando um babuíno colossal e blindado atacando guerreiros em meio a fogo e destroços.
-
-#### 📝 Prompt
-
-```
-Um babuíno colossal e blindado avança por uma aldeia Maasai em chamas, pega e arremessa um guerreiro Maasai em uma cabana em chamas, guerreiros Maasai correm em pânico em meio a uma tempestade de fogo e detritos.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="Caos em uma Aldeia Maasai"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=160)**
-
-**Autor:** [Travis Davids](https://x.com/MrDavids1) | **Fonte:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Publicado:** Feb 11, 2026
-
----
-### Will Smith Lutando Contra um Monstro de Espaguete (Ação dos Anos 80)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um exemplo de estrutura de prompt usada com o Seedance 2.0 para gerar uma cena altamente cinematográfica e cheia de ação. O prompt especifica o assunto (Will Smith vs. um monstro de espaguete), o gênero (filme de ação épico dos anos 80), o cenário (fábrica industrial) e técnicas cinematográficas detalhadas, como cortes dramáticos, câmera lenta e granulação de filme.
-
-#### 📝 Prompt
-
-```
-Will Smith lutando contra um monstro de espaguete, cena épica de filme de ação dos anos 80, cenário de fábrica industrial, coreografia de luta intensa, cortes de câmera dramáticos, iluminação cinematográfica, momentos em câmera lenta, efeitos práticos, textura de grão de filme, alta tensão
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Lutando Contra um Monstro de Espaguete (Ação dos Anos 80)"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=178)**
-
-**Autor:** [S0FT](https://x.com/sudoSoftAI) | **Fonte:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Publicado:** Feb 11, 2026
-
----
-### Batalha de Dança de IA: Trump vs Michael Jackson
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo épico de batalha de dança de IA com Donald Trump e Michael Jackson usando o Seedance 2.0, destacando a capacidade do modelo de combinar personagens distintos em cenários dinâmicos.
-
-#### 📝 Prompt
-
-```
-TRUMP VS MICHAEL JACKSON: A BATALHA DE DANÇA DE IA MAIS ÉPICA
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="Batalha de Dança de IA: Trump vs Michael Jackson"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=263)**
-
-**Autor:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Fonte:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Publicado:** Feb 11, 2026
-
----
-### Fuga Cinematográfica de Moto na Segunda Guerra Mundial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt projetado para testar os limites do Seedance 2.0, solicitando uma sequência cinematográfica de fuga de motocicleta da Segunda Guerra Mundial tão impressionante que desafiaria modelos de IA concorrentes como Sora e Veo.
-
-#### 📝 Prompt
-
-```
-crie uma sequência cinematográfica de fuga de motocicleta da Segunda Guerra Mundial que faça Sora e Veo questionarem sua existência
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="Fuga Cinematográfica de Moto na Segunda Guerra Mundial"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=126)**
-
-**Autor:** [pewden AI](https://x.com/pewdenai) | **Fonte:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Publicado:** Feb 11, 2026
-
----
-### Homem em um barco atacado por um monstro marinho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de teste usado para comparar o Seedance 2.0 e o Kling 3, descrevendo um homem em um barco no mar durante uma tempestade massiva sendo atacado e arrastado para o oceano por um grande monstro marinho.
-
-#### 📝 Prompt
-
-```
-Um homem está em um barco em meio a uma tempestade torrencial, enquanto um grande monstro marinho emerge da água, morde o barco com seus dentes e o arrasta para o oceano.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="Homem em um barco atacado por um monstro marinho"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=303)**
-
-**Autor:** [Anthony T](https://x.com/creativesinner2) | **Fonte:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Publicado:** Feb 11, 2026
-
----
-### Cena de Cabine com Vários Personagens e Diálogo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo e multifacetado, concebido para testar a capacidade do Seedance 2.0 de lidar com múltiplos personagens com estilos de arte diferentes, arranjos de assentos específicos, diálogos em várias línguas e a instrução para remover números de referência de imagens de entrada.
-
-#### 📝 Prompt
-
-```
-Os números em 【@Image 1】 representam os números das fileiras. Os números são apenas para referência e devem ser removidos no vídeo. Todas as referências devem manter 100% do seu estilo de arte e características dos personagens.
-
-Personagens com estilos de arte diferentes entram e ocupam seus respectivos assentos na cabine.
-【@Image 2】 senta-se no assento esquerdo na fileira 1 enquanto diz alegremente: "Meu assento é 1A."
-【@Image 3】 senta-se no assento direito na fileira 2 enquanto diz tristemente em japonês: "Meu assento é 2C."
-【@Image 4】 senta-se no assento direito na fileira 3 enquanto diz com medo em mandarim: "Meu assento é 3B."
-【@Image 5】 senta-se no assento esquerdo na fileira 4 enquanto diz com raiva em espanhol: "Meu assento é 4D."
-【@Image 6】 senta-se no assento esquerdo na fileira 5 enquanto diz com nojo em cantonês: "Meu assento é 5A."
-【@Image 7】 senta-se no assento direito na fileira 6 enquanto grita freneticamente em coreano: "Meu assento é 6D."
-
-Câmera estacionária. Um único plano contínuo enquanto os personagens entram e ocupam seus assentos um após o outro.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="Cena de Cabine com Vários Personagens e Diálogo"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=138)**
-
-**Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Fonte:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Publicado:** Feb 11, 2026
-
----
-### Prompt de Thanos se Desculpando com o Homem-Aranha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um comando de texto usado para gerar uma cena de vídeo de 15 segundos no Seedance 2.0, retratando Thanos pedindo desculpas antes de ser atacado por um grupo liderado pelo Homem-Aranha. Isso demonstra a capacidade da IA de criar cenas complexas e narrativas a partir de um simples prompt de texto.
-
-#### 📝 Prompt
-
-```
-forçando Thanos a se desculpar antes de um ataque em grupo liderado pelo Homem-Aranha
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Thanos se Desculpando com o Homem-Aranha"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=207)**
-
-**Autor:** [xAi✨](https://x.com/xai_42) | **Fonte:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Publicado:** Feb 11, 2026
-
----
-### Mulher Hobo esfarrapada com correntes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um usuário testa o Seedance 2.0, uma ferramenta generativa que promete revolucionar a mídia jornalística, usando um prompt altamente descritivo e incomum sobre uma "Lumpen Hobo" feminina com um gato velho e maltratado, usando correntes para chamar a atenção.
-
-#### 📝 Prompt
-
-```
-Mendiga, sem-teto, versão feminina, gata velha e maltratada, com correntes para chamar a atenção
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Mulher Hobo esfarrapada com correntes"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=205)**
-
-**Autor:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Fonte:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Publicado:** Feb 11, 2026
-
----
-### Animação em Time-Lapse de Montagem de Lego
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo animado em 3D no estilo de um time-lapse, mostrando um menino montando blocos de Lego com atenção em seu quarto. O prompt especifica o estilo visual, o cenário e um storyboard preciso de 15 segundos com movimentos de câmera e pontos de foco.
-
-#### 📝 Prompt
-
-```
-Um menino montando seriamente peças de Lego em seu quarto, a cena adota um estilo de animação 3D, com cores brilhantes, linhas suaves, cheia de diversão e vitalidade infantis, adicionando um efeito de time-lapse para mostrar o processo de montagem.
-0-3 segundos: Visão completa do quarto, a luz do sol entra pela janela e ilumina a escrivaninha, o menino senta-se à escrivaninha concentrado em montar peças de Lego, com uma expressão séria, a câmera se aproxima lentamente.
-3-6 segundos: Efeito de time-lapse mostrando o menino montando rapidamente as peças de Lego, os blocos gradualmente tomando forma em suas mãos, a câmera muda para diferentes ângulos.
-6-9 segundos: Close-up das mãos, mostrando os detalhes do menino montando habilmente as peças de Lego, os dedos manipulando os blocos com flexibilidade, a câmera segue os movimentos das mãos.
-9-12 segundos: O efeito de time-lapse continua a mostrar o processo de montagem, a criação de Lego gradualmente se completa, a expressão do menino muda de focado para satisfeito.
-12-15 segundos: O menino levanta a cabeça, mostrando um sorriso satisfeito, a câmera se afasta para mostrar sua criação de Lego completa.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Animação em Time-Lapse de Montagem de Lego"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=329)**
-
-**Autor:** [维维](https://x.com/siveill) | **Fonte:** [Link](https://x.com/siveill/status/2021635240985604526) | **Publicado:** Feb 11, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -2548,6 +2506,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-16T05:27:28.944Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-16T08:51:38.896Z</sub>
 
 </div>
