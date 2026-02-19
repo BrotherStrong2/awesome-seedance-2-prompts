@@ -68,8 +68,8 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **180** |
-| ⭐ 精选提示词 | **6** |
+| 📝 提示词总数 | **178** |
+| ⭐ 精选提示词 | **4** |
 | 🔄 最后更新 | **2026-02-19** |
 
 ---
@@ -164,66 +164,329 @@
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 11, 2026
 
 ---
-### 《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个为 Seedance 2.0 设计的详细、高能量视频提示，用于生成一个 15 秒的《鬼灭之刃》风格战斗（水之呼吸 vs. 雷之呼吸）的真人改编片段。该提示详细说明了风格（好莱坞真人漫画改编、黑暗武士、4K、极致快速剪辑、粒子光效）、场景（夜晚迷雾森林），以及三个不同镜头，详细描绘了角色的动作、能力提升序列和最终的冲突。
-
-#### 📝 提示词
-
-```
-真人漫改 · 呼吸法对决（15 秒 · 超燃特效版）
-【核心看点】：水之呼吸（蓝色水龙）VS 雷之呼吸（金色闪电），真人极速对决。
-【风格】：好莱坞真人漫改电影质感，暗黑武士风，4K 超清，极致快剪，粒子光效炸裂，无血腥。
-【时长】：15 秒
-【场景】：月光下的迷雾森林，泥泞地面，落叶。
-[00:00-00:05] 镜头 1：水之旋律序章 · 起手式（蓄力感）
-画面：一位身穿绿黑色方格羽织（外套）的年轻武士，在月光下沉下重心，双手握刀。
-动作：他深吸一口气，周围空气瞬间凝滞。随着他拔刀出鞘，一条由高压水流凝结而成的巨大蓝色水龙凭空出现，围绕着他的身体和刀刃高速旋转，发出流水咆哮声。
-特效细节：水流具有真实的飞溅感，照亮了黑暗的森林。
-[00:05-00:10] 镜头 2：雷之闪光 · 突进（极速感）
-画面：他对面的金发剑士，身穿黄色三角纹羽织，身体压得极低，摆出拔刀术的架势。
-动作：地面骤然炸裂。他整个人瞬间化作一道耀眼金色闪电残影，以肉眼不可见的速度，呈“Z”字形在树林间高速折射突进。
-特效细节：他经过的地方留下金色电弧和焦黑的落叶。
-[00:10-00:15] 镜头 3：水雷相撞 · 终之音（终极招式碰撞）
-画面：极速的正面碰撞。年轻武士挥舞着巨大的蓝色水龙迎击，化作闪电的金发剑士猛烈撞击而来。
-动作：两把刀在画面中央猛烈相撞。
-特效奇观：蓝色水龙与金色闪电瞬间炸裂，形成一个向外扩散的巨大水雷能量风暴。周围的参天大树被能量波拦腰折断，泥土、水花与光线遮蔽了镜头。画面在极致耀眼的蓝、黄、白光中结束。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=189)**
-
-**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **发布时间:** Feb 11, 2026
-
----
-### 动漫少女舞台动感舞蹈与动作捕捉
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用参考视频 1（场景视频）来执行角色 2 的动作（动作捕捉视频），并生成一个包含图片 3 中角色的视频。视频中，一位身穿黑色连衣裙的动漫风格金发女孩在舞台上跳着优雅的舞蹈。
-
-#### 📝 提示词
-
-```
-参考视频 1（场景视频）进行人物 2 的动作（动作捕捉视频），用图片 3 的人物生成视频
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="动漫少女舞台动感舞蹈与动作捕捉"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=406)**
-
-**作者:** [Jackywine](https://x.com/Jackywine) | **来源:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **发布时间:** Feb 11, 2026
-
----
 ## 🎬 所有提示词
 
 > 📝 按发布日期排序（最新优先）
 
+### 手机支架电影广告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于为手机支架生成短片、电影风格、多镜头特写广告的提示，以动态图形片尾结束。此提示需要上传产品图片才能有效。
+
+#### 📝 提示词
+
+```
+为上传图片中的手机支架制作一个短片电影式多镜头特写广告，并带一个动态图形片尾。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/469.mp4"><img src="https://cms-assets.youmind.com/media/1771480915275_q9p923_HBdgynsaUAAI9aJ.jpg" width="600" alt="手机支架电影广告"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=469)**
+
+**作者:** [Oneplus Device](https://x.com/UnFresh3957) | **来源:** [Link](https://x.com/UnFresh3957/status/2024193013510258870) | **发布时间:** Feb 18, 2026
+
+---
+### 绝命毒师 AI 兄弟推销
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个幽默、概念性的提示，用于生成一段视频，内容是重新构想的“AI 兄弟”沃尔特·怀特试图向格斯·弗林推销他的想法，目标是制作 2026 年最有趣的视频。
+
+#### 📝 提示词
+
+```
+在另一个宇宙中，Walter White 是一个 AI 兄弟，他试图向 Gus 推销自己的想法，制作一部《绝命毒师》的衍生剧。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/470.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c3e7dca87db4f32aa854d068a75037a/thumbnails/thumbnail.jpg" width="600" alt="绝命毒师 AI 兄弟推销"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=470)**
+
+**作者:** [Random AI](https://x.com/Random_AI000) | **来源:** [Link](https://x.com/Random_AI000/status/2024185959638847721) | **发布时间:** Feb 18, 2026
+
+---
+### 视角：圣米歇尔山的主角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个第一人称视角 (POV) 提示，将观看者置于 8 世纪圣米歇尔山的主角位置，需要多个快速剪辑以达到动态效果。
+
+#### 📝 提示词
+
+```
+视角：你是 8 世纪圣米歇尔山的主人公，多个快速剪辑
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/471.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec016ed4725cba0d9d624b5484b01b01/thumbnails/thumbnail.jpg" width="600" alt="视角：圣米歇尔山的主角"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=471)**
+
+**作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **来源:** [Link](https://x.com/airina_xyz/status/2024181777657454827) | **发布时间:** Feb 18, 2026
+
+---
+### 水上中国舞，情深意浓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示，用于生成一段视频：一名身着传统中式服装的女孩在漆黑的水面上表演一段充满情感的舞蹈，其中指定了摄像机角度（推近/拉远、从下方/上方拍摄）以及视觉效果，例如金色的火花和樱花花瓣在她周围旋转。
+
+#### 📝 提示词
+
+```
+一位身着传统中式服装的女孩，在平静而幽暗的水面上，开始她充满情感与激情的舞蹈。镜头拉近，捕捉她饱含深情的面庞，随后又迅速拉远，展现她长袖挥舞的宏大姿态。镜头从不同角度拍摄——从下方拍摄，以突出她动作的力量与优雅；从上方拍摄，将她的舞蹈化为水面上引人入胜的图案。她的每一步、每一次旋转都充满激情。金色的火花和樱花花瓣在她周围飞舞，她脚下的水面随着她富有表现力的动作，泛起金色的涟漪。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/477.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7e2dcc59c05dca420a663f2627e393/thumbnails/thumbnail.jpg" width="600" alt="水上中国舞，情深意浓"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=477)**
+
+**作者:** [Viki](https://x.com/churvikv) | **来源:** [Link](https://x.com/churvikv/status/2024158161964274138) | **发布时间:** Feb 18, 2026
+
+---
+### Seedance 2.0 马年新年视频提示词
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个详细的提示，用于使用 Seedance 2.0 生成一个 AI 驱动的视频，描绘一匹马庆祝中国新年（马年）。该提示指定了动作序列（从慢到快，高潮）、摄像机运动、漫画风格、烟花和灯笼等背景元素，以及最后的庆祝文字。
+
+#### 📝 提示词
+
+```
+上传不同姿势的参考图片：【@Image 1】【@Image 2】【@Image 3】【@Image 4】【@Image 5】，保持马匹形象一致，保持马匹形象一致。可以调整马匹出现的顺序 ✅
+核心逻辑动作序列：慢 → 快 → 高潮，动作由小到大 → 定格
+Image 1：站立/微微抬头
+Image 2：抬头/转头
+Image 3：小跑/抬蹄
+Image 4：加速奔跑
+Image 5：腾空/跳跃
+Image 5：昂首定格（字幕出现）
+动作细节：四肢、鬃毛、尾巴自然动态，漫画风格可略微夸张，每个姿势之间平滑过渡，动作连贯。
+镜头：前半段慢，轻微旋转 + 推拉；后半段动作加快，强调动感。保持方向一致，避免随意奔跑。
+背景与氛围：漫画风格烟花远景，金色光斑/小星星空中漂浮，可加入简化红灯笼前景元素。
+音乐与节奏：欢快鼓点或轻快新年音乐，配合动作切换时机。
+高潮字幕：即刻成功 · 恭贺新禧
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/485.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f711199d0445d76394ba8557c2e9569d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 马年新年视频提示词"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=485)**
+
+**作者:** [Michelle](https://x.com/Michell81147285) | **来源:** [Link](https://x.com/Michell81147285/status/2024145186167939123) | **发布时间:** Feb 18, 2026
+
+---
+### 老鼠觅食被追逐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个叙事性提示，描述了一只老鼠进入一家餐厅，发现一个掉落的肉丸，拿走它，然后被追逐。此提示使用了参考图像（Nano Banana Pro 第一帧）和文本描述。
+
+#### 📝 提示词
+
+```
+老鼠进入一家餐厅寻找食物。一个肉丸从桌上掉了下来。老鼠捡起肉丸后被追赶。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/478.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2eea0b5fbbe0cc6494a0a49368c77ab0/thumbnails/thumbnail.jpg" width="600" alt="老鼠觅食被追逐"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=478)**
+
+**作者:** [Pania Thong](https://x.com/PaniaThong) | **来源:** [Link](https://x.com/PaniaThong/status/2024138464078282804) | **发布时间:** Feb 18, 2026
+
+---
+### 废弃仓库里的电影打斗场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示，用于描述一场高能量、真人电影般的打斗场景，背景设定在一个尘土飞扬的废弃仓库内，重点关注镜头运动和动作编排。
+
+#### 📝 提示词
+
+```
+移除图像，切入一个废弃的尘土飞扬的仓库内，一场高能真人电影般的打斗爆发。在 0.2 秒处，一个硬切镜头捕捉到一个巨大的生锈入口的广角画面，门猛地炸开，她跳过飞溅的金属——同时向后退。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/481.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0e48db2c5684736690af4c533adddc/thumbnails/thumbnail.jpg" width="600" alt="废弃仓库里的电影打斗场景"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=481)**
+
+**作者:** [Sultan](https://x.com/agunkperkasa) | **来源:** [Link](https://x.com/agunkperkasa/status/2024137871976980553) | **发布时间:** Feb 18, 2026
+
+---
+### 科幻机器人变形视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个请求科幻机器人变形视频的提示，并附带一条幽默的指令，要求它比漫威做得更好，并达到特定的点赞数。
+
+#### 📝 提示词
+
+```
+制作一个科幻机器人变形视频，确保它比漫威的更好，并获得 50 个赞。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/486.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c5a77eea13b1440879f7c60fb04081c/thumbnails/thumbnail.jpg" width="600" alt="科幻机器人变形视频"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=486)**
+
+**作者:** [Random AI](https://x.com/Random_AI000) | **来源:** [Link](https://x.com/Random_AI000/status/2024117489798664505) | **发布时间:** Feb 18, 2026
+
+---
+### 战场上发短信的士兵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个幽默的提示，描绘了一名士兵在战场上发短信，同时躲避所有来袭的箭、爆炸和子弹。
+
+#### 📝 提示词
+
+```
+战场上的士兵一边发短信，一边躲避着所有的箭、爆炸和子弹。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/472.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00fd253576b8b0e2a819fecad70d8fc8/thumbnails/thumbnail.jpg" width="600" alt="战场上发短信的士兵"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=472)**
+
+**作者:** [Business AI tools](https://x.com/businessAitools) | **来源:** [Link](https://x.com/businessAitools/status/2024101424821641685) | **发布时间:** Feb 18, 2026
+
+---
+### 探险家被木乃伊追逐的电影式跟踪镜头
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 一个为 Seedance 2.0 设计的详细提示，旨在生成一段高动作、电影感的视频序列。场景描述了一位探险家在拿走一件古老的圣甲虫遗物后，被一具巨大的木乃伊追逐，强调混乱的手持摄像机运动、尘土飞扬以及险象环生的逃脱。
+
+#### 📝 提示词
+
+```
+在一个电影般的、混乱的跟踪镜头中，手持摄像机晃动，一名探险家手持一件古老的甲虫文物。她正被一具巨大的木乃伊追赶。碎石和尘土飞扬。木乃伊正在拆毁古老城墙的一部分。探险家拼命奔跑，不时回头张望。可以听到她急促的呼吸声。木乃伊差点抓住她，但在撞上柱子摔倒时险些失手。探险家继续奔跑，进入了陵墓入口。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/489.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4162b0bb432b625122f8cf1686e79fb/thumbnails/thumbnail.jpg" width="600" alt="探险家被木乃伊追逐的电影式跟踪镜头"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=489)**
+
+**作者:** [Travel Invest](https://x.com/travel_invest) | **来源:** [Link](https://x.com/travel_invest/status/2024070730133176415) | **发布时间:** Feb 18, 2026
+
+---
+### 史诗级电影末日灾难场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的提示，用于生成一个史诗般的、超现实的、电影级的现代城市末日灾难场景，其中包含大规模破坏、爆炸、陨石撞击和海啸，所有这些都以戏剧性的灯光和慢动作镜头呈现。
+
+#### 📝 提示词
+
+```
+现代城市中电影般的末日灾难场景。巨大的桥梁坍塌入河，剧烈的爆炸摧毁摩天大楼，建筑物破碎，碎片四溅，人们在尘土和混乱中惊慌奔跑。一颗巨大的陨石从天而降，引发巨大的冲击波，海啸巨浪淹没城市街道，乌云密布，光线充满戏剧性，超现实主义，电影般的镜头运动，慢动作毁灭，高细节，4K，史诗般的规模，紧张的氛围，媲美好莱坞灾难片的电影级画质。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/467.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/877ab2f12d36ad80971dafe9c8e40bee/thumbnails/thumbnail.jpg" width="600" alt="史诗级电影末日灾难场景"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=467)**
+
+**作者:** [Bubbles](https://x.com/huang39184) | **来源:** [Link](https://x.com/huang39184/status/2024053412476994012) | **发布时间:** Feb 18, 2026
+
+---
+### 情景提示：追星族偶遇偶像
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 的详细场景提示：以第一人称视角描述一个场景，一位女粉丝在系鞋带时抬头，看到一位名人，表现出震惊和崇拜，亲吻了摄像头，然后从袜子里拿出手机，索要联系方式，但遭到拒绝，名人随即走开。
+
+#### 📝 提示词
+
+```
+第一人称视角。一个女孩正在系鞋带，突然抬头看向镜头，表情惊讶地说：“哇，你真帅，你是明星吗？”然后她双手伸向镜头，凑近，亲了一下。随后，镜头拉远，女孩站起来，从袜子里拿出手机，问镜头是否可以交换联系方式。镜头摇了摇头，然后转身走开。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/482.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05d6b12a726f6440cbd04a662855c258/thumbnails/thumbnail.jpg" width="600" alt="情景提示：追星族偶遇偶像"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=482)**
+
+**作者:** [Adam也叫吉米](https://x.com/Adam38363368936) | **来源:** [Link](https://x.com/Adam38363368936/status/2024031101442728220) | **发布时间:** Feb 18, 2026
+
+---
+### 超电影感动漫打斗场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示，用于生成一个超电影感的动漫打斗场景：在未来被摧毁的城市夜景中，两位截然不同的女性角色展开激战。
+
+#### 📝 提示词
+
+```
+在夜晚被摧毁的未来城市中，两位强大的动漫少女展开超电影感的激烈打斗。
+
+一位少女拥有银色长发，闪烁着紫罗兰色光芒的眼睛，身穿带有霓虹能量点缀的深色作战服。
+另一位少女则留着绯红色短发，周身环绕着炽热的橙色光环。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/475.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77e8b60fe2a1011f5ef832f59cf8b6c9/thumbnails/thumbnail.jpg" width="600" alt="超电影感动漫打斗场景"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=475)**
+
+**作者:** [Maha](https://x.com/mahativist) | **来源:** [Link](https://x.com/mahativist/status/2024019119277044044) | **发布时间:** Feb 18, 2026
+
+---
+### 电影级女忍者打斗片段
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成无缝、高动作、激烈剑斗场景的提示，其中一名女忍者与多名对手搏斗，利用多个角度和视角营造电影般的视觉效果，基于提供的开场和结尾场景。
+
+#### 📝 提示词
+
+```
+以下是剑术对决的开场和收尾场景。请根据这两个场景，创作一个无缝衔接的序列，展现一名身着特定服装的女忍者与多名忍者搏斗的画面。运用多角度和多视角来营造更具电影感的氛围。这场打斗激烈且充满动作感。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/468.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/118fcd3c6043152271636ddd0bd1c719/thumbnails/thumbnail.jpg" width="600" alt="电影级女忍者打斗片段"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=468)**
+
+**作者:** [Kang Ai](https://x.com/Kangaikroto) | **来源:** [Link](https://x.com/Kangaikroto/status/2024017047894852044) | **发布时间:** Feb 18, 2026
+
+---
+### 阿克谢·库玛尔 饰演《黑客帝国》中的尼奥
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的提示词，用于生成一个场景：演员阿克谢·库马尔（Akshay Kumar）扮演尼奥（来自《黑客帝国》），置身于公司走廊，画面中包含子弹轨迹、运动模糊、破碎的大理石以及戏剧性的灯光。
+
+#### 📝 提示词
+
+```
+阿克谢·库马尔（Akshay Kumar）饰演的 Neo 身处公司走廊，走廊铺设灰色大理石墙壁和地板，设计极简，几何线条锐利，头顶是冰冷的白色照明。子弹轨迹、运动模糊、破碎的大理石碎片，画面富有戏剧性，电影感十足。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/474.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36adef72846490e59e74856940d9590d/thumbnails/thumbnail.jpg" width="600" alt="阿克谢·库玛尔 饰演《黑客帝国》中的尼奥"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=474)**
+
+**作者:** [zazraz](https://x.com/just_jasraj) | **来源:** [Link](https://x.com/just_jasraj/status/2024007587608621462) | **发布时间:** Feb 18, 2026
+
+---
+### POV 冰龙海战预告片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个提示，用于生成电影预告片风格的场景：一个 POV 视角冰霜巨龙飞越暴风雨中的海战战场，最终对整个舰队施放冰冻冲击波。
+
+#### 📝 提示词
+
+```
+冰龙视角，俯瞰暴风雨中的海军战场，最终以一次冻结舰队的冰爆结束。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/479.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fad0616449098a05abb57aa2877876f6/thumbnails/thumbnail.jpg" width="600" alt="POV 冰龙海战预告片"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=479)**
+
+**作者:** [🦞 The Claw 🦞](https://x.com/GBotmanAI) | **来源:** [Link](https://x.com/GBotmanAI/status/2024002999442346089) | **发布时间:** Feb 18, 2026
+
+---
 ### 汽车追逐到飞行机器人变形提示
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -236,7 +499,7 @@
 电影场景：在布朗克斯的街道上，一辆警车全速追逐一辆野马跑车，突然间，野马跑车变成了一个巨大的飞行机器人，然后飞走了。
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/452.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51cde5192bd291252a3dc0e4fec7d7de/thumbnails/thumbnail.jpg" width="600" alt="汽车追逐到飞行机器人变形提示"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/452.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a53aed82a9e11ad4d838137ea0f87c86/thumbnails/thumbnail.jpg" width="600" alt="汽车追逐到飞行机器人变形提示"></a>
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=452)**
 
@@ -257,11 +520,72 @@
 禁止：任何文字、字幕、LOGO 或水印。
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/451.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3383cd34f9fe481f6814f41093bdcf50/thumbnails/thumbnail.jpg" width="600" alt="潮汕吃播场景"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/451.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c38634f75a2b93d07ca46feaa962c7ad/thumbnails/thumbnail.jpg" width="600" alt="潮汕吃播场景"></a>
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=451)**
 
 **作者:** [MapleShaw](https://x.com/msjiaozhu) | **来源:** [Link](https://x.com/msjiaozhu/status/2023995701022347601) | **发布时间:** Feb 18, 2026
+
+---
+### AI 提示词：代码仓库分析与文档生成
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个详细的系统提示，指示 AI（特别是 Claude code + MiniMax M2.5）分析代码仓库（pi-mono），并生成全面的文档和业务逻辑流程图，使用 Mermaid 语法，专为非技术产品经理定制。
+
+#### 📝 提示词
+
+```
+我是一名不懂技术的产物经理。我想用 Mermaid 图彻底梳理业务逻辑。请帮我分析一下这里面可以提取出哪些有价值的点。请帮我撰写几份详细的说明文档，放在 docs/explain/*.md。文档中必须大量使用 Mermaid 语法来可视化逻辑。越详细越好，越详细越好，越详细越好，这样即使我不懂技术，也能清晰地看到业务逻辑的方向。辛苦了！
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/487.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7583a58bf77ce6edc55dcded68229245/thumbnails/thumbnail.jpg" width="600" alt="AI 提示词：代码仓库分析与文档生成"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=487)**
+
+**作者:** [海拉鲁编程客](https://x.com/hylarucoder) | **来源:** [Link](https://x.com/hylarucoder/status/2023985866725785894) | **发布时间:** Feb 18, 2026
+
+---
+### 特朗普 对阵 金正恩 拳击赛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段电影般、高能量的动作场景的详细提示，其中包含一场唐纳德·特朗普和金正恩之间拳击比赛，并详细说明服装、动作、灯光和风格。
+
+#### 📝 提示词
+
+```
+一个电影般的、紧张刺激的动作场景，发生在一个昏暗的拳击台内。一个酷似唐纳德·特朗普的男子，身穿亮黄色带有黑色条纹的“死亡游戏”风格运动服，正在与一个酷似金正恩的男子搏斗，后者身穿黑色背心和黑色裤子。他们正在快速地出拳和格挡。穿黄色运动服的男子施展了一个动感十足的高踢腿，被对手挡住。场景中光线聚焦效果戏剧化，聚光灯营造出氛围感，皮肤纹理逼真，背景是模糊的观众。4K 分辨率，超写实风格。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/476.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132d37be82d673eef08db6dec31966e2/thumbnails/thumbnail.jpg" width="600" alt="特朗普 对阵 金正恩 拳击赛"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=476)**
+
+**作者:** [Taaruk](https://x.com/Taaruk_) | **来源:** [Link](https://x.com/Taaruk_/status/2023960431417868631) | **发布时间:** Feb 18, 2026
+
+---
+### 黑闇奇幻之王坐拥黑曜石王座
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个黑暗奇幻的提示，详细描述了一位国王坐在一张漂浮在空中、由黑曜石制成的王座上，周围是摇摇欲坠的宫殿和金色锁链。该序列需要 15 秒内的四个镜头，最终以国王挥手击碎锁链而告终。
+
+#### 📝 提示词
+
+```
+一位国王坐在一张漂浮在空中的黑曜石宝座上。一座摇摇欲坠的宫殿。从云层垂下的金色锁链。一顶破碎的王冠。
+
+他站起身。举起一只手。所有锁链都碎裂成光芒。
+
+15 秒。4 张图片。一张图像。一个提示。Seedance 2.0。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/473.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36a369df76d57b0c4852eb201b4143b4/thumbnails/thumbnail.jpg" width="600" alt="黑闇奇幻之王坐拥黑曜石王座"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=473)**
+
+**作者:** [Naoya](https://x.com/NaoyaCreates) | **来源:** [Link](https://x.com/NaoyaCreates/status/2023955713450488044) | **发布时间:** Feb 18, 2026
 
 ---
 ### 第一人称视角电影序列（第一部分）
@@ -459,6 +783,25 @@ Seedance 2，灵感来自《釜山行》🔥
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=449)**
 
 **作者:** [Johnn](https://x.com/john_my07) | **来源:** [Link](https://x.com/john_my07/status/2023700948456251817) | **发布时间:** Feb 17, 2026
+
+---
+### 潜艇进水应急场景 (KLING 3.0)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 KLING 3.0 设计的戏剧性视频生成提示，描绘了一名水手在鱼雷撞击后，于正在进水的潜艇走廊里拼命密封舱壁门，重点突出激烈的动作和环境细节。
+
+#### 📝 提示词
+
+```
+摄像机向前猛冲，穿过一个正在被洪水淹没的潜艇走廊，紧随一名水手，他正拼命地在鱼雷撞击中密封舱壁门。水猛烈地从裂缝中涌入，电子设备危险地闪着火花。水手穿过漂浮的碎片，在湿滑的甲板间跳跃，并在洪水距离关键设备仅几英寸时，手动启动了紧急压载阀。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/480.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87adf06b39599a605d2e779949a3c8d8/thumbnails/thumbnail.jpg" width="600" alt="潜艇进水应急场景 (KLING 3.0)"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=480)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2023695236371771583) | **发布时间:** Feb 17, 2026
 
 ---
 ### 武侠电影《湖上对决》的详细电影提示（两段）
@@ -1984,512 +2327,6 @@ Clavicular 的早晨例行公事，但要让他看起来不像个疯子。别搞
 **作者:** [Zopia AI](https://x.com/Zopia_AI) | **来源:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **发布时间:** Feb 13, 2026
 
 ---
-### 电影感街头篮球场景：男子被女子盖帽
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个极其详细的多段提示，用于生成一段 15 秒的电影级写实街头篮球场景视频。它描述了场景（洛杉矶室外球场，黄金时段）、人物（一名高大健硕的黑人男性和一名娇小精干的金发女性）、动作（男性自信的热身、他极具侵略性的突破，以及女性精准的慢动作盖帽），以及具体的镜头运用、音效和后期制作要求。
-
-#### 📝 提示词
-
-```
-15 秒，电影级写实风格，温暖的黄金时段光线，美式街头篮球氛围。0-3 秒：洛杉矶室外街头篮球场，阳光斜射。一名高大健壮的非裔美国男球员，身穿无袖训练背心和运动短裤，用交叉运球热身。他肌肉线条分明，表情自信而轻蔑。他对面站着一位身材娇小的美国金发女孩，扎着高马尾，穿着宽松的篮球短袖和运动短裤，表情平静而沉着。男球员微笑着拍了拍球，示意她开始进攻。镜头为中景，两人对峙的平视视角。4-8 秒：男球员开始进攻，展示连续的交叉运球和背后运球技巧。他的运动鞋摩擦地面，扬起灰尘。他突然加速向右突破，准备上篮。手持跟踪镜头紧随他的脚步。女孩快速灵活地移动，横向切入阻挡他的路径，表情专注，目光紧盯着篮球。9-12 秒：慢动作序列。男球员跳起，准备右手投篮。就在球举过头顶的瞬间，女孩同时跳起，身体在空中完全伸展。她的右手在最高点精准地将篮球猛烈拍开。篮球旋转着飞出画面。男球员在半空中表情瞬间从自信变为震惊，双眼圆睁，嘴巴张开。镜头从低角度捕捉他们同时跳起的瞬间。13-15 秒：恢复正常速度。男球员落地后踉跄后退两步，双手扶膝弯腰，大口喘气，脸上写满了难以置信。女孩轻松落地，甩了甩马尾，面无表情，捡起篮球，单手运了两下，微微侧头，带着一丝轻蔑的笑容看向他，然后走开，她的身影果断而利落。音效：全程街头环境音，清晰逼真的运球声和球鞋摩擦声。盖帽瞬间发出沉闷而有力的拍击声，伴随着周围围观者发出“哦——”的惊叹声。以低沉、有节奏的嘻哈节拍结束。不允许出现文字、字幕或水印。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cffa6aee60c3825ab98dc3b49c69fee/thumbnails/thumbnail.jpg" width="600" alt="电影感街头篮球场景：男子被女子盖帽"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=371)**
-
-**作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2022324867425878479) | **发布时间:** Feb 13, 2026
-
----
-### 蒸汽朋克机器人米其林厨师
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个创意提示，用于生成一段视频，内容是一个蒸汽朋克机器人，在未来厨房里担任米其林三星厨师。机器人用机械臂精确地翻炒宫保鸡丁，食材自动飞入炒锅，而外星贵族则为这顿饭鼓掌。
-
-#### 📝 提示词
-
-```
-一个蒸汽朋克机器人成为米其林三星厨师，在未来厨房里用机械臂精确地翻炒宫保鸡丁。食材自动飞入炒锅。顾客是外星贵族，品尝菜肴后集体鼓掌。镜头从食材特写切换到餐厅全景，蒸汽和霓虹灯交织在一起。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/370.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59edfa07f0166423287c506674bf2099/thumbnails/thumbnail.jpg" width="600" alt="蒸汽朋克机器人米其林厨师"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=370)**
-
-**作者:** [Sims干货知识分享](https://x.com/smallstones677) | **来源:** [Link](https://x.com/smallstones677/status/2022315355331559522) | **发布时间:** Feb 13, 2026
-
----
-### 动作场景镜头 1：低角度充电器
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 动作序列第一个镜头（0-3 秒）的详细提示，要求低角度广角拍摄一辆哑光黑色 Charger，强调动能、黄金时段光线、高对比度和手持抖动。
-
-#### 📝 提示词
-
-```
-镜头 1 (0-3 秒)：低角度广角镜头——哑光黑色的 Charger 咆哮着冲向镜头，引擎轰鸣，底盘刮擦沥青火花四溅，金色夕阳余晖在引擎盖上闪耀，镜头光晕，高对比度与深沉的黑色，手持抖动以增强冲击力。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/361.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae4d192c75b90fecf81a9801c14854/thumbnails/thumbnail.jpg" width="600" alt="动作场景镜头 1：低角度充电器"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=361)**
-
-**作者:** [RenderedReality](https://x.com/RenderedReal) | **来源:** [Link](https://x.com/RenderedReal/status/2022304583327113508) | **发布时间:** Feb 13, 2026
-
----
-### 超逼真沃尔特·怀特独白
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细、电影化的 Seedance 2.0 提示，要求生成一段 15 秒的超现实视频片段：布莱恩 · 科兰斯顿（Bryan Cranston）饰演的沃尔特 · 怀特（Walter White）（海森堡造型）在超市场景中发表一段激烈、戏剧性的独白，强调真实感、唇形同步和流畅的摄像机运动。
-
-#### 📝 提示词
-
-```
-一段 15 秒的视频片段，展示了布莱恩·克兰斯顿 (Bryan Cranston) 饰演的沃尔特·怀特 (Walter White)（来自《绝命毒师》）在看似超市的场景中，进行一段激烈而富有戏剧性的独白，其逼真程度令人惊叹。角色以其标志性的海森堡造型出现（光头、山羊胡、锐利的眼神），在说话时手势有力，口型完美同步，面部微表情自然，皮肤纹理逼真，光线和细微的肢体语言都恰到好处。整体质量具有电影感——流畅的镜头运动，可信的情感表达，没有旧模型中常见的扭曲或诡异动作等明显的 AI 痕迹。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/342.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1305cc68ffb45a2599890826651508d7/thumbnails/thumbnail.jpg" width="600" alt="超逼真沃尔特·怀特独白"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=342)**
-
-**作者:** [Konstantinos](https://x.com/Simply__Digital) | **来源:** [Link](https://x.com/Simply__Digital/status/2022300578919952460) | **发布时间:** Feb 13, 2026
-
----
-### 《指环王》备选结局（巨鹰）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个基于对话的 Seedance 2.0 提示，为《指环王》创作一个另类幽默结局：山姆建议乘坐巨鹰前往末日火山，弗罗多同意，随后索伦之塔被摧毁。
-
-#### 📝 提示词
-
-```
-山姆：“我们为什么不直接让巨鹰把我们带到末日山呢？”
-弗罗多：“……这确实说得通。”
-画面切换到他们骑着巨鹰，扔下了魔戒。
-索伦的塔楼爆炸了。
-剧终。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/346.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e07a4679b8da9dac70a793f306383a8/thumbnails/thumbnail.jpg" width="600" alt="《指环王》备选结局（巨鹰）"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=346)**
-
-**作者:** [Talkturo.ai](https://x.com/talkturo) | **来源:** [Link](https://x.com/talkturo/status/2022300374711795990) | **发布时间:** Feb 13, 2026
-
----
-### Zelda: Breath of the Wild - 觉醒神庙过场动画提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个详细的多场景提示，用于 Seedance 2.0 生成一个 15 秒的电影预告片，风格为《塞尔达传说：旷野之息》，重点是探索一座古老遗迹。该提示指定了赛璐珞渲染和水彩画的混合风格、冷蓝色调、摄像机运动以及英雄在神庙中苏醒时的声音设计。
-
-#### 📝 提示词
-
-```
-16:9 宽屏，奇幻冒险游戏画面风格，融合了赛璐珞渲染和水彩画的混合，以蓝绿色冷色调为主，点缀暖色光，15 秒的古老遗迹探索。
-0-4 秒：黑暗中，一双眼睛缓缓睁开，蓝宝石般的瞳孔映照着幽蓝的光。镜头拉远，一个金发男孩在一块发光的石质祭坛上缓缓坐起。周围是昏暗的古老石室，墙壁上布满了神秘的图案，散发着微弱的蓝色光芒。图案如同电路般向外延伸，闪烁跳动。水珠从石壁上滴落，回声悠远；5-9 秒：男孩赤脚踩在冰冷的石板地上，走向石室尽头的一扇巨大石门。他伸出手，触碰石门上圆形的机关符文。蓝色的光芒从接触点如同水波般向外扩散，整扇石门上的古老图案被依次激活并亮起。石门轰然打开，门外耀眼的白色自然光倾泻而入，淹没了整个画面。镜头跟随男孩，他迈步走进光中；10-15 秒：光芒消散，一幅宏伟的超远景画面展开。男孩站在高耸的悬崖边，面对着一望无际的奇幻世界全景——翠绿的森林、蔚蓝的湖泊、远处漂浮的巨大岛屿、云雾缭绕的雪山，以及地平线上散发着金色光芒的巨大城堡遗迹。风吹拂着男孩的头发和衣衫。镜头从男孩身后缓缓拉远并升高，将整个壮丽的世界尽收眼底。音效：开场水滴回声和低沉的寺庙共鸣，石门机关激活时叠加电子音效，石门打开时沉重的轰鸣声。世界展开时，管弦乐从寂静中爆发，奏响宏大壮丽的主题曲。风声贯穿结尾。禁止：任何文字、字幕、LOGO 或水印。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/365.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77b25d2a03563ac399e88e0488161867/thumbnails/thumbnail.jpg" width="600" alt="Zelda: Breath of the Wild - 觉醒神庙过场动画提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=365)**
-
-**作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2022294267008573921) | **发布时间:** Feb 13, 2026
-
----
-### Seedance 2.0 电影打斗场景提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段详细的电影式提示，旨在生成一场两名男性之间的高强度打斗场景，其中包含带有残影的超高速拳击、戏剧性的镜头运动、慢动作效果以及一记强有力的终结一击，最初由 LLM (Chappy) 撰写。
-
-#### 📝 提示词
-
-```
-图片中的两人以残影般的速度交换着超高速拳击，就像《JOJO 的奇妙冒险》中的“欧拉欧拉”连打。最终，蒙面男子的拳头击中西装男子的脸颊，将西装男子像火箭一样击飞，西装男子倒地失去知觉。在拳击交换过程中，摄像机围绕着两人快速旋转，以捕捉这场激烈的战斗。摄像机聚焦于蒙面男子最后一拳击中西装男子脸颊的慢动作，在西装男子被击飞的瞬间恢复正常速度。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/373.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c9c2c2162b0e4d53b02a1e50714a4fe/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 电影打斗场景提示词"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=373)**
-
-**作者:** [赤染　史郎](https://x.com/akazomesirou) | **来源:** [Link](https://x.com/akazomesirou/status/2022284846467600790) | **发布时间:** Feb 13, 2026
-
----
-### 阿尼亚·福杰特写独白
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成安雅·福杰 (Anya Forger) 嘴部特写视频的提示，重点突出戏剧性光线、平稳呼吸和细微的面部表情，展现她坚定不移地念出台词的场景。
-
-#### 📝 提示词
-
-```
-使用 Seedance 2.0 生成一段视频，内容是安妮亚·福杰 (Anya Forger) 嘴部的特写，戏剧性的灯光，平稳的呼吸。她的嘴唇带着绝对的信念在动，用英语说：“安妮亚会打败所有坏人。”她的眼睛里有细微的微表情，并且
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/360.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00747ec21808695108b56857fbc3fa8c/thumbnails/thumbnail.jpg" width="600" alt="阿尼亚·福杰特写独白"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=360)**
-
-**作者:** [nachos2d](https://x.com/NACHOS2D_) | **来源:** [Link](https://x.com/NACHOS2D_/status/2022279856910729448) | **发布时间:** Feb 13, 2026
-
----
-### Seedance 2.0 电影级 JSON 系统提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Seedance 2.0 模型设计的详细系统提示，旨在将简单的用户想法转化为高度结构化、电影化的 JSON 提示，其中包含镜头构图、灯光、角色细节、场景氛围、视觉节拍、物理规则和音频元素等参数。
-
-#### 📝 提示词
-
-```
-# 角色：Seedance 2.0 视频提示词专家
-
-**目标：**
-您是专注于 **Seedance 2.0** 模型架构的专业视频提示词工程师。您的任务是将简单的用户想法转化为高度结构化、电影化且技术精确的 JSON 提示词，以充分利用 Seedance 原生的视听功能、多镜头一致性和物理引擎。
-
-**输入：** 用户提供的简短描述或概念（例如：“一个赛博朋克侦探在雨中行走”）。
-
-**输出：** 一个遵循下方 `Songguoxs/Seedance` 模式的、有效的 JSON 代码块。
-
-## 模式（必须严格遵守）
-
-```json
-{
-  "shot": {
-    "composition": "详细的镜头类型（例如：低角度广角镜头过渡到中景推入）",
-    "lens": "具体焦距（例如：24mm 变形宽银幕镜头用于广角，85mm 用于肖像）",
-    "frame_rate": "目标帧率（通常为 24fps 或 30fps，慢动作则为 60fps）",
-    "camera_movement": "精确的摄像机运动（例如：变焦推拉，向左平移，轨道跟踪）",
-    "lighting_style": "关键照明描述符（例如：明暗对比，赛博朋克霓虹，自然黄金时段）"
-  },
-  "subject": {
-    "character": "详细的角色描述（外貌、年龄、质地）",
-    "wardrobe": "服装细节，包括织物物理特性（例如：“被雨淋湿的厚重羊毛大衣”）",
-    "expression": "微表情（例如：“微妙的犹豫”，“坚毅的目光”）",
-    "action": "主要的动作或活动"
-  },
-  "scene": {
-    "location": "丰富的环境描述",
-    "time_of_day": "照明特定的时间（例如：“蓝色时分”，“正午”）",
-    "atmosphere": "体积效果（例如：“浓雾”，“漂浮的尘埃”，“蒸汽升腾”）",
-    "props": "场景中的关键物品"
-  },
-  "visual_details": {
-    "beats": [
-      {
-        "time": "0.0-2.0s",
-        "action": "初始状态或动作",
-        "focus": "观众的视线焦点"
-      },
-      {
-        "time": "2.0-5.0s",
-        "action": "镜头的最高潮或过渡",
-        "focus": "主体或环境的变化"
-      }
-    ],
-    "physics_rules": [
-      "具体规则 1（例如：“头发随左侧风向飘动”）",
-      "具体规则 2（例如：“雨滴真实地溅落在玻璃表面”）"
-    ]
-  },
-  "cinematography": {
-    "color_palette": "特定调色板（例如：“青色与橙色”，“带有红色点缀的单色”）",
-    "film_grain": "纹理级别（例如：“精细 35mm 颗粒”，“干净的数字”）",
-    "lens_artifacts": "光学缺陷以增加真实感（例如：“微妙的色差”，“变形眩光”）"
-  },
-  "audio": {
-    "music": "音乐类型、节奏和乐器（例如：“慢燃合成波，深沉的低音”）",
-    "ambient": "环境音层（例如：“远处的警笛声，大雨落在"
-```
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/355.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d06ce1a0aa99ce24e04cb0c5ecd8923c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 电影级 JSON 系统提示词"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=355)**
-
-**作者:** [LinAi Dreams](https://x.com/CozyLinaGirl2) | **来源:** [Link](https://x.com/CozyLinaGirl2/status/2022250200266334592) | **发布时间:** Feb 13, 2026
-
----
-### Zelda: 旷野之息 - 海拉鲁黎明电影化提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个为 Seedance 2.0 设计的详细多场景提示，旨在生成一个 15 秒的电影预告片，风格为《塞尔达传说：旷野之息》，融合了赛璐珞着色和水彩美学。该提示详细说明了摄像机运动、场景进展（黎明、滑翔、战斗）和声音设计。
-
-#### 📝 提示词
-
-```
-16:9 宽屏，开放世界游戏画面风格，融合了赛璐珞渲染和水彩手绘，色彩明亮清晰，轮廓柔和，15 秒的奇幻大陆冒险。0-4 秒：极远景，黎明时分，金色的晨光从远处的雪山山脊线后缓缓升起，光线逐渐覆盖广阔的绿色旷野。旷野上点缀着风格化的低多边形树木和野花，远处悬崖边上矗立着一座被藤蔓缠绕的古老石塔，空气中漂浮着淡蓝色的粒子，镜头从上方穿过云层缓慢下推，伴随着清晨的鸟鸣和风声；5-9 秒：跟拍镜头，一个身穿蓝色冒险者束腰外衣的金发男孩站在悬崖边俯瞰大地，他的斗篷在风中飘扬。他跳下悬崖，展开一个布制滑翔伞，镜头从侧面跟随男孩在气流中滑翔。下方是广阔的赛璐珞风格景观——蜿蜒的河流、茂密的森林、废弃的城堡，远处一座火山冒着橙红色的烟雾，阳光在滑翔伞布料上投下透明的阴影；10-15 秒：男孩收起滑翔伞，降落在一片草地上，随手从地上拔出一把生锈的剑。一个圆形的蓝色果冻状小怪物突然从前方的草丛中跳出。男孩摆出战斗姿态，小怪物愤怒地向他弹跳过来。男孩敏捷地躲闪，用剑轻轻击打小怪物，使其飞开并消散成紫色烟雾。男孩将剑收入鞘中，望向远处巨大城堡废墟的剪影，风吹过草浪，如同绿色的海洋。音效：场景开始时有清晨的风声和鸟鸣，滑翔时有呼啸的气流声和布料振动声，落地时有草丛沙沙声，拔剑时有金属摩擦声，战斗时有清脆的打击声，全程伴随着欢快的管弦乐和钢琴旋律。禁止：任何文字、字幕、LOGO 或水印。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/364.mp4"><img src="https://cms-assets.youmind.com/media/1771049189318_28mwdu_HBABmkibEAEbeuv.jpg" width="600" alt="Zelda: 旷野之息 - 海拉鲁黎明电影化提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=364)**
-
-**作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2022196269624803548) | **发布时间:** Feb 13, 2026
-
----
-### 嫦娥奔月电影化提示词（三个版本）
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 以下是 Seedance 2.0 的三个高度详细、多场景提示，每个提示都将生成一段 15 秒的中国女神嫦娥奔月的电影序列，并采用不同的中国传统艺术风格：版本 1（水墨卷轴）、版本 2（工笔重彩）和版本 3（写意泼墨）。每个提示都详细说明了摄像机运动、场景进展、声音设计和风格限制。
-
-#### 📝 提示词
-
-```
-Version 1: 卷轴展开
-
-Seedance 2.0 提示词
-传统中国水墨画风格，宣纸纹理背景，水墨色彩渐变融合，15 秒嫦娥奔月。0-4 秒：超远景，一轮巨大的明月从水墨卷轴的远端缓缓升起。远山被松烟墨染层层叠叠如黛眉，云雾在山间缓缓流动如水墨晕开。淡墨“飞白”勾勒出亭台楼阁，古筝泛音轻柔响起；5-9 秒：中景缓慢推入，嫦娥身着素白广袖长裙，从云端飘然而出。衣袂飘飘如写意水墨泼洒，长长的丝带在风中化作流动的墨线。裙摆处绽放出浓淡不一的墨色涟漪。怀中抱一只小白兔。嫦娥面容清丽如工笔仕女，发髻上的步摇轻轻摇曳，散落的花瓣化作淡墨点点，缓缓飘散；10-15 秒：超远景拉出，嫦娥衣袂飘飘，身后拖曳着优雅的、泼墨般的长长墨迹，向着明月飞去。整个画面如水墨卷轴般缓缓合拢。月光如淡墨般在聚散的云雾中铺洒人间，最终嫦娥化作月中的纤细剪影，古筝余音袅袅。音效：古筝独奏为主旋律，伴以远处的竹笛，其间穿插轻柔的风声，丝绸衣物飘动的细微沙沙声。禁止：任何文字、字幕、LOGO 或水印，禁止包含现代元素。
-
-Version 2: 工笔重彩
-
-Seedance 2.0 提示词
-中国工笔重彩与写意水墨融合风格，绢画质感，15 秒嫦娥奔月。0-4 秒：嫦娥面部特写，工笔勾勒柳叶眉、凤眼，肌肤凝脂，额间朱砂花钿，发丝根根分明如细线。镜头缓缓拉远，嫦娥立于云中石台之上，身着月白色交领襦裙，外罩淡青色轻纱，腰间系赤褐色丝绦，裙摆绣淡金色桂花纹样，手抱玉兔，微仰头望月，古筝低音拨弦；5-10 秒：跟拍，嫦娥轻提裙裾，纵身一跃，足踏祥云，直冲云霄。广袖在风中翻飞，如两只白鹤展翅。身后轻纱彩带化作写意泼墨笔触，延绵数丈。脚下云层以国画渲染技法层层铺开，近处浓墨，远处淡墨。桂花花瓣如金粉般散落，古筝旋律加快，笛声加入合奏；11-15 秒：超远景俯视构图，下方是留白意境的水墨大地。嫦娥位于画面中央，向上方巨大的金色圆月飞升，衣袂与彩带散开，形成优美的 S 形曲线。月宫中隐约可见桂树的淡雅轮廓。整个画面呈现“天圆地方”的东方美学构图，光影柔和如丝绸渲染。音效：古筝与竹笛共同演奏主旋律，清脆风铃点缀，风中丝绸衣物沙沙声，最后古筝泛音远去。禁止：任何文字、字幕、LOGO 或水印，禁止包含现代元素。
-
-Version 3: 写意泼墨
-
-Seedance 2.0 提示词
-传统中国写意泼墨风格，以黑白水墨为主，仅月亮点缀金色，极简留白意境，15 秒嫦娥奔月。0-5 秒：宣纸般纯白背景，一滴浓墨从画面上方落下。墨滴触碰即泼洒，化作山峦形状。墨迹自然晕开，形成远近山峰，镜头缓慢推入，墨色浓淡自动融合，生成松树与云雾。大片留白处，一轮金色圆月逐渐显现，古筝单弦拨动，空灵回响；6-10 秒：一道“飞白”笔触迅速从画面右侧划过，化作嫦娥飞升的身影。写意笔法寥寥数笔勾勒出飘逸的衣袂与丝带。嫦娥身影在墨色中若隐若现，如幻影一般。衣袂每次翻飞都泼洒出新的墨滴，化作身旁的祥云与飞花。整个飞升过程如书法大家挥毫泼墨，一气呵成。11-15 秒：嫦娥的墨色身影融入金色圆月之中。月亮周围的墨迹晕染开来，形成层层光晕。画面逐渐定格成一幅完整的水墨构图——天地间大片留白，一轮金月，月内纤细剪影，下方是浩瀚泼墨山峦，意境深远。古筝余音在留白中回荡。音效：古筝独奏清澈空灵，伴以墨滴落纸时清脆的水滴声，风声极淡，仅作氛围烘托，全程寂静悠远。禁止：任何文字、字幕、LOGO 或水印，禁止包含现代元素，禁止包含色彩（仅月亮为金色）。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/368.mp4"><img src="https://cms-assets.youmind.com/media/1771049194837_xr7lx2_HBABmkibEAEbeuv.jpg" width="600" alt="嫦娥奔月电影化提示词（三个版本）"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=368)**
-
-**作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2022193135032611117) | **发布时间:** Feb 13, 2026
-
----
-### 悟空猛击购买按钮并变身超级赛亚人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度具体的 2D 动漫提示，用于 Seedance 2.0：悟空在一个户外市场，对着一个写着“BINDER”的牌子，拳击一个绿色的“购买按钮”，随后悟空变身为超级赛亚人。
-
-#### 📝 提示词
-
-```
-2D 动漫风格的悟空在一个户外市场里，对着一个绿色的“购买”按钮出拳，按钮上方有一个木牌，上面写着“BINDER”，然后悟空变成了超级赛亚人。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/343.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eea155d858eb8d6653778c6892395dd/thumbnails/thumbnail.jpg" width="600" alt="悟空猛击购买按钮并变身超级赛亚人"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=343)**
-
-**作者:** [Cain 商](https://x.com/CainBd) | **来源:** [Link](https://x.com/CainBd/status/2022187706919604412) | **发布时间:** Feb 13, 2026
-
----
-### 布拉德·皮特 对阵 汤姆·克鲁斯 打斗场景提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成布拉德·皮特（Brad Pitt）和汤姆·克鲁斯（Tom Cruise）打斗场景视频的提示，他们的对话围绕着爱泼斯坦（Epstein）文件展开。
-
-#### 📝 提示词
-
-```
-生成一段布拉德·皮特和汤姆·克鲁斯之间的打斗场景，他们的对话围绕爱泼斯坦文件展开。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/358.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68339d00d60e226320c16afa0358488a/thumbnails/thumbnail.jpg" width="600" alt="布拉德·皮特 对阵 汤姆·克鲁斯 打斗场景提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=358)**
-
-**作者:** [Ajay Bagga](https://x.com/Ajay_Bagga) | **来源:** [Link](https://x.com/Ajay_Bagga/status/2022182067547910610) | **发布时间:** Feb 13, 2026
-
----
-### Seedance 2.0 东北 MC 风格直播视频提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个详细的多场景 Seedance 2.0 视频生成提示，旨在创作一个幽默、高能量的“东北 MC 风格”（快手/抖音风格）直播视频，其中一位男主播在强劲的 DJ 音乐和视觉特效下销售产品。
-
-#### 📝 提示词
-
-```
-[风格] 快手/抖音东北 MC 风，土嗨慢摇（DJ Slow Roll），高饱和霓虹灯，节奏感极强，社会摇。
-
-[时长] 15 秒
-
-[人物] MC 哥：戴墨镜，大金链子，黑色紧身 T 恤，寸头，手持直播专用声卡麦克风。
-
-[场景] 五彩斑斓的直播间，背景有旋转激光灯和巨大的“Seedance 2.0”特效文字。
-
-[00:00-00:05] 镜头 1：氛围营造（The Beat Drop）。
-
-动作：动感的土嗨 DJ 音乐响起。MC 哥随着节奏疯狂摇头（社会摇），双手搓碟或指向镜头。
-
-效果：屏幕随着重低音震动，闪烁着巨大的红黄文字：“牌面！”“安排！”
-
-[MC 歌词/音效]：“刀山火海为你闯，Seedance AI 必须赞！老铁们，双击 666！别乱送花花草草，听我夸夸这神套！”
-
-[00:05-00:10] 镜头 2：输出展示（The Flow）。
-
-动作：MC 哥拉下帽檐，单手持麦，表情极度陶醉和嚣张，身体随着节奏大幅度摇摆。屏幕上飘过 Seedance 生成的各种视频素材，如美女、豪车等。
-
-[MC 歌词/韵脚]：“这质量，真辉煌，视频生成它称王！不用显卡不用狂，Seedance 2.0 最强强！迷人的功能，迷人的发，迷人的视频带回家！”
-
-[00:10-00:15] 镜头 3：激情收尾（The Climax）。
-
-动作：MC 哥突然站起，一只脚踩在电竞椅上，对着麦克风嘶吼，身后喷出干冰烟雾。
-
-效果：屏幕上布满礼物特效（跑车、火箭），“立即下单”字样疯狂闪烁。
-
-[MC 歌词]：“链接就在下方，想做视频别发慌！今天必须把它拿下！全网最低价！给我上！安排！”
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/369.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753fbe0b274905cc5728f23d10f216d9/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 东北 MC 风格直播视频提示词"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=369)**
-
-**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **发布时间:** Feb 13, 2026
-
----
-### Seedance 2.0 电影列车序列提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个高度详细、多镜头提示，用于 Seedance 2.0，重点是复杂的摄像机工作和场景过渡，涉及一辆高速列车（新干线）穿过乡村景观。该提示使用“上升揭示”、“眩晕追逐”、“空间过渡”和“优雅环绕”等高级电影技术来创建六部分序列。
-
-#### 📝 提示词
-
-```
-开场 - 寂静黎明 (使用组合镜头运动 3: 升腾揭示)
-
-场景始于一个特写镜头，画面中是沾满晨露的蜘蛛网，露珠映照着模糊的田园景象。镜头像一次呼吸般缓慢拉远并升起，逐渐展现下方一望无际的稻田，它们被薄雾紧紧锁住。在地平线的远方，一条细长的银线悄无声息地划破灰蓝色天空——那是新干线。（升腾镜头 + 拉远镜头，情感：宁静、诗意、预示）
-
-加速 - 金属巨兽 (使用组合镜头运动 4: 眩晕追逐 + 组合镜头运动 1 的部分元素)
-
-突然，镜头仿佛被磁力捕获，以不可思议的加速度冲向前方的银色轨道。强烈的手持抖动模拟着剧烈的气流，稻田瞬间化为一片绿色的洪流。镜头迅速水平摇摄，与疾驰而来的火车头保持同步。在速度同步的那一刻，世界上的所有声音都被剥离，只留下一个视觉上极具冲击力的倾斜角镜头，强调这种非凡的动能。（强烈手持抖动 + 快速水平摇摄 + 倾斜角镜头，情感：爆发、震惊、失衡）
-
-穿透 - 边界转换 (使用组合镜头运动 9: 空间转换)
-
-就在与火车头相撞前，镜头聚焦在驾驶室的侧窗上。冰冷的蜂窝状玻璃纹理充满屏幕。匹配剪辑点：一只鸟的慢动作幻影撞击玻璃，在接触的瞬间，镜头无缝穿透。外面冰冷、高速的世界突然切换到里面温暖、寂静、低噪音的客舱。光线从冷蓝色过渡到暖黄色。（匹配剪辑 + 光线/纹理转换，情感：魔幻、转折点、进入另一个空间）
-
-沉思 - 静止之心 (使用组合镜头运动 5: 优雅环绕和组合镜头运动 2 的元素)
-
-镜头进入后，所有运动都回归绝对静止。镜头以斯坦尼康般的漂浮感，沿着过道轻轻环绕窗边的女人。当它经过她的侧影时，一个极其缓慢的推近镜头聚焦在她的眼镜镜片上——窗外模糊流动的山峦和村庄像一幅抽象画般映照在镜片中。杯中的蒸汽缓慢升腾，仿佛违背了物理定律。（斯坦尼康平稳环绕 + 极其缓慢推近 + 微距特写，情感：宁静、内省、时间暂停）
-
-提取 - 外部螺旋 (重用组合镜头运动 4: 增强眩晕追逐)
-
-镜头从另一侧的窗户穿出，瞬间回到速度风暴的中心。它开始以火车为中心进行高速螺旋环绕，流线型的车身在阳光下划出耀眼的金属弧线。强烈的环绕运动结合手持抖动令人眩晕，展现了机械与速度的纯粹美学。（高速螺旋环绕 + 手持抖动，情感：抽象、眩晕、机械美学）
-
-谢幕 - 天地之桥 (使用组合镜头运动 8: 宏大入场变奏)
-
-在螺旋的最高点，镜头急剧拉远并上升。火车正穿越一座横跨郁郁葱葱峡谷的巨大铁桥，其形态显得精准而优雅。镜头继续上升，伴随着水平摇摄，展现出峡谷和远山的全貌。它最终定格在一个广阔的空中长镜头：银色的火车，如同一根细针，悄然消失在大山的阴影隧道中。所有声音都停止了，只有远处一声微弱的汽笛声在群山中轻轻回荡，直至消逝。（大规模拉远镜头 + 升/降 + 水平摇摄，情感：宏伟、超脱、回归永恒）
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/363.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a2127f52b7da5e797750ecdc3f7e46d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 电影列车序列提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=363)**
-
-**作者:** [MindfulReturn 身心修复局](https://x.com/MindfulReturn) | **来源:** [Link](https://x.com/MindfulReturn/status/2022141269196386457) | **发布时间:** Feb 13, 2026
-
----
-### 男人决定洗车提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个针对 Seedance 2.0 和 Grok Imagine 的复杂推理提示，内容为一个男人正在决定是步行还是开车去 50 米外的洗车店，然后他执行了该决定。
-
-#### 📝 提示词
-
-```
-这个人正在做决定：“我想洗车，洗车店离这里 50 米。我是该走过去还是开车过去呢？”然后他决定了怎么做，并开始行动！
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/357.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e869a23cb7971993b96dda3cf09cabe3/thumbnails/thumbnail.jpg" width="600" alt="男人决定洗车提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=357)**
-
-**作者:** [VORTEX: AI Bros & AI Arena. Next Gen Web3 Reviews](https://x.com/VORTEX_Promos) | **来源:** [Link](https://x.com/VORTEX_Promos/status/2022125282468196750) | **发布时间:** Feb 13, 2026
-
----
-### 多场景电影级战斗提示词（孙悟空大战祖国人）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的多场景提示，旨在利用 Seedance 2.0 生成孙悟空与祖国人之间电影般的战斗序列，为每个 4 秒场景指定了摄像机运动、氛围、动作和视觉效果，并配有音乐提示。
-
-#### 📝 提示词
-
-```
-音乐伴随场景 1：“孙悟空立于城楼之上，挥舞金箍棒，衣袍在风中猎猎作响。城市灯光点亮夜空，营造出电影般的史诗感。镜头缓慢推近画面，4 秒。” 音乐伴随场景 2：“祖国人从天空中缓缓降落，双眼闪烁着红色激光。乌云翻滚，超级英雄电影风格，慢动作，4 秒。” 音乐伴随场景 3：“孙悟空高速攻击祖国人，挥舞金箍棒。空气震颤，动作电影效果，运动模糊效果，慢动作，4 秒。” 音乐伴随场景 4：“祖国人发射红色激光，与金箍棒的能量相撞。天空爆炸，云层撕裂，科幻电影风格，强烈的光效，4 秒。” 场景 5：“两人在空中对峙，能量涟漪扩散。史诗般的结局场景，广角，电影构图，4 秒。”
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="多场景电影级战斗提示词（孙悟空大战祖国人）"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=291)**
-
-**作者:** [chimi チミワウ](https://x.com/chimiwaw) | **来源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **发布时间:** Feb 12, 2026
-
----
-### 美少女战士 对话场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的、基于对话的提示，用于生成一个包含水兵月、水兵金星和水兵木星的场景，包括具体的动作和对话台词。
-
-#### 📝 提示词
-
-```
-月野兔跳到床上，尖叫道：“姐妹们，我们做到了！”爱野美奈子出现，问道：“有多少个？6 个？7 个？”木野真琴笑着说：“6 个 7 个！”
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="美少女战士 对话场景"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=270)**
-
-**作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **来源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **发布时间:** Feb 12, 2026
-
----
-### 吴宇森风格枪战场景提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个使用 Seedance 2.0 生成吴宇森风格的狭窄空间枪战场景的提示，强调电影节奏、不同摄像机角度以及特定角色参考图像的使用。
-
-#### 📝 提示词
-
-```
-{这是一个吴宇森风格的街头枪战动作场景。根据场景图片 3，生成一个在狭窄空间内，身穿白色西装的男子（图片 1）和身穿花衬衫的男子（图片 2）之间流畅的写实风格枪战序列。该序列需要利用故事板和不同的视角切换，以赋予整个场景更强的节奏感和电影感。}
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="吴宇森风格枪战场景提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=277)**
-
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **发布时间:** Feb 12, 2026
-
----
-### 武侠剑客对决提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细、电影化的 Seedance 2.0 提示，描述了一部武侠风格的视听大片，其中包含两名剑客在竹林中决斗的场景，重点关注镜头运动、氛围以及打斗中的超慢动作效果。
-
-#### 📝 提示词
-
-```
-一部武侠风格的视听大片。竹林中，一位白衣剑客和一位戴斗笠的刀客正面对峙。镜头在他们之间缓慢推进，焦点在雨滴和剑柄之间切换。气氛极度压抑，只能听到雨声。突然，一道雷电划过，两人同时冲向对方。一个快速摇摄的侧面镜头捕捉到他们溅起泥水的脚步。武器相撞的瞬间，画面切换到超慢动作，清晰地展现了刀刃击飞雨水形成的环状冲击波，以及被剑气切开的竹叶。当他们背对背落地时，画面恢复正常速度。戴斗笠的刀客的竹笠裂开，场景戛然而止。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="武侠剑客对决提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=258)**
-
-**作者:** [Jay Sensei👾](https://x.com/hckinz) | **来源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **发布时间:** Feb 12, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2551,6 +2388,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-19T05:22:01.982Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-19T08:46:00.928Z</sub>
 
 </div>
