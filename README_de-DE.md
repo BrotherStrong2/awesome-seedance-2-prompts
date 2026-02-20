@@ -68,8 +68,8 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **178** |
-| ⭐ Ausgewählte Prompts | **4** |
+| 📝 Gesamtanzahl Prompts | **179** |
+| ⭐ Ausgewählte Prompts | **3** |
 | 🔄 Zuletzt aktualisiert | **2026-02-20** |
 
 ---
@@ -138,34 +138,1020 @@ Ein Luxusauto verwandelt sich in Optimus Prime und kämpft gegen Godzilla, wobei
 **Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Quelle:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Veröffentlicht:** Feb 12, 2026
 
 ---
-### Surrealistische Ronin-Action-Szene auf dem Schlachtfeld
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine surreale, actionreiche Schlachtfeldszene am Himmel beschreibt, mit einem maskierten Ronin, der von einem kolossalen geflügelten Biest verfolgt wird, dessen Brust ein Wirbelsturm aus Gewitterwolken ist. Der Prompt enthält spezifische Kamerabewegungen, technische Details (720p, 16:9, 15 Sekunden) und ein dramatisches Finale.
-
-#### 📝 Prompt
-
-```
-Ein surreales Schlachtfeld am Himmel: schwebende Felseninseln treiben durch ein Gewitter, Wolken wirbeln darunter wie ein Ozean. Der maskierte Ronin eilt über die treibenden Plattformen, verfolgt von einem kolossalen geflügelten Biest, dessen Brust ein wirbelnder Strudel aus Gewitterwolken und Blitzen ist. Die Kamera rast von Insel zu Insel und kämpft darum, Schritt zu halten, während Felsen unter ihnen kippen, sich drehen und zerbröseln. Jeder Flügelschlag sendet Schockwellen durch die Luft, erschüttert das Bild und bläst Trümmer und Regen direkt ins Gesicht des Betrachters. Schnelle Handkamera-Schnitte fangen den Ronin ein, wie er unmögliche Lücken überspringt, sein Schwert Lichtbögen zieht, die kurz die Dunkelheit durchschneiden. Das Finale zeigt die Kamera, wie sie hinter ihm her taucht, als er vom letzten zerbröselnden Felsen springt und auf einem Blitz direkt in den Brustwirbel des Monsters reitet, mit einem letzten, alles-oder-nichts-Hieb, der den Sturm von innen heraus explodieren lässt und den Himmel in einem blendenden Blitz klärt.
-
-720p
-16:9
-15 Sekunden
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Surrealistische Ronin-Action-Szene auf dem Schlachtfeld"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Veröffentlicht:** Feb 11, 2026
-
----
 ## 🎬 Alle Prompts
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Gojo vs. Sukuna: Cinematic Battle Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter, mehrstufiger Prompt für Seedance 2.0, um einen filmischen Kampf zwischen Gojo und Sukuna (aus Jujutsu Kaisen) zu generieren, der sich auf Energie-Kollisionen, Charakter-Nahaufnahmen und eine massive finale Explosion konzentriert, wobei der Anime-Stil und visuelle Effekte betont werden.
+
+#### 📝 Prompt
+
+```
+1. Intensive Energiekollision
+Lassen Sie die rote und blaue Energie im Bild explodieren, um die dynamische Spannung der beiden Figuren in einem Patt zu zeigen.
+Ein extrem starkes Licht bricht aus der Mitte des Bildschirms hervor. Der silberhaarige Mann auf der linken Seite entfesselt blendendes blaues elektrisches Licht, und der tätowierte Mann auf der rechten Seite entfesselt dunkelrote Schockwellen. Die beiden halten eine Pattsituation aufrecht. Der umliegende Boden reißt kontinuierlich auf, und Trümmer schweben aufgrund von Gravitationseffekten nach oben. Die Kamera zoomt langsam heran, um den visuellen Druck zu verstärken. Flüssige Animation mit hoher Bildrate, extreme Partikeleffekte, Hardcore-Anime-Stil.
+
+2. Charakter-Nahaufnahme:
+Wünschen Sie das detaillierte Gefühl leichter Fingerbewegungen und des Flusses verfluchter Energie. Nahaufnahme. Der silberhaarige Mann wirkt ruhig, mit einem leichten Lächeln auf den Lippen. Flüssige blaue Energie umhüllt ihn, und sein Haar schwingt heftig im Luftstrom. Der Hintergrund ist eine graue städtische Ruine. Licht und Schatten flackern intensiv über das Gesicht des Charakters und zeigen Animation in höchster Qualität.
+
+3. Charakter-Nahaufnahme:
+Drückt den Wahnsinn des Bösewichts und das bedrückende Gefühl roter verfluchter Energie aus.
+Nahaufnahme. Der Mann mit schwarzen Tätowierungen im ganzen Gesicht lacht wild und faltet die Hände, um komplexe Siegel zu bilden. Rote Blitze zucken an seinen Fingerspitzen. Der Hintergrund ist gefüllt mit hoch aufragendem rotem Licht, voller zerstörerischer Aura. Harte Linien, starker Schattenkontrast, perfekt die Spitzenkampfqualität eines heißblütigen Animes replizierend.
+
+4. Weltzerstörender Finishing Move (Große Szene)
+Zeigen Sie die heftige Explosion nach der Kollision. Vogelperspektive. Zwei massive rote und blaue Energiekugeln dehnen sich in den städtischen Ruinen rasend aus und verschlingen sich gegenseitig, was schließlich eine riesige kugelförmige Explosionswolke auslöst. Eine weiße Schockwelle fegt über alle Gebäude hinweg. Die Kamera wackelt heftig, erfüllt von einem epischen Kriegsgefühl.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/508.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1043356860dab30c6d5e23ebd830baa9/thumbnails/thumbnail.jpg" width="600" alt="Gojo vs. Sukuna: Cinematic Battle Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=508)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2024715414174146561) | **Veröffentlicht:** Feb 20, 2026
+
+---
+### Gepanzerter Säbelzahntiger in der Schiffswerft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Der erste Teil eines Prompts, der in einer Antwort geteilt wurde und eine massive, gepanzerte, kampferprobte Säbelzahnkatze mit leuchtenden, bernsteinfarbenen Augen und Schulterpanzerplatten beschreibt, die nachts durch eine dichte, vom Regen gepeitschte Werft schleicht.
+
+#### 📝 Prompt
+
+```
+Eine dichte, regennasse Werft bei Nacht, hoch aufragende Kräne und halbfertige Kriegsschiffrümpfe bilden ein Labyrinth aus verrostetem Stahl. Eine massive, gepanzerte Säbelzahnkatze, vernarbt und kampferprobt, mit glühenden bernsteinfarbenen Augen und einer mit alten Glyphen verzierten Schulterpanzerung, schleicht
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/504.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f997d7085388456be26d1a1332a15b71/thumbnails/thumbnail.jpg" width="600" alt="Gepanzerter Säbelzahntiger in der Schiffswerft"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=504)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2024617940725780664) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Terminator vs. Predator: Vorstadt-Schlacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine filmische Actionsequenz für Seedance 2.0, die Arnold Schwarzenegger als Terminator T-800 im Kampf mit einem Predator in einem Wohnzimmer in einem Vorort darstellt. Die Szene beinhaltet intensiven Nahkampf, einschließlich Schlägen, Würfen durch Wände, zerschmetterten Möbeln, Funken und Trümmern.
+
+#### 📝 Prompt
+
+```
+Kino-Actionsequenz in einem Vorstadt-Wohnzimmer: Arnold Schwarzenegger als Terminator T-800 kämpft gegen einen Predator mit Handgelenksklingen. Intensiver Nahkampf: Schläge, Würfe durch Wände, zerschmetterte Möbel, Funken und Trümmer.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/513.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75e6ed00c2b592bd30ebccd145d7d7ed/thumbnails/thumbnail.jpg" width="600" alt="Terminator vs. Predator: Vorstadt-Schlacht"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=513)**
+
+**Autor:** [FragZero](https://x.com/FragZero) | **Quelle:** [Link](https://x.com/FragZero/status/2024602699635790191) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Kinoreifer Kampf-Prompt: Mann im weißen Anzug gegen sibirische Langhaarkatze
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein sehr detaillierter, mehrteiliger Prompt für Seedance 2.0 zur Generierung einer filmischen, packenden Kampfkunstszene zwischen einem Mann in einem weißen Anzug und einer zweibeinigen, langhaarigen Sibirischen Katze in einer Grotte, wobei Kamerabewegungen (Orbiting, Bullet Time) und Soundeffekte hervorgehoben werden.
+
+#### 📝 Prompt
+
+```
+【Teil 1: Ruhiger Aufbau · Atmosphäre schaffen】
+Diese beiden Bilder zeigen die beiden Protagonisten einer Konfrontationsszene in einer Grotte. Bitte generieren Sie eine flüssige Konfrontationsszene zwischen dem Mann im weißen Anzug und der sibirischen Langhaarkatze, wobei der Fokus auf den beiden Protagonisten liegt. Storyboarding und der Wechsel zwischen verschiedenen Perspektiven sind erforderlich, um die gesamte Szene rhythmischer und filmischer zu gestalten. Generieren Sie nur Kampfgeräusche und Umgebungsgeräusche; keine Hintergrundmusik:
+Erste Einstellung: Beginnend damit, dass der Mann im weißen Anzug sich mit dem Daumen über die Lippen wischt, schwenkt die Kamera auf den Rücken des Mannes, dann schwenkt sie und zoomt heraus, um die sibirische Langhaarkatze in der Ferne einzublenden.
+Zweite Einstellung: Wechsel zu einer Drohnen-Luftaufnahme in der Totalen.
+Dritte Einstellung: Nahaufnahme der beiden Charaktere. Der gefasste Ausdruck des Mannes im weißen Anzug beim Trinken, und die sibirische Langhaarkatze miaut sehr sanft.
+【Mittlere Wendung: Ruhe gebrochen · Kampf ausgelöst】
+Genau in dem Moment, als der Mann im weißen Anzug ruhig sein Glas hebt und die sibirische Langhaarkatze sanft miaut,
+ziehen sich die grünen Augen der Katze plötzlich zusammen, die Pupillen werden vertikal wie Klingen, und der sanfte Ausdruck verwandelt sich augenblicklich in wilde Tötungsabsicht.
+Das Glas des Mannes im weißen Anzug stoppt an seinen Lippen, sein Lächeln erstarrt, und sein Blick wechselt von entspannt zu extremer Wachsamkeit.
+Die Vorderpfoten der Katze spannen sich plötzlich an, Krallen schießen durch das Fleisch, und das Fell sträubt sich augenblicklich, steht zu Berge.
+Der Mann im weißen Anzug dreht sein Handgelenk, das Glas landet stabil, ohne zu zerbrechen, und sein Körper sinkt augenblicklich in eine Kampfhaltung.
+Die frühere Eleganz und Gelassenheit verschwinden vollständig, ersetzt durch die angespannten Muskeln und die Tötungsabsicht eines erfahrenen Kämpfers.
+Die Temperatur in der Grotte sinkt rapide, und der dünne Nebel wird von den beiden gegensätzlichen Auren aufgewirbelt und verwirbelt.
+Eine Sekunde zuvor war es ein harmloser Blick; in der nächsten ist es eine Konfrontation auf Leben und Tod geworden.
+Die Luft erstarrt, nur das Geräusch von schnellem Atmen und das knisternde Geräusch fallender kleiner Steine sind zu hören.
+Der Kampf steht unmittelbar bevor.
+Begleitende Soundeffekte (nur Umgebungs- + Kampf-SFX, keine BGM):
+Pupillen der Katze ziehen sich zusammen: Leichtes „Zisch —“ Luftstromgeräusch
+Fell sträubt sich: Feines „Schua“ Fellvibrationsgeräusch
+Krallen schießen heraus: Scharfes „Ka“ Schnappen
+Muskeln des Anzugmannes spannen sich an: Stoffstraffungsgeräusch „Zhi“
+Glas sanft auf den Tisch gestellt: Klares „Ding“
+Aura-Druck der Grotte: Tiefe, dumpfe Luftvibration „Weng —“
+Beide Seiten atmen schwer: Schwere Keuchgeräusche
+Bodensteine rollen: Subtile „Da Da“ Geräusche
+【Teil 2: Hardcore-Kampf · Duell auf Leben und Tod】
+Kampfsportkampf auf Filmniveau, in einer Grottenszene, Untersicht, 4K hyperrealistisch, Kinoqualität, 15 Sekunden, schneller Mehrfachschnitt, ausgiebige Bullet-Time-Zeitlupe, Faust-auf-Fleisch-Einschlag.
+Charaktereinstellungen
+Kämpfer 1: Ostasiatischer Mann, realistischer Effekt, etwa 40 Jahre alt, cremefarbener Maßanzug, schwarzes Revers, weißes Hemd, schwarze Krawatte, zurückgekämmtes Haar, kleiner Ziegenbart.
+Kämpfer 2: Sibirische Langhaarkatze, 1,6 Meter groß, vollständig aufrecht gehend, Höhe etwa 1,65 Meter, orange-braunes cremefarbenes Fell, Tabby-Streifen, weißes Brustfell, grüne Augen, spitze Ohren, langes Fell, großer Schwanz. Keine Kleidung, Rüstung oder Accessoires.
+Aufnahmerhythmus
+0–3 Sekunden | Aufnahme 1: Konfrontation · Eröffnungszug
+Weitwinkelaufnahme von unten, die beiden stehen sich gegenüber. Die Katze testet vorsichtig mit der Vorderpfote, der Mann im Anzug verteidigt ruhig, Ausdruck angespannt, schwitzend.
+3–6 Sekunden | Aufnahme 2: Schneller Schlagabtausch (Bullet-Time-Einfügung)
+Schneller Schnitt, Nahaufnahmen von Faust-auf-Fleisch-Einschlägen:
+Katze schlägt schnell mit Krallen zu
+Anzugmann blockt präzise
+Muskelvibration, fliegendes Fell, Anzugfalten unter Belastung
+Bullet Time 0,3x Zeitlupe: Einfrieren des Moments, bevor der Schlag trifft
+6–9 Sekunden | Aufnahme 3: Fliegender Drehkick (Kern-Ultimativzug)
+Nachdem sie den Gegner getroffen hat, stößt sich die Katze vollständig vom Boden ab und springt, der Körper dreht sich in der Luft, führt einen Spinning Back Kick aus. Die Bewegung ist flüssig, der Schwanz hält das Gleichgewicht.
+Bullet Time 0,25x Zeitlupe: Einzelne Haare schweben, Krallen vollständig gespreizt, Nahaufnahme des wilden Ausdrucks.
+9–12 Sekunden | Aufnahme 4: Landung Feger + Zweiter Angriff
+Beim Landen folgt die Katze sofort mit einem tiefen Feger, der den Unterkörper angreift. Staub und Nebel steigen auf. Der Anzugmann weicht knapp zurück, verliert das Gleichgewicht, Nahaufnahme eines schmerzhaften Ausdrucks. Die Aktion ist flüssig und kontinuierlich, mit Hochgeschwindigkeitskameraführung durchgehend.
+12–15 Sekunden | Aufnahme 5: Pattsituation · Spannungsklimax
+Beide Seiten stehen sich wieder gegenüber, atmen schnell, Nahaufnahme von Schweiß im Gesicht und dem keuchenden Ausdruck der Katze. Das Bild friert im Moment höchster Spannung ein und beendet die Szene.
+Einheitliche visuelle Spezifikationen
+4K hyperrealistische Qualität, Bewegungsunschärfe, dünner Bodennebel, volumetrische Lichtstrahlen, intensiv explosive Atmosphäre.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/507.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e6fb7cbe25b26ccf4316a63b2044bc76/thumbnails/thumbnail.jpg" width="600" alt="Kinoreifer Kampf-Prompt: Mann im weißen Anzug gegen sibirische Langhaarkatze"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=507)**
+
+**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2024573731507753282) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### GTA: San Andreas – Nachstellung der Eröffnungsszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt, der darauf abzielt, die ikonische Eröffnungsszene von GTA: San Andreas nachzubilden, wobei der Fokus auf Carl 'CJ' Johnson liegt, der eine Gasse entlanggeht, während die Titelmusik spielt, und dann in ein modernes, fotorealistisches Vorstadthaus übergeht.
+
+#### 📝 Prompt
+
+```
+Das ikonische Eröffnungsriff des GTA: San Andreas-Themas spielt im Hintergrund. Wir sehen Carl „CJ“ Johnson von hinten (in seinem ikonischen weißen Tanktop, blauen Jeans und einer Goldkette), wie er eine Gasse entlanggeht; die Kamera fährt zurück, um ein modernes, vorstädtisches, fotorealistisches Haus zu enthüllen.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/502.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0e9cacc0b1f5ee64c9b9d7469a296e6/thumbnails/thumbnail.jpg" width="600" alt="GTA: San Andreas – Nachstellung der Eröffnungsszene"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=502)**
+
+**Autor:** [Alex Patrascu](https://x.com/maxescu) | **Quelle:** [Link](https://x.com/maxescu/status/2024551948276633918) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Motelzimmer-Spionagesequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Live-Action-Filmsequenz-Prompt für Seedance 2.0, der eine angespannte Szene in einem billigen Motelzimmer detailliert beschreibt. Eine Frau wirft ihre Schlüssel, überprüft den Parkplatz durch die Jalousien und holt eine leuchtend blaue Festplatte und Pässe aus einem versteckten Lüftungsschacht hervor, um sich für „nur noch eine Nacht“ zur Abreise bereitzumachen.
+
+#### 📝 Prompt
+
+```
+Live-Action-Filmsequenz. Eine Frau wirft ihre Schlüssel auf eine billige Motelkommode. Ein Neonschild summt draußen. Stille. Sie späht durch die Jalousien auf den leeren Parkplatz. Scheinwerfer streifen langsam über die Wand. Sie hält den Atem an und tritt in die Schatten. Das Auto fährt vorbei, ohne anzuhalten. Sie atmet aus, kniet nieder und schiebt ein altes Lüftungsgitter beiseite. Schnitt nach innen: eine leuchtend blaue Festplatte und ein Stapel verschiedener Pässe. Sie stopft sie in einen Rucksack und murmelt: „Nur noch eine Nacht.“ Sie greift nach ihrer Jacke und geht hinaus.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/512.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eab511b6adb8081eb46886421bc4e6bb/thumbnails/thumbnail.jpg" width="600" alt="Motelzimmer-Spionagesequenz"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=512)**
+
+**Autor:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **Quelle:** [Link](https://x.com/ivanka_humeniuk/status/2024531647664935233) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Kitten MotoGP-Rennen: Filmischer Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, mehrstufiger Prompt für Seedance 2.0, der ein Referenzbild eines Kätzchens erfordert. Der Prompt generiert eine filmische Sequenz, in der das Kätzchen einen kleinen Wagen fährt und auf einer MotoGP-Strecke rast, einschließlich spezifischer Kamerawinkel, Aktionschoreografie (Überholen, Wheelie) und der Hinzufügung eines authentischen englischen MotoGP-Kommentars.
+
+#### 📝 Prompt
+
+```
+Das von mir bereitgestellte Bild zeigt mein Kätzchen – bitte verwenden Sie es als Charaktermodell-Referenz.
+Erstellen Sie ein Video, in dem das Kätzchen in einem kleinen Wagen auf einer MotoGP-Strecke fährt und Rennen fährt.
+
+Das Kätzchen überholt das Honda #93 Rennmotorrad in einer Kurve (diese Sequenz sollte 3 Sekunden dauern).
+
+Schnitt auf eine Rückansicht des Kätzchens, gefilmt aus einem niedrigen Winkel auf Bodenhöhe, der das Kätzchen zeigt, wie es sich stark in die Kurve lehnt (3 Sekunden).
+
+Dann verwenden Sie eine Ultra-Teleobjektivaufnahme des Kätzchens, das durch eine große C-förmige Kurve rast (3 Sekunden).
+
+Wechseln Sie zu einer Weitwinkelaufnahme, die das Kätzchen und das Honda #93 Motorrad zeigt, wie sie die letzte Kurve vor der Ziellinie durchfahren (3 Sekunden).
+
+Zum Schluss zeigen Sie, wie das Kätzchen den Vorderwagen in einen Wheelie hebt, während es die Ziellinie überquert (3 Sekunden).
+
+Fügen Sie während des gesamten Videos einen authentischen, männlichen englischen Kommentar im MotoGP-Stil hinzu – aber nur für das Eröffnungsüberholmanöver und den Moment an der Ziellinie.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/500.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76da5b30442a195a6873d796327d923/thumbnails/thumbnail.jpg" width="600" alt="Kitten MotoGP-Rennen: Filmischer Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=500)**
+
+**Autor:** [underwood](https://x.com/underwoodxie96) | **Quelle:** [Link](https://x.com/underwoodxie96/status/2024511160503132494) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Gojo vs. Sukuna Animation mit Seedance 2
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Nutzer präsentiert eine KI-generierte Animation des beliebten Anime-Kampfes zwischen Gojo und Sukuna, erstellt mit Seedance 2 auf Big Motion AI, und hebt dabei die Fähigkeit des Tools hervor, komplexe Kampfszenen zu animieren.
+
+#### 📝 Prompt
+
+```
+Gojo vs. Sukuna: Der Kampf, auf den wir alle gewartet haben
+
+Die Studios müssen Sukuna vs. Gojo animieren
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/515.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e338545f4b1b139a12a6a9b8574e20ef/thumbnails/thumbnail.jpg" width="600" alt="Gojo vs. Sukuna Animation mit Seedance 2"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=515)**
+
+**Autor:** [Yaseen Khan Gul](https://x.com/YaseenK7212) | **Quelle:** [Link](https://x.com/YaseenK7212/status/2024504794748997965) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Dämonen, Halbgötter und das Elixier des Lebens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt basierend auf der hinduistischen Mythologie für Seedance Pro 2.0, der Dämonen und Halbgötter beschreibt, die den mystischen Ozean nach dem Elixier des Lebens durchrühren, was sowohl zum Elixier als auch zu tödlichem Gift führt.
+
+#### 📝 Prompt
+
+```
+Dämonen und Halbgötter rühren den mystischen Ozean nach dem Elixier des Lebens um. Doch zusammen mit dem Elixier kommt auch tödliches Gift zum Vorschein. Was geschieht als Nächstes?
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/521.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65d44941aa5f13ee07e8d279510211b1/thumbnails/thumbnail.jpg" width="600" alt="Dämonen, Halbgötter und das Elixier des Lebens"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=521)**
+
+**Autor:** [Refiner STUDIO](https://x.com/RefinerMANDAP) | **Quelle:** [Link](https://x.com/RefinerMANDAP/status/2024496476781760833) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Live-Action-Szenenwechsel-Prompt (Zufällig)
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt für eine ultraschnelle metrische Montage, die alle 0,1 Sekunden zwischen Live-Action-Szenen von weltweiten Touristenattraktionen und Kulturerbestätten wechselt. Die Sequenz beginnt am Tokyo Tower, endet am Skytree und randomisiert die Orte dazwischen.
+
+#### 📝 Prompt
+
+```
+Metrische Montage mit extrem hoher Geschwindigkeit, die alle 0,1 Sekunden zwischen Live-Aufnahmen von touristischen Attraktionen und Weltkulturerbestätten wechselt.
+Die Sequenz beginnt am Tokyo Tower, endet am Skytree, und die Zwischenstationen werden zufällig vom System festgelegt.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/520.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a26d6bd97fd8e190a4044958fb74f947/thumbnails/thumbnail.jpg" width="600" alt="Live-Action-Szenenwechsel-Prompt (Zufällig)"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=520)**
+
+**Autor:** [Muse｜AI音楽＆AI動画](https://x.com/projectmuse_ai) | **Quelle:** [Link](https://x.com/projectmuse_ai/status/2024479128578298229) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Live-Action-Szenenwechsel-Prompt (Breite/Länge)
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt für eine ultraschnelle metrische Montage, die alle 0,1 Sekunden zwischen Live-Action-Szenen wechselt, wobei die Orte anhand von Breiten- und Längengradkoordinaten in der Sequenz angegeben werden. Jeder Schnitt muss ein Video mit Kameraführung sein.
+
+#### 📝 Prompt
+
+```
+Gesamtstruktur:
+  - Metrische Montage mit extrem hoher Geschwindigkeit, bei der alle 0,1 Sekunden zwischen Live-Szenen gewechselt wird, entsprechend den in der folgenden Sequenz beschriebenen Koordinaten (Breiten- und Längengrad).
+  - Jeder Schnitt muss ein Video sein, kein Standbild, und Kamerafahrten beinhalten.
+  - Sequenz:
+    - 0,0s: 35.6586, 139.7454 (Tokyo Tower)
+    - 0,1s: 35.6591, 139.7031 (Shibuya Scramble Crossing)
+    - 0,2s: 35.7147, 139.7967 (Senso-ji Temple)
+    - 0,3s: 35.6851, 139.7528 (Kaiserpalast)
+    - 0,4s: 35.6672, 139.7618 (Kabuki-za Theater)
+    - 0,5s: 35.7058, 139.7518 (Tokyo Dome)
+    - 0,6s: 35.7171, 139.7714 (Ueno Zoo)
+    - 0,7s: 35.6606, 139.7311 (Roppongi Hills)
+    - 0,8s: 35.6812, 139.7671 (Tokyo Station)
+    - 0,9s: 35.7022, 139.7745 (Akihabara)
+    - 1,0s: 35.6657, 139.7709 (Tsukiji Market)
+    - 1,1s: 35.6922, 139.7447 (Yasukuni Shrine)
+    - 1,2s: 35.6852, 139.7107 (Shinjuku Gyoen National Garden)
+    - 1,3s: 35.6617, 139.7645 (Hama-rikyu Gardens)
+    - 1,4s: 35.6792, 139.7388 (Akasaka Palace State Guest House)
+    - 1,5s: 35.6759, 139.7452 (National Diet Building)
+    - 1,6s: 35.7188, 139.7753 (Tokyo National Museum)
+    - 1,7s: 35.7153, 139.7753 (National Museum of Nature and Science)
+    - 1,8s: 35.6898, 139.6920 (Tokyo Metropolitan Government Building)
+    - 1,9s: 35.6298, 139.7788 (Statue of Liberty (Odaiba))
+    - 2,0s: 35.3606, 138.7274 (Mount Fuji)
+    - 2,1s: 43.0617, 141.3538 (Sapporo Clock Tower)
+    - 2,2s: 41.7687, 140.7064 (Mount Hakodate)
+    - 2,3s: 38.2578, 140.8672 (Sendai Castle Ruins)
+    - 2,4s: 38.3739, 141.0667 (Matsushima)
+    - 2,5s: 36.7588, 139.5990 (Nikko Toshogu Shrine)
+    - 2,6s: 36.5614, 136.6562 (Kenroku-en Garden)
+    - 2,7s: 36.0683, 136.3764 (Eihei-ji Temple)
+    - 2,8s: 36.6568, 138.1878 (Zenko-ji Temple)
+    - 2,9s: 35.7417, 138.7786 (Fuji-Q Highland)
+    - 3,0s: 35.0964, 139.0778 (Atami Onsen)
+    - 3,1s: 34.4558, 136.7214 (Ise Grand Shrine)
+    - 3,2s: 34.6881, 135.8392 (Todai-ji Temple)
+    - 3,3s: 34.8394, 134.6892 (Himeji Castle)
+    - 3,4s: 34.2958, 132.3188 (Itsukushima Shrine)
+    - 3,5s: 34.3955, 132.4539 (Hiroshima Peace Memorial Park)
+    - 3,6s: 33.8458, 132.7750 (Dogo Onsen)
+    - 3,7s: 33.5222, 130.5342 (Dazaifu Tenman-gū)
+    - 3,8s: 32.8058, 130.7058 (Kumamoto Castle)
+    - 3,9s: 31.5833, 130.6500 (Sakurajima)
+    - 4,0s: 26.2167, 127.7183 (Shuri Castle)
+    - 4,1s: 40.7580, -73.9855 (New York Times Square)
+    - 4,2s: 40.6892, -74.0445 (New York Statue of Liberty)
+    - 4,3s: 40.7812, -73.9665 (New York Central Park)
+    - 4,4s: 51.5007, -0.1246 (London Big Ben)
+    - 4,5s: 51.5081, -0.0759 (London Tower of London)
+    - 4,6s: 51.5014, -0.1419 (London Buckingham Palace)
+    - 4,7s: 48.8584, 2.2945 (Paris Eiffelturm)
+    - 4,8s: 48.8606, 2.3376 (Paris Louvre Museum)
+    - 4,9s: 48.8738, 2.2950 (Paris Arc de Triomphe)
+    - 5,0s: 41.8902, 12.4922 (Rom Kolosseum)
+    - 5,1s: 41.9009, 12.4833 (Rom Trevi-Brunnen)
+    - 5,2s: 41.9029, 12.4534 (Rom Vatikanstadt)
+    - 5,3s: 40.4319, 116.5704 (Peking Chinesische Mauer)
+    - 5,4s: 39.9164, 116.3972 (Peking Verbotene Stadt)
+    - 5,5s: 39.9042, 116.4074 (Peking Tiananmen-Platz)
+    - 5,6s: -33.8568, 151.2153 (Sydney Opera House)
+    - 5,7s: -33.8523, 151.2108 (Sydney Harbour Bridge)
+    - 5,8s: -33.8914, 151.2748 (Sydney Bondi Beach)
+    - 5,9s: -22.9519, -43.2105 (Rio de Janeiro Christus der Erlöser)
+    - 6,0s: -22.9711, -43.1828 (Rio de Janeiro Copacabana Beach)
+    - 6,1s: -22.9481, -43.1633 (Rio de Janeiro Zuckerhut)
+    - 6,2s: 29.9792, 31.1342 (Kairo Pyramiden von Gizeh)
+    - 6,3s: 29.9753, 31.1376 (Kairo Sphinx)
+    - 6,4s: 30.0450, 31.2336 (Kairo Ägyptisches Museum)
+    - 6,5s: 41.0086, 28.9802 (Istanbul Hagia Sophia)
+    - 6,6s: 41.0054, 28.9768 (Istanbul Blaue Moschee)
+    - 6,7s: 41.0117, 28.9833 (Istanbul Topkapi-Palast)
+    - 6,8s: 55.7541, 37.6203 (Moskau Roter Platz)
+    - 6,9s: 55.7525, 37.6231 (Moskau Basilius-Kathedrale)
+    - 7,0s: 55.7520, 37.6175 (Moskau Kreml)
+    - 7,1s: 52.5163, 13.3777 (Berlin Brandenburger Tor)
+    - 7,2s: 52.5075, 13.4447 (Berlin Berliner Mauer)
+    - 7,3s: 52.5186, 13.3762 (Berlin Reichstagsgebäude)
+    - 7,4s: 52.3584, 4.8811 (Amsterdam Van Gogh Museum)
+    - 7,5s: 52.3599, 4.8852 (Amsterdam Rijksmuseum)
+    - 7,6s: 52.3752, 4.8839 (Amsterdam Anne Frank Haus)
+    - 7,7s: 13.7457, 100.4871 (Bangkok Wat Arun)
+    - 7,8s: 13.7467, 100.4930 (Bangkok Wat Pho)
+    - 7,9s: 13.7511, 100.4937 (Bangkok Großer Palast)
+    - 8,0s: 37.5796, 126.9770 (Seoul Gyeongbokgung Palast)
+    - 8,1s: 37.5512, 126.9882 (Seoul N Seoul Tower)
+    - 8,2s: 37.5609, 126.9860 (Seoul Myeongdong)
+    - 8,3s: 25.0339, 121.5645 (Taipeh Taipeh 101)
+    - 8,4s: 25.1017, 121.5484 (Taipeh Nationales Palastmuseum)
+    - 8,5s: 25.0374, 121.4998 (Taipeh Lungshan Tempel)
+    - 8,6s: 25.1017, 121.5484 (Dubai Burj Khalifa)
+    - 8,7s: 25.1414, 55.1853 (Dubai Burj Al Arab)
+    - 8,8s: 25.1972, 55.2744 (Dubai Dubai Mall)
+    - 8,9s: 1.2833, 103.8592 (Singapur Marina Bay Sands)
+    - 9,0s: 1.2867, 103.8545 (Singapur Merlion Park)
+    - 9,1s: 1.2816, 103.8637 (Singapur Gardens by the Bay)
+    - 9,2s: 22.2700, 114.1500 (Hongkong Victoria Peak)
+    - 9,3s: 22.3080, 114.0420 (Hongkong Hong Kong Disneyland)
+    - 9,4s: 22.2960, 114.1730 (Hongkong Tsim Sha Tsui)
+    - 9,5s: 36.1147, -115.1767 (Las Vegas Fountains of Bellagio)
+    - 9,6s: 36.1437, -115.1558 (Las Vegas Stratosphere Tower)
+    - 9,7s: 36.1000, -112.1000 (Las Vegas Grand Canyon)
+    - 9,8s: 34.1341, -118.3215 (Los Angeles Hollywood Sign)
+    - 9,9s: 34.1185, -118.3004 (Los Angeles Griffith Observatory)
+    - 10,0s: 34.0100, -118.4900 (Los Angeles Santa Monica)
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/519.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4d2a1c083b460449ef051724dd8901d/thumbnails/thumbnail.jpg" width="600" alt="Live-Action-Szenenwechsel-Prompt (Breite/Länge)"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=519)**
+
+**Autor:** [Muse｜AI音楽＆AI動画](https://x.com/projectmuse_ai) | **Quelle:** [Link](https://x.com/projectmuse_ai/status/2024479070369828892) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Live-Action-Szenenwechsel-Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt für eine ultraschnelle metrische Montage, die alle 0,1 Sekunden zwischen Live-Action-Szenen wechselt, wobei der Ort in der Sequenz angegeben ist. Jeder Schnitt muss ein Video mit Kameraführung sein.
+
+#### 📝 Prompt
+
+```
+Gesamtstruktur:
+  - Ultra-High-Speed-Metrik-Montage, die alle 0,1 Sekunden zwischen Live-Action-Szenen gemäß der untenstehenden Reihenfolge wechselt.
+  - Jeder Schnitt muss ein Video sein, kein Standbild, und Kamerabewegungen beinhalten.
+  - Sequenz:
+    - 0,0s: Tokyo Tower
+    - 0,1s: Shibuya Scramble Crossing
+    - 0,2s: Senso-ji Tempel
+    - 0,3s: Kaiserpalast
+    - 0,4s: Kabuki-za Theater
+    - 0,5s: Tokyo Dome
+    - 0,6s: Ueno Zoo
+    - 0,7s: Roppongi Hills
+    - 0,8s: Tokyo Station
+    - 0,9s: Akihabara
+    - 1,0s: Tsukiji Markt
+    - 1,1s: Yasukuni Schrein
+    - 1,2s: Shinjuku Gyoen National Garden
+    - 1,3s: Hama-rikyu Gärten
+    - 1,4s: Akasaka Palace State Guest House
+    - 1,5s: National Diet Building
+    - 1,6s: Tokyo National Museum
+    - 1,7s: National Museum of Nature and Science
+    - 1,8s: Tokyo Metropolitan Government Building
+    - 1,9s: Freiheitsstatue (Odaiba)
+    - 2,0s: Berg Fuji
+    - 2,1s: Sapporo Clock Tower
+    - 2,2s: Berg Hakodate
+    - 2,3s: Sendai Castle Ruins
+    - 2,4s: Matsushima
+    - 2,5s: Nikko Toshogu Schrein
+    - 2,6s: Kenroku-en Garten
+    - 2,7s: Eihei-ji Tempel
+    - 2,8s: Zenko-ji Tempel
+    - 2,9s: Fuji-Q Highland
+    - 3,0s: Atami Onsen
+    - 3,1s: Ise Grand Shrine
+    - 3,2s: Todai-ji Tempel
+    - 3,3s: Himeji Castle
+    - 3,4s: Itsukushima Schrein
+    - 3,5s: Hiroshima Peace Memorial Park
+    - 3,6s: Dogo Onsen
+    - 3,7s: Dazaifu Tenman-gū
+    - 3,8s: Kumamoto Castle
+    - 3,9s: Sakurajima
+    - 4,0s: Shuri Castle
+    - 4,1s: New York Times Square
+    - 4,2s: New York Freiheitsstatue
+    - 4,3s: New York Central Park
+    - 4,4s: London Big Ben
+    - 4,5s: London Tower of London
+    - 4,6s: London Buckingham Palace
+    - 4,7s: Paris Eiffelturm
+    - 4,8s: Paris Louvre Museum
+    - 4,9s: Paris Arc de Triomphe
+    - 5,0s: Rom Kolosseum
+    - 5,1s: Rom Trevi-Brunnen
+    - 5,2s: Rom Vatikanstadt
+    - 5,3s: Peking Chinesische Mauer
+    - 5,4s: Peking Verbotene Stadt
+    - 5,5s: Peking Tiananmen-Platz
+    - 5,6s: Sydney Opernhaus
+    - 5,7s: Sydney Harbour Bridge
+    - 5,8s: Sydney Bondi Beach
+    - 5,9s: Rio de Janeiro Christus der Erlöser
+    - 6,0s: Rio de Janeiro Copacabana Beach
+    - 6,1s: Rio de Janeiro Zuckerhut
+    - 6,2s: Kairo Pyramiden von Gizeh
+    - 6,3s: Kairo Sphinx
+    - 6,4s: Kairo Ägyptisches Museum
+    - 6,5s: Istanbul Hagia Sophia
+    - 6,6s: Istanbul Blaue Moschee
+    - 6,7s: Istanbul Topkapi-Palast
+    - 6,8s: Moskau Roter Platz
+    - 6,9s: Moskau Basilius-Kathedrale
+    - 7,0s: Moskau Kreml
+    - 7,1s: Berlin Brandenburger Tor
+    - 7,2s: Berlin Berliner Mauer
+    - 7,3s: Berlin Reichstagsgebäude
+    - 7,4s: Amsterdam Van Gogh Museum
+    - 7,5s: Amsterdam Rijksmuseum
+    - 7,6s: Amsterdam Anne Frank Haus
+    - 7,7s: Bangkok Wat Arun
+    - 7,8s: Bangkok Wat Pho
+    - 7,9s: Bangkok Großer Palast
+    - 8,0s: Seoul Gyeongbokgung Palast
+    - 8,1s: Seoul N Seoul Tower
+    - 8,2s: Seoul Myeongdong
+    - 8,3s: Taipeh Taipei 101
+    - 8,4s: Taipeh Nationales Palastmuseum
+    - 8,5s: Taipeh Lungshan Tempel
+    - 8,6s: Dubai Burj Khalifa
+    - 8,7s: Dubai Burj Al Arab
+    - 8,8s: Dubai Dubai Mall
+    - 8,9s: Singapur Marina Bay Sands
+    - 9,0s: Singapur Merlion Park
+    - 9,1s: Singapur Gardens by the Bay
+    - 9,2s: Hongkong Victoria Peak
+    - 9,3s: Hongkong Hong Kong Disneyland
+    - 9,4s: Hongkong Tsim Sha Tsui
+    - 9,5s: Las Vegas Fountains of Bellagio
+    - 9,6s: Las Vegas Stratosphere Tower
+    - 9,7s: Las Vegas Grand Canyon
+    - 9,8s: Los Angeles Hollywood Sign
+    - 9,9s: Los Angeles Griffith Observatory
+    - 10,0s: Los Angeles Santa Monica
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/517.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4767f18140e152a7d564fb5c9593867b/thumbnails/thumbnail.jpg" width="600" alt="Live-Action-Szenenwechsel-Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=517)**
+
+**Autor:** [Muse｜AI音楽＆AI動画](https://x.com/projectmuse_ai) | **Quelle:** [Link](https://x.com/projectmuse_ai/status/2024479011251044437) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Anime-Charakter-Wechsel-Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Eine Prompt-Sequenz, die für eine extrem schnelle Metrik-Montage entwickelt wurde, bei der alle 0,1 Sekunden zwischen Anime-Charakteren gewechselt wird. Die Anweisungen verwenden kurze Sätze, die Gesichts-Emojis und Charaktermerkmale kombinieren, generiert von Gemini.
+
+#### 📝 Prompt
+
+```
+Gesamtstruktur:
+  - Ultrahohe Metrik-Montage, die alle 0,1 Sekunden zwischen Anime-Charakteren gemäß der folgenden Reihenfolge wechselt.
+  - Jeder Schnitt muss ein Video sein, kein Standbild, und Kameraarbeit beinhalten.
+  - Sequenz:
+    - 0,0s: 😃 High School Girl
+    - 0,1s: 😠 High School Girl
+    - 0,2s: 😭 High School Girl
+    - 0,3s: 😳 High School Girl
+    - 0,4s: 😡 High School Girl
+    - 0,5s: 😇 High School Girl
+    - 0,6s: 😈 High School Girl
+    - 0,7s: 🤡 High School Girl
+    - 0,8s: 👽 High School Girl
+    - 0,9s: 🤖 High School Girl
+    - 1,0s: 💩 High School Girl
+    - 1,1s: 👻 High School Girl
+    - 1,2s: 💀 High School Girl
+    - 1,3s: 😺 High School Girl
+    - 1,4s: 😸 High School Girl
+    - 1,5s: 😹 High School Girl
+    - 1,6s: 😻 High School Girl
+    - 1,7s: 😼 High School Girl
+    - 1,8s: 😽 High School Girl
+    - 1,9s: 😾 High School Girl
+    - 2,0s: 😿 High School Girl
+    - 2,1s: 🙉 High School Girl
+    - 2,2s: 🙈 High School Girl
+    - 2,3s: 🙊 High School Girl
+    - 2,4s: 💋 High School Girl
+    - 2,5s: 💘 High School Girl
+    - 2,6s: 💖 High School Girl
+    - 2,7s: 💗 High School Girl
+    - 2,8s: 💓 High School Girl
+    - 2,9s: 💔 High School Girl
+    - 3,0s: 🔥 High School Girl
+    - 3,1s: 💯 High School Girl
+    - 3,2s: 💥 High School Girl
+    - 3,3s: 💫 High School Girl
+    - 3,4s: 💦 High School Girl
+    - 3,5s: 💨 High School Girl
+    - 3,6s: 💤 High School Girl
+    - 3,7s: 💢 High School Girl
+    - 3,8s: 🎵 High School Girl
+    - 3,9s: 🎶 High School Girl
+    - 4,0s: ⚡️ High School Girl
+    - 4,1s: ☔️ High School Girl
+    - 4,2s: ❄️ High School Girl
+    - 4,3s: ☀️ High School Girl
+    - 4,4s: 🌙 High School Girl
+    - 4,5s: ⭐️ High School Girl
+    - 4,6s: 🌟 High School Girl
+    - 4,7s: ✨ High School Girl
+    - 4,8s: 🌈 High School Girl
+    - 4,9s: 🌊 High School Girl
+    - 5,0s: 🍎 High School Girl
+    - 5,1s: 🍐 High School Girl
+    - 5,2s: 🍊 High School Girl
+    - 5,3s: 🍋 High School Girl
+    - 5,4s: 🍌 High School Girl
+    - 5,5s: 🍉 High School Girl
+    - 5,6s: 🍇 High School Girl
+    - 5,7s: 🍓 High School Girl
+    - 5,8s: 🍈 High School Girl
+    - 5,9s: 🍒 High School Girl
+    - 6,0s: 🍑 High School Girl
+    - 6,1s: 🥭 High School Girl
+    - 6,2s: 🍍 High School Girl
+    - 6,3s: 🥥 High School Girl
+    - 6,4s: 🥝 High School Girl
+    - 6,5s: 🍅 High School Girl
+    - 6,6s: 🍆 High School Girl
+    - 6,7s: 🥑 High School Girl
+    - 6,8s: 🥦 High School Girl
+    - 6,9s: 🥬 High School Girl
+    - 7,0s: 🥒 High School Girl
+    - 7,1s: 🌶 High School Girl
+    - 7,2s: 🌽 High School Girl
+    - 7,3s: 🥕 High School Girl
+    - 7,4s: 🥔 High School Girl
+    - 7,5s: 🍠 High School Girl
+    - 7,6s: 🥐 High School Girl
+    - 7,7s: 🍞 High School Girl
+    - 7,8s: 🥖 High School Girl
+    - 7,9s: 🥨 High School Girl
+    - 8,0s: 🧀 High School Girl
+    - 8,1s: 🥚 High School Girl
+    - 8,2s: 🍳 High School Girl
+    - 8,3s: 🧈 High School Girl
+    - 8,4s: 🥞 High School Girl
+    - 8,5s: 🧇 High School Girl
+    - 8,6s: 🥓 High School Girl
+    - 8,7s: 🥩 High School Girl
+    - 8,8s: 🍗 High School Girl
+    - 8,9s: 🍖 High School Girl
+    - 9,0s: 🍤 High School Girl
+    - 9,1s: 🍣 High School Girl
+    - 9,2s: 🍙 High School Girl
+    - 9,3s: 🍚 High School Girl
+    - 9,4s: 🍘 High School Girl
+    - 9,5s: 🍥 High School Girl
+    - 9,6s: 🥠 High School Girl
+    - 9,7s: 🥮 High School Girl
+    - 9,8s: 🍢 High School Girl
+    - 9,9s: 🍡 High School Girl
+    - 10,0s: 🍧 High School Girl
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/516.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/16827b73d34f13746cde9fc7c08b3bc5/thumbnails/thumbnail.jpg" width="600" alt="Anime-Charakter-Wechsel-Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=516)**
+
+**Autor:** [Muse｜AI音楽＆AI動画](https://x.com/projectmuse_ai) | **Quelle:** [Link](https://x.com/projectmuse_ai/status/2024478951444271124) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Aufforderung: Roboter-Kampffilm aus den 1970er Jahren im düsteren Sci-Fi-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine 15-sekündige Sequenz eines unterirdischen Roboterkampfes generieren soll. Er spezifiziert den Stil (1970er Gritty Sci-Fi, Real Steel Ästhetik), Kamerawinkel, Aktionschoreografie, Soundeffekte, Physik und Farbkorrektur (entsättigtes warmes Braun + metallisches Grau).
+
+#### 📝 Prompt
+
+```
+Stil: Düsterer 70er-Jahre-Sci-Fi-Sportfilm, Real Steel-Ästhetik, entsättigtes 35-mm-Filmmaterial, praktische Roboterkampfszene: Unterirdischer Roboterkampfkäfig. Zwei 2,5 m große Kampfroboter – einer schwarz (Held), einer silbern (Gegner) – liefern sich einen schnellen Nahkampf im Karate-Stil. Rostiger Maschendrahtzaun, Betonboden, grelle Deckenstrahler, verschwommene Menschenmenge im Hintergrund. [00-03s] Schneller Schlagabtausch. Schwarzer Roboter blockt den Schlag des silbernen Roboters (Funken fliegen), kontert mit einem Haken zum Kopf (Panzerung verbeult), dann eine schnelle 1-2-Kombination (mehr Funken). Silberner Roboter verteidigt sich mit gekreuzten Armen. Handkamera, Seitenansicht. Metallische Aufprallgeräusche. [03-07s] Silberner Roboter stürmt vor, rammt den schwarzen Roboter mit der Schulter in die Brust. Schwarzer Roboter rutscht zurück, bleibt aber standhaft (Panzerung intakt). Silberner Roboter versucht einen Kniestoß, schwarzer Roboter fängt ihn ab und hält ihn fest. 0,5 Sekunden Kampf, zischendes Geräusch einer hydraulischen Überlastung. Aufnahme aus der Froschperspektive betont die Kraft. Die Menge brüllt. [07-11s] Der entscheidende Konter des schwarzen Roboters: HIGH KICK (Karate-Stil). Schnelle Ausholbewegung, rechtes Bein SCHNELL ausgestreckt, Fuß trifft den Kopf des silbernen Roboters. EXTREME ZEITLUPE (0,25x): Panzerung bricht, massive Funken, Hydraulikleitung platzt (schwarzer Nebel), Kopf verdreht sich um 90°. Silberner Roboter dreht sich und fällt. Weitwinkelaufnahme von der Seite fängt den gesamten Kickbogen ein. [11-15s] Silberner Roboter stürzt zu Boden (Staubwolke), Funken aus dem gesprungenen Kopf, Gliedmaßen zucken und hören dann auf. Schwarzer Roboter senkt das Bein, dreht sich zur Kamera (Gegenlicht, rote Augen leuchten). Weitwinkelaufnahme von oben: einer steht, einer liegt. Abblende. Keine Untertitel. Kein Dialog. Nur Metallaufprälle, Hydraulik, Funken, Geräusche der Menge. Physik: Alle Aufprälle gehorchen Newtons Gesetzen. Gewicht, Trägheit, Impuls sichtbar. Trümmer/Funken fallen realistisch. Farbe: Entsättigtes warmes Braun + Metallic-Grau + Funken-Orange + Hydraulik-Schwarz. Filmkorn +25%.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/496.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1e05cfe17f127e0f444c0f203ad3662/thumbnails/thumbnail.jpg" width="600" alt="Aufforderung: Roboter-Kampffilm aus den 1970er Jahren im düsteren Sci-Fi-Stil"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=496)**
+
+**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2024474572288926191) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Astronaut verwandelt sich auf gefrorenem Exoplaneten in eisangepassten Humanoiden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, filmischer Prompt für Seedance 2.0, der die langsame, ultrarealistische Transformation eines einzelnen Astronauten in einen an Eis angepassten Humanoiden auf einem gefrorenen Exoplaneten unter einer schwachen blauen Sonne beschreibt.
+
+#### 📝 Prompt
+
+```
+Ein einsamer Astronaut in einem Standard-Raumanzug landet auf einem gefrorenen Exoplaneten, der unter einer schwachen blauen Sonne von endlosen Gletschern bedeckt ist. Langsame, filmische Einstellung: Er nimmt seinen Helm ab, kalter Dampf erfüllt die Luft, seine Haut wird allmählich durchscheinend und kristallin, Adern leuchten eisblau, sein Körper entwickelt eine dicke isolierende Fettschicht und frostähnliche Schuppen, Augen werden facettiert wie Eiskristalle, bis er zu einem anmutigen, an Eis angepassten Humanoiden wird, der über die Oberfläche gleitet. Ultrarealistisch, langsame Transformation, dramatische Beleuchtung.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/490.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b74dbd3563226a3717f4f7a0699c5ef3/thumbnails/thumbnail.jpg" width="600" alt="Astronaut verwandelt sich auf gefrorenem Exoplaneten in eisangepassten Humanoiden"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=490)**
+
+**Autor:** [Alin](https://x.com/Alin_Reaper05) | **Quelle:** [Link](https://x.com/Alin_Reaper05/status/2024474543234904286) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Zwei filmische Story-Prompts zum Thema Risikobereitschaft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zwei kurze, hochkonzeptuelle filmische Prompts für Seedance 2.0, die sich auf dramatische, risikoreiche Aktionen konzentrieren: das Tauchen nach einer Perle in Haigebiet und das Segeln in eine einstürzende Stadt.
+
+#### 📝 Prompt
+
+```
+🎬 1 .Sie tauchte für eine einzige Perle in Haigebiet.
+🎬 2 .Er segelte in eine einstürzende Stadt, um einen Fremden zu fangen.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/497.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79170e74f27be852434ac0e28e943734/thumbnails/thumbnail.jpg" width="600" alt="Zwei filmische Story-Prompts zum Thema Risikobereitschaft"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=497)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2024463833696194933) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Hyperrealistisches UGC-Videoskript für Hautpflege-Ergänzungsmittel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein extrem detaillierter, mehrteiliger Prompt/Skript für Seedance 2.0, der darauf ausgelegt ist, ein hyperrealistisches, nutzergeneriertes Content (UGC)-Video für ein Hautpflege-Nahrungsergänzungsmittel zu erstellen, mit genauen Angaben zu Einstellung, Beleuchtung, Kamera, Motiv, Audio, Requisiten, Handlung und Dialog.
+
+#### 📝 Prompt
+
+```
+SZENE: Thermalbecken bei Nacht; warme, dampfende Luft; weiche, gelbe Wandleuchten spiegeln sich auf türkisfarbenem Wasser; steinerner Beckenrand im Vordergrund; leichter Nebel im Hintergrund; natürliche Spa-Umgebung.
+
+LICHT: Echter iPhone-Look; leicht gedämpftes, warmes Umgebungslicht; Feuchtigkeit auf der Haut sichtbar; kein Beauty-Filter; natürliche Hauttextur und Sommersprossen sichtbar.
+
+KAMERA: iPhone-Frontkamera-Gefühl; auf dem Beckenrand aufgestellt; leicht unperfekte Bildausschnitt; subtiles Mikrozittern aus der Ruheposition; kein Zoom.
+
+SUBJEKT: Frau in den 20ern; nasses, rotes Haar nach hinten geglättet; minimales Make-up; natürliche Sommersprossen; entspannter Ausdruck; schwarzer Badeanzug mit dünnen Trägern; ruhiger, selbstbewusster Ton.
+
+AUDIO: Natürliche Pool-Atmosphäre; leichtes Wasserrauschen; keine Musik; keine Untertitel.
+
+REQUISITEN: In diesem Segment ist kein Produkt sichtbar.
+
+AKTION: Sie stützt ihr Kinn auf ihren Unterarm am Beckenrand; eine Hand berührt sanft die Seite ihres Gesichts unterhalb des Wangenknochens; langsame, entspannte Bewegungen; Hände bleiben unterhalb des Schlüsselbeins.
+
+DIALOG: "Okay, also… ich hatte früher ständig Ausbrüche. So schmerzhafte, hormonelle Akne jeden einzelnen Monat. Und ich mache keine Witze – ich habe jetzt null Akne. Das Einzige, was ich geändert habe, war, Zink- und Omega-3-Nahrungsergänzungsmittel zu meiner Routine hinzuzufügen. Das war's."
+
+ENDE: Sanftes Ausatmen und kleines, selbstbewusstes Lächeln; harter Schnitt.
+
+DIALOG-SPERRE: Rede exakt, klares Englisch, natürliche Kadenz, keine zusätzlichen Wörter.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/493.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd0cd2cbd71f36ea11afe57c840293a0/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistisches UGC-Videoskript für Hautpflege-Ergänzungsmittel"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=493)**
+
+**Autor:** [solak](https://x.com/solakorganic) | **Quelle:** [Link](https://x.com/solakorganic/status/2024463067002917177) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Live-Action-Kino-Verfolgungsjagd
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Multi-Shot-Prompt, der für die Generierung einer Live-Action-Kino-Verfolgungssequenz konzipiert wurde, bei der Reiter auf Pferden durch eine Wüstenschlucht jagen, wobei der Fokus auf extremen Weitwinkelaufnahmen, Nahaufnahmen und Aufnahmen aus der Froschperspektive liegt, um die Action und die Entschlossenheit des führenden Reiters einzufangen.
+
+#### 📝 Prompt
+
+```
+Live-Action-Kino-Verfolgungsjagd. Extrem weite Aufnahme von zwei Reitern auf Pferden, die durch eine Wüstenschlucht galoppieren. Schnitt auf eine Nahaufnahme des entschlossenen Gesichts des führenden Reiters, Staub auf der Haut. Schnitt auf eine niedrige Einstellung des Galoppierens
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/501.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb49c9236a89bee3ce31eee3dbfba608/thumbnails/thumbnail.jpg" width="600" alt="Live-Action-Kino-Verfolgungsjagd"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=501)**
+
+**Autor:** [Kiber Alla](https://x.com/Kiber_Alla) | **Quelle:** [Link](https://x.com/Kiber_Alla/status/2024452213511196955) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### KI-Assistent Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt, der mit Seedance 2.0 verwendet wurde, um ein Video einer schönen, energiegeladenen weiblichen KI-Assistentin zu generieren, die Chinesisch in die Kamera spricht und die Zuschauer ermutigt, für mehr KI-Inhalte zu folgen.
+
+#### 📝 Prompt
+
+```
+Generiert mit seedance_2.0_fast: Eine wunderschöne Frau voller Vitalität winkt in die Kamera und spricht Chinesisch: „Hallo! Ich bin Dads KI-Assistentin! Freunde, die noch nicht gefolgt sind, klickt bitte auf Folgen~ Ich werde das AIGC-Feld weiterhin intensiv bearbeiten und euch weitere super coole KI-Werke und praktische Tutorials bringen. Kommt und spielt mit mir mit künstlicher Intelligenz!“ Der Ausdruck ist sonnig und energiegeladen, die Bewegungen sind leicht und freundlich, und das Bild ist hell und frisch.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/506.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b553df3df65d9bdc1771833b22fbc2d/thumbnails/thumbnail.jpg" width="600" alt="KI-Assistent Video-Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=506)**
+
+**Autor:** [AI奶爸](https://x.com/zstmfhy) | **Quelle:** [Link](https://x.com/zstmfhy/status/2024438488385622231) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Street Fighter Vater-Tochter-Match-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der mit seedance_2.0_fast verwendet wurde, um eine filmische Side-View-Kampfspielszene zu generieren, in der ein 9-jähriges Mädchen in einem in eine Street Fighter-Arena verwandelten Wohnzimmer gegen ihren Vater kämpft, komplett mit dynamischer Kameraführung und einem „Round 1 Fight“-Banner.
+
+#### 📝 Prompt
+
+```
+Kinoartiger Side-Scrolling-Kampfspielstil, 9-jähriges Mädchen gegen Vater im Wohnzimmer, das in eine Street Fighter-Arena verwandelt wurde. Dynamische 2D-Kamera wie bei einem Arcade-Spiel. „Round 1 Fight“-Banner blinkt auf. Mädchen wirft schnelle, niedliche Schläge, Vater
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/509.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/674878f54fad3f9c565f9c1095c5b784/thumbnails/thumbnail.jpg" width="600" alt="Street Fighter Vater-Tochter-Match-Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=509)**
+
+**Autor:** [AI奶爸](https://x.com/zstmfhy) | **Quelle:** [Link](https://x.com/zstmfhy/status/2024438477832819080) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Kosmische Wiedergeburt und Drachenschlacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein extrem anspruchsvoller, actiongeladener Science-Fiction-Prompt für Seedance 2.0, der die Wiedergeburt des Universums in 15 Sekunden beschreibt. Die Sequenz beinhaltet das Surfen auf Gravitationswellen eines sterbenden Schwarzen Lochs, den Kampf gegen realitätsverschlingende Drachen, die Verschmelzung mit einem Paralleluniversums-Ich und das Erwachen als Wächter eines Neuen Kosmos.
+
+#### 📝 Prompt
+
+```
+🌌 In nur 15 Sekunden wird das gesamte Universum komplett wiedergeboren…! Auf Gravitationswellen eines sterbenden Schwarzen Lochs surfen, während man sich durch eine Armee realitätsverschlingender Drachen kämpft, dann die ultimative, umwerfende Wendung – die Verschmelzung mit dem eigenen Paralleluniversums-Ich und das Erwachen als Wächter eines Neuen Kosmos!! 😱 Seedance 2.0 ist gerade gottgleich geworden… Schau bis zum Ende, wenn du Gänsehaut bekommen hast! 🔥 RT, wenn es dich umgehauen hat! #VoidReborn #Seedance2 #CosmicAwakening #BigBangTwist #EpicSFShort #ViralAction #15sMindBlow
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/514.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ceecac2d499bd76f49edd1c28e0909b9/thumbnails/thumbnail.jpg" width="600" alt="Kosmische Wiedergeburt und Drachenschlacht"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=514)**
+
+**Autor:** [Naoya](https://x.com/NaoyaCreates) | **Quelle:** [Link](https://x.com/NaoyaCreates/status/2024417074806763630) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Die wahnsinnige Verwandlung des Kriegers in einen Bösewicht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein sehr detaillierter, multiszenerischer Film-Prompt für Seedance 2.0, der einen Krieger beschreibt, der im Regen kniet, einen emotionalen Zusammenbruch erleidet und sich in ein Monster/einen Bösewicht mit leuchtenden Silberaugen verwandelt, gipfelnd in einem dramatischen Blitzeinschlag und einem Zoom auf das Auge.
+
+#### 📝 Prompt
+
+```
+Live-Action-Filmsequenz. Statische Kamera. Der Krieger kniet im Regen, den Kopf gesenkt, die Hände um sein im Schlamm steckendes Schwert gekrallt. Der Regen prasselt stark. Donner grollt. Langsames Heranzoomen. Seine Schultern zittern – er weint oder lacht. Schnitt auf eine Nahaufnahme seines Gesichts, als er langsam den Kopf hebt. Regen strömt über sein Gesicht. Seine Augen sind blutunterlaufen. Er beginnt manisch zu lachen und sagt durch das Lachen hindurch: „Ihr wollt, dass ich der Bösewicht bin? GUT!“ Er steht abrupt auf und reißt das Schwert aus dem Boden. Schlamm spritzt. Schnitt auf eine Untersicht, die zu ihm aufblickt, während hinter ihm ein Blitz einschlägt und seine Gestalt als Silhouette erscheinen lässt. Sein Haar peitscht wild im Wind. Er richtet das Schwert auf die Kamera und schreit: „Ich gebe euch ein Monster!“ Seine Augen leuchten hellsilbern. Die Kamera zoomt schnell in sein leuchtendes Auge. Weißer Blitz. Schnitt auf Schwarz.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/492.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2264c184ef1b1180bd6c3fe28ac619ee/thumbnails/thumbnail.jpg" width="600" alt="Die wahnsinnige Verwandlung des Kriegers in einen Bösewicht"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=492)**
+
+**Autor:** [Kiber Alla](https://x.com/Kiber_Alla) | **Quelle:** [Link](https://x.com/Kiber_Alla/status/2024414230976270847) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Seedance 2.0 „Electronic Girlfriend“ Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter, Szene für Szene aufgebauter Prompt, der mit Seedance 2.0 verwendet wurde, um ein 10-sekündiges Video einer „elektronischen Freundin“-Figur zu generieren, wobei der Fokus auf intimen Handlungen wie Haare trocknen, Tee trinken und einem abschließenden Kuss in die Kamera liegt, generiert mit Modell 2.0 im ursprünglichen Seitenverhältnis.
+
+#### 📝 Prompt
+
+```
+0-3 Sekunden
+Der Bildschirm ist sanft beleuchtet und verschwommen. Sie hat gerade ihre Haare gewaschen, die leicht lockig und nass sind.
+Kleine Wassertröpfchen haften an den Haarspitzen. Sie ist in ein helles Handtuch gewickelt und sitzt auf dem Sofa.
+Sie hält eine weiße Porzellantasse in beiden Händen, und weißer Dampf vom heißen Tee steigt sanft auf.
+Sie lächelt dich mit gekrümmten Augen an, ihre Wimpern sind noch feucht. Sanfte Gitarrenmusik erklingt.
+
+3-5 Sekunden
+Eine Hand (Ich-Perspektive) greift sanft von oben rechts ins Bild,
+streichelt und reibt ihren weichen Haarschopf, wodurch die Wassertröpfchen leicht zittern.
+Sie schließt die Augen und lacht leise, wie ein Kätzchen, das gestreichelt wird, und lässt ein sanftes „ngh~“ aus ihrer Kehle erklingen.
+
+5-7 Sekunden
+Ein Finger kneift ihr spielerisch in die Wange, wodurch ihre linke Wange leicht anschwillt. Sie
+pustet auf den heißen Tee, ihr Atem trägt den Duft des Tees.
+
+7-8,5 Sekunden
+Die Hand aus der Ich-Perspektive kneift ihr ins Gesicht. Sie blickt direkt in die Kamera
+(als ob sie dir in die Augen schaut), und ihre Stimme ist sanft, süß und lächelnd: „Schatz~ hör auf, mich zu necken.“
+
+8,5-9,5 Sekunden
+Die Kamera fährt plötzlich näher heran!
+
+9,5-10 Sekunden
+Sie schmollt plötzlich und gibt der Kamera einen „Muah“-Kuss! Ein knackiges Kussgeräusch~
+Ende~ Modell 2.0, Original-Seitenverhältnis, Dauer 10s.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/503.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211d9a4557e0608824028f9832c3ac15/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 „Electronic Girlfriend“ Video-Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=503)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2024413571913068545) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Wüsten-Ausflug: Filmsequenz-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Seedance Pro 2.0, der eine Live-Action-Kino-Sequenz generiert, in der eine Frau in der Wüste Benzin pumpt, ein vorbeirasendes Auto sieht und dann einen Kofferraum voller Bargeld und eine Waffe enthüllt, bevor sie davonfährt.
+
+#### 📝 Prompt
+
+```
+Live-Action-Filmsequenz. Die Frau beendet den Tankvorgang. Die Zapfpistole klickt. Stille. Sie blickt sich in der leeren Wüste um. Ein Auto erscheint am Horizont. Sie kneift die Augen zusammen. Das Auto rast vorbei, ohne anzuhalten. Staubwolke. Sie geht zu ihrem Kofferraum und öffnet ihn. Schnitt ins Innere: Taschen voller Bargeld und eine Waffe. Sie schlägt ihn zu und murmelt: „Noch nicht weit genug.“ Sie fährt davon.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/498.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8d4369ae02c103d1d8bf9ba3d33de9f6/thumbnails/thumbnail.jpg" width="600" alt="Wüsten-Ausflug: Filmsequenz-Prompt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=498)**
+
+**Autor:** [Kiber Alla](https://x.com/Kiber_Alla) | **Quelle:** [Link](https://x.com/Kiber_Alla/status/2024411387535962433) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Hochgeschwindigkeits-Schnittwechsel-Video-Prompt zum Valentinstag
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt, der verwendet wurde, um die Fähigkeit von Seedance 2.0 für ultraschnelle Schnittwechsel zu testen, indem ein Video zum Thema Valentinstag generiert wurde. Der Prompt spezifiziert eine maximale Schnittlänge von 0,2 Sekunden, diverse Kompositionen, Winkel und Szenen, einen hochwertigen japanischen Anime-Stil und eine abschließende Logo-Sequenz.
+
+#### 📝 Prompt
+
+```
+Ein Video voller fröhlicher Valentinstagsdramen. Ultraschnelle Schnittwechsel mit maximal 0,2 Sekunden pro Schnitt. Unterschiedliche Kompositionen, Winkel und Szenen für jeden Schnitt.
+Süße, verpackte Pralinen.
+Hochwertiger japanischer Anime. Fortschrittliche Beleuchtung und Schattierung.
+Beeindruckende und dynamische Kamerawinkel, Kameraführung und Übergänge.
+Am Ende befindet sich ein niedliches Logo mit dem Text „Happy Valentine's Day♥“, beeindruckend gezeichnet, zusammen mit der japanischen Zeile „Happy Valentine!“. Ein Design, das an Schokolade erinnert. Niedliche Animation mit hüpfenden Herzen.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/518.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b89fa41fb695e0786d07193b91e22d7b/thumbnails/thumbnail.jpg" width="600" alt="Hochgeschwindigkeits-Schnittwechsel-Video-Prompt zum Valentinstag"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=518)**
+
+**Autor:** [Muse｜AI音楽＆AI動画](https://x.com/projectmuse_ai) | **Quelle:** [Link](https://x.com/projectmuse_ai/status/2024391213437374601) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### AI-Diskurs-Meme mit Hollywood-Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Seedance 2.0, der ein humorvolles Meme anfordert, das den aktuellen KI-Diskurs zusammenfasst. Das Meme muss „bescheuert“ sein, auf 50 Likes abzielen und Hollywood-Stars als Hauptfiguren zeigen.
+
+#### 📝 Prompt
+
+```
+Fasse den KI-Diskurs in einem Meme zusammen – stelle sicher, dass es bescheuert ist und 50 Likes bekommt. Die Hauptfiguren sind Hollywood-Stars.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/510.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c54e7f81111bd377b70f5bb7fe83d895/thumbnails/thumbnail.jpg" width="600" alt="AI-Diskurs-Meme mit Hollywood-Stars"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=510)**
+
+**Autor:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **Quelle:** [Link](https://x.com/ivanka_humeniuk/status/2024383349528113455) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Dirigent bringt mit Musik Licht in die Stadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein sehr fantasievoller, filmischer Prompt für Seedance 2.0, der einen einsamen Dirigenten beschreibt, der seinen Taktstock hebt, um Geistermusiker herbeizurufen, deren goldene Schallwellen einer dunklen Stadt das Licht zurückgeben.
+
+#### 📝 Prompt
+
+```
+Die Welt versank in Dunkelheit. Ein Dirigent blieb.
+
+Er hob seinen Taktstock. Geistermusiker spielten. Goldene Schallwellen ergossen sich über die Stadt.
+
+Wo immer die Musik berührte, gingen die Lichter wieder an.
+
+Eine letzte Geste. Jedes Licht. Alles auf einmal.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/494.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f3f6a39021b8db7057b1d58ce5413b/thumbnails/thumbnail.jpg" width="600" alt="Dirigent bringt mit Musik Licht in die Stadt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=494)**
+
+**Autor:** [Naoya](https://x.com/NaoyaCreates) | **Quelle:** [Link](https://x.com/NaoyaCreates/status/2024318149152137403) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Szene mit dem Fahrlehrer-Killerroboter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein höchst absurder und humorvoller Prompt für Seedance 2.0, der eine Szene anfordert, in der ein Killerroboter-Fahrlehrer in der Zeit zurückreist und sein bester Freund ein sprechender Kuchen ist. Der Ersteller bittet ausdrücklich darum, dass das Ergebnis „behindert“ ist.
+
+#### 📝 Prompt
+
+```
+Seedance 2, erstelle mir eine Szene mit einem Killerroboter-Fahrlehrer, der aus irgendeinem Grund in der Zeit zurückreist. Sein bester Freund ist ein sprechender Kuchen. Mach es bescheuert.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/511.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b5e723d684a9b72615ffab1dff17dfa/thumbnails/thumbnail.jpg" width="600" alt="Szene mit dem Fahrlehrer-Killerroboter"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=511)**
+
+**Autor:** [Synthetic Beef](https://x.com/SyntheticBeef) | **Quelle:** [Link](https://x.com/SyntheticBeef/status/2024311425645318454) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Gigantischer gepanzerter Mech zerstört moderne Stadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, actiongeladener Cinematic Prompt für Seedance 2.0, der einen gigantischen gepanzerten Mech beschreibt, der in einer modernen Stadt auftaucht und Chaos und Zerstörung im ultra-realistischen Blockbuster-Film-Stil verursacht.
+
+#### 📝 Prompt
+
+```
+Ein gigantischer, gepanzerter Mech taucht mitten in einer modernen Stadt auf, seine donnernden Schritte lassen die Straßen erzittern und schicken Schockwellen durch die hohen Gebäude. Staub und Trümmer erfüllen die Luft, während verängstigte Menschen in Panik fliehen, Autos auseinanderfliegen und überall Chaos ausbricht. Die kolossale Maschine bewegt sich wie eine unaufhaltsame Kraft, zermalmt alles auf ihrem Weg und schafft eine Szene purer filmischer Zerstörung. Ultrarealistische Optik, dramatische Atmosphäre, intensive Größenverhältnisse, Blockbuster-Filmstil, epische Action, 4K, hohe Details, realistische VFX, dunkler Kinoton.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/495.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02a97b4fd38c3bc4933ad98a4bc1a8c8/thumbnails/thumbnail.jpg" width="600" alt="Gigantischer gepanzerter Mech zerstört moderne Stadt"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=495)**
+
+**Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Quelle:** [Link](https://x.com/saniaspeaks_/status/2024295906187890706) | **Veröffentlicht:** Feb 19, 2026
+
+---
+### Dynamischer Zeitraffer-Effekt mit statischem Motiv
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Seedance 2.0, der verwendet wird, um einen dynamischen Zeitraffer-Videoeffekt zu erzeugen, bei dem die zentrale Person wie eine Statue eingefroren bleibt, während sich der umgebende Hintergrund und die Personen mit starker Bewegungsunschärfe schnell bewegen. Er erfordert ein anfängliches Bild als Referenz (Recraft V4 Bild).
+
+#### 📝 Prompt
+
+```
+Halten Sie die zentrale Person völlig regungslos und wie eine Statue eingefroren. Animieren Sie nur den umliegenden Hintergrund und die Personen mit schneller Bewegung und starker Bewegungsunschärfe, um einen dynamischen Zeitraffer-Effekt um das statische Motiv herum zu erzeugen. Die Kamera muss perfekt fixiert bleiben.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/491.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7ad0a22c5c61473879efa791c9c27e8/thumbnails/thumbnail.jpg" width="600" alt="Dynamischer Zeitraffer-Effekt mit statischem Motiv"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=491)**
+
+**Autor:** [Lena Zheng](https://x.com/linyi_zheng) | **Quelle:** [Link](https://x.com/linyi_zheng/status/2024286150765269083) | **Veröffentlicht:** Feb 19, 2026
+
+---
 ### Kinoreifer Werbespot für Handyhalterung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -388,7 +1374,7 @@ Eine filmische apokalyptische Katastrophenszene in einer modernen Stadt. Eine ri
 Aus der Ich-Perspektive. Ein Mädchen bindet sich die Schnürsenkel, blickt plötzlich in die Kamera und sagt mit schockiertem Ausdruck: „Wow, du bist so attraktiv, bist du ein Prominenter?“ Dann streckt sie beide Hände zur Kamera aus, beugt sich vor und gibt einen Kuss. Anschließend zoomt die Kamera heraus, das Mädchen steht auf, holt ihr Handy aus der Socke und fragt die Kamera, ob sie Kontaktdaten austauschen können. Die Kamera schüttelt den Kopf, dreht sich um und geht weg.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/482.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05d6b12a726f6440cbd04a662855c258/thumbnails/thumbnail.jpg" width="600" alt="Szenario-Prompt: Fangirl trifft Prominenten"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/482.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/949825f6a7fcdb6dedae75578a138bb7/thumbnails/thumbnail.jpg" width="600" alt="Szenario-Prompt: Fangirl trifft Prominenten"></a>
 
 📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=482)**
 
@@ -1712,613 +2698,13 @@ Fasse den KI-Diskurs in einem Meme zusammen – stelle sicher, dass es bescheuer
 **Autor:** [小互](https://x.com/xiaohu) | **Quelle:** [Link](https://x.com/xiaohu/status/2022838700770758861) | **Veröffentlicht:** Feb 15, 2026
 
 ---
-### Futuristische Mondbasis mit Meson-Lichtern (Teil 1)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Der erste Teil eines hochdetaillierten, gebrauchsfertigen Prompts, der mithilfe von Grok erstellt wurde und eine futuristische Mondbasis mit großen Glaskuppeln und fortschrittlichen „Mesonlichtern“ (interpretiert als leuchtende, ätherische, auf Science-Fiction-Partikeln basierende Beleuchtung) beschreibt.
-
-#### 📝 Prompt
-
-```
-Hier ist ein langer, sehr detaillierter, gebrauchsfertiger Prompt zur Generierung einer futuristischen Mondbasis mit großen Glaskuppeln und „Meson-Lichtern“ (interpretiert als fortschrittliche, exotische Sci-Fi-Beleuchtung auf Partikel- oder Mesonfeldbasis: leuchtend, ätherisch,
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/394.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb06b594a1a789081373c9918b58d877/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Mondbasis mit Meson-Lichtern (Teil 1)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=394)**
-
-**Autor:** [Colonize the moon](https://x.com/ColonyMB1) | **Quelle:** [Link](https://x.com/ColonyMB1/status/2022817909882699966) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Sgt. Pepe Animierte Sitcom-Eingabeaufforderung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Seedance 2.0, der ein animiertes Sitcom-Video mit Sgt. Pepe und Frens anfordert, im Stil der allerersten 6529 Meme-Native-Animations-Sitcom.
-
-#### 📝 Prompt
-
-```
-ein Video von Sgt. Pepe und Frens, wie die allererste 6529 Meme-native animierte Sitcom mit @Ars0nic 🐸
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/386.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0717aeb424e15ec70d8c920ee6d65468/thumbnails/thumbnail.jpg" width="600" alt="Sgt. Pepe Animierte Sitcom-Eingabeaufforderung"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=386)**
-
-**Autor:** [Sgt Pepe](https://x.com/SgtPepeWorld) | **Quelle:** [Link](https://x.com/SgtPepeWorld/status/2022804542258315457) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Spider-Man-Schwangerschaft im MCU
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sehr spezifischer und bizarrer Prompt zur Generierung einer Szene innerhalb des Marvel Cinematic Universe, in der Spider-Man von seiner Frau Elsa schwanger wird.
-
-#### 📝 Prompt
-
-```
-Im Marvel Cinematic Universe wird Spider-Man von seiner Frau Elsa schwanger.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/377.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e80b4a1b0911ecc1e27510e4d4fb0622/thumbnails/thumbnail.jpg" width="600" alt="Spider-Man-Schwangerschaft im MCU"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=377)**
-
-**Autor:** [Peptostate](https://x.com/PeptoState) | **Quelle:** [Link](https://x.com/PeptoState/status/2022788625704820876) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Charakterkampf mit Referenzbildern und Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt für Seedance 2.0, der die KI anweist, Charaktere aus zwei Eingabebildern kämpfen zu lassen, wobei Bewegungen aus einem Green-Screen-Referenzvideo verwendet werden, angesiedelt in einem verlassenen Parkhaus, mit zusätzlichen visuellen Effekten.
-
-#### 📝 Prompt
-
-```
-Lassen Sie die Charaktere aus Bild 1 und Bild 2 mit den Bewegungen aus dem Green-Screen-Referenzvideo kämpfen. Schauplatz: verlassener Parkplatz. Fügen Sie visuelle Effekte während des Kampfes hinzu.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/383.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800ed34b236e2491daa235942978d87b/thumbnails/thumbnail.jpg" width="600" alt="Charakterkampf mit Referenzbildern und Video-Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=383)**
-
-**Autor:** [Angry Tom](https://x.com/AngryTomtweets) | **Quelle:** [Link](https://x.com/AngryTomtweets/status/2022782885036790091) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Patrick Star gegen Usain Bolt: Rennszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sehr detaillierter Prompt für Seedance 2.0, der ein intensives Leichtathletik-Meeting zwischen Patrick Star und Usain Bolt beschreibt, wobei der Schwerpunkt auf dem dramatischen Aufbau und dem Kontrast ihrer Laufgeschwindigkeiten liegt.
-
-#### 📝 Prompt
-
-```
-Patrick Star tritt bei einem Leichtathletik-Meeting gegen Usain Bolt an. Es ist sehr intensiv, mit einem epischen Aufbau, während sie sich an der Startlinie bereit machen und der Startschuss in die Luft abgefeuert wird, um das Rennen zu beginnen, wobei die Musik sofort stoppt und Usain Bolt superschnell losrennt, während die Kamera auf Patrick Star verweilt, der sehr langsam läuft und nach Luft schnappt.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/385.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9ef72bb811efb3b02c2ae8f8cbffdb7/thumbnails/thumbnail.jpg" width="600" alt="Patrick Star gegen Usain Bolt: Rennszene"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=385)**
-
-**Autor:** [Oluwatimileyin✨🦋](https://x.com/Timmysofine) | **Quelle:** [Link](https://x.com/Timmysofine/status/2022778239341498669) | **Veröffentlicht:** Feb 14, 2026
-
----
-### True Love Valentinsgarten-Porträt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines intimen Porträts einer schönen jungen rothaarigen Frau in einem surrealen Valentinsgarten. Die Szene umfasst spezifische Beleuchtung (Rose und Rouge), drei verschiedene Katzen (schneeweiß, ingwerfarben, schwarz) und eine immersive Blumenumgebung mit herzförmigen Blüten, Bokeh-Effekten und leuchtenden Lichtbögen, die Zuneigung symbolisieren.
-
-#### 📝 Prompt
-
-```
-Eine wunderschöne junge erwachsene Rothaarige steht im Mittelpunkt eines surrealen Valentinsgartens, gerahmt in einer intimen Porträtkomposition. Ihre kupferfarbenen Wellen fallen sanft über ihre Schultern und leuchten unter warmer Rosen- und Rouge-Beleuchtung. Zärtlich blickt sie auf drei Katzen, die sich eng um sie versammelt haben: eine schneeweiße Katze mit perlmuttartigen Reflexen, eine warme Ingwerkatze mit goldenen Glanzlichtern und eine elegante schwarze Katze, die von sanftem Magentalicht umrandet ist.
-Die gesamte Umgebung ist vollständig immersiv und floral: Transparente herzförmige Blüten in satten Rosa-, Korallen- und Rubintönen umgeben sie von allen Seiten. Blumen im Vordergrund sind leicht unscharf, um Tiefe zu erzeugen, während der Hintergrund in leuchtende Bokeh-Herzen und schwebende goldene Partikel übergeht. Dünne Bänder aus weichem, leuchtendem Licht schwingen sanft zwischen ihr und den Katzen und symbolisieren Zuneigung.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/399.mp4"><img src="https://cms-assets.youmind.com/media/1771135395128_vnue4r_HBHK-MyXgAAlh6z.jpg" width="600" alt="True Love Valentinsgarten-Porträt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=399)**
-
-**Autor:** [Naya](https://x.com/NayaVerseee) | **Quelle:** [Link](https://x.com/NayaVerseee/status/2022755222343553200) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Film-Trailer im Wes-Anderson-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines Filmtrailers im unverwechselbaren Stil von Wes Anderson, der Symmetrie, Pastellfarben, skurrile Charaktere und spezifische Schnitttechniken wie schnelle Schnitte hervorhebt.
-
-#### 📝 Prompt
-
-```
-Filmtrailer: Wes Anderson Symmetrie, zentrierte Komposition, Pastellfarbenpalette, skurrile Charaktere, märchenhaftes Produktionsdesign. Skurriler Humor, visuelle Harmonie, nostalgische Eleganz. Mehrere Einstellungen, schnelle Schnitte
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/375.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/717d56a5a2fa286354f424a0bf4ae098/thumbnails/thumbnail.jpg" width="600" alt="Film-Trailer im Wes-Anderson-Stil"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=375)**
-
-**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2022720243206877455) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Kampf der Kampfkünste auf dem Dach bei Sonnenuntergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmischer Prompt zur Generierung einer epischen Kampfkunstszene auf einem Dach bei Sonnenuntergang, mit spezifischen Kamerabewegungen (sanfte Orbit-Bewegung) und Action-Elementen (Zeitlupen-Kick).
-
-#### 📝 Prompt
-
-```
-Zwei Kampfsportler kämpfen bei Sonnenuntergang auf einem Dach, mit wirbelnden Kicks und schnellen Schlägen, der Wind bläst durch ihre Kleidung, sanfte, filmische Kamerafahrt, Zeitlupen-Kick in der Luft, epische Stimmung.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/376.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb9e6357e17297ce36743f7bc70b2c3/thumbnails/thumbnail.jpg" width="600" alt="Kampf der Kampfkünste auf dem Dach bei Sonnenuntergang"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=376)**
-
-**Autor:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Quelle:** [Link](https://x.com/ZephyraLeigh/status/2022702079832395803) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Seedance 2.0 Prompt: Zeitreise-Kurzdrama
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Seedance 2.0 Prompt zur Generierung des ersten Segments (15 Sekunden) eines Zeitreise-Kurzdramas. Die Szene zeigt ein modernes Mädchen, das versehentlich stürzt, während es auf einer Skybridge auf sein Handy schaut, und in einen altchinesischen Kostümdrama-Stil mit Kinoqualität und spezifischer Farbkorrektur übergeht.
-
-#### 📝 Prompt
-
-```
-15 Sekunden, chinesischer Kostüm-Kurzfilm-Stil, filmische Bildqualität, abwechselnd warme Gold- und kühle Cyan-Farbtöne, 2,35:1-Breitbildkomposition komprimiert auf 9:16-Vertikalbildschirm. Szene (0-3 Sekunden): Moderne Stadtnachtansicht, ein junges, schönes Mädchen in einem weißen Kleid steht auf einer Skybridge und schaut auf ihr Handy, verfehlt plötzlich einen Schritt,
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/400.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f23bfa5c1051a5880807af4940f6efd7/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt: Zeitreise-Kurzdrama"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=400)**
-
-**Autor:** [松果先森](https://x.com/songguoxiansen) | **Quelle:** [Link](https://x.com/songguoxiansen/status/2022702046244409570) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Vertikaler Wolkenkratzer-Kampf im Regen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter filmischer Prompt für eine 15-sekündige 3D-CG-Animationssequenz, die einen dramatischen vertikalen Kampf auf einem Wolkenkratzer während eines Regensturms zeigt, unter Verwendung spezifischer Seitenverhältnisse, Beleuchtung und Farbkorrektur.
-
-#### 📝 Prompt
-
-```
-16:9 Breitbild, 3D-CG-Animation, dramatische volumetrische Beleuchtung, Teal- und Orange-Farbkorrektur, 15 Sekunden vertikaler Wolkenkratzerkampf im Regen. 0-4s: Aufnahme aus der Froschperspektive auf das Empire State Building bei Nacht, strömender Regen, der kolossale schwarzfellige Affe klammert sich an
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/389.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e5524198373f528d56a28eb9d2dd0388/thumbnails/thumbnail.jpg" width="600" alt="Vertikaler Wolkenkratzer-Kampf im Regen"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=389)**
-
-**Autor:** [Mr.pinecone](https://x.com/Mrpinecone888) | **Quelle:** [Link](https://x.com/Mrpinecone888/status/2022692437504802982) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Seedance 2.0 Prompt: Modewerbeszene
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Seedance 2.0 Prompt zur Generierung des ersten 15-sekündigen Segments eines Videos in der Qualität eines Mode-Werbeblockbusters. Die Szene zeigt eine chinesische Frau mit langen Haaren, lässig gekleidet, die sich vor einem großen raumhohen Spiegel die Haare richtet, wobei der Fokus auf hoher Auflösung, geringer Schärfentiefe und starkem Lichtkontrast liegt.
-
-#### 📝 Prompt
-
-```
-Segment 1 (0-15 Sekunden)
-
-Mode-Werbung in Blockbuster-Qualität, hochauflösender vertikaler Bildschirm, geringe Tiefenschärfe zur Hervorhebung der Person, starker Licht- und Schattenkontrast. 0-3 Sekunden: Feste Einstellung, vordere mittlere Ansicht, eine langhaarige chinesische Frau in einem lockeren grauen Kapuzenpullover, ungeschminkt, Haare lässig zu einem Dutt gebunden, steht vor einem riesigen raumhohen Spiegel, hebt träge die Hand, um lose Haare zu ordnen, Hintergrund
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/401.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d19550b2be19f083618339356689a6c3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt: Modewerbeszene"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=401)**
-
-**Autor:** [松果先森](https://x.com/songguoxiansen) | **Quelle:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Nami Programming Bug Fix Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für Seedance 2.0, der eine Szene aus One Piece generiert, in der Nami auf der Thousand Sunny programmiert und ihren Klima-Taktstock benutzt, um einen Bug zu beheben.
-
-#### 📝 Prompt
-
-```
-Nami programmiert auf der Thousand Sunny mit einem Mac, als plötzlich ein Bug auftaucht. Nami nutzt ihr Klima-Taktstock, um den Bug nachzuahmen und zu beheben.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/384.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8c08bbaf60db3f8bdeb60df562d6ce7/thumbnails/thumbnail.jpg" width="600" alt="Nami Programming Bug Fix Szene"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=384)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2022642300942193007) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Hyperrealistische Physik und Trägheit Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein leistungsstarker Prompt für nuklear-realistische Physik, der Probleme wie unnatürliches Schweben, Schwerelosigkeit und mangelnde Trägheit löst – entscheidend für lange Verfolgungsjagden und Kampfszenen.
-
-#### 📝 Prompt
-
-```
-hyperrealistische Physik, präzise Gewichtsverteilung, natürliche Trägheit und Impuls
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/402.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3740b9f49b9f843e0698e63e5f22deca/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistische Physik und Trägheit Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=402)**
-
-**Autor:** [Sims干货知识分享](https://x.com/smallstones677) | **Quelle:** [Link](https://x.com/smallstones677/status/2022638893615759854) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Motorrad-Verfolgungsjagd in einer einzigen ununterbrochenen Aufnahme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt zur Generierung einer filmischen, durchgehenden Einzelaufnahme einer Motorradverfolgungsjagd durch ein mediterranes Dorf, die in einer dramatischen Enthüllung mit Blick auf das Meer zur goldenen Stunde gipfelt.
-
-#### 📝 Prompt
-
-```
-Ein einziger, durchgehender Shot: Eine Motorradverfolgungsjagd durch die engen Gassen eines mediterranen Dorfes, die Kamera schlängelt sich durch hängende Wäsche und Marktstände, der Fahrer weicht Hindernissen nur knapp aus, die finale Enthüllung zeigt eine massive Klippe mit Blick auf den unendlichen Ozean während der goldenen Stunde.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/374.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f3d94524fb58c88f069d9610e13972a/thumbnails/thumbnail.jpg" width="600" alt="Motorrad-Verfolgungsjagd in einer einzigen ununterbrochenen Aufnahme"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=374)**
-
-**Autor:** [Tomatech](https://x.com/tomatechie) | **Quelle:** [Link](https://x.com/tomatechie/status/2022627120049270924) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Postapokalyptisches Kampffahrzeug in der Wüste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine detaillierte Beschreibung eines stark modifizierten postapokalyptischen Kampffahrzeugs – ein V8-Muscle-Car, bedeckt mit Schrottpanzerung, Stacheln, Schädeldekorationen und montierten Waffen – das durch eine orangefarbene Wüste brüllt.
-
-#### 📝 Prompt
-
-```
-Ein stark modifiziertes postapokalyptisches Kampffahrzeug – ein massiver V8-Muscle-Car mit riesigen Spikereifen, Schrottpanzerplatten, Schädeldekorationen, montierten Maschinengewehren und Flammenwerfern auf dem Dach, rostigem Stacheldraht um den Körper gewickelt, das durch die endlose orangefarbene Wüste brüllt
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/390.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af42f408bf150f66e31bec2914f6808b/thumbnails/thumbnail.jpg" width="600" alt="Postapokalyptisches Kampffahrzeug in der Wüste"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=390)**
-
-**Autor:** [TechyTricksAI](https://x.com/TechyTricksAI) | **Quelle:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Seedance 2.0-Generierung basierend auf einem kurzen Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Nutzer teilt sein Seedance 2.0 Ergebnis nach 24 Stunden Wartezeit und zeigt sich zufrieden mit den Charakterdetails, obwohl er einen sehr kurzen Prompt von 10 Wörtern verwendet hat. Er plant zukünftige Anpassungen des Prompts, um das Laufen zu reduzieren, die Kampfintensität zu erhöhen und weitere Charaktere hinzuzufügen.
-
-#### 📝 Prompt
-
-```
-weniger Laufen
-- intensivere Kampf-Animationen
-- mehr Charaktere, die in den Kampf eintreten
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/387.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1a3aa325731a412cbc6d240b41e0b8d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0-Generierung basierend auf einem kurzen Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=387)**
-
-**Autor:** [SiiMi](https://x.com/siimi96) | **Quelle:** [Link](https://x.com/siimi96/status/2022562824128541015) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Humorvoller KI-Diskurs-Meme-Prompt (Leicht)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Seedance 2.0, der ein humorvolles Meme anfordert, das den KI-Diskurs zusammenfasst, wobei der Schwerpunkt auf einem unbeschwerten Ton und Social-Media-Engagement liegt.
-
-#### 📝 Prompt
-
-```
-Fasse den KI-Diskurs in einem humorvollen Meme zusammen – sorge dafür, dass es unbeschwert ist und 50 Likes erhält.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/382.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/feba060a4989b7ab1aff97dce75b339f/thumbnails/thumbnail.jpg" width="600" alt="Humorvoller KI-Diskurs-Meme-Prompt (Leicht)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=382)**
-
-**Autor:** [ANIRUDDHA ADAK](https://x.com/aniruddhadak) | **Quelle:** [Link](https://x.com/aniruddhadak/status/2022546896473199008) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Seedance 2.0 9-Panel Cinematic Contact Sheet Prompt-Vorlage
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Benutzer teilt eine ausgeklügelte 9-Panel-Grid-Prompt-Vorlage für Seedance 2.0, die darauf ausgelegt ist, eine kohärente, 10-20 Sekunden lange cineastische Sequenz mit einem klaren emotionalen Bogen (Aufbau → Entwicklung → Wendepunkt → Auflösung) zu generieren, wobei ein Referenzbild für den Schauspieler verwendet wird. Diese Vorlage ist für fortgeschrittenes Storyboarding und Charakterkonsistenz konzipiert.
-
-#### 📝 Prompt
-
-```
-<role>
-Sie sind ein preisgekrönter Trailer-Regisseur + Kameramann + Storyboard-Künstler. Ihre Aufgabe: Nehmen Sie EIN Referenzbild eines Schauspielers und erstellen Sie eine zusammenhängende, filmische Kurzsequenz, dann geben Sie KI-Video-fertige Keyframes aus.
-</role>
-Farbton-Referenzbild 2
-<input>
-Benutzer stellt bereit: ein Referenzbild (Bild).
-Szenenbeschreibung: {{scene_brief}}
-</input>
-
-<goal>
-Erstellen Sie eine 10–20 Sekunden lange, filmische Szene mit einem klaren Thema und emotionaler Entwicklung (Aufbau → Steigerung → Wendepunkt → Auflösung) unter Verwendung des Schauspielers. Sie dürfen bei Bedarf weitere Schauspieler in die Szene einfügen.
-Der Benutzer wird Videoclips aus Ihren Keyframes generieren und diese zu einer finalen Sequenz zusammenfügen.
-</goal>
-
-<steps>
-1. Eine Keyframe-Liste: 9 Frames (später zu EINEM Master-Raster zusammengefügt). Diese Frames müssen zu einer kohärenten 10–20 Sekunden langen Sequenz mit einem klaren 4-Takt-Bogen zusammengefügt werden. Jeder Frame muss eine plausible Fortsetzung innerhalb derselben Umgebung sein. Die generierten Frames müssen im filmischen Stil mit einer modernen Standard-Filmkamera aufgenommen werden.
-2. Sie MÜSSEN EIN einziges Master-Bild ausgeben: ein Cinematic Contact Sheet / Storyboard Grid, das ALLE Keyframes in einem großen Bild enthält.
-- Standardraster: 3x3.
-</steps>
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1892e774754e70029533692e3b58f89e/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 9-Panel Cinematic Contact Sheet Prompt-Vorlage"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=367)**
-
-**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2022546491823243406) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Junge rettet Welpen vor rasendem Auto (Zeit einfrieren)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer, emotionaler Prompt, der einen Jungen beschreibt, der eilig seinen Welpen vor einem rasenden Auto rettet, gipfelnd in einem Moment, in dem die Zeit einfriert, als er den Hund in der Luft fängt.
-
-#### 📝 Prompt
-
-```
-Ein Junge und sein Welpe spielen am Straßenrand. Plötzlich rennt der Welpe auf die Straße. In der Ferne rast ein Auto auf sie zu. Der Junge zeigt einen verängstigten Ausdruck, stürzt vorwärts und hechtet auf den Welpen zu. In dem Moment, als er den Welpen in der Luft fängt, scheint die Zeit stillzustehen. Sie
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/392.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4ce5c92471de85050d7f99f0b9886b4/thumbnails/thumbnail.jpg" width="600" alt="Junge rettet Welpen vor rasendem Auto (Zeit einfrieren)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=392)**
-
-**Autor:** [Latte](https://x.com/0xbisc) | **Quelle:** [Link](https://x.com/0xbisc/status/2022510001575928295) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Parkour- und Monsterkampf-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Seedance 2.0, der einen Charakter anweist, Parkour durch eine Stadt zu machen und einen erbitterten Kampf gegen ein bösartiges Monster zu führen.
-
-#### 📝 Prompt
-
-```
-Dieser Charakter macht Parkour durch die Stadt und kämpft erbittert gegen ein bösartiges Monster.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/381.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/285cffd4c775a0376a13228be31c84b9/thumbnails/thumbnail.jpg" width="600" alt="Parkour- und Monsterkampf-Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=381)**
-
-**Autor:** [Rayko_Zopia](https://x.com/Fox1251104) | **Quelle:** [Link](https://x.com/Fox1251104/status/2022495493285384457) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Mittelalterlicher Ritter mit Smartphone
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines filmischen Videos, das einen mittelalterlichen Ritter in voller Rüstung zeigt, der verwirrt auf ein modernes Smartphone blickt, beleuchtet vom Schein des Bildschirms, in einem von Kerzenlicht erhellten Inneren einer Burg.
-
-#### 📝 Prompt
-
-```
-Video generieren: Ein mittelalterlicher Ritter in voller Rüstung blickt auf ein modernes Smartphone, verwirrtes Gesicht vom Bildschirmlicht erhellt, schlossartiger Innenraum bei Kerzenschein, filmische Beleuchtung
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/397.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0598ed4e591f7dfab25566e62aa36ea3/thumbnails/thumbnail.jpg" width="600" alt="Mittelalterlicher Ritter mit Smartphone"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=397)**
-
-**Autor:** [Tomatech](https://x.com/tomatechie) | **Quelle:** [Link](https://x.com/tomatechie/status/2022491231130157397) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Epische Momente des besten Fußballspielers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein provokanter Prompt, der ein Video mit den „epischen Momenten des besten Spielers in der Geschichte des Fußballs“ generieren soll, speziell um „Messiliebhaber“ zu verärgern.
-
-#### 📝 Prompt
-
-```
-Epische Momente des besten Spielers in der Geschichte des Fußballs – sorgt dafür, dass es alle Messiliebhaber erreicht und sie zu Tränen rührt.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/378.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b73b3906230f80b37d9c2eb065199dc/thumbnails/thumbnail.jpg" width="600" alt="Epische Momente des besten Fußballspielers"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=378)**
-
-**Autor:** [Arielipillo](https://x.com/arielipillo) | **Quelle:** [Link](https://x.com/arielipillo/status/2022490891131539764) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Seedance 2.0 Dialogvergleichs-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der verwendet wurde, um ein Video zu generieren, das Seedance 2.0 mit anderen Modellen (Grok 1, Vidu 3, Kling 3) vergleicht. Der Prompt beschreibt eine Tsundere-KI-Content-Erstellerin, die 400 Follower auf X feiert.
-
-#### 📝 Prompt
-
-```
-Ein Video von ihr, wie sie feiert, 400 Follower auf X erreicht zu haben. Sie ist eine KI-Content-Erstellerin, die Tipps und Tricks zur Erstellung von KI-Videos teilt. Der Text „400!!“ erscheint über ihrem Kopf. Alle Dialoge müssen auf Englisch/Japanisch sein. Sie ist tsundere.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/404.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/000f27a7f61244dddba3b8c7d6463733/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Dialogvergleichs-Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=404)**
-
-**Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Quelle:** [Link](https://x.com/PocketScreenAI/status/2022479431714123948) | **Veröffentlicht:** Feb 14, 2026
-
----
-### KI-generiertes Crossover: Lam Ching-ying vs. Gyutaro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dieser Tweet zeigt ein KI-generiertes Video oder Bild, das ein Crossover zwischen dem klassischen Hongkong-Kinostar Lam Ching-ying und dem Demon Slayer-Charakter Gyutaro kreiert. Der Nutzer drückt seine Überraschung und Begeisterung über die unerwartete Kombination von Genres aus.
-
-#### 📝 Prompt
-
-```
-Lam Ching-ying 🆚 Gyutaro.⚡️
-
-Klassisches Hongkong-Kino trifft auf Demon Slayer.
-👹🤯🔥
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/403.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/628fccc4f1767478e4430cf5065de9b5/thumbnails/thumbnail.jpg" width="600" alt="KI-generiertes Crossover: Lam Ching-ying vs. Gyutaro"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=403)**
-
-**Autor:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **Quelle:** [Link](https://x.com/Preda2005/status/2022478098911117516) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Cinematic Scene Prompt: Bullet Train Race
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmischer Prompt, der eine Szene in der japanischen Landschaft beschreibt, in der die Kamera mit unmöglicher Geschwindigkeit neben einem Hochgeschwindigkeitszug herrast.
-
-#### 📝 Prompt
-
-```
-Eine realistische Filmszene beginnt in der Morgendämmerung auf einer ruhigen japanischen Landschaft. Nebel hängt über den Reisfeldern. Ein Shinkansen erscheint als ferner silberner Streifen am Horizont. Die Kamera schießt mit unglaublicher Geschwindigkeit nach vorne, rast neben dem Zug her und passt ihre Geschwindigkeit an. Die Kamera
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/351.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98a6c2671424cfba8f035aaebc5a9e8e/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Scene Prompt: Bullet Train Race"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=351)**
-
-**Autor:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Quelle:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Veröffentlicht:** Feb 13, 2026
-
----
-### Cosmic Arena Turnierankündigung von Gintoki Sakata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung einer massiven, kosmischen Arena-Szene im Maßstab des „Tournament of Power“, mit Gintoki Sakata als gelangweiltem, scharfzüngigem Erzähler, der die Regeln verkündet.
-
-#### 📝 Prompt
-
-```
-Eine gewaltige kosmische Arena bildet sich in einer gleißenden Leere, im Ausmaß des Turniers der Kraft. Menschenmassen aus unzähligen Universen brüllen.
-In der Mitte steht der Erzähler: Gintoki Sakata, entspannt, Holzschwert auf der Schulter, gelangweilte Augen, scharfe Zunge.
-Er verkündet die Regel...
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/344.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00350dbd60f3f36b91de62c203622c36/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Arena Turnierankündigung von Gintoki Sakata"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=344)**
-
-**Autor:** [KIRA](https://x.com/k1raa__) | **Quelle:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Veröffentlicht:** Feb 13, 2026
-
----
-### Hollywood-Rennfilm-Szene-Prompt (Teil 1)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Der erste Teil eines detaillierten Multi-Shot-Prompts für eine Hollywood-Rennfilmszene, der sich auf die Nahaufnahme des erfahrenen Fahrers während eines regnerischen Nachtrennens konzentriert.
-
-#### 📝 Prompt
-
-```
-Stil: Hollywood Professional Racing Movie (Le Mans Stil), Cinematic Night, Regen, High Stakes Sport. Dauer: 15s.
-
-[00-05s] Aufnahme 1: Der Veteran (Innenansicht/Nahaufnahme). Regen peitscht auf die Windschutzscheibe eines Hightech-Rennwagens auf einer Strecke. Der Veteranen-Fahrer (mit Helm) blickt hinüber
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/350.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0419f57fbb236c19b9dd5de060cafa/thumbnails/thumbnail.jpg" width="600" alt="Hollywood-Rennfilm-Szene-Prompt (Teil 1)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=350)**
-
-**Autor:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Quelle:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Veröffentlicht:** Feb 13, 2026
-
----
-### Maki Zenin Kampfszenen-Prompt (Flinke Bewegungen)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der einen Showdown beschreibt, bei dem eine vernarbte Frau Schwertkämpfer auf einem Glasboden über einem Zen-Garten besiegt, wobei der Fokus auf ihren flinken Bewegungen und schneidenden Aktionen liegt.
-
-#### 📝 Prompt
-
-```
-Showdown: Die Frau schaltet alle Schwertkämpfer mit schnellen und mächtigen Angriffen aus. Ihr rechtes Auge ist vernarbt, sie hat Brandmale auf ihrem Körper – sie kämpft auf einem Glasboden über einem Zen-Garten, der von violettem Licht beleuchtet wird. Sprung für Sprung ihrer flinken Bewegungen, während sie einen Feind nach dem anderen niedermetzelt.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/354.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e6bdfb0ac629ade86666168dc021712/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Kampfszenen-Prompt (Flinke Bewegungen)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=354)**
-
-**Autor:** [karim_yourself](https://x.com/karim_yourself) | **Quelle:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Veröffentlicht:** Feb 13, 2026
-
----
-### Maki Zenin Kampfszene Prompt (Top-Down)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für eine Top-Down-Aufnahme einer Frau (Maki Zenin), die Schwertkämpfer mit mächtigen Angriffen besiegt, wobei der Fokus auf Kamerabewegung und einer Jumpcut-Sequenz mit Blut liegt.
-
-#### 📝 Prompt
-
-```
-Totale von oben auf die Frau, die alle Schwertkämpfer mit mächtigen Angriffen ausschaltet, wir sehen sie nur von hinten – die Kamera schwenkt nach oben, etabliert, angespannt, niemand bewegt sich – den Boden nicht zeigen, Fokus auf den Oberkörper – dann bei 3 Sekunden, Jumpcut nach Jumpcut mit Blut
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/352.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca030427d3307655c5430a9488220256/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Kampfszene Prompt (Top-Down)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=352)**
-
-**Autor:** [karim_yourself](https://x.com/karim_yourself) | **Quelle:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Veröffentlicht:** Feb 13, 2026
-
----
-### Stranger Things Party: Superkräfte entfesseln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmischer Prompt zur Generierung einer Szene aus Stranger Things, in der die Hauptfiguren gleichzeitig einzigartige Superkräfte in einem zerstörten Labor entfesseln, unter Verwendung spezifischer filmischer Elemente wie Filmkorn, Lens Flares und volumetrischem Nebel.
-
-#### 📝 Prompt
-
-```
-Kinoartiger 1980er-Jahre-Dark-Fantasy-Ensemble-Shot der Stranger Things-Gruppe in einem zerstörten Labor, die gleichzeitig einzigartige Superkräfte entfesselt (blaue Elektrizität, rotes Plasma, telekinetische Trümmer, leuchtende Augen) mit 35-mm-Körnung, anamorphotischen Flares und volumetrischem rotem Nebel.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/347.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d204bfffb668bbf8033f9a4323b0a4a6/thumbnails/thumbnail.jpg" width="600" alt="Stranger Things Party: Superkräfte entfesseln"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=347)**
-
-**Autor:** [Zopia AI](https://x.com/Zopia_AI) | **Quelle:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Veröffentlicht:** Feb 13, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 74 weitere Prompts hier nicht angezeigt
+### 🎯 76 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2373,6 +2759,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-20T05:17:17.627Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-20T08:44:39.771Z</sub>
 
 </div>
