@@ -70,7 +70,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 |--------|-------|
 | 📝 Total de prompts | **180** |
 | ⭐ Prompts destacados | **0** |
-| 🔄 Última actualización | **2026-02-26** |
+| 🔄 Última actualización | **2026-02-27** |
 
 ---
 
@@ -2420,6 +2420,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-26T20:38:49.718Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T02:03:06.190Z</sub>
 
 </div>
