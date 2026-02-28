@@ -11,7 +11,7 @@
 
 ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレクション
 
-> ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new)してください。速やかに削除いたします。
+> ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new)してください。速やかに削除いたします。
 
 ---
 
@@ -2462,6 +2462,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-28T01:52:48.744Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-28T02:34:57.555Z</sub>
 
 </div>

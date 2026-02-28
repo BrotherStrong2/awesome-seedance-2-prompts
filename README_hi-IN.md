@@ -11,7 +11,7 @@
 
 ByteDance के Seedance 2.0 के लिए उच्च गुणवत्ता वाले वीडियो जनरेशन प्रॉम्पट्स का संग्रह
 
-> ⚠️ **कॉपीराइट सूचना**: सभी प्रॉम्पट्स शैक्षिक उद्देश्यों के लिए समुदाय से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक समस्या खोलें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new) और हम इसे तुरंत हटा देंगे।
+> ⚠️ **कॉपीराइट सूचना**: सभी प्रॉम्पट्स शैक्षिक उद्देश्यों के लिए समुदाय से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक समस्या खोलें](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new) और हम इसे तुरंत हटा देंगे।
 
 ---
 
@@ -2432,6 +2432,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-02-28T01:53:01.934Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-02-28T02:35:03.550Z</sub>
 
 </div>

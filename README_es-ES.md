@@ -11,7 +11,7 @@
 
 Una colección curada de prompts de generación de video de alta calidad para Seedance 2.0 de ByteDance
 
-> ⚠️ **Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new) y lo eliminaremos de inmediato.
+> ⚠️ **Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new) y lo eliminaremos de inmediato.
 
 ---
 
@@ -2432,6 +2432,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-28T01:53:03.585Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-28T02:35:04.400Z</sub>
 
 </div>
