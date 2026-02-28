@@ -5,13 +5,13 @@
 # 🎬 Seedance 2.0 視頻提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-0-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)
 
 字節跳動 Seedance 2.0 高質量視頻生成提示詞精選集合
 
-> ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new)，我們將立即移除。
+> ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new)，我們將立即移除。
 
 ---
 
@@ -2441,15 +2441,15 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 
 ## ⭐ Star 歷史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-0-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-0-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 在網頁畫廊中查看](https://youmind.com/zh-TW/seedance-2-0-prompts)** •
-**[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
-**[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
+**[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
+**[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
 <sub>🤖 此 README 自動生成。最後更新： 2026-02-28T01:52:44.894Z</sub>
 

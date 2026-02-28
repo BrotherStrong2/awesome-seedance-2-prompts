@@ -5,13 +5,13 @@
 # 🎬 Prompts de Video Seedance 2.0 Increíbles
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-0-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)
 
 Una colección curada de prompts de generación de video de alta calidad para Seedance 2.0 de ByteDance
 
-> ⚠️ **Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new) y lo eliminaremos de inmediato.
+> ⚠️ **Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new) y lo eliminaremos de inmediato.
 
 ---
 
@@ -2422,15 +2422,15 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ## ⭐ Historial de estrellas
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-0-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-0-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 Ver en la galería web](https://youmind.com/es-419/seedance-2-0-prompts)** •
-**[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
-**[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
+**[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
+**[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
 <sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-28T01:53:05.276Z</sub>
 

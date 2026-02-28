@@ -5,13 +5,13 @@
 # 🎬 สุดยอด Seedance 2.0 วิดีโอ Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-0-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)
 
 คอลเลกชันพรอมต์สร้างวิดีโอคุณภาพสูงสำหรับ Seedance 2.0 ของ ByteDance
 
-> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด[เปิดปัญหา](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new)และเราจะลบออกทันที
+> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด[เปิดปัญหา](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new)และเราจะลบออกทันที
 
 ---
 
@@ -2421,15 +2421,15 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 
 ## ⭐ ประวัติดาว
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-0-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-0-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 ดูในแกลเลอรีเว็บ](https://youmind.com/th-TH/seedance-2-0-prompts)** •
-**[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
-**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
+**[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
+**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
 <sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-28T01:52:56.394Z</sub>
 
