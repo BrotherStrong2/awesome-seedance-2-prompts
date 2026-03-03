@@ -159,7 +159,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=133)**
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 12, 2026
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 11, 2026
 
 ---
 ### 《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0
@@ -309,7 +309,7 @@
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=722)**
 
-**作者:** [ibexdream](https://x.com/ibexdream) | **來源:** [Link](https://x.com/ibexdream/status/2028229433346142506) | **發布時間:** Mar 2, 2026
+**作者:** [ibexdream](https://x.com/ibexdream) | **來源:** [Link](https://x.com/ibexdream/status/2028229433346142506) | **發布時間:** Mar 1, 2026
 
 ---
 ### 沙漠超高速追逐提示 (已標記)
@@ -352,7 +352,7 @@
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=721)**
 
-**作者:** [Kristof](https://x.com/kristofcreative) | **來源:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **發布時間:** Mar 2, 2026
+**作者:** [Kristof](https://x.com/kristofcreative) | **來源:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **發布時間:** Mar 1, 2026
 
 ---
 ### Seedance 2.0 提示詞，適用於「雙人對決」水墨風格影片
@@ -945,7 +945,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=700)**
 
-**作者:** [Charlie Greenman](https://x.com/charliegreenman) | **來源:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **發布時間:** Mar 1, 2026
+**作者:** [Charlie Greenman](https://x.com/charliegreenman) | **來源:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **發布時間:** Feb 28, 2026
 
 ---
 ### 混亂的食物大戰場景
@@ -964,7 +964,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=701)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **來源:** [Link](https://x.com/aimikoda/status/2027863587755291067) | **發布時間:** Mar 1, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **來源:** [Link](https://x.com/aimikoda/status/2027863587755291067) | **發布時間:** Feb 28, 2026
 
 ---
 ### 波斯壞蛋解放場景 (幽默)
@@ -983,7 +983,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=702)**
 
-**作者:** [Charles Curran](https://x.com/charliebcurran) | **來源:** [Link](https://x.com/charliebcurran/status/2027825297761108004) | **發布時間:** Mar 1, 2026
+**作者:** [Charles Curran](https://x.com/charliebcurran) | **來源:** [Link](https://x.com/charliebcurran/status/2027825297761108004) | **發布時間:** Feb 28, 2026
 
 ---
 ### 國漫角色對決的電影級 CG 短片 (Seedance 2.0)
@@ -1660,7 +1660,7 @@ C. 其他三名敵人（非參考圖）
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=683)**
 
-**作者:** [Brennan Erbz](https://x.com/BrennanErbz) | **來源:** [Link](https://x.com/BrennanErbz/status/2027527874367132130) | **發布時間:** Feb 28, 2026
+**作者:** [Brennan Erbz](https://x.com/BrennanErbz) | **來源:** [Link](https://x.com/BrennanErbz/status/2027527874367132130) | **發布時間:** Feb 27, 2026
 
 ---
 ### Seedance 2.0 機甲字體影片生成提示
@@ -1691,7 +1691,7 @@ VI. 最終定格，餘威繚繞：所有動態效果逐漸收斂。「霸王甲�
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=692)**
 
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2027508223012749314) | **發布時間:** Feb 28, 2026
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2027508223012749314) | **發布時間:** Feb 27, 2026
 
 ---
 ### Seedance 2.0 字體影片生成提示（劍術風格）
@@ -2125,7 +2125,7 @@ SAT 隊員緩緩靠近，確認安全。
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=677)**
 
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **發布時間:** Feb 27, 2026
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **發布時間:** Feb 26, 2026
 
 ---
 ### 日本男孩變身武士守護英雄
@@ -2149,7 +2149,7 @@ SAT 隊員緩緩靠近，確認安全。
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=678)**
 
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **發布時間:** Feb 27, 2026
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **發布時間:** Feb 26, 2026
 
 ---
 ### 多鏡頭果凍生物機械影片提示
@@ -2168,7 +2168,7 @@ SAT 隊員緩緩靠近，確認安全。
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=655)**
 
-**作者:** [Zopia AI](https://x.com/Zopia_AI) | **來源:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **發布時間:** Feb 27, 2026
+**作者:** [Zopia AI](https://x.com/Zopia_AI) | **來源:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **發布時間:** Feb 26, 2026
 
 ---
 ### 多鏡頭動漫戰鬥編排提示
@@ -2187,7 +2187,7 @@ SAT 隊員緩緩靠近，確認安全。
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=659)**
 
-**作者:** [SYD](https://x.com/SYDxStudio) | **來源:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **發布時間:** Feb 27, 2026
+**作者:** [SYD](https://x.com/SYDxStudio) | **來源:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **發布時間:** Feb 26, 2026
 
 ---
 ### 哥倫布導航廣告影片提示
@@ -2635,7 +2635,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=631)**
 
-**作者:** [Kyle Thacker](https://x.com/kylethacker) | **來源:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **發布時間:** Feb 26, 2026
+**作者:** [Kyle Thacker](https://x.com/kylethacker) | **來源:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **發布時間:** Feb 25, 2026
 
 ---
 ### 市中心路口發生大規模爆炸
@@ -2654,7 +2654,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=630)**
 
-**作者:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **來源:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **發布時間:** Feb 26, 2026
+**作者:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **來源:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **發布時間:** Feb 25, 2026
 
 ---
 ### 迷霧森林中的虛無漫遊者
@@ -2675,7 +2675,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=637)**
 
-**作者:** [ibexdream](https://x.com/ibexdream) | **來源:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **發布時間:** Feb 26, 2026
+**作者:** [ibexdream](https://x.com/ibexdream) | **來源:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **發布時間:** Feb 25, 2026
 
 ---
 ### 豆包 AI 助手提示詞規避
@@ -2694,7 +2694,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=646)**
 
-**作者:** [奶昔🥤](https://x.com/realNyarime) | **來源:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **發布時間:** Feb 26, 2026
+**作者:** [奶昔🥤](https://x.com/realNyarime) | **來源:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **發布時間:** Feb 25, 2026
 
 ---
 ### Seedance 2.0 影片提示：愛與月的寓言
@@ -2713,7 +2713,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=679)**
 
-**作者:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **來源:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **發布時間:** Feb 26, 2026
+**作者:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **來源:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **發布時間:** Feb 25, 2026
 
 ---
 ### 動作冒險/科幻場景，一名士兵在其中
@@ -2739,7 +2739,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=624)**
 
-**作者:** [fofr](https://x.com/fofrAI) | **來源:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **發布時間:** Feb 26, 2026
+**作者:** [fofr](https://x.com/fofrAI) | **來源:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **發布時間:** Feb 25, 2026
 
 ---
 ### 外星人尖叫與暴龍怒吼
@@ -2758,7 +2758,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=634)**
 
-**作者:** [chill dude](https://x.com/nonameemerci) | **來源:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **發布時間:** Feb 26, 2026
+**作者:** [chill dude](https://x.com/nonameemerci) | **來源:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **發布時間:** Feb 25, 2026
 
 ---
 ### 抽象畫家變形序列
@@ -2777,7 +2777,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=640)**
 
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **發布時間:** Feb 26, 2026
+**作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **發布時間:** Feb 25, 2026
 
 ---
 ### 冰雪東歐驚悚片預告
@@ -2796,7 +2796,7 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=641)**
 
-**作者:** [Everett World](https://x.com/WorldEverett) | **來源:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **發布時間:** Feb 26, 2026
+**作者:** [Everett World](https://x.com/WorldEverett) | **來源:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **發布時間:** Feb 25, 2026
 
 ---
 ### 台北街頭突發事件
@@ -2909,6 +2909,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-03-03T03:38:36.280Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-03-03T03:40:49.525Z</sub>
 
 </div>

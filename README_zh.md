@@ -161,7 +161,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=133)**
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 12, 2026
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 11, 2026
 
 ---
 ### 《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0
@@ -311,7 +311,7 @@
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=722)**
 
-**作者:** [ibexdream](https://x.com/ibexdream) | **来源:** [Link](https://x.com/ibexdream/status/2028229433346142506) | **发布时间:** Mar 2, 2026
+**作者:** [ibexdream](https://x.com/ibexdream) | **来源:** [Link](https://x.com/ibexdream/status/2028229433346142506) | **发布时间:** Mar 1, 2026
 
 ---
 ### 沙漠超高速追逐提示（已标记）
@@ -354,7 +354,7 @@
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=721)**
 
-**作者:** [Kristof](https://x.com/kristofcreative) | **来源:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **发布时间:** Mar 2, 2026
+**作者:** [Kristof](https://x.com/kristofcreative) | **来源:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **发布时间:** Mar 1, 2026
 
 ---
 ### Seedance 2.0 提示词，适用于“双子对决”水墨风格视频
@@ -951,7 +951,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=700)**
 
-**作者:** [Charlie Greenman](https://x.com/charliegreenman) | **来源:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **发布时间:** Mar 1, 2026
+**作者:** [Charlie Greenman](https://x.com/charliegreenman) | **来源:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **发布时间:** Feb 28, 2026
 
 ---
 ### 混乱的食物大战场景
@@ -970,7 +970,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=701)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **来源:** [Link](https://x.com/aimikoda/status/2027863587755291067) | **发布时间:** Mar 1, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **来源:** [Link](https://x.com/aimikoda/status/2027863587755291067) | **发布时间:** Feb 28, 2026
 
 ---
 ### 波斯坏女孩解放场景（幽默）
@@ -989,7 +989,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=702)**
 
-**作者:** [Charles Curran](https://x.com/charliebcurran) | **来源:** [Link](https://x.com/charliebcurran/status/2027825297761108004) | **发布时间:** Mar 1, 2026
+**作者:** [Charles Curran](https://x.com/charliebcurran) | **来源:** [Link](https://x.com/charliebcurran/status/2027825297761108004) | **发布时间:** Feb 28, 2026
 
 ---
 ### 国漫角色对决的电影级 CG 短片（Seedance 2.0）
@@ -1668,7 +1668,7 @@ C. 其他三名敌人（非参考图）
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=683)**
 
-**作者:** [Brennan Erbz](https://x.com/BrennanErbz) | **来源:** [Link](https://x.com/BrennanErbz/status/2027527874367132130) | **发布时间:** Feb 28, 2026
+**作者:** [Brennan Erbz](https://x.com/BrennanErbz) | **来源:** [Link](https://x.com/BrennanErbz/status/2027527874367132130) | **发布时间:** Feb 27, 2026
 
 ---
 ### Seedance 2.0 机甲字体视频生成提示词
@@ -1699,7 +1699,7 @@ C. 其他三名敌人（非参考图）
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=692)**
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2027508223012749314) | **发布时间:** Feb 28, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2027508223012749314) | **发布时间:** Feb 27, 2026
 
 ---
 ### Seedance 2.0 字体视频生成提示（剑风格）
@@ -2133,7 +2133,7 @@ SAT 队员缓慢靠近，确认安全。
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=677)**
 
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **发布时间:** Feb 27, 2026
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **发布时间:** Feb 26, 2026
 
 ---
 ### 日本男孩变身武士守护英雄
@@ -2162,7 +2162,7 @@ SAT 队员缓慢靠近，确认安全。
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=678)**
 
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **发布时间:** Feb 27, 2026
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **发布时间:** Feb 26, 2026
 
 ---
 ### 多镜头果冻生物机械视频提示
@@ -2181,7 +2181,7 @@ SAT 队员缓慢靠近，确认安全。
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=655)**
 
-**作者:** [Zopia AI](https://x.com/Zopia_AI) | **来源:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **发布时间:** Feb 27, 2026
+**作者:** [Zopia AI](https://x.com/Zopia_AI) | **来源:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **发布时间:** Feb 26, 2026
 
 ---
 ### 多镜头动漫打斗编排提示词
@@ -2200,7 +2200,7 @@ SAT 队员缓慢靠近，确认安全。
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=659)**
 
-**作者:** [SYD](https://x.com/SYDxStudio) | **来源:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **发布时间:** Feb 27, 2026
+**作者:** [SYD](https://x.com/SYDxStudio) | **来源:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **发布时间:** Feb 26, 2026
 
 ---
 ### 哥伦布导航广告视频提示
@@ -2631,7 +2631,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=631)**
 
-**作者:** [Kyle Thacker](https://x.com/kylethacker) | **来源:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **发布时间:** Feb 26, 2026
+**作者:** [Kyle Thacker](https://x.com/kylethacker) | **来源:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **发布时间:** Feb 25, 2026
 
 ---
 ### 市中心路口发生大规模爆炸
@@ -2650,7 +2650,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=630)**
 
-**作者:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **来源:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **发布时间:** Feb 26, 2026
+**作者:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **来源:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **发布时间:** Feb 25, 2026
 
 ---
 ### 迷雾森林中的虚无漫游者
@@ -2671,7 +2671,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=637)**
 
-**作者:** [ibexdream](https://x.com/ibexdream) | **来源:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **发布时间:** Feb 26, 2026
+**作者:** [ibexdream](https://x.com/ibexdream) | **来源:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **发布时间:** Feb 25, 2026
 
 ---
 ### 豆包 AI 助手提示词约束规避
@@ -2692,7 +2692,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=646)**
 
-**作者:** [奶昔🥤](https://x.com/realNyarime) | **来源:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **发布时间:** Feb 26, 2026
+**作者:** [奶昔🥤](https://x.com/realNyarime) | **来源:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **发布时间:** Feb 25, 2026
 
 ---
 ### Seedance 2.0 视频提示词：爱与月的寓言
@@ -2711,7 +2711,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=679)**
 
-**作者:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **来源:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **发布时间:** Feb 26, 2026
+**作者:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **来源:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **发布时间:** Feb 25, 2026
 
 ---
 ### 士兵在动作冒险/科幻场景中
@@ -2737,7 +2737,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=624)**
 
-**作者:** [fofr](https://x.com/fofrAI) | **来源:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **发布时间:** Feb 26, 2026
+**作者:** [fofr](https://x.com/fofrAI) | **来源:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **发布时间:** Feb 25, 2026
 
 ---
 ### 外星人尖叫和霸王龙咆哮
@@ -2756,7 +2756,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=634)**
 
-**作者:** [chill dude](https://x.com/nonameemerci) | **来源:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **发布时间:** Feb 26, 2026
+**作者:** [chill dude](https://x.com/nonameemerci) | **来源:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **发布时间:** Feb 25, 2026
 
 ---
 ### 抽象画家变形序列
@@ -2775,7 +2775,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=640)**
 
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **来源:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **发布时间:** Feb 26, 2026
+**作者:** [Heather Cooper](https://x.com/HBCoop_) | **来源:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **发布时间:** Feb 25, 2026
 
 ---
 ### 冰雪东欧惊悚片预告
@@ -2794,7 +2794,7 @@ ADVENTURE ENERGY: 哥伦布看着手机上的 GPS 导航，兴奋地说：“发
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=641)**
 
-**作者:** [Everett World](https://x.com/WorldEverett) | **来源:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **发布时间:** Feb 26, 2026
+**作者:** [Everett World](https://x.com/WorldEverett) | **来源:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **发布时间:** Feb 25, 2026
 
 ---
 ### 台北街头突发事件
@@ -2907,6 +2907,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-03-03T03:38:30.977Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-03-03T03:40:45.563Z</sub>
 
 </div>

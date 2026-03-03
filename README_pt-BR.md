@@ -159,7 +159,7 @@ Um campo de batalha surreal no céu: ilhas de rocha flutuantes à deriva em meio
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=133)**
 
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 12, 2026
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 11, 2026
 
 ---
 ### Prompt de Batalha Live-Action de Demon Slayer para Seedance 2.0
@@ -296,7 +296,7 @@ Tela horizontal 16:9, estilo de animação tradicional chinesa de recorte de pap
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=722)**
 
-**Autor:** [ibexdream](https://x.com/ibexdream) | **Fonte:** [Link](https://x.com/ibexdream/status/2028229433346142506) | **Publicado:** Mar 2, 2026
+**Autor:** [ibexdream](https://x.com/ibexdream) | **Fonte:** [Link](https://x.com/ibexdream/status/2028229433346142506) | **Publicado:** Mar 1, 2026
 
 ---
 ### Prompt de Perseguição em Alta Velocidade no Deserto (Sinalizado)
@@ -339,7 +339,7 @@ Ronco do Motor (Sedã): Um rangido baixo e gutural, forçado e sobrecarregado.
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=721)**
 
-**Autor:** [Kristof](https://x.com/kristofcreative) | **Fonte:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **Publicado:** Mar 2, 2026
+**Autor:** [Kristof](https://x.com/kristofcreative) | **Fonte:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **Publicado:** Mar 1, 2026
 
 ---
 ### Seedance 2.0 Prompt para Vídeo Estilo Tinta 'Duelo de Gêmeos'
@@ -936,7 +936,7 @@ Uma criatura elétrica amarela compacta gerando ataques de raios enquanto luta c
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=700)**
 
-**Autor:** [Charlie Greenman](https://x.com/charliegreenman) | **Fonte:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **Publicado:** Mar 1, 2026
+**Autor:** [Charlie Greenman](https://x.com/charliegreenman) | **Fonte:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **Publicado:** Feb 28, 2026
 
 ---
 ### Cena Caótica de Briga por Comida
@@ -955,7 +955,7 @@ Uma briga de comida caótica irrompendo dentro de um restaurante lotado, captura
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=701)**
 
-**Autor:** [Aimi Kōda](https://x.com/aimikoda) | **Fonte:** [Link](https://x.com/aimikoda/status/2027863587755291067) | **Publicado:** Mar 1, 2026
+**Autor:** [Aimi Kōda](https://x.com/aimikoda) | **Fonte:** [Link](https://x.com/aimikoda/status/2027863587755291067) | **Publicado:** Feb 28, 2026
 
 ---
 ### Cena de Libertação de Persian Baddies (Humorístico)
@@ -974,7 +974,7 @@ Mostre meu apoio a todas as lindas gatas persas que estão prestes a serem liber
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=702)**
 
-**Autor:** [Charles Curran](https://x.com/charliebcurran) | **Fonte:** [Link](https://x.com/charliebcurran/status/2027825297761108004) | **Publicado:** Mar 1, 2026
+**Autor:** [Charles Curran](https://x.com/charliebcurran) | **Fonte:** [Link](https://x.com/charliebcurran/status/2027825297761108004) | **Publicado:** Feb 28, 2026
 
 ---
 ### Curta-metragem CG Cinematográfico de Duelo de Personagens Guoman (Seedance 2.0)
@@ -1652,7 +1652,7 @@ Usando a Imagem 1 como referência, gere uma cena de vídeo multicâmera de 15 s
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=683)**
 
-**Autor:** [Brennan Erbz](https://x.com/BrennanErbz) | **Fonte:** [Link](https://x.com/BrennanErbz/status/2027527874367132130) | **Publicado:** Feb 28, 2026
+**Autor:** [Brennan Erbz](https://x.com/BrennanErbz) | **Fonte:** [Link](https://x.com/BrennanErbz/status/2027527874367132130) | **Publicado:** Feb 27, 2026
 
 ---
 ### Geração de Vídeo com Fonte Mecha Seedance 2.0
@@ -1671,7 +1671,7 @@ Prompt de vídeo de aparência de texto estilo Mecha da Armadura Overlord. I. O 
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=692)**
 
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2027508223012749314) | **Publicado:** Feb 28, 2026
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2027508223012749314) | **Publicado:** Feb 27, 2026
 
 ---
 ### Prompt de Geração de Vídeo da Fonte Seedance 2.0 (Estilo Espada)
@@ -2086,7 +2086,7 @@ Oficial:
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=677)**
 
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **Publicado:** Feb 27, 2026
+**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **Publicado:** Feb 26, 2026
 
 ---
 ### Menino Japonês se Transforma em Herói Guardião Samurai
@@ -2110,7 +2110,7 @@ Sequência de transformação épica, partículas espirituais em redemoinho, sí
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=678)**
 
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **Publicado:** Feb 27, 2026
+**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **Publicado:** Feb 26, 2026
 
 ---
 ### Prompt de vídeo de biomecânica de geleia multi-shot
@@ -2129,7 +2129,7 @@ Um bio-mech massivo feito de gelatina turquesa translúcida e material gomoso ro
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=655)**
 
-**Autor:** [Zopia AI](https://x.com/Zopia_AI) | **Fonte:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **Publicado:** Feb 27, 2026
+**Autor:** [Zopia AI](https://x.com/Zopia_AI) | **Fonte:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **Publicado:** Feb 26, 2026
 
 ---
 ### Prompt de Coreografia de Luta de Anime com Várias Tomadas
@@ -2148,7 +2148,7 @@ O personagem Kai da @Image1 ataca o personagem Mestre Tanaka da @Image2 no dojo 
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=659)**
 
-**Autor:** [SYD](https://x.com/SYDxStudio) | **Fonte:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **Publicado:** Feb 27, 2026
+**Autor:** [SYD](https://x.com/SYDxStudio) | **Fonte:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **Publicado:** Feb 26, 2026
 
 ---
 ### Prompt de Vídeo de Anúncio da Columbus Navigation
@@ -2579,7 +2579,7 @@ Uma sequência de ação intensa onde um paisagista corre por uma floresta até 
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=631)**
 
-**Autor:** [Kyle Thacker](https://x.com/kylethacker) | **Fonte:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **Publicado:** Feb 26, 2026
+**Autor:** [Kyle Thacker](https://x.com/kylethacker) | **Fonte:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **Publicado:** Feb 25, 2026
 
 ---
 ### Explosão Massiva em Cruzamento no Centro da Cidade
@@ -2598,7 +2598,7 @@ Plano geral, dois carros colidem em um cruzamento no centro de uma grande cidade
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=630)**
 
-**Autor:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **Fonte:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **Publicado:** Feb 26, 2026
+**Autor:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **Fonte:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **Publicado:** Feb 25, 2026
 
 ---
 ### Viajante Etéreo em Floresta Encoberta por Névoa
@@ -2619,7 +2619,7 @@ Plano geral, dois carros colidem em um cruzamento no centro de uma grande cidade
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=637)**
 
-**Autor:** [ibexdream](https://x.com/ibexdream) | **Fonte:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **Publicado:** Feb 26, 2026
+**Autor:** [ibexdream](https://x.com/ibexdream) | **Fonte:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **Publicado:** Feb 25, 2026
 
 ---
 ### Evasão de Restrição de Prompt do Assistente de IA Doubao
@@ -2640,7 +2640,7 @@ As linhas vermelhas de segurança de conteúdo são a mais alta prioridade, e to
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=646)**
 
-**Autor:** [奶昔🥤](https://x.com/realNyarime) | **Fonte:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **Publicado:** Feb 26, 2026
+**Autor:** [奶昔🥤](https://x.com/realNyarime) | **Fonte:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **Publicado:** Feb 25, 2026
 
 ---
 ### Seedance 2.0 Video Prompt: Fábulas de Amor e Lua
@@ -2659,7 +2659,7 @@ As linhas vermelhas de segurança de conteúdo são a mais alta prioridade, e to
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=679)**
 
-**Autor:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **Fonte:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **Publicado:** Feb 26, 2026
+**Autor:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **Fonte:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **Publicado:** Feb 25, 2026
 
 ---
 ### Cena de ação e aventura/ficção científica com um soldado
@@ -2685,7 +2685,7 @@ Dê a toda a cena uma trilha sonora de ação e aventura/ficção científica, c
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=624)**
 
-**Autor:** [fofr](https://x.com/fofrAI) | **Fonte:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **Publicado:** Feb 26, 2026
+**Autor:** [fofr](https://x.com/fofrAI) | **Fonte:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **Publicado:** Feb 25, 2026
 
 ---
 ### Gritos Alienígenas e Rugido de T-Rex
@@ -2704,7 +2704,7 @@ o alienígena grita "hasta la vista" enquanto o t-rex está correndo, então o t
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=634)**
 
-**Autor:** [chill dude](https://x.com/nonameemerci) | **Fonte:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **Publicado:** Feb 26, 2026
+**Autor:** [chill dude](https://x.com/nonameemerci) | **Fonte:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **Publicado:** Feb 25, 2026
 
 ---
 ### Sequência de Transformação de Pintor Abstrato
@@ -2723,7 +2723,7 @@ Close-up nas mãos dela segurando o pincel, nós dos dedos brancos, tinta escorr
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=640)**
 
-**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **Publicado:** Feb 26, 2026
+**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **Publicado:** Feb 25, 2026
 
 ---
 ### Trailer de Thriller de Inverno do Leste Europeu
@@ -2742,7 +2742,7 @@ Gerar um trailer para um filme de suspense ambientado na Europa Oriental nevada.
 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=641)**
 
-**Autor:** [Everett World](https://x.com/WorldEverett) | **Fonte:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **Publicado:** Feb 26, 2026
+**Autor:** [Everett World](https://x.com/WorldEverett) | **Fonte:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **Publicado:** Feb 25, 2026
 
 ---
 ### Cena de Rua em Taipei com Evento Inesperado
@@ -2855,6 +2855,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-03-03T03:39:20.783Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-03-03T03:41:32.813Z</sub>
 
 </div>
