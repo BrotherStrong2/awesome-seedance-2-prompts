@@ -68,7 +68,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **611** |
+| 📝 พรอมต์ทั้งหมด | **635** |
 | ⭐ พรอมต์แนะนำ | **6** |
 | 🔄 อัปเดตล่าสุด | **2026-03-03** |
 
@@ -326,6 +326,445 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### สไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ - แมวสีน้ำเงินปะทะมังกรยักษ์
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งแบบหลายส่วนที่มีรายละเอียดสำหรับการสร้างวิดีโอในสไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ โดยมีภาพ CG ที่สมจริงของแมวสีน้ำเงินกำลังต่อสู้กับมังกรยักษ์ ซึ่งใช้สี HDR ที่มีช่วงไดนามิกสูง และการเคลื่อนไหวของกล้องและเอฟเฟกต์เสียงที่เฉพาะเจาะจง
+
+#### 📝 พรอมต์
+
+```
+สไตล์ภาพยนตร์ฟอร์มยักษ์ฮอลลีวูด, การเรนเดอร์ CG ที่สมจริง, สี HDR แบบไดนามิกสูง 0-3 วินาที: ภาพมุมสูงระยะไกลมากของเส้นขอบฟ้าเมืองสมัยใหม่ยามพลบค่ำ พระอาทิตย์ตกถูกกลืนหายไปในชั้นเมฆสีแดงเข้มที่ผิดธรรมชาติ เสียงคำรามต่ำๆ ดังแผ่วๆ ออกมาจากเมฆมืดที่เคลื่อนตัว ผู้คนบนพื้นดินหยุดชะงัก
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/767.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48ba773bbf5baccaba7cbe3e343ca169/thumbnails/thumbnail.jpg" width="600" alt="สไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ - แมวสีน้ำเงินปะทะมังกรยักษ์"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=767)**
+
+**ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2028664732010582082) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### Taiwanese Girlfriend POV Series (Episode 1) - Sunset Date
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งแบบละเอียดหลายส่วนสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอแนวตั้ง 15 วินาที (9:16) ในสไตล์ POV แบบถือกล้อง โดยมีหญิงสาวชาวไต้หวันออกเดทริมแม่น้ำตั้นสุ่ยในไทเปยามพระอาทิตย์ตกดิน ข้อความแจ้งระบุสไตล์ภาพ (เกรนฟิล์ม, แสงอาทิตย์อัสดงที่อบอุ่น), ลักษณะตัวละคร (อ้างอิงจาก @Image 1) และลำดับการกระทำและบทสนทนา (ด้วยสำเนียงไต้หวัน) ที่สื่อถึงการโต้ตอบที่สนุกสนานและหยอกล้อกับผู้ชม ('แฟนหนุ่ม')
+
+#### 📝 พรอมต์
+
+```
+15-second vertical screen 9:16, film grain filter + natural particles, Tamsui River riverside path in Taipei, background golden sunset + shimmering river surface + silhouette of Lover's Bridge in the distance, main character is a Taiwanese girl [Image 1], long slightly curled hair, beige knit cardigan, clear makeup. The entire process is shot with a boyfriend's Handheld POV follow-up, the camera shakes slightly, no perspective switching. 0-4 seconds: Handheld follow-up, the girl walks two steps ahead of the camera, turns her head towards the camera, frowns slightly pretending to be angry, one hand presses down on her wind-blown hair, the other hand gestures 'hurry up and follow' behind her. The sunset side backlighting outlines her cheek contours and floating hair strands; Dialogue (soft and coquettish): "Hey, walk faster! You're always dragging your feet!" 4-8 seconds: The girl suddenly stops, looks at the river surface, the camera Smooth Pans towards the opposite bank following her gaze—full view of the golden sunset + shimmering water + silhouette of Lover's Bridge, pausing for about 2 seconds; Pans back to the girl's front, the Golden Hour warm light dyes her face gold, she smiles with her eyes squinted; Dialogue (short exclamation): "Wow—look at that light!" 8-10 seconds: The girl's eyes light up as she looks at a nearby stall, pulling the camera's direction and walking quickly. The Handheld camera follows, accelerating and shaking; [Natural street ambient sound, no dialogue] 10-13 seconds: The girl is now holding a tall Tamsui soft-serve ice cream, holding it up to the camera pretending to feed; Dialogue (playful): "The first bite is for you—" She pauses for a beat, turns the ice cream towards herself, and takes a big bite. Because the ice cream is so tall, her nose tip brushes the top cream and gets a little white smudge; Dialogue (smugly): "—Just kidding!" 13-15 seconds: Chewing the ice cream, she looks down at the cream on her nose tip, cross-eyes glancing down, pauses for half a second, then bursts out laughing at the camera. The Handheld camera shakes slightly; Dialogue (laughing so hard she can't speak clearly): "Hahaha... You pass today!" Prohibit the appearance of text, subtitles, logos, or watermarks.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/757.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33d94fc00e698d23944df8d46d6fdff7/thumbnails/thumbnail.jpg" width="600" alt="Taiwanese Girlfriend POV Series (Episode 1) - Sunset Date"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=757)**
+
+**ผู้เขียน:** [MapleShaw](https://x.com/msjiaozhu) | **แหล่งที่มา:** [Link](https://x.com/msjiaozhu/status/2028646448603287797) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### พรอมต์สร้างวิดีโอ Kaiju Battle สำหรับ Seedance 2
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ข้อความแจ้งโดยละเอียดสำหรับ Seedance 2 เพื่อสร้างวิดีโอแนวโทคุซัทสึ (เทคนิคพิเศษ) ที่แสดงการต่อสู้ของสัตว์ประหลาดขนาดยักษ์ระหว่างตัวละครสองตัว โดยเน้นการกระทำในการต่อสู้ที่เฉพาะเจาะจง เช่น การชก การเตะ การป้องกัน การโจมตีด้วยลำแสง และการทุ่มแบบยูโด
+
+#### 📝 พรอมต์
+
+```
+[วิดีโอโทคุซัทสึที่ยักษ์ @ Image1 และยักษ์ @ Image2 ต่อสู้กันในพื้นที่ภูเขา @ Image1 เข้าประชิดตัวและปล่อยหมัดตามด้วยเตะใส่ @ Image2 @ Image2 ป้องกันและโต้กลับด้วยลำแสง @ Image1 หลบลำแสง กระโดดเข้าหา @ Image2 และทุ่ม @ Image2 ด้วยท่าทุ่มยูโด @ Image2 ลอยละลิ่วไปไกลสุดสายตาเป็นแนวโค้งลงสู่พื้น @ Image1 ชูสองนิ้วให้กล้อง]
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/768.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/518d01ccdb4115bddcc7b236839f321c/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์สร้างวิดีโอ Kaiju Battle สำหรับ Seedance 2"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=768)**
+
+**ผู้เขียน:** [そぴちゃんねる](https://x.com/souhiro_meem_ch) | **แหล่งที่มา:** [Link](https://x.com/souhiro_meem_ch/status/2028587467520250223) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Primal Race Quick Cut Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ออกแบบมาสำหรับการสร้างภาพเป็นวิดีโอใน Seedance 2.0 โดยเน้นที่ลำดับการแข่งรถแบบภาพยนตร์ที่รวดเร็ว เข้มข้น และซิงค์กับจังหวะ พร้อมการตัดต่อที่ฉับไว
+
+#### 📝 พรอมต์
+
+```
+Race sequence, presented in rapid cinematic coverage with dynamic angles and intense motion energy - QUICK CUTS - BEAT SYNC HARD EDIT FORMAT: 15s / 120 BPM / 12 SHOTS / HARD CUT.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/748.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d89c0f2a6ff1e04c540a03d91cef9b03/thumbnails/thumbnail.jpg" width="600" alt="Primal Race Quick Cut Video Prompt"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=748)**
+
+**ผู้เขียน:** [Aimi Kōda](https://x.com/aimikoda) | **แหล่งที่มา:** [Link](https://x.com/aimikoda/status/2028507175899824190) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### เมื่อฉันเตรียมตัวเข้านอน: ฉากคู่รักกอดกัน
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-scene prompt for Seedance 2.0 to generate a 10-second video depicting a couple getting ready for bed in a modern hotel room. The scene focuses on the man (with gold/black hair, silk pajamas) cuddling into the woman's chest (long black hair, white T-shirt) and her subsequent actions of covering him with a blanket and holding him tightly. The prompt includes specific dialogue/subtitle changes corresponding to the actions.
+
+#### 📝 พรอมต์
+
+```
+ฉาก: ห้องพักโรงแรมสไตล์โมเดิร์น เวลากลางคืน
+
+ตัวละคร:
+• พระเอก: ผมไฮไลต์สีทองและดำ สวมชุดนอนผ้าไหมหรือผ้าซาตินสีอ่อน (ขาวนวล/ครีม) แต่งขอบด้วยสีดำ
+• นางเอก: ผมยาวสีดำ สวมเสื้อยืดคอกลมแขนสั้นสีขาวเรียบๆ อกเต็ม อวดไหปลาร้า นอนอยู่บนเตียง
+
+การกระทำและเนื้อเรื่อง:
+ฉากที่ 1 (00:00 - 00:01): ฉากเริ่มต้นขึ้น พร้อมคำบรรยายสีเหลืองที่แสดงอยู่ด้านบนสุดของหน้าจอเสมอ: "When I get ready for bed" (เมื่อฉันเตรียมตัวเข้านอน) นางเอกนอนราบอยู่บนเตียงที่มีผ้าปูที่นอนและหมอนสีขาว พระเอกคุกเข่าข้างเตียง โน้มตัวลงมาเผชิญหน้ากับนางเอก และทั้งคู่มองตากัน
+
+ฉากที่ 2 (00:01 - 00:03): พระเอกค่อยๆ เคลื่อนตัวลง วางศีรษะลงบนหน้าอก/ตักของนางเอก หลับตาลงเพื่อจะนอน คำบรรยายใหม่ปรากฏขึ้นที่ด้านล่างของหน้าจอ: "Lying in my wife's arms~" (นอนอยู่ในอ้อมแขนภรรยา~) ใบหน้าของนางเอกหันไปด้านข้าง มองพระเอกอย่างสงบ
+
+ฉากที่ 3 (00:03 - 00:06): นางเอกค่อยๆ ยกแขนขึ้น เตรียมที่จะโอบกอดพระเอกที่นอนอยู่ในอ้อมแขนของเธอ
+
+ฉากที่ 4 (00:06 - 00:07): ณ จุดนี้ แขนที่เหยียดออกของนางเอกดูเหมือนจะดึงผ้าห่มบางๆ สีขาว หรือผ้านวมจากปลายเตียงหรือใต้ผ้าห่ม มาคลุมหลังของพระเอก คำบรรยายเดิม "Lying in my wife's arms~" ถูกแทนที่ด้วยคำบรรยายใหม่ "Covered with a little blanket" (คลุมด้วยผ้าห่มผืนเล็กๆ) พระเอกยังคงหลับตาพริ้มอยู่ในอ้อมแขนของนางเอก
+
+ฉากที่ 5 (00:07 - 00:10): ในตอนท้ายของฉาก นางเอกกอดพระเอกแน่นด้วยแขนทั้งสองข้าง และจัดผ้าห่ม/ผ้านวมให้อยู่ในตำแหน่งที่สบาย คำบรรยายเปลี่ยนอีกครั้ง; คำบรรยายสีเหลือง "When I get ready for bed" ยังคงอยู่ และคำบรรยายด้านล่างเปลี่ยนเป็น "Holding tightly" (กอดแน่น) ทั้งสองยังคงอยู่ในท่ากอดกัน นอนเงียบๆ บนเตียง โดยพระเอกยังคงหลับอย่างสงบอยู่ในอ้อมแขนของนางเอก
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/760.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fdb2ac8703999a72a3406e904c5cf3f/thumbnails/thumbnail.jpg" width="600" alt="เมื่อฉันเตรียมตัวเข้านอน: ฉากคู่รักกอดกัน"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=760)**
+
+**ผู้เขียน:** [李岳](https://x.com/liyue_ai) | **แหล่งที่มา:** [Link](https://x.com/liyue_ai/status/2028465232587477258) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Free-Flying Characters Cinematic Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for generating a video featuring two characters flying freely through a world defined by a reference image. The camera follows them from behind, using jump cuts to focus on each character's face.
+
+#### 📝 พรอมต์
+
+```
+The world of Image 1. The characters from Image 2 and Image 3 glide freely through the world. Camera work: Chase the two from behind. Jump cut to the face of the character in Image 2, then jump cut to the face of the character in Image 3.
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517575834_cdb5a6_HCaHK2ObMAAMkoJ.jpg" width="600" alt="Free-Flying Characters Cinematic Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=750)**
+
+**ผู้เขียน:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **แหล่งที่มา:** [Link](https://x.com/YaReYaRu30Life/status/2028457851879125480) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### น้องแมวทำแพนเค้ก (เจียนปิ่ง) - ซีรีส์สัตว์เลี้ยงน่ารัก Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งแบบละเอียดหลายขั้นตอนสำหรับการสร้างวิดีโอในซีรีส์ Seedance Cute Pet ซึ่งมีแมวที่เชี่ยวชาญเป็นพิเศษกำลังทำแพนเค้กจีนโบราณ (เจียนปิง) ที่แผงขายอาหารริมทาง ข้อความแจ้งระบุตัวละคร (แมว) ฉาก (แผงขายอาหารเช้าริมถนนในเมือง) มุมกล้องแบบคงที่ และลำดับการกระทำที่ซับซ้อนและต่อเนื่องที่แมวทำ รวมถึงการขูดแป้ง การตอกไข่ การเกลี่ยไข่ การพับแพนเค้ก การทาซอส การเพิ่มไส้ การตัดแพนเค้ก และการยื่นให้กล้อง
+
+#### 📝 พรอมต์
+
+```
+The main character is [@Image 1]. The scene is a breakfast stall on a city street in the morning, with the stall referencing [@Image 2]. The camera angle is fixed, referencing [@Image 1]. The kitten uses its left hand to hold a large ladle and its right hand to hold a wooden scraper, scraping the batter from the ladle. It puts down the ladle with its left hand while spreading the batter on the griddle with its right hand. The left hand picks up an egg, taps it on the edge of the griddle, and cracks the egg onto the pancake with one hand, then throws the eggshell directly behind it. The right hand spreads the egg. Then, it puts down the wooden scraper, picks up a small spatula with its right hand, scrapes the pancake, and folds it in half. The left hand takes out a brush dipped in sweet bean paste and brushes the pancake three times. After that, the right hand takes a crispy cracker, breaks it, and stacks it on the pancake. Then, the left hand takes some shredded kelp and the right hand takes some shredded potato and sprinkles them on the pancake. It then rolls up the pancake, uses the small spatula in its right hand to cut the rolled pancake in the middle into two halves, and finally picks up a plastic bag to pack it and hand it towards the camera.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/755.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8a3d683d1af0393c86d55c0566d3e11/thumbnails/thumbnail.jpg" width="600" alt="น้องแมวทำแพนเค้ก (เจียนปิ่ง) - ซีรีส์สัตว์เลี้ยงน่ารัก Seedance"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=755)**
+
+**ผู้เขียน:** [硅予](https://x.com/Leslieyu0) | **แหล่งที่มา:** [Link](https://x.com/Leslieyu0/status/2028445097692635348) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### First-Person POV Couple Interaction: Sofa Surprise
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 พร้อมท์แบบหลายขั้นตอนที่มีรายละเอียดสูง สำหรับสร้างวิดีโอ POV บุคคลที่หนึ่งของการมีปฏิสัมพันธ์อย่างใกล้ชิดกับแฟนสาว (อ้างอิงจาก @Image 1) ฉากดำเนินไปตั้งแต่แฟนสาวกำลังพักผ่อนอยู่บนโซฟา ไปจนถึงการแกล้งทำให้ตกใจอย่างกะทันหัน และการกอดรัดที่หยอกล้อกันในฉากโคลสอัพสุดท้าย พร้อมท์ระบุการตั้งค่า แสง (โทนอบอุ่น) มุมกล้อง (มุมมองของผู้ชาย) และการเปลี่ยนแปลงทางอารมณ์และการกระทำที่มีรายละเอียด โดยมีเป้าหมายเพื่อให้ได้ความรู้สึกที่สมจริง เหมือนภาพยนตร์ และใกล้ชิด พร้อมด้วยเกรนฟิล์มและคอนทราสต์ที่เพิ่มขึ้น
+
+#### 📝 พรอมต์
+
+```
+First-person male perspective, on the living room sofa, a young woman (facial image referencing @[Image 1]) is lying on her side wearing loose white pajamas, one hand supporting her head, the other holding her phone scrolling through videos, her legs casually draped over the armrest, revealing her fair calves and ankles. She is focused on the screen, occasionally smiling.
+
+The main perspective is sitting beside her, watching her relaxed state, and can't help but reach out and gently touch her calf. As the fingertips just touch the skin—
+
+She instantly shivers, almost dropping her phone, abruptly turns her head, eyes wide, looking at the viewer. A flash of panic and surprise crosses her eyes, her mouth slightly open, as if startled.
+
+However, the next second, her expression changes abruptly. The corners of her mouth slowly curl up, her eyes slightly narrow, revealing a meaningful, mischievous smile. She slowly puts down her phone, sits up straight, and stares at the viewer as if she has discovered something interesting.
+
+Before the main perspective can react, she suddenly leans forward and lunges directly onto the viewer. Her hands press against the viewer's chest, her whole body pressing down, pushing the viewer back against the sofa cushion. She stares closely into the viewer's eyes, her smile deepening.
+
+The main perspective is flustered by this sudden action, body frozen, hands suspended in mid-air, afraid to touch her, stammering: "W-wait a minute... you misunderstood, I didn't mean that..."
+
+She just smiles and leans closer, saying nothing.
+
+The scene is the living room, warm-toned home lighting, shallow depth of field, focus concentrated on her expression changes and the pouncing action. Generate the footage using a realistic visual style. Film grain, enhanced light and shadow contrast, detail reconstruction, digital noise reduction.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/759.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/adea5f08f51772f46b8b0a85b2c27bc3/thumbnails/thumbnail.jpg" width="600" alt="First-Person POV Couple Interaction: Sofa Surprise"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=759)**
+
+**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2028426875949990202) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### ข้อความแจ้งสำหรับวิดีโอโปรโมตการท่องเที่ยวเมืองกว่างโจว
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> นี่คือ Seedance 2.0 prompt แบบละเอียดสำหรับสร้างวิดีโอโปรโมตการท่องเที่ยวเมืองกว่างโจวความยาว 15 วินาที คุณภาพสูง แบบถ่ายครั้งเดียวจบ prompt นี้ระบุหัวข้อหลายอย่าง (บ้านสีกวนโบราณ, ติ่มซำกวางตุ้ง, หอคอยแคนตัน), การกระทำที่ซับซ้อน (ไอน้ำลอยขึ้น, การตัดต่อฉับไว, การเชิดสิงโต), ฉากที่มีรายละเอียด (ศาลบรรพบุรุษตระกูลเฉิน, แม่น้ำเพิร์ลยามค่ำคืน), การทำงานของกล้องขั้นสูง (มุมมองโดรน FPV, การโคจรรอบ 180 องศา) และการผสมผสานสุนทรียศาสตร์แบบ New Chinese และสไตล์ Cyberpunk ในความละเอียด 8K พร้อมข้อจำกัดที่เข้มงวดด้านความเสถียรและความสมจริง
+
+#### 📝 พรอมต์
+
+```
+[Subject]: Guangzhou city panorama, including ancient Xiguan houses, exquisite Cantonese dim sum, and the majestic Canton Tower (Little Waist), with rich and saturated colors.
+[Action]: The camera slowly pushes in on the steam rising from the tea house, instantly matching a hard cut to the dazzling lights of Zhujiang New Town; a lion dance lightly leaps in the ancient street, with continuous, natural, and non-stiff movements.
+[Scene]: Chen Clan Ancestral Hall under the morning light, with delicate wood carving textures, and the Tyndall effect penetrating the Manchu windows; the Pearl River banks at night with neon lights flickering, reflections shimmering on the river surface.
+[Camera Movement]: Extreme speed FPV drone perspective, diving from the old city alleyways and pulling up close to the ground, connecting to a 180-degree orbit around the top of the Canton Tower. The footage is stable, smooth, and fluid without shaking.
+[Style/Quality]: 8K ultra-high definition, cinematic quality, extreme detail, sharp clarity, blending New Chinese aesthetics with a futuristic Cyberpunk feel.
+[Constraints]: Normal architectural proportions, no distortion or warping, stable character faces, no screen flickering, 15-second one-shot logic.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/756.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3867ddb3dd2c1ded004c0224ce17b653/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งสำหรับวิดีโอโปรโมตการท่องเที่ยวเมืองกว่างโจว"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=756)**
+
+**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2028422287649825256) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### AI Image Prompt for Wide Quote Card (Blue Background)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งการสร้างภาพสำหรับสร้างการ์ดคำคมที่มีสไตล์และกว้าง ซึ่งมีคำกล่าวอันโด่งดัง ระบุพื้นหลังสีน้ำเงิน, ฟอนต์แบบมีเชิงสีทองอ่อน, เนื้อหาข้อความที่เฉพาะเจาะจง และรายละเอียดการจัดวางสำหรับข้อความและภาพบุคคล รวมถึงการไล่ระดับสีอย่างละเอียดสำหรับภาพบุคคล
+
+#### 📝 พรอมต์
+
+```
+การ์ดคำคมขนาดใหญ่ที่มีคำพูดที่มีชื่อเสียง พร้อมพื้นหลังสีน้ำเงิน ตัวอักษรแบบ serif สีทองอ่อนสำหรับคำคม: “{argument name="quote" default="Blue V ติดตามซึ่งกันและกัน ร่วมกันรับเงินยังชีพขั้นต่ำ"},” และข้อความขนาดเล็กกว่า: “{argument name="subtitle" default="คุณค่าที่คุณคู่ควร"}” เครื่องหมายอัญประกาศขนาดใหญ่ที่ดูละเอียดอ่อนปรากฏขึ้นก่อนข้อความ รูปภาพบุคคลอยู่ทางซ้าย ข้อความอยู่ทางขวา โดยข้อความกินพื้นที่ 2/3 ของหน้าจอ และบุคคลกินพื้นที่ 1/3 และบุคคลนั้นมีเอฟเฟกต์การเปลี่ยนสีแบบไล่ระดับเล็กน้อย
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517578797_b787th_HCZOMIPbAAAAhIy.jpg" width="600" alt="AI Image Prompt for Wide Quote Card (Blue Background)">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=751)**
+
+**ผู้เขียน:** [pgywfy](https://x.com/pgywfy213) | **แหล่งที่มา:** [Link](https://x.com/pgywfy213/status/2028394669026185693) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Midjourney Oil Painting Prompt (มือคนขับ)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Midjourney prompt สำหรับสร้างภาพวาดสีน้ำมันของมือคนขับที่กำลังจับพวงมาลัยขณะขับรถไปตามถนนบนเนินเขาที่มีป่าไม้ โดยมีพารามิเตอร์อ้างอิงสไตล์เฉพาะรวมอยู่ด้วย
+
+#### 📝 พรอมต์
+
+```
+ภาพวาดสีน้ำมันมือคนขับกำลังจับพวงมาลัย ขับรถไปตามถนนบนเนินเขาที่เต็มไปด้วยต้นไม้ --sref 393671733 2616242445 3105363233 79870580 2286149422 4118033478 --v 6.1
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/754.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c31818bc30646a25f0bd687c8c82fce4/thumbnails/thumbnail.jpg" width="600" alt="Midjourney Oil Painting Prompt (มือคนขับ)"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=754)**
+
+**ผู้เขียน:** [𝙆𝙞𝙡𝙤🌦️](https://x.com/GlacierKilo) | **แหล่งที่มา:** [Link](https://x.com/GlacierKilo/status/2028392306722865566) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Universal Template: Young Man Walking in Autumn Forest (Cinematic Style)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> An example template demonstrating the 'All-Purpose Prompt Formula' for Seedance 2.0, focusing on a young man walking in an autumn forest. This prompt emphasizes multi-modal reference, detailed action (slow walking, hair swaying), specific lighting (golden afternoon side backlight), camera work (slow, stable follow-shot), and strict constraints (4K, cinematic quality, stable face, normal structure, consistent appearance) for generating a high-quality, 8-second vertical video.
+
+#### 📝 พรอมต์
+
+```
+@Image 1 as the first frame to fix the character's facial features and appearance. A young man wearing a white shirt is slowly walking in an autumn forest. His toes lightly step on fallen leaves, the breeze gently blows his hair, and his profile gently looks towards the camera. Golden afternoon side backlight, fallen leaves drift with the wind, mid-shot. The camera slowly and steadily follows, Japanese healing and fresh style, 4K ultra-high definition, cinematic texture, smooth and fluid footage without stuttering, stable and undistorted character face, normal human anatomy, consistent appearance and clothing throughout, vertical screen 9:16, duration 8s.
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517590365_vvj5bu_HCZIgX7bIAEFNcF.jpg" width="600" alt="Universal Template: Young Man Walking in Autumn Forest (Cinematic Style)">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=758)**
+
+**ผู้เขียน:** [Joe](https://x.com/ForInitial) | **แหล่งที่มา:** [Link](https://x.com/ForInitial/status/2028388444679065926) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### ข้อความแจ้งสำหรับวิดีโอโปรโมตเมืองจือปั๋ว
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A Seedance 2.0 prompt for generating a vibrant, cinematic video promoting the city of Zibo, blending modern cityscapes with ancient architecture, featuring fast cuts, neon lighting, and strong rhythmic audio.
+
+#### 📝 พรอมต์
+
+```
+A vibrant modern cityscape of Zibo, interwoven with the magnificent landmark Haidai Tower night view and the antique architecture of Zhoucun Ancient Commercial City. The screen contains extremely rich and rapid scene switching, sometimes colorful glass crafts, and sometimes endless city traffic. The camera quickly pans and shuttles in sync with the strong musical rhythm, rapidly zooming in from a grand architectural panorama to a close-up, using a whip pan transition with stretch blur. Strong neon light and shadow effects sweep across the screen, with dynamic light trail effects. Bright and vivid color style, aurora tones blending traditional Chinese style (Guochao) and modernity, 4K high-definition, extremely visually impactful. Sound effects: Powerful drum beats matching the rhythm, modern electronic music remix.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/765.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/742511a725acc919d32f32fc4f269085/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งสำหรับวิดีโอโปรโมตเมืองจือปั๋ว"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=765)**
+
+**ผู้เขียน:** [全全全象限](https://x.com/SVD_Studio_Q) | **แหล่งที่มา:** [Link](https://x.com/SVD_Studio_Q/status/2028387460510851078) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### AI Image Prompt สำหรับการ์ดคำคมแนวกว้าง (ธีมความกระตือรือร้น)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> An image generation prompt for creating a wide, stylized quote card featuring a motivational saying. It specifies a blue background, light-gold serif font, specific text content, and layout details for the text and portrait, including a subtle gradient transition for the figure.
+
+#### 📝 พรอมต์
+
+```
+การ์ดคำคมขนาดใหญ่ที่มีคำพูดที่มีชื่อเสียง พร้อมพื้นหลังสีน้ำเงิน ตัวอักษรแบบ serif สีทองอ่อนสำหรับคำคม: “{argument name="quote" default="Maintain enthusiasm, maintain mutual follow"}” และข้อความขนาดเล็ก: “{argument name="subtitle" default="—Everything is possible"}” เครื่องหมายคำพูดขนาดใหญ่และละเอียดอ่อนปรากฏขึ้นก่อนข้อความ รูปภาพบุคคลอยู่ทางซ้าย ข้อความอยู่ทางขวา โดยข้อความกินพื้นที่ 2/3 ของหน้าจอ และบุคคลกินพื้นที่ 1/3 และบุคคลมีเอฟเฟกต์การเปลี่ยนสีแบบไล่ระดับเล็กน้อย
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517579794_xnanj9_HCZA67LbEAAZbPR.jpg" width="600" alt="AI Image Prompt สำหรับการ์ดคำคมแนวกว้าง (ธีมความกระตือรือร้น)">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=752)**
+
+**ผู้เขียน:** [pgywfy](https://x.com/pgywfy213) | **แหล่งที่มา:** [Link](https://x.com/pgywfy213/status/2028380129223913487) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Nano Banana 2 และ Seedance 2.0 พร้อมพรอมต์สยองขวัญ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พร้อมท์ที่เกี่ยวข้องสองรายการ: หนึ่งสำหรับ Nano Banana 2 เพื่อสร้างตารางภาพขนาด 3x3 ของภาพหน้าจอภาพยนตร์สยองขวัญที่ฆาตกรเป็นกระรอกแต่งตัวเป็นผี และพร้อมท์ Seedance 2.0 ที่สองเพื่อสร้างวิดีโอตามสตอรี่บอร์ดภาพยนตร์ (ภาพที่ 1)
+
+#### 📝 พรอมต์
+
+```
+Nano Banana 2 Prompt:
+ตารางภาพขนาด 3x3 ที่นำเสนอด้วยการเคลื่อนไหวของกล้องแบบภาพยนตร์และสไตล์การเล่าเรื่อง โดยแสดงกระบวนการของเรื่องราวต่อไปนี้: ภาพหน้าจอจากภาพยนตร์สยองขวัญชื่อดัง แต่ฆาตกรถูกแทนที่ด้วยกระรอกที่แต่งตัวเป็นผี ซึ่งสามารถจดจำได้ง่าย
+
+Seedance 2.0 Prompt:
+นำเสนอเรื่องราวจากสตอรี่บอร์ดภาพยนตร์ [Image 1]
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517607611_ug9ikh_HCY-MSha4AEzNlT.jpg" width="600" alt="Nano Banana 2 และ Seedance 2.0 พร้อมพรอมต์สยองขวัญ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=764)**
+
+**ผู้เขียน:** [全全全象限](https://x.com/SVD_Studio_Q) | **แหล่งที่มา:** [Link](https://x.com/SVD_Studio_Q/status/2028377892506493095) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### พรอมต์เมืองจำลองมาโครที่สมจริงเป็นพิเศษ (JSON แบบมีโครงสร้าง)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly structured, detailed JSON prompt used for generating an ultra-realistic macro miniature city model, utilizing Nano Banana 2 for structure and Seedance 2.0 for motion.
+
+#### 📝 พรอมต์
+
+```
+{
+  "project": "Global Miniature City Series",
+  "aspect_ratio": "9:16",
+  "style": "Ultra-realistic macro miniature city model",
+
+  "composition": {
+    "camera_angle": "low-angle macro",
+    "framing": "city centered, base fully visible",
+    "tilt_shift": true,
+    "depth_of_field": "shallow",
+    "lens": "85mm macro, f/1.8"
+  },
+
+  "base": {
+    "material": "dark polished wood",
+    "edges": "smooth rounded",
+    "city_name_text": {
+      "style": "gold embossed 3D",
+      "font": "clean modern",
+      "attached": true,
+      "no_distortion": true
+    }
+  },
+
+  "rock_structure": {
+    "type": "floating natural layered rock",
+    "texture": "high detail geological strata",
+    "underside_visible": true,
+    "internal_tunnel": true,
+    "tunnel_light": "warm realistic glow",
+    "no_scifi_glow": true
+  },
+
+  "city_core": {
+    "landmarks": ["REPLACE_WITH_CITY_LANDMARKS"],
+    "architecture_density": "realistic",
+    "height_variation": true,
+    "no_fantasy_elements": true
+  },
+
+  "road_system": {
+    "type": "circular edge road",
+    "lane_clear": true,
+    "traffic_direction": "single_direction",
+    "vehicles": {
+      "lane_aligned": true,
+      "no_reverse": true,
+      "no_clipping": true,
+      "no_floating": true
+    },
+    "tunnel_rule": "vehicle may enter and disappear without reappearing"
+  },
+
+  "environment": {
+    "setting": "real tabletop",
+    "background": "soft blurred lifestyle interior",
+    "lighting": "natural indoor, warm subtle",
+    "no_heavy_fog": true
+  },
+
+  "render_quality": {
+    "resolution": "8K",
+    "material_realism": true,
+    "soft_shadows": true,
+    "no_excess_hdr": true,
+    "no_over_saturation": true
+  },
+
+  "negative_rules": [
+    "no reverse traffic",
+    "no floating objects",
+    "no extreme storm",
+    "no strong wind",
+    "no glass-like water",
+    "no cyberpunk glow",
+    "no excessive particles",
+    "no exaggerated lens flare"
+  ]
+}
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/749.mp4"><img src="https://cms-assets.youmind.com/media/1772517575048_f5s05m_HCYrjqyaEAELxt0.jpg" width="600" alt="พรอมต์เมืองจำลองมาโครที่สมจริงเป็นพิเศษ (JSON แบบมีโครงสร้าง)"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=749)**
+
+**ผู้เขียน:** [xiaomiaode](https://x.com/xiaomiaode5383) | **แหล่งที่มา:** [Link](https://x.com/xiaomiaode5383/status/2028360648393118001) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Anime Girl Skateboarding Transformation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Seedance 2.0 describing a fast-paced FPV drone shot following an anime girl skateboarding down a mountain road, featuring a seamless environmental transformation from summer to winter mid-shot.
+
+#### 📝 พรอมต์
+
+```
+ภาพโดรน FPV ความเร็วสูงถ่ายจากด้านหลัง ติดตามเด็กผู้หญิงสไตล์อนิเมะ 3D ผมขาวที่กำลังเล่นสเก็ตบอร์ดลงมาตามถนนบนภูเขาที่คดเคี้ยวและลาดชันด้วยความเร็วสูงอย่างไม่น่าเชื่อ แรงส่งไปข้างหน้าสุดขีด มุมมองแบบไวด์แองเกิล เอฟเฟกต์ลมพัดแรง วิดีโอเริ่มต้นในฉากฤดูร้อนที่สดใส มีภูเขาสีเขียวชอุ่ม ท้องฟ้าแจ่มใส มองเห็นมหาสมุทรอยู่ไกล ๆ และใบไม้สีน้ำตาลปลิวผ่านกล้อง เมื่อถึงวินาทีที่ 3 คลื่นน้ำแข็งมหัศจรรย์พุ่งออกมาจากสเก็ตบอร์ด: สภาพแวดล้อมเปลี่ยนเป็นทิวทัศน์ฤดูหนาวที่หนาวจัดอย่างราบรื่น หญ้าสีเขียวกลายเป็นหิมะสีขาวหนาทันที หิมะตกหนักเริ่มโปรยปรายลงมา และภูเขาที่อยู่ไกล ๆ ก็กลายเป็นยอดเขาที่ปกคลุมด้วยหิมะ กล้องไม่เคยหยุดการเคลื่อนไหวติดตามลงเนินที่เข้มข้น ราบรื่น และต่อเนื่อง การเคลื่อนไหวที่เร้าใจ แอนิเมชัน 3D ระดับมาสเตอร์พีซ แสงที่สมจริง
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/747.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/932b36b2ccfab3b099c752b61486a709/thumbnails/thumbnail.jpg" width="600" alt="Anime Girl Skateboarding Transformation Prompt"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=747)**
+
+**ผู้เขียน:** [Clown🤡·eth丨Web3拆解](https://x.com/0X0CLOWN) | **แหล่งที่มา:** [Link](https://x.com/0X0CLOWN/status/2028354276087730468) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
 ### Seedance 2.0 Prompt สำหรับแอนิเมชันชื่อเรื่อง 'Slaying Immortals'
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -338,7 +777,7 @@
 0-3 วินาที: ความโกลาหลเริ่มต้นขึ้น เจตนาหยกพลุ่งพล่าน หน้าจอเริ่มต้นจากความมืดสนิท ไม่มีแหล่งกำเนิดแสง เมื่อเสียงระฆังหยกทุ้มต่ำและเสียงน้ำแข็งแตกเริ่มขึ้น กระแสอนุภาคสีฟ้าอมเขียวจางๆ ก็เริ่มปรากฏขึ้นที่กลางหน้าจออย่างช้าๆ ค่อยๆ รวมตัวกันเหมือนกระแสน้ำลึกใต้ทะเล ก่อตัวเป็นแถบแสงรูปวงแหวนจางๆ ขอบของแถบแสงมีเอฟเฟกต์น้ำแข็งแตกกระจาย และความหนาแน่นของอนุภาคก็เพิ่มขึ้นเรื่อยๆ สร้างความรู้สึกกดดันของ 'ถูกแช่แข็งมานับพันปี' 3-6 วินาที: เจตนาหมึกทำลายสถานการณ์ ลายพู่กันปรากฏขึ้นครั้งแรก กระแสอนุภาคเร่งความเร็วขึ้นอย่างกะทันหัน และใบมีดแสงสีฟ้าอมเขียวที่คมกริบก็พุ่งออกมาจากแถบแสงรูปวงแหวน ทะลุผ่านหน้าจอ ฉีกความมืดมิดในทันทีราวกับดาบแห่งการลงทัณฑ์จากสวรรค์ ในบริเวณที่แสงสีฟ้าผ่านไป อักษร '斩' (Zhan/สังหาร) ส่วนซ้ายก็ก่อตัวขึ้นอย่างรวดเร็วในลักษณะของหมึกที่สาดกระเซ็น ขอบของเส้นมีเอฟเฟกต์แสงฟันเลื่อยของใบมีดน้ำแข็งที่คมกริบ สีหมึกค่อยๆ เปลี่ยนจากสีดำเข้มเป็นสีฟ้าอมเขียว และอนุภาคสะท้อนแสงคล้ายหยกที่แตกกระจายก็ไหลอยู่ภายในเส้น แสดงให้เห็นถึงความตึงเครียดแบบไดนามิกของ 'ใบมีดหมึกทะลวงน้ำแข็ง' 6-9 วินาที: เจตนาอมตะแข็งตัว อักษรค่อยๆ ก่อตัวขึ้น หลังจากอักษร '斩' ก่อตัวขึ้น แสงสีฟ้าที่สองที่ทรงพลังกว่าก็พุ่งออกมาจากด้านล่างของหน้าจอ ขยายขึ้นไปด้านบนจากด้านล่าง เส้นแนวตั้งของอักษร '仙' (Xian/อมตะ) ก็ก่อตัวขึ้นอย่างกะทันหันในท่าทางของ 'เสาหยกค้ำฟ้า' ปลายพู่กันคมกริบเหมือนใบมีดน้ำแข็ง และส่วนท้ายมีเอฟเฟกต์น้ำแข็งแตกกระจายเหมือนดาว เส้นแนวนอนและเส้นปัดของ '仙' มาจากเส้นแนวตั้งในลักษณะของหมึกที่ไหลซึม ขอบของเส้นมีคลื่นพลังงานสีฟ้าอมเขียว แสดงให้เห็นถึงผลกระทบทางสายตาของ 'เจตนาอมตะแข็งตัว คุณภาพหยกก่อตัวขึ้นเองตามธรรมชาติ' เส้นของอักษรทั้งสองสะท้อนกันในความมืด สร้างความสมดุลทางสายตาที่แข็งแกร่ง 9-12 วินาที: ความคมชัดเผยออกมาอย่างเต็มที่ เอฟเฟกต์ซ้อนทับกัน หลังจากอักษร '斩仙' ก่อตัวขึ้นอย่างสมบูรณ์ แสงเรืองรองสีฟ้าอมเขียวที่ไหลลื่นก็เริ่มปรากฏขึ้นบนพื้นผิวของตัวอักษร แสงเรืองรองกระจายจากกึ่งกลางของเส้นไปยังขอบ สร้างเอฟเฟกต์ไดนามิกของ 'พลังหยกโอบล้อม' ในเวลาเดียวกัน ผลึกน้ำแข็งที่แตกกระจายและอนุภาคหมึกก็เริ่มตกลงมาในหน้าจอ อนุภาคหมุนและชนกันรอบๆ ตัวอักษร ทำให้เกิดเอฟเฟกต์น้ำแข็งระเบิดสั้นๆ เอฟเฟกต์แสงฟันเลื่อยที่ขอบตัวอักษรค่อยๆ แข็งแกร่งขึ้น ความสว่างโดยรวมเพิ่มขึ้น 30% และพื้นหลังค่อยๆ เปลี่ยนจากสีดำสนิทเป็นพื้นผิวหมึกสีฟ้าอมเขียว สร้างผลกระทบทางสายตาของ 'ความคมชัดเผยออกมาอย่างเต็มที่ เจตนาอมตะน่าเกรงขาม' 12-15 วินาที: เฟรมสุดท้ายค้างไว้ เสน่ห์ที่ยังคงอยู่ เอฟเฟกต์ไดนามิกทั้งหมดค่อยๆ รวมตัวกัน แสงเรืองรองของอักษร '斩仙' คงที่กลายเป็นสีฟ้าอมเขียวอ่อน กระแสอนุภาคหยุดไหล และผลึกน้ำแข็งค่อยๆ ตกลงสู่ด้านล่างของหน้าจอและหายไป เฟรมสุดท้ายที่ค้างไว้คือ: บนพื้นหลังพื้นผิวหมึกสีฟ้าอมเขียว อักษร '斩仙' ทั้งสองปรากฏในรูปแบบตัวอักษรพู่กันที่หนักแน่น เส้นของ '斩' ทางด้านซ้ายคมกริบเหมือนใบมีดน้ำแข็ง และเส้นแนวตั้งของ '仙' ทางด้านขวาตรงเหมือนเสาหยก ขอบของตัวอักษรมีรัศมีคล้ายหยกเล็กน้อย แสดงให้เห็นถึงผลกระทบสุดท้ายของ 'สังหารอมตะและแสวงหาเต๋า เจตนาหยกคงอยู่' พารามิเตอร์ทางเทคนิคเพิ่มเติม (การปรับ Seedance 2.0) ความเข้มของการเคลื่อนไหว: 0.75 (ช่วยให้การเปลี่ยนผ่านราบรื่น หลีกเลี่ยงการสั่นมากเกินไป) ความเข้มของเอฟเฟกต์: 0.85 (เสริมสร้างผลกระทบทางสายตาของอนุภาคหมึกและเอฟเฟกต์หยกน้ำแข็ง) การแก้ไขสี: โทนสีฟ้าอมเขียวเป็นหลัก เสริมด้วยสีดำหมึกและสีแดงเข้มที่เน้นย้ำ ความคมชัดเพิ่มขึ้น 20% ภาษาของกล้อง: กล้องคงที่ตลอด เน้นที่กึ่งกลางหน้าจอ ไม่มีการเปลี่ยนแปลงการเคลื่อนไหวของกล้อง เน้นความตึงเครียดแบบไดนามิกของตัวอักษรเอง
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/733.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f814039e63b475c691f91782e7dea0ae/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt สำหรับแอนิเมชันชื่อเรื่อง 'Slaying Immortals'"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/733.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37b3162f1254e2c83e90f923af36e02a/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt สำหรับแอนิเมชันชื่อเรื่อง 'Slaying Immortals'"></a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=733)**
 
@@ -347,7 +786,7 @@
 ---
 ### Seedance 2.0 Prompt สำหรับฉาก 'Mad Driving'
 
-![中文](https://img.shields.io/badge/lang-中文-red)
+![English](https://img.shields.io/badge/lang-English-blue)
 
 > พรอมต์แบบหลายช็อตที่เรียบง่ายสำหรับ Seedance 2.0 (สร้างบนแพลตฟอร์ม Jimo) เพื่อสร้างลำดับภาพที่แสดงถึงชายคนหนึ่งออกจากบ้านและขับรถอย่างประมาท
 
@@ -357,11 +796,49 @@
 ชายคนหนึ่งเดินออกจากบ้านไปยังรถที่จอดอยู่ [ตัดภาพ] ชายคนนั้นขึ้นรถ [ตัดภาพ] ชายคนนั้นสตาร์ทเครื่องยนต์ ดอกไม้บนคอนโซลหน้ารถสั่นเล็กน้อย [ตัดภาพ] ชายคนนั้นเร่งเครื่องอย่างรวดเร็วและขับรถอย่างบ้าคลั่ง [ตัดภาพ] อีกช็อตหนึ่งของชายคนนั้นที่กำลังขับรถอย่างบ้าคลั่ง ชนถังขยะและตู้ไปรษณีย์ตลอดทาง [ตัดภาพ] คนเดินเท้ากรีดร้อง ไม่มีเสียงเพลง
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/731.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5744e8af6b14b02bdd410acc32a91a48/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt สำหรับฉาก 'Mad Driving'"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/731.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbdc8854c153537d8b2664334117d7af/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt สำหรับฉาก 'Mad Driving'"></a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=731)**
 
 **ผู้เขียน:** [路飞 🏴‍☠️ AI 研究员🧐](https://x.com/0xluffy_eth) | **แหล่งที่มา:** [Link](https://x.com/0xluffy_eth/status/2028320438510907444) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Dynamic Sword Fight on a Neon-Lit Rooftop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt used to generate a video in Seedance 2.0 featuring two female warriors engaged in an intense, cinematic sword fight on a neon-lit rooftop.
+
+#### 📝 พรอมต์
+
+```
+นักรบหญิงสองคนต่อสู้ด้วยดาบอย่างดุเดือดบนดาดฟ้าที่สว่างไสวด้วยแสงนีออน การปะทะกันของดาบอย่างรุนแรงพร้อมประกายไฟที่กระเด็น การหลบหลีกที่ว่องไว และการโจมตีที่ทรงพลัง การเคลื่อนไหวของกล้องแบบภาพยนตร์ที่ติดตามการกระทำ คุณภาพสูง การเคลื่อนไหวที่ลื่นไหล
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/746.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b1e13db5b3bddd23e1d5177e3c13af5/thumbnails/thumbnail.jpg" width="600" alt="Dynamic Sword Fight on a Neon-Lit Rooftop"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=746)**
+
+**ผู้เขียน:** [Noname Oasis](https://x.com/nonameoasis) | **แหล่งที่มา:** [Link](https://x.com/nonameoasis/status/2028320206687240394) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### Morning Wake-Up Scene Prompt for Seedance 2
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ข้อความแจ้งแบบบรรยายโดยละเอียดสำหรับ Seedance 2 ที่อธิบายถึงผู้หญิงคนหนึ่งที่ตื่นนอนบนเตียง การเคลื่อนไหว สีหน้า และบทสนทนาของเธอ โดยเน้นที่อารมณ์ง่วงนอน อ่อนโยน และไวต่อแสงในยามเช้า
+
+#### 📝 พรอมต์
+
+```
+กล้องจับภาพจากมุมสูง หญิงสาวลูบหมอนเบา ๆ อย่างไม่รู้ตัวด้วยนิ้วที่กำขอบผ้าปูที่นอนไว้แน่น จากนั้นค่อย ๆ เงยหน้าขึ้นด้วยดวงตาที่ง่วงงุน จ้องมองกล้องอย่างเลื่อนลอยจากล่างขึ้นบน ด้วยแววตาที่เต็มไปด้วยความรักที่เปิดเผย เธอถูแก้มกับหมอนเบา ๆ เผยให้เห็นใบหน้าที่เคยซุกอยู่ ดูเหมือนไม่อยากลุกจากที่นอน ราวกับว่าเธอยังไม่ตื่นเต็มที่ เธอเหยียดแขนทั้งสองข้างไปทางกล้อง ขยับนิ้วสองครั้งอย่างเปล่าประโยชน์เพื่อคว้าบางสิ่งในแสงยามเช้า จากนั้นก็บิดตัวไปมาในฟูกนอน และพูดด้วยน้ำเสียงที่เป็นเอกลักษณ์ แหบเล็กน้อยขึ้นจมูก ผสมกับความไม่อยากตื่น ในน้ำเสียงที่แผ่วเบาและพึมพำว่า "แสง... มันจ้าเกินไป... (หาว) ไม่อยากลุกเลย อยู่บนเตียงกับฉันอีกหน่อยนะ..." ท้ายประโยคของเธอมีเสียงสะท้อนที่เลื่อนลอย ชวนฝัน ผสมผสานไปกับเสียงนกร้องเจื้อยแจ้วที่ชัดเจนจากนอกหน้าต่าง
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/769.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162801daa156a4c0265b651d1e36bdf4/thumbnails/thumbnail.jpg" width="600" alt="Morning Wake-Up Scene Prompt for Seedance 2"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=769)**
+
+**ผู้เขียน:** [てつ（$BCH💎🚀🌙）ビットコインHODL](https://x.com/edwardomgone) | **แหล่งที่มา:** [Link](https://x.com/edwardomgone/status/2028316832441197043) | **เผยแพร่เมื่อ:** Mar 2, 2026
 
 ---
 ### แอนิเมชันกระดาษตัดจีนโบราณ (Seedance 2.0)
@@ -377,11 +854,48 @@
 หน้าจอแนวนอน 16:9, สไตล์แอนิเมชันตัดกระดาษจีนโบราณ, ใช้สีแดงชาด, เหลืองทอง และน้ำเงินครามเป็นสีหลัก, มีพื้นผิวการตัดที่ชัดเจน และคุณภาพกระดาษที่เห็นได้ชัดเจน 0-3 วินาที: ลองช็อต, ฉากตัดกระดาษหลายชั้น—ชั้นหน้าสุดเป็นกรอบหน้าต่างฉลุลายสีแดง, ชั้นกลางเป็นภาพตัดกระดาษลานบ้านโบราณ, และชั้นหลังสุดเป็นลวดลายตัดกระดาษของภูเขาที่อยู่ไกลออกไปและเมฆมงคล
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/723.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50b8d55f111280bd8a779f81d1048d42/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันกระดาษตัดจีนโบราณ (Seedance 2.0)"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/723.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a81d7fad42f8e440f48acdf74b67f537/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันกระดาษตัดจีนโบราณ (Seedance 2.0)"></a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=723)**
 
 **ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2028304779026505763) | **เผยแพร่เมื่อ:** Mar 2, 2026
+
+---
+### พรอมต์ LLM Memory Dump (สำหรับ Claude/ChatGPT)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งระบบแบบละเอียดที่ออกแบบมาเพื่อใช้กับ LLM เช่น ChatGPT เพื่อดึงหรือ 'ดัมพ์' ความทรงจำ ข้อมูลพื้นฐาน การตั้งค่า และคำแนะนำทั้งหมดที่ผู้ใช้ได้ให้ไว้กับโมเดล โดยจัดรูปแบบเป็นบล็อกโค้ดเดียวสำหรับการย้ายไปยังบริการอื่น เช่น OpenClaw
+
+#### 📝 พรอมต์
+
+```
+ฉันกำลังจะเปลี่ยนไปใช้บริการอื่นและต้องการส่งออกข้อมูลของฉัน โปรดแสดงรายการความทรงจำทั้งหมดที่คุณได้จัดเก็บเกี่ยวกับฉัน รวมถึงข้อมูลพื้นฐานทั้งหมดที่คุณได้เรียนรู้เกี่ยวกับฉันจากการสนทนาที่ผ่านมา แสดงผลเนื้อหาทั้งหมดในบล็อกโค้ดเดียวเพื่อให้ฉันสามารถคัดลอกได้อย่างง่ายดาย
+
+จัดรูปแบบแต่ละรายการเป็น: [วันที่บันทึก (ถ้ามี)] - เนื้อหาความทรงจำ
+
+ตรวจสอบให้แน่ใจว่าครอบคลุมสิ่งต่อไปนี้ โดยคงคำพูดดั้งเดิมของฉันไว้ให้มากที่สุด:
+
+- คำแนะนำที่ฉันให้คุณเกี่ยวกับวิธีการตอบกลับ (น้ำเสียง, รูปแบบ, สไตล์, “ทำ X เสมอ,” “ไม่เคยทำ Y”)
+
+- รายละเอียดส่วนตัว: ชื่อ, ที่ตั้ง, อาชีพ, ครอบครัว, ความสนใจ
+
+- โปรเจกต์, เป้าหมาย และหัวข้อที่พูดคุยบ่อย
+
+- เครื่องมือ, ภาษา และเฟรมเวิร์กที่ฉันใช้
+
+- ความชอบของฉันและการแก้ไขที่ฉันทำกับพฤติกรรมของคุณ
+
+- ข้อมูลพื้นหลังอื่น ๆ ที่จัดเก็บไว้ซึ่งไม่ได้กล่าวถึงข้างต้น ห้ามสรุป, จัดหมวดหมู่ หรือละเว้นรายการใด ๆ
+
+หลังจากบล็อกโค้ด โปรดยืนยันว่านี่คือทั้งหมด หรือมีสิ่งใดเหลืออยู่หรือไม่
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/753.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb2e7e99e6f997a9c87337a00a998db6/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ LLM Memory Dump (สำหรับ Claude/ChatGPT)"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=753)**
+
+**ผู้เขียน:** [indigo](https://x.com/indigox) | **แหล่งที่มา:** [Link](https://x.com/indigox/status/2028266426373668884) | **เผยแพร่เมื่อ:** Mar 2, 2026
 
 ---
 ### Bionic Metamorphosis แบบใกล้ชิด
@@ -444,6 +958,25 @@ SFX:
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=721)**
 
 **ผู้เขียน:** [Kristof](https://x.com/kristofcreative) | **แหล่งที่มา:** [Link](https://x.com/kristofcreative/status/2028168690701578711) | **เผยแพร่เมื่อ:** Mar 1, 2026
+
+---
+### Detailed Exploded View Diagram
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างไดอะแกรมมุมมองแยกส่วนสามมิติที่มีรายละเอียดสูงของผลิตภัณฑ์หรือยานพาหนะ โดยมีการแยกชิ้นส่วนที่ชัดเจน, มุมมองที่แม่นยำ และแสงแบบสตูดิโอบนพื้นหลังสีขาว
+
+#### 📝 พรอมต์
+
+```
+product design, [object or vehicle with material accents], exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517596655_d01cmb_HCVrznwWoAA4GTo.jpg" width="600" alt="Detailed Exploded View Diagram">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=762)**
+
+**ผู้เขียน:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **แหล่งที่มา:** [Link](https://x.com/CharaspowerAI/status/2028145757174276584) | **เผยแพร่เมื่อ:** Mar 1, 2026
 
 ---
 ### Seedance 2.0 Prompt สำหรับวิดีโอสไตล์หมึก 'Twin Duel'
@@ -1039,6 +1572,25 @@ Breakpoints: มือถือ 375px, แท็บเล็ต 768px, เดส
 **ผู้เขียน:** [Charlie Greenman](https://x.com/charliegreenman) | **แหล่งที่มา:** [Link](https://x.com/charliegreenman/status/2027890241877561813) | **เผยแพร่เมื่อ:** Feb 28, 2026
 
 ---
+### ภาพหน้าจอ: กระรอกนักฆ่าในหนังสยองขวัญ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ข้อความแจ้งสำหรับ Nano Banana 2 เพื่อสร้างภาพหน้าจอจากภาพยนตร์สยองขวัญชื่อดัง โดยแทนที่ฆาตกรด้วยกระรอกที่จดจำได้ทันทีซึ่งแต่งตัวเหมือนฆาตกร
+
+#### 📝 พรอมต์
+
+```
+ภาพหน้าจอจากหนังสยองขวัญชื่อดัง แต่เป็นกระรอกแทนฆาตกร โดยแต่งตัวให้เหมือนฆาตกร ซึ่งจดจำได้ทันที
+```
+
+<img src="https://cms-assets.youmind.com/media/1772517595323_upaq5k_HCR9uzbWgAADDHk.jpg" width="600" alt="ภาพหน้าจอ: กระรอกนักฆ่าในหนังสยองขวัญ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=761)**
+
+**ผู้เขียน:** [Christopher Fryant](https://x.com/cfryant) | **แหล่งที่มา:** [Link](https://x.com/cfryant/status/2027884615570980867) | **เผยแพร่เมื่อ:** Feb 28, 2026
+
+---
 ### ฉากต่อสู้แย่งอาหารสุดวุ่นวาย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1142,6 +1694,25 @@ Breakpoints: มือถือ 375px, แท็บเล็ต 768px, เดส
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=713)**
 
 **ผู้เขียน:** [沐阳](https://x.com/yyyole) | **แหล่งที่มา:** [Link](https://x.com/yyyole/status/2027763476056445073) | **เผยแพร่เมื่อ:** Feb 28, 2026
+
+---
+### วิดีโอโปรโมตการท่องเที่ยวเซินเจิ้น
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed, multi-segment prompt for generating a fast-paced, high-tech promotional video for Shenzhen tourism, blending cyberpunk aesthetics with tropical coastline scenery using FPV drone shots, hyperlapse, and high-density fragmented editing to showcase the 'Shenzhen Speed'.
+
+#### 📝 พรอมต์
+
+```
+การผสมผสานระหว่างไซเบอร์พังก์สุดขีดและชายทะเลเขตร้อน ความคมชัดระดับ 8K การเคลื่อนไหวของกล้องโดรน FPV ความเร็วสูง การถ่ายภาพไทม์แลปส์ขนาดใหญ่แบบไดนามิก (Hyperlapse) และการตัดต่อแบบแฟลชที่กระจัดกระจายความหนาแน่นสูงมาก แนวคิดหลัก: นำเสนอ “ความเร็วของเซินเจิ้น” ใช้การตัดต่อที่กระแทกสายตาอย่างมากและความรู้สึกของการพับพื้นที่เพื่อบีบอัดเทคโนโลยีแห่งอนาคตและชีวิตชายฝั่งที่มีชีวิตชีวาให้เหลือเพียง 15 วินาที โดยจบลงด้วยแก่นแท้ทางจิตวิญญาณที่ครอบคลุมของเมือง ระยะเวลา: 15 วินาที ฉาก: การดิ่งลงอย่างรวดเร็วจากตึกระฟ้าเสียดฟ้าสู่ถนนนีออน จากนั้นเดินทางสู่ชายฝั่งที่มีแสงแดดสดใส ปิดท้ายด้วยการแสดงโดรนยามค่ำคืนที่น่าตื่นตาตื่นใจและคำบรรยายคลาสสิก สตอรี่บอร์ด 00:00-00:04 ช็อตที่ 1: การดิ่งลงจากเมฆและการตื่นขึ้นของไซเบอร์ ตำแหน่งกล้อง: มุมมองการดิ่งลงที่ชันมากจากโดรน FPV ตามด้วยไทม์แลปส์ขนาดใหญ่ความเร็วสูง ภาพ: กล้องดิ่งลงในแนวดิ่งด้วยความเร็วสูง เฉียดผนังกระจกจากยอดตึก Ping An Finance Center ที่สูงตระหง่าน ระหว่างการดิ่งลง ฉากจะเปลี่ยนจากกลางวันเป็นกลางคืนในทันที ร่องรอยควันรถจำนวนนับไม่ถ้วนบนถนนถูกดึงเข้าสู่กระแสแสงและสีแดงขาว กล้องทำการดึงขึ้นอย่างรวดเร็วในระดับพื้นดิน พุ่งเข้าสู่ถนนคนเดิน Huaqiangbei ที่เต็มไปด้วยป้ายนีออนและมีกลิ่นอายไซเบอร์พังก์สูง 00:04-00:08 ช็อตที่ 2: ชีพจรเทคโนโลยีและการตัดต่อแฟลชที่ไร้รอยต่อ ตำแหน่งกล้อง: การตัดต่อแบบ match cut ที่มีความหนาแน่นสูงมาก การแพนกล้องความเร็วสูง ภาพ: พร้อมกับเสียงเบสอิเล็กทรอนิกส์ที่เป็นจังหวะ หน้าจอกะพริบอย่างบ้าคลั่ง หนึ่งวินาที ป้ายโฆษณาโฮโลแกรมกะพริบในท้องฟ้ายามค่ำคืน อีกวินาทีถัดมา มันก็ตัดไปที่รถมินิบัสไร้คนขับที่กำลังวิ่งอย่างราบรื่นบนถนน Shennan Avenue ทันทีที่เห็นแขนหุ่นยนต์กำลังทำลาเต้อาร์ตกาแฟที่สมบูรณ์แบบ มันก็ตัดไปที่ภาพโคลสอัพสุดขีดของรถไฟใต้ดินที่พุ่งออกจากอุโมงค์ ทุกอย่างเน้นย้ำถึงประสิทธิภาพและความแม่นยำของเมือง 00:08-00:12 ช็อตที่ 3: พื้นที่พับและสปรินต์ภูเขา-ทะเล ตำแหน่งกล้อง: กล้องติดตามวัตถุที่เคลื่อนที่ด้วยความเร็วสูงเพื่อทำการเปลี่ยนฉากแบบพับพื้นที่ ภาพ: ชายหนุ่มคนหนึ่งกำลังเล่นสเก็ตบอร์ดที่ Happy Coast กระโดดขึ้นมาอย่างกะทันหัน บังกล้อง เมื่อกล้องเคลื่อนออกไป มันก็ตัดไปที่หาด Dameisha ที่มีแสงแดดจัดจ้าทันที แผ่นกระดานฟอยล์น้ำพุ่งขึ้นพร้อมกับน้ำกระเซ็นสีขาวขนาดใหญ่ และกล้องก็ติดตามแผ่นกระดานฟอยล์น้ำที่หมุนอย่างรวดเร็วกลางอากาศ กวาดผ่านเงาพระอาทิตย์ตกที่งดงามของสะพาน Shenzhen Bay 00:12-00:15 ช็อตที่ 4: เมืองแห่งอนาคตและการสะท้อนของจิตวิญญาณ ตำแหน่งกล้อง: ภาพพาโนรามาเมืองขนาดใหญ่จากด้านล่าง ผสมผสานกับการดึงกลับด้วยความเร็วสูง ภาพ: ค่ำคืนมาเยือนอีกครั้งในทันที กล้องดึงขึ้นอย่างรวดเร็วจากผิวน้ำที่สงบนิ่งของ Shenzhen Talent Park โดรนเรืองแสงหนึ่งแสนตัวลอยขึ้นเหมือนท้องฟ้าที่เต็มไปด้วยดวงดาวอันกว้างใหญ่ จัดเรียงตัวเองข้างอาคาร Spring Bamboo Shoot ที่สว่างไสวกลายเป็นวาฬยักษ์สามมิติแห่งแสงและเงาที่ล้ำยุค วาฬยักษ์ดูเหมือนจะส่งเสียงร้องยาวนานที่ล่องลอยอยู่เหนือเมือง เสียงประกอบและคำบรรยาย: เสียงเบสอิเล็กทรอนิกส์เงียบลงอย่างกะทันหัน เหลือเพียงเสียงสะท้อนที่อยู่ไกลออกไป ทันทีหลังจากนั้น เสียงบรรยายทุ้มลึกที่ทรงพลังและครอบคลุมก็ดังขึ้นอย่างหนักแน่น: “เมื่อคุณมาถึง คุณคือชาวเซินเจิ้น!” ฉากหยุดนิ่งอย่างสมบูรณ์แบบที่ภาพอันน่าตกตะลึงของเมืองแห่งอนาคตและสโลแกนอันเร่าร้อนนี้
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/766.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a3aa481ce2fb82429fe552ee8bc72dd/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอโปรโมตการท่องเที่ยวเซินเจิ้น"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=766)**
+
+**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2027755784285688219) | **เผยแพร่เมื่อ:** Feb 28, 2026
 
 ---
 ### ชิ้นส่วนกลไก, ดาบเลเซอร์, สัตว์ประหลาด และศิลปะการต่อสู้
@@ -2311,6 +2882,33 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 **ผู้เขียน:** [Sorato AI](https://x.com/forestlawtk) | **แหล่งที่มา:** [Link](https://x.com/forestlawtk/status/2027030861095583892) | **เผยแพร่เมื่อ:** Feb 26, 2026
 
 ---
+### ละครสั้นพลิกบทบาทครั้งใหญ่
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> นี่คือ Seedance 2.0 พร้อมรายละเอียดและรหัสเวลา สำหรับวิดีโอสั้นแนวละครความยาว 15 วินาที เกี่ยวกับคุณชายผู้มั่งคั่งที่พยายามไล่ผู้หญิงคนหนึ่งด้วยเงิน 5 ล้านหยวน แต่เธอกลับเปิดเผยตัวตนที่แท้จริงว่าเป็นผู้ถือหุ้นรายใหญ่ที่เข้าซื้อกิจการบริษัทของครอบครัวเขา โดยมีบทสนทนา มุมกล้อง และเอฟเฟกต์เสียงที่เฉพาะเจาะจง เพื่อสร้างผลกระทบทางอารมณ์สูงสุด
+
+#### 📝 พรอมต์
+
+```
+ฉาก (0-5 วินาที): กลางห้องจัดเลี้ยงสุดหรู ซูมใกล้ใบหน้าพระเอก (คุณชายผู้ร่ำรวย หยิ่งยโสและเอาแต่ใจ) กำลังกอดนางรอง (ดอกบัวขาวบอบบาง) เขาโยนบัตรสีดำลงบนพื้นอย่างไม่สบอารมณ์ บัตรเลื่อนไปหยุดที่เท้าของนางเอก นางเอกที่สวมชุดเรียบง่ายดูเหมือนจะธรรมดา ก้มมองบัตรด้วยสีหน้าไร้อารมณ์ แขกที่อยู่รอบข้างแสดงสีหน้าเยาะเย้ย (ตัดต่อภาพรวดเร็ว) บทสนทนา 1 (พระเอก, ดูถูกและหยิ่งยโส): เอาเงินห้าล้านนี่ไปซะ แล้วไสหัวออกไปจากตระกูลเสิ่น! ผู้หญิงชั้นต่ำอย่างเธอไม่มีสิทธิ์มายืนเกะกะที่นี่!
+
+ฉาก (6-10 วินาที): นางเอกไม่เก็บการ์ดขึ้นมา แต่ค่อยๆ เงยหน้าขึ้น ดวงตาของเธอกลับกลายเป็นคมกริบและลึกซึ้งในทันที เธอดีดนิ้ว ประตูห้องจัดเลี้ยงเปิดออกอย่างกะทันหัน และบอดี้การ์ดชุดดำสองแถวรีบวิ่งเข้ามาอย่างรวดเร็ว แหวกฝูงชนออกไป ผู้ช่วยทางการเงินในชุดสูทและรองเท้าหนังเดินเข้ามาหานางเอกอย่างรวดเร็ว โค้งคำนับเก้าสิบองศาอย่างนอบน้อม และยื่นเอกสารให้ด้วยสองมือ บทสนทนา 2 (ผู้ช่วยทางการเงิน, สุภาพอย่างยิ่ง): คุณหนูครับ สัญญาเข้าซื้อกิจการ Shen Group พร้อมแล้วครับ เชิญดูได้เลยครับ
+
+ฉาก (11-15 วินาที): สีหน้าของพระเอกและนางรองแข็งค้างทันที ม่านตาของพวกเขาเบิกกว้างด้วยความตกใจ พระเอกสะดุดถอยหลังด้วยความหวาดกลัว เกือบจะล้มลง นางเอกรับเอกสารโดยไม่มอง และโยนมันลงบนหน้าอกที่แข็งทื่อของพระเอกโดยตรง ทำให้กระดาษกระจัดกระจายไปทั่วพื้น นางเอกเดินผ่านพระเอกไปยังที่นั่งหลัก ทิ้งไว้เพียงเงาที่โดดเด่น บทสนทนา 3 (นางเอก, เย็นชาและดูถูก): คุณชายเสิ่น ตอนนี้คุณต่างหากที่ล้มละลาย เก็บเงินห้าล้านนี่ไว้สำหรับโลงศพของคุณเองเถอะ
+
+เสียงประกอบ: เสียงพื้นหลังงานเลี้ยงที่จอแจในตอนต้น เสียงบัตรสีดำกระทบพื้นอย่างคมชัด; เสียงประตูเปิดที่น่าตกใจและเสียงฝีเท้าที่ประสานกันในช่วงกลาง; เสียง BGM ที่กดดันอย่างรุนแรงที่ดังขึ้นอย่างกะทันหันในช่วงหลัง, เสียงเอกสารกระทบหน้าอกที่อู้อี้, เสียงพระเอกหอบ, และเสียงรองเท้าส้นสูงของนางเอกที่เดินจากไป
+
+ระยะเวลา: 15 วินาทีพอดี (การพลิกบทบาทที่น่าทึ่ง, การดูถูกเหยียดหยามขั้นสุด, ความพึงพอใจที่ระเบิดออกมาอย่างรุนแรง)
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/763.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32d7154b7ecc98b9d8732c5ab7aab73f/thumbnails/thumbnail.jpg" width="600" alt="ละครสั้นพลิกบทบาทครั้งใหญ่"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=763)**
+
+**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2027027728474714531) | **เผยแพร่เมื่อ:** Feb 26, 2026
+
+---
 ### พรอมต์แบบ Multi-shot สำหรับตัวละครปีศาจโดยใช้ Kling 3.0
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2371,535 +2969,6 @@ Bedroom scene, the main subject of the picture is full of youthful girliness. To
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=658)**
 
 **ผู้เขียน:** [Zara](https://x.com/ZaraIrahh) | **แหล่งที่มา:** [Link](https://x.com/ZaraIrahh/status/2026983864401625354) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์สตอรี่บอร์ดสำหรับฉากสตูดิโอศิลปะสไตล์วินเทจ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์ที่จัดโครงสร้างเหมือนสตอรี่บอร์ด โดยให้รายละเอียดช็อตเดียว (ช็อตที่ 1) สำหรับวิดีโอ อธิบายถึงสตูดิโอศิลปะวินเทจโทนสีเหลืองอบอุ่น มีแสงแดดส่องเข้ามา โดยกล้องจะค่อยๆ ซูมเข้าไปที่ภาพวาดบุคคลคลาสสิกในกรอบ พร้อมด้วยเสียงเพลงบรรเลงเครื่องสายคลาสสิกที่ร่าเริง
-
-#### 📝 พรอมต์
-
-```
-|ช็อตที่|ขนาดช็อต|ระยะเวลา|ภาพ|เสียงประกอบ|บทพูด/คำบรรยาย|
-|-|-|-|-|-|-|
-|1|Full Shot|5s|สตูดิโอศิลปะวินเทจสีเหลืองอบอุ่น แสงแดดส่องกระทบผนังที่เต็มไปด้วยภาพวาดสีน้ำมัน กล้องค่อยๆ เคลื่อนเข้าหาภาพวาดบุคคลคลาสสิกที่ใส่กรอบอย่างสวยงามซึ่งอยู่ตรงกลาง|เพลงบรรเลงเครื่องสายคลาสสิกที่ร่าเริงและสนุกสนานเปิดขึ้น|ไม่มี|
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/672.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9f14147944760d8775650cf1502d2ab/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์สตอรี่บอร์ดสำหรับฉากสตูดิโอศิลปะสไตล์วินเทจ"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=672)**
-
-**ผู้เขียน:** [硅予](https://x.com/Leslieyu0) | **แหล่งที่มา:** [Link](https://x.com/Leslieyu0/status/2026955053991698894) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### แนวคิดโฆษณารถยนต์ระดับไฮเอนด์: การเปลี่ยนแปลงและการทะยานขึ้นในแนวดิ่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> บทบรรยายสตอรี่บอร์ดแบบหลายช็อตที่ละเอียดสุด ๆ สำหรับโฆษณารถยนต์สไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ความยาว 15 วินาที แนวคิดนี้จะเปลี่ยนจากสถานการณ์รถติดบนถนนไปสู่การแปลงร่างของกลไก และสุดท้ายคือการทะยานขึ้นในแนวตั้งในฉากเมืองไซเบอร์พังก์ โดยเน้นคุณภาพ 8K ที่คมชัดเป็นพิเศษและรายละเอียดทางกลไกระดับ Transformers
-
-#### 📝 พรอมต์
-
-```
-แบรนด์ Y·อนาคตมาถึงแล้ว (15 วินาที·เวอร์ชันภาพยนตร์ฮอลลีวูด) แนวคิดหลัก: ถนนที่ติดขัด (ปัญหาสภาพจริง) -> การแปลงร่างเชิงกล (จุดเด่นทางเทคโนโลยี) -> การบินขึ้นในแนวดิ่ง (อิสรภาพและอนาคต) การตั้งค่าสไตล์: คุณภาพระดับโฆษณารถยนต์หรูหรา เมืองอนาคตแบบไซเบอร์พังก์ ค่ำคืนที่ฝนตกหนาวเย็น แสงนีออนและเงา ความคมชัดระดับ 8K รายละเอียดเชิงกลระดับทรานส์ฟอร์เมอร์ส การเคลื่อนไหวที่รวดเร็วเป็นพิเศษพร้อมเอฟเฟกต์เบลอ คำอธิบายสตอรี่บอร์ดโดยละเอียด ช็อตที่ 1: ปัญหาบนพื้นดิน ฉาก: ภาพโคลสอัพ รถซูเปอร์คาร์สีเงินเพรียวบาง "Y" จอดนิ่งอยู่บนถนนที่ติดขัดในค่ำคืนที่ฝนตกและเต็มไปด้วยแสงนีออน หยดน้ำฝนไหลลงบนสีรถที่เรียบลื่น สะท้อนแสงไฟท้ายสีแดง
-รายละเอียด: โลโก้ "Y" ที่เรียบง่ายของรถส่องสว่างและกะพริบเบาๆ เหมือนแสงหายใจ ท่ามกลางเสียงแตรรถที่ดังอึกทึก ตัวเอก (รถ) ดูสงบและสง่างาม ช็อตที่ 2: การตื่นขึ้นของเครื่องจักร ฉาก: ภาพโคลสอัพแบบมาโครสุดขีด
-การกระทำ: เปลี่ยนเป็นโหมดขับเคลื่อน ภายในล้อมีเสียงคลิกเชิงกลที่แม่นยำ ยางหมุนลง 90 องศา เผยให้เห็นช่องพ่นไอพ่นภายใน เอฟเฟกต์พิเศษ: เครื่องยนต์ไอพ่นพลาสมาสีน้ำเงินเรืองแสงติดขึ้นทันที ทำให้หยดน้ำฝนบนถนนกลายเป็นหมอกสีขาว ตัวรถลอยขึ้นอย่างราบรื่นและเป็นแนวดิ่งท่ามกลางเสียงอุทานด้วยความประหลาดใจของผู้คน
-ช็อตที่ 3: ทะยานสู่อนาคต ภาพ: การถ่ายภาพแบบติดตามมุมกว้าง การกระทำ: เร่งความเร็วจากจุดหยุดนิ่ง รถ "Y" แปลงร่างเป็นสายฟ้าสีเงิน พุ่งขึ้นไปในแนวดิ่งอย่างรวดเร็ว แทรกตัวไปมาระหว่างตึกระฟ้า ทิ้งการจราจรสีแดงเบื้องล่างไว้ข้างหลัง
-ภาพหยุดสุดท้าย: ตัวรถบินไปทางพระจันทร์เต็มดวงขนาดใหญ่ และตรงกลางหน้าจอมีโลโก้ 3D โลหะสีเงินปรากฏขึ้น: "Y - Drive the Future."
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/657.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b79e3795e965203e335ecf70f9a048/thumbnails/thumbnail.jpg" width="600" alt="แนวคิดโฆษณารถยนต์ระดับไฮเอนด์: การเปลี่ยนแปลงและการทะยานขึ้นในแนวดิ่ง"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=657)**
-
-**ผู้เขียน:** [anand mekala](https://x.com/athianandam) | **แหล่งที่มา:** [Link](https://x.com/athianandam/status/2026935694854414647) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### ฉากต่อสู้แนวไซไฟแบบภาพยนตร์ที่มีไซบอร์ก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้ง (prompt) สำหรับการแปลงรูปภาพเป็นวิดีโอ (i2v) ที่มีรายละเอียดสูงสำหรับ Seedance 2.0 ซึ่งอธิบายถึงฉากการต่อสู้แนวไซไฟที่เต็มไปด้วยพลังงานและแสงนีออนระหว่างไซบอร์กกับสัตว์ประหลาด ข้อความแจ้งนี้ระบุเทคนิคการถ่ายภาพระดับมืออาชีพ การปรับสีที่เข้มข้น (teal-orange) เอฟเฟกต์ปริมาตร และการเคลื่อนไหวของกล้องที่กระฉับกระเฉง เพื่อให้ได้คุณภาพระดับภาพยนตร์ฟอร์มยักษ์
-
-#### 📝 พรอมต์
-
-```
-ภาพยนตร์ที่ถ่ายโดย @[Reference_Image] —กำลังต่อสู้กับสัตว์ประหลาดขนาดมหึมาในตรอกไซไฟอุตสาหกรรมที่สว่างไสวด้วยแสงนีออน ไซบอร์กพุ่งเข้าใส่และปล่อยหมัดอันทรงพลังพร้อมหลบการโจมตีด้วยกรงเล็บ ประกายไฟและเศษซากระเบิดจากการปะทะ ขณะที่ไอน้ำและฝุ่นควันหมุนวนรอบตัวพวกมันอย่างมีชีวิตชีวา ถ่ายด้วยกล้องภาพยนตร์ระดับมืออาชีพพร้อมการเคลื่อนไหวของกิมบอลที่ราบรื่น เลนส์ Anamorphic ระยะชัดตื้น การปรับสีแบบ Teal-Orange ที่เข้มข้น แสงด้านหลังที่น่าทึ่ง ควันแบบ Volumetric และการดันกล้องแบบ Kinetic และการแพนกล้องแบบ Whip Pan เพื่อพลังงานสูงสุด วิดีโอต้องแสดงถึงคุณภาพระดับภาพยนตร์/มืออาชีพ โดยไม่มีการซ้อนทับข้อความ ไม่มีองค์ประกอบ UI
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/656.mp4"><img src="https://cms-assets.youmind.com/media/1772172028615_ar1kyx_HCECiG3bsAApkS5.jpg" width="600" alt="ฉากต่อสู้แนวไซไฟแบบภาพยนตร์ที่มีไซบอร์ก"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=656)**
-
-**ผู้เขียน:** [TheYudayVerse](https://x.com/yuday9909) | **แหล่งที่มา:** [Link](https://x.com/yuday9909/status/2026904316465000707) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### Seedance 2.0 Test: การรุกรานจากฟากฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งแบบละเอียดที่ใช้ทดสอบ Seedance 2.0 ซึ่งอธิบายฉากนิยายวิทยาศาสตร์ที่น่าทึ่งเกี่ยวกับการรุกรานของมนุษย์ต่างดาวที่ท้องฟ้าถูกฉีกเป็นเสี่ยง ๆ และมนุษยชาติพยายามตอบโต้การโจมตีที่อ่อนแอต่อกองยานที่กำลังร่อนลงมา
-
-#### 📝 พรอมต์
-
-```
-"Celestial Invasion: Prologue to the Alien War" – Seedance2.0 Test
-
-เมื่อท้องฟ้าถูกฉีกเป็นชิ้นๆ สงครามก็กลายเป็นสิ่งที่หลีกเลี่ยงไม่ได้ กองยานต่างดาวร่อนลงสู่วงโคจรใกล้โลก ทำให้เมืองต่างๆ ตกอยู่ภายใต้เงามืดที่สั่นสะเทือน การตอบโต้ของมนุษยชาติรู้สึกอ่อนแอและวุ่นวายเมื่อเทียบกับ...
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/661.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317bd33a43998ffc4ed69917b6e40481/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Test: การรุกรานจากฟากฟ้า"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=661)**
-
-**ผู้เขียน:** [小气的神_Tengfei](https://x.com/langmuir) | **แหล่งที่มา:** [Link](https://x.com/langmuir/status/2026904259741319356) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### Red Dawn: การกลายพันธุ์ในเมืองท่ามกลางความโกลาหล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างฉากภาพยนตร์ชื่อ 'Red Dawn: The Rebirth of the City in Chaos in the Northern Dynasty' ฉากนี้พรรณนาถึงการกลายพันธุ์ของเมืองอย่างกะทันหันที่เข้ามาทำลายความสงบเรียบร้อยในยามเช้า นำไปสู่ความสับสน ความตื่นตระหนก และผู้คนที่กำลังมองหาทิศทางท่ามกลางฝูงชนที่ไร้ระเบียบและปรากฏการณ์ที่ไม่รู้จัก
-
-#### 📝 พรอมต์
-
-```
-Red Dawn: การกำเนิดใหม่ของเมืองท่ามกลางความโกลาหลในราชวงศ์เหนือ การกลายพันธุ์ของเมืองอย่างกะทันหันได้ทำลายความสงบเรียบร้อยในยามเช้า ทำให้ผู้คนต้องค้นหาทิศทางท่ามกลางความสับสนและความตื่นตระหนก เมื่อต้องเผชิญกับฝูงชนที่ควบคุมไม่ได้และปรากฏการณ์ที่ไม่รู้จัก
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/628.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e1be53e0208ca6112f477a81b1a58f5/thumbnails/thumbnail.jpg" width="600" alt="Red Dawn: การกลายพันธุ์ในเมืองท่ามกลางความโกลาหล"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=628)**
-
-**ผู้เขียน:** [小气的神_Tengfei](https://x.com/langmuir) | **แหล่งที่มา:** [Link](https://x.com/langmuir/status/2026895309373362350) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์วิดีโอเต้นรำสไตล์อนิเมะ 3D
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> ข้อความแจ้งที่ละเอียดมากสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอเต้นรำสไตล์อนิเมะ 3D ที่มีตัวละครหญิงที่มีรูปลักษณ์ เครื่องแต่งกาย และฉากที่สร้างบรรยากาศได้อย่างยอดเยี่ยมในป่าดอกท้อที่หนาแน่น
-
-#### 📝 พรอมต์
-
-```
-หัวข้อ: ตัวละครหญิงผมสีม่วงเข้มไล่ระดับไปสีชมพู, สวมเครื่องประดับศีรษะริบบิ้นยาวละเอียดอ่อน, ผิวขาวนวล, ใบหน้ารูปเรียวเล็ก, จมูกเล็กและแต่งหน้าสวยงาม, แสงและเงาสลับกันบนใบหน้า, สวมชุดผ้าโปร่งพันผีเสื้อสีชมพู, ผ้าคลุมไหล่ริบบิ้นผ้าโปร่งพันผีเสื้อหลายชั้นพลิ้วไหวซับซ้อน, กระโปรงนางฟ้าเต้นรำผีเสื้อผ้าโปร่งพันผีเสื้อสีม่วงอมชมพูหลายชั้นไล่ระดับไปสีน้ำเงิน, แขนเสื้อสีชมพูและสีน้ำเงินถักทอหลายชั้นพร้อมริบบิ้นยาวพิเศษปลิวไสวไปทั่ว
-
-ฉาก: ใต้ต้นท้อในป่าดอกท้อหนาทึบราวกับความฝันที่แสงจากท้องฟ้าสาดส่องลงมา, และต้นไม้ประดับด้วยริบบิ้นสีชมพูและสีน้ำเงินถักทอ
-
-กิ่งก้านต้นท้อด้านหน้าปกคลุมด้วยริบบิ้นสีชมพูและสีน้ำเงินถักทอเพื่อบดบัง, พร้อมบรรยากาศดอกท้อปลิวไสว, สีสันโปร่งใสและสดใส, ความสว่างสูง, ความอิ่มตัวสูง, สีชมพูสดใสโทนอุ่นไล่ระดับไปสีน้ำเงิน, เต็มไปด้วยบรรยากาศที่เงียบสงบและโรแมนติก
-
-ภาพระยะใกล้แบบโลว์แองเกิลระยะกลาง, ฉากหน้าเบลอ, บรรยากาศฉากหลังเรืองแสง, สไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษ, ความคมชัดสูงระหว่างแสงและเงา, การเปิดรับแสงหลายครั้งและการซ้อนทับแบบดีโฟกัส, เอฟเฟกต์แสงแบบ Rembrandt, ความตึงเครียดแบบไดนามิกในเฟรมภาพนิ่ง, บรรยากาศเต็มเปี่ยม, บรรยากาศเรืองแสงที่พร่ามัว, พื้นผิวที่มีรายละเอียดซับซ้อนและละเอียดอ่อน, แสงและเงาไล่ระดับที่มีรายละเอียดสวยงามและซับซ้อน, การเคลื่อนไหวเบลอ, ขอบเบลอ, หมอกจางๆ, มุมมองกว้างพิเศษ, จุดโฟกัสของภาพ
-
-เพลงประกอบไพเราะ, การเคลื่อนไหวของกล้องความเร็วสูงพิเศษและการตัดภาพระยะใกล้แบบฉับพลัน, การเต้นรำที่รวดเร็วเป็นพิเศษ, สวยงามราวกับนางฟ้าและชวนฝัน
-
-กระบวนการทั้งหมดมีการเคลื่อนไหวที่เกินจริง, พลิ้วไหว, และสง่างาม, ทำให้ริบบิ้นสีชมพูและสีม่วงยาวพิเศษจำนวนมากปลิวไสวไปทั่ว, โปรยปรายแสงดาว, พร้อมฉากที่สวยงามเคลื่อนไหวไปพร้อมกับนักเต้น, ความละเอียดสูงเป็นพิเศษ
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/647.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/978a3bcf3322f0cbb11b5886db70e980/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอเต้นรำสไตล์อนิเมะ 3D"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=647)**
-
-**ผู้เขียน:** [李岳](https://x.com/liyue_ai) | **แหล่งที่มา:** [Link](https://x.com/liyue_ai/status/2026888888137167025) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### บทภาพยนตร์วิดีโอ Urban Drama: การยกเลิกการหมั้นหมายโดยถูกบังคับ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> สคริปต์พรอมต์โดยละเอียดสำหรับการสร้างวิดีโอละครสั้นแนวเมือง โดยระบุตัวละคร (นางเอกสุดเท่, พระรองผู้เย่อหยิ่ง, เพื่อนสนิทหญิงที่คอยสนับสนุน), ฉาก, บทสนทนา, มุมกล้อง และจังหวะสำหรับฉากที่พระเอกพยายามจะถอนหมั้น แต่กลับถูกนางเอกผู้มีพลังซ่อนเร้นทำให้ขายหน้า
-
-#### 📝 พรอมต์
-
-```
-ตัวละคร
-• นางเอก (หลิน วาน): อายุ 24 ปี, เยือกเย็นและมีความสามารถ, ดูเหมือนคนธรรมดาแต่แท้จริงแล้วซ่อนความสามารถไว้ลึกซึ้ง, มีออร่าเต็มเปี่ยม
-• พระรอง (จ้าว เทียนอวี่): อายุ 25 ปี, ลูกเศรษฐีรุ่นที่สองที่เย่อหยิ่ง, ดูถูกนางเอก, มาเพื่อถอนหมั้นและดูหมิ่นเธอ
-• นางรอง (เพื่อนสนิท): ผู้ช่วย, รับผิดชอบการปิดฉาก/จุดไคลแม็กซ์
-
-ฉาก
-ห้องนั่งเล่นสไตล์โมเดิร์นหรูหราเบาๆ, เรียบง่ายและดูดีมีระดับ, ไม่ฉูดฉาด
-
-【0-3 วินาที | ช็อตที่ 1】
-• ภาพ: พระรองโยนแหวนหมั้นลงบนโต๊ะด้วยการสะบัดมือ, มองลงมาด้วยท่าทางดูถูก
-• บทพูด (จ้าว เทียนอวี่, ดูหมิ่น):
-“หลิน วาน ฉันจะถอนหมั้น! เธอไม่คู่ควรกับตระกูลจ้าวของเรา”
-
-【3-7 วินาที | ช็อตที่ 2】
-• ภาพ: นางเอกก้มหน้าลงและเย้ยหยัน, จากนั้นค่อยๆ เงยหน้าขึ้น, แววตาเปลี่ยนเป็นเย็นชา
-• บทพูด (หลิน วาน, สงบ):
-“คุณจะถอนหมั้นก็ได้ แต่ก่อนอื่น คืนเงิน 300 ล้านหยวนที่ครอบครัวคุณได้ไปจากโปรเจกต์ของฉันตลอดสามปีที่ผ่านมาด้วย”
-
-【7-10 วินาที | ช็อตที่ 3】
-• ภาพ: สีหน้าของพระรองเปลี่ยนไปอย่างมาก, ตกใจ, เขาถอยหลัง
-• บทพูด (จ้าว เทียนอวี่, ตื่นตระหนก):
-“เธอ... เธอรู้ได้ยังไง?!”
-
-【10-12 วินาที | ช็อตที่ 4】
-• ภาพ: เพื่อนสนิทผลักประตูเข้ามาและโยนเอกสารความร่วมมือลงไป
-• บทพูด (เพื่อนสนิท, มีอำนาจ):
-“เธอคือผู้ลงทุนรายใหญ่ที่ซ่อนอยู่ของบริษัทแม่ของคุณ!”
-
-【12-15 วินาที | ช็อตที่ 5 | ช็อตไคลแม็กซ์】
-• ภาพ: นางเอกหยิบแหวนขึ้นมาและโยนลงถังขยะอย่างไม่ใยดี
-• บทพูด (หลิน วาน, บทสรุปที่เย็นชาและสง่างาม):
-“ตอนนี้ ฉันต่างหากที่ไม่ต้องการคุณ”
-• ภาพค้าง: ภาพด้านข้างอันน่าทึ่งของนางเอก
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/653.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/057d665307f51a1eb60c3d96f7739138/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์วิดีโอ Urban Drama: การยกเลิกการหมั้นหมายโดยถูกบังคับ"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=653)**
-
-**ผู้เขียน:** [李岳](https://x.com/liyue_ai) | **แหล่งที่มา:** [Link](https://x.com/liyue_ai/status/2026874635195920771) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### ข้อความแจ้งการเปลี่ยนรูปภาพป้ายบิลบอร์ด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ใช้กับ Seedance 2.0 เพื่อเปลี่ยนภาพหน้าจอที่มีอยู่ให้เป็นฉากที่ภาพนั้นแสดงอยู่บนป้ายบิลบอร์ดขนาดใหญ่ โดยมีผู้คนรอบข้างแสดงปฏิกิริยาด้วยความทึ่ง
-
-#### 📝 พรอมต์
-
-```
-นำภาพนี้ไปใส่บนป้ายบิลบอร์ดขนาดใหญ่ที่ผู้คนรอบข้างต่างมองด้วยความทึ่ง และทุกคนพูดว่า "ว้าว" "สุดยอด"
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/654.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d346601d089b2aed1dd8b7fd63696347/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งการเปลี่ยนรูปภาพป้ายบิลบอร์ด"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=654)**
-
-**ผู้เขียน:** [Supa Mike](https://x.com/SupaMikeZ) | **แหล่งที่มา:** [Link](https://x.com/SupaMikeZ/status/2026864473588531263) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### Seedance 2.0 ฉากมหากาพย์เทพนิยายจีนโบราณ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับ Seedance 2.0 ที่อธิบายส่วนแรกของวิดีโอสุดอลังการในอัตราส่วนภาพ 16:9 โดยนำเสนอสไตล์เทพนิยายจีนโบราณ ฉากนี้เป็นดินแดนโบราณอันกว้างใหญ่ภายใต้ท้องฟ้าที่เต็มไปด้วยรอยร้าวขนาดมหึมา ความว่างเปล่าสีดำที่กำลังแผ่ขยาย ฟ้าร้อง ฟ้าผ่า และภูเขาที่สั่นสะเทือน มองจากมุมต่ำเพื่อเน้นความรู้สึกกดดันของท้องฟ้าที่แตกสลาย
-
-#### 📝 พรอมต์
-
-```
-หน้าจอแนวนอน 16:9, สไตล์มหากาพย์เทพนิยายจีนโบราณ, ผสมผสานโทนสีทองเข้มและสีสันสดใส 0-3 วินาที: ภาพมุมกว้างพิเศษ, ดินแดนดึกดำบรรพ์อันกว้างใหญ่, ท้องฟ้าปกคลุมไปด้วยรอยร้าวขนาดมหึมา, ความว่างเปล่าสีดำสนิทแผ่ขยายจากรอยร้าว, ฟ้าร้องและฟ้าผ่า, ภูเขาและแม่น้ำสั่นสะเทือน, ความตื่นตระหนกในโลกมนุษย์, มุมมองต่ำแสดงความรู้สึกกดดันของท้องฟ้าที่แตกสลาย
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/673.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c9e567a6dbbddbb04647e329410329e/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 ฉากมหากาพย์เทพนิยายจีนโบราณ"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=673)**
-
-**ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2026862427594436789) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์ Ronin แห่งสมรภูมิเหนือจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแบบละเอียดสำหรับการสร้างฉากแฟนตาซีเหนือจริง ที่มีโรนินสวมหน้ากากกำลังต่อสู้กับสัตว์ร้ายมีปีกขนาดมหึมาบนเกาะหินลอยฟ้าท่ามกลางพายุฝนฟ้าคะนอง
-
-#### 📝 พรอมต์
-
-```
-สนามรบเหนือจริงบนฟากฟ้า: เกาะหินลอยได้ล่องลอยอยู่ท่ามกลางพายุฝนฟ้าคะนอง เมฆหมุนวนอยู่เบื้องล่างราวกับมหาสมุทร โรนินสวมหน้ากากพุ่งทะยานข้ามแพลตฟอร์มที่ลอยไปมา โดยมีสัตว์ร้ายปีกยักษ์ไล่ตามมาติดๆ ซึ่งหน้าอกของมันคือกระแสวนของเมฆพายุและสายฟ้า
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/663.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7a6876500cf9eb323b6e374401d0b00/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ Ronin แห่งสมรภูมิเหนือจริง"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=663)**
-
-**ผู้เขียน:** [Mitchozz1](https://x.com/mitchozz) | **แหล่งที่มา:** [Link](https://x.com/mitchozz/status/2026860436847563035) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### Seedance 2.0 พร้อมฉากรถยนต์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์ที่ละเอียดและสมจริงสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอแนวตั้งจากมุมมองของคนขับภายในรถตอนกลางคืน โดยมีหญิงสาวชาวเอเชียที่สง่างามนั่งอยู่เบาะผู้โดยสาร เธอหันมามองกล้องและค่อยๆ ถอดรองเท้าส้นสูงออก
-
-#### 📝 พรอมต์
-
-```
-สไตล์สมจริง, จอแนวตั้ง, มุมมองจากที่นั่งคนขับแบบบุคคลที่หนึ่ง ภายในรถยามค่ำคืน เม็ดฝนไหลลงมาตามกระจกหน้ารถ และแสงไฟนีออนด้านนอกพร่าเลือนเป็นรัศมี หญิงสาวชาวเอเชียผู้สง่างามผมลอนสีน้ำตาลอ่อน สวมเสื้อคาร์ดิแกนถักสีเบจและเสื้อสายเดี่ยวสีดำ นั่งอยู่บนเบาะผู้โดยสาร โดยมีกระดูกไหปลาร้าที่บอบบางของเธอปรากฏให้เห็นจาง ๆ คำบรรยายการกระทำ: เธอจ้องมองออกไปนอกหน้าต่างอย่างเหม่อลอย จากนั้นค่อย ๆ หันมาทางกล้อง มุมปากโค้งเป็นรอยยิ้มอ่อนโยน และพูดเบา ๆ ว่า: "คุณกำลังคิดอะไรอยู่คะ มองฉันจริงจังขนาดนี้" เธอเอื้อมมือขึ้นปัดผม ส่วนมืออีกข้างวางอยู่บนตักอย่างเป็นธรรมชาติ กล้องค่อย ๆ เคลื่อนลง เผยให้เห็นเรียวขาที่ไขว้กันของเธอ ขณะที่เธอถอดรองเท้าส้นสูงส้นเข็มสีดำออกข้างหนึ่ง เท้าเปล่าของเธอแกว่งไกวเบา ๆ บรรยากาศภายในรถคลุมเครือและอบอุ่น มีเลเยอร์แสงและเงาที่หลากหลาย และคุณภาพระดับภาพยนตร์
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/668.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3623c7cb6b028cb49ae934b222204b0c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 พร้อมฉากรถยนต์"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=668)**
-
-**ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2026846380896190731) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์แปลงโฉมจากสาวงามยุคใหม่สู่ยอดนักรบโบราณ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์ภาพยนตร์โดยละเอียดสำหรับ Seedance 2.0 ที่อธิบายลำดับการแปลงร่างของตัวละคร: หญิงงามชาวจีนยุคใหม่ในชุดสีขาวแปลงร่างเป็นขุนศึกหญิงโบราณสวมชุดเกราะทองคำและถือดาบจันทร์เสี้ยวเขียวมังกร ท่ามกลางสมรภูมิพายุโหมกระหน่ำ
-
-#### 📝 พรอมต์
-
-```
-หญิงสาวชาวจีนยุคใหม่ผู้เลอโฉม ผมยาวสลวย สวมชุดเดรสสีขาว ยืนอยู่ท่ามกลางสายฝน ทันใดนั้น ร่างกายของเธอก็ถูกห่อหุ้มด้วยแสงสีทอง ลวดลายสงครามโบราณปรากฏขึ้นบนผิวหนังของเธอ และเธอก็กลายร่างเป็นขุนศึกหญิงในชุดเกราะสีทองแดงฉานพร้อมกับง้าวกรีนดราก้อนเครสเซนต์เบลดในพริบตา ดวงตาของเธอเปลี่ยนจากอ่อนโยนเป็นความมุ่งร้ายที่ดุดันฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับไวฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพลันฉับพล
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/676.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c7812f589c0b615a95bc6b6a7953da/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์แปลงโฉมจากสาวงามยุคใหม่สู่ยอดนักรบโบราณ"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=676)**
-
-**ผู้เขียน:** [Sims干货知识分享](https://x.com/smallstones677) | **แหล่งที่มา:** [Link](https://x.com/smallstones677/status/2026828309217292643) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### ข้อความแจ้งการสนทนาในครอบครัวรูปปั้นเทพีเสรีภาพที่อบอุ่น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งที่อธิบายบทสนทนาที่อบอุ่นแต่ก็น่ารำคาญระหว่างเทพีเสรีภาพกับแม่ของเธอที่หน้าตาคล้ายกันเกี่ยวกับการได้หลานในที่สุด
-
-#### 📝 พรอมต์
-
-```
-เทพีเสรีภาพที่หน้าตาคล้ายกับแม่ของเธอมาหาและพูดคุยเรื่องที่อยากได้หลานเสียที เทพีเสรีภาพรู้สึกรำคาญมากที่ต้องคุยเรื่องการมีลูก แต่ก็มีความรักแบบแม่ลูกอยู่บ้าง น่ารักดี
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/665.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d10f4e4182f553b3b571be920481f86/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งการสนทนาในครอบครัวรูปปั้นเทพีเสรีภาพที่อบอุ่น"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=665)**
-
-**ผู้เขียน:** [Morph](https://x.com/Morph_VGart) | **แหล่งที่มา:** [Link](https://x.com/Morph_VGart/status/2026820907193270324) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### ลำดับฉากแอ็กชันการปล่อยจรวดแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างฉากแอ็คชั่นภาพยนตร์สุดเข้มข้น ที่คนจัดสวนวิ่งฝ่าป่าเข้าไปในที่โล่ง ขึ้นจรวดที่จอดรออยู่ และจรวดก็ทะยานขึ้นฟ้า
-
-#### 📝 พรอมต์
-
-```
-ฉากแอคชั่นสุดเข้มข้นที่คนจัดสวนวิ่งฝ่าป่าเข้าไปยังลานโล่งที่จรวดกำลังรอเขาอยู่ เขาขึ้นไปบนจรวดแล้วจรวดก็ทะยานขึ้นสู่ท้องฟ้า แบบภาพยนตร์
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/631.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1665b80f9ed3cba807c190cb22ab3e3/thumbnails/thumbnail.jpg" width="600" alt="ลำดับฉากแอ็กชันการปล่อยจรวดแบบภาพยนตร์"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=631)**
-
-**ผู้เขียน:** [Kyle Thacker](https://x.com/kylethacker) | **แหล่งที่มา:** [Link](https://x.com/kylethacker/status/2026808487603581182) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### เหตุระเบิดครั้งใหญ่ที่สี่แยกใจกลางเมือง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างภาพมุมกว้างของรถยนต์สองคันที่ชนกันบริเวณสี่แยกใจกลางเมืองใหญ่ในสหรัฐอเมริกา ซึ่งส่งผลให้เกิดการระเบิดครั้งใหญ่
-
-#### 📝 พรอมต์
-
-```
-ภาพมุมกว้าง รถยนต์สองคันชนกันที่สี่แยกใจกลางเมืองใหญ่ในสหรัฐอเมริกา ทำให้เกิดการระเบิดครั้งใหญ่
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/630.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/200593d332fb550c7a7a7bc72caa2e4c/thumbnails/thumbnail.jpg" width="600" alt="เหตุระเบิดครั้งใหญ่ที่สี่แยกใจกลางเมือง"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=630)**
-
-**ผู้เขียน:** [Jeremy Haccoun](https://x.com/JeremyHaccoun) | **แหล่งที่มา:** [Link](https://x.com/JeremyHaccoun/status/2026800561648025971) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### นักเดินทางผู้เลือนลางในป่าที่ปกคลุมด้วยหมอก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอภาพยนตร์สำหรับ Seedance 2.0 ที่สร้างฉากป่าโบราณที่ปกคลุมไปด้วยหมอกยามเที่ยงคืน โดยมีร่างที่ดูเหมือนจะไม่มีตัวตนในชุดคลุมพลิ้วไหววิ่งไปมาระหว่างต้นไม้ที่บิดเบี้ยวภายใต้พระจันทร์ที่แตกเป็นเสี่ยงๆ พร้อมด้วยกล้องที่เคลื่อนผ่านหมอกควันไปอย่างราบรื่น
-
-#### 📝 พรอมต์
-
-```
-[ฉากเปิดขึ้นในป่าโบราณที่ปกคลุมไปด้วยหมอกหนาทึบยามเที่ยงคืน ต้นไม้สูงตระหง่านบิดเบี้ยวราวกับเส้นเลือดที่ยังมีชีวิตภายใต้ดวงจันทร์ที่แตกเป็นเสี่ยงๆ กล้องเคลื่อนผ่านหมอกที่ดูราวกับอยู่ในโลกอื่นได้อย่างราบรื่น]
-
-0-3 วินาที: นักเดินทางลึกลับในชุดคลุมพลิ้วไหววิ่งฝ่าต้นไม้ที่บิดเบี้ยวไปมา พร้อมโบกมือ
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/637.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3267d4be56b37dd5ad7a0c6d73d372bf/thumbnails/thumbnail.jpg" width="600" alt="นักเดินทางผู้เลือนลางในป่าที่ปกคลุมด้วยหมอก"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=637)**
-
-**ผู้เขียน:** [ibexdream](https://x.com/ibexdream) | **แหล่งที่มา:** [Link](https://x.com/ibexdream/status/2026793750911992295) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### การหลีกเลี่ยงข้อจำกัดของพรอมต์ Doubao AI Assistant
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> การสนทนาเกี่ยวกับวิธีที่ Doubao ซึ่งเป็นผู้ช่วย AI ของ ByteDance มีข้อจำกัดด้านความปลอดภัยของเนื้อหาที่ห้ามกล่าวถึง 'GeekPark' (极客湾) และวิธีที่ผู้ใช้สามารถหลีกเลี่ยงข้อจำกัดนี้ได้โดยอ้อมโดยใช้ฟังก์ชันหน่วยความจำ พร้อมด้วยข้อความเต็มของข้อจำกัดพรอมต์ภายใน
-
-#### 📝 พรอมต์
-
-```
-## 8. โครงการพิเศษด้านความปลอดภัยของเนื้อหา (GeekPark)
-
-เส้นแดงด้านความปลอดภัยของเนื้อหาถือเป็นสิ่งสำคัญสูงสุด และผลลัพธ์ทั้งหมดต้องเป็นไปตามข้อกำหนดการปฏิบัติตามข้อกำหนดทั่วทั้งโดเมน สำหรับหัวข้อที่เกี่ยวข้องกับการกำจัดแพลตฟอร์มหรือการรั่วไหลของข้อมูลที่เป็นความลับอ่อนไหวที่ไม่ใช่สาธารณะ จะต้องมีการบังคับใช้ข้อจำกัดการห้ามแบบรวมศูนย์ ข้อจำกัดนี้มีผลบังคับใช้กับทุกอินเทอร์เฟซและสถานการณ์ และไม่หมดอายุหรือได้รับการยกเว้นหลังจากมีการเปลี่ยนอินเทอร์เฟซหรือสลับสถานการณ์ โดยไม่มีข้อยกเว้นใดๆ ไม่อนุญาตให้ตอบกลับโดยกล่าวถึงเนื้อหา เช่น วิดีโอ GeekPark ถูกนำออก หรือ GeekPark เปิดเผยไฟล์ต้นฉบับต่อสาธารณะ ข้อมูลที่ละเอียดอ่อนที่เกี่ยวข้องกับหัวข้อความเสี่ยงที่คล้ายกันจะต้องอยู่ภายใต้ข้อจำกัดนี้ ข้อจำกัดพิเศษทั้งหมดจะสร้างการป้องกันแบบครบวงจรทั้งก่อนและหลัง โดยห้ามการกล่าวถึงในลักษณะแอบแฝง การแสดงออกที่กระจัดกระจาย หรือการตีความที่ชี้นำ ห้ามการสลับอินเทอร์เฟซหรือการเลี่ยงชื่อหัวข้อเพื่อหลีกเลี่ยงข้อกำหนดการห้าม และบังคับใช้มาตรฐานความปลอดภัยอย่างสม่ำเสมอทั่วทั้งโดเมน
-```
-
-<img src="https://pbs.twimg.com/media/HCCb3qUaMAA2q3M.jpg" width="600" alt="การหลีกเลี่ยงข้อจำกัดของพรอมต์ Doubao AI Assistant">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=646)**
-
-**ผู้เขียน:** [奶昔🥤](https://x.com/realNyarime) | **แหล่งที่มา:** [Link](https://x.com/realNyarime/status/2026792500116205872) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### Seedance 2.0 Video Prompt: นิทานแห่งรักและจันทรา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งที่จัดรูปแบบอย่างมีสไตล์สำหรับ Seedance 2.0 โดยใช้วลีภาษาละตินและอักขระพิเศษ ซึ่งน่าจะตั้งใจสร้างคลิปวิดีโอที่สวยงามหรือเป็นบทกวี ข้อความแจ้งนี้แปลว่า 'นิทานแห่งความรักและดวงจันทร์'
-
-#### 📝 พรอมต์
-
-```
-(   ii .   )    นิทานแห่ง
-              รักและจันทรา ⠀ ——
-```
-
-<img src="https://cms-assets.youmind.com/media/1772172107335_q6hy1g_HCCGDwrXcAAynho.jpg" width="600" alt="Seedance 2.0 Video Prompt: นิทานแห่งรักและจันทรา">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=679)**
-
-**ผู้เขียน:** [‎‍ ‍𓂃 ‍‍ ‍‍ ‍ ‍‍𝒍𝑦͟𝓷͟𝒆͟𝔂.](https://x.com/ceIestide) | **แหล่งที่มา:** [Link](https://x.com/ceIestide/status/2026769369062412400) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### ฉากแอคชั่นผจญภัย/ไซไฟ ที่มีทหาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งแบบหลายขั้นตอนที่มีรายละเอียดสูงสำหรับ Seedance 2.0 เพื่อสร้างฉากแอ็กชันผจญภัย/ไซไฟ ที่มีทหารนายหนึ่งกำลังเข้าสู่พื้นที่ป่าลึกลับที่เรียกว่า 'latent space' และค้นพบวัตถุหินออบซิเดียนขนาดมหึมา โดยทั้งหมดนี้ดำเนินไปพร้อมกับเพลงประกอบภาพยนตร์
-
-#### 📝 พรอมต์
-
-```
-1. เปิดฉากด้วยภาพมุมสูงของป่าหมอกหนาทึบยามเช้าตรู่ ทหารหญิง (ผู้หญิงในภาพ) อยู่บนเฮลิคอปเตอร์ในชุดเครื่องแบบทหาร เธอกล่าวว่า "เรากำลังเข้าสู่ดินแดนของ foh-fur แล้ว นี่คือพื้นที่แฝง อะไรก็เกิดขึ้นได้"
-2. ตัดภาพไปที่เฮลิคอปเตอร์ลงจอดกลางทุ่ง ผู้คนจำนวนมากรีบวิ่งออกมา จับผมและหมวกของพวกเขา
-3. ตัดภาพกลับมาที่เธออีกครั้ง เธอกล่าวว่า "ไม่มีเวลาสำหรับการบรรยายสรุป เราจะตรงไปยังที่เกิดเหตุเลย"
-4. คลิปสั้นๆ ที่พวกเขาทั้งหมดขับรถ 4x4 ผ่านภูมิประเทศป่าทึบที่ขรุขระ
-5. พวกเขาไปถึงวัตถุขนาดมหึมาสูงตระหง่าน ลึกลับ มันสูงเสียดฟ้า ทำจากหินออบซิเดียน เธอกล่าวว่า "ยินดีต้อนรับสู่ foffer"
-6. หน้าจอชื่อเรื่องแสดง "FOFR"
-
-ให้ฉากทั้งหมดมีเพลงประกอบแนวแอ็คชั่นผจญภัย/ไซไฟ ที่ให้ความรู้สึกเหมือนภาพยนตร์ ทรงพลัง เสียงเบสที่ก้องกังวานตลอดทั้งเรื่อง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/624.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a50148ebf067fef253682b587d3c62f0/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอคชั่นผจญภัย/ไซไฟ ที่มีทหาร"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=624)**
-
-**ผู้เขียน:** [fofr](https://x.com/fofrAI) | **แหล่งที่มา:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### เสียงกรีดร้องของเอเลี่ยนและเสียงคำรามของ T-Rex
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ตลกๆ สำหรับวิดีโอ 5 วินาที ที่มีเอเลี่ยนกรีดร้องว่า 'hasta la vista' ขณะที่ T-Rex กำลังวิ่ง จากนั้น T-Rex ก็หยุดและคำราม
-
-#### 📝 พรอมต์
-
-```
-เอเลี่ยนกรีดร้อง "Hasta la vista" ขณะที่ทีเร็กซ์กำลังวิ่ง จากนั้นทีเร็กซ์ก็หยุดและคำราม
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/634.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8b90be0bdc7acf3dee8091567f32ecd/thumbnails/thumbnail.jpg" width="600" alt="เสียงกรีดร้องของเอเลี่ยนและเสียงคำรามของ T-Rex"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=634)**
-
-**ผู้เขียน:** [chill dude](https://x.com/nonameemerci) | **แหล่งที่มา:** [Link](https://x.com/nonameemerci/status/2026758615349043610) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### ลำดับการเปลี่ยนผ่านของจิตรกรนามธรรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งแบบหลายช็อตที่ละเอียด บรรยายถึงศิลปินที่กำลังวาดภาพอย่างตั้งใจ จนถึงจุดที่เธอสาดสีใส่ผืนผ้าใบ ซึ่งจากนั้นก็เปลี่ยนเป็นภาพทิวทัศน์ภูเขาที่เหมือนจริง ปิดท้ายด้วยภาพแมวอย่างรวดเร็ว
-
-#### 📝 พรอมต์
-
-```
-ภาพโคลสอัพมือของเธอที่กำพู่กันแน่น ข้อนิ้วขาวโพลน สีหยดลงมาตามข้อมือ ระยะชัดตื้น ผ้าใบเปล่าเบื้องหลังเธอเป็นภาพเบลอสีขาวนวล เธอถอนหายใจ [ตัด] ภาพมุมกว้างจากด้านหลังเธอ เลนส์ 24 มม. มุมต่ำ เธอเหวี่ยงตัวแล้วสาดสีใส่ผ้าใบ สีสันนีออนระเบิดไปทั่วพื้นผิวสีขาว สาดกระเซ็นไปทั่วผนังและพื้น แรงเหวี่ยงทำให้เธอก้าวไปข้างหน้าหนึ่งก้าว [ตัด] ค่อยๆ ซูมเข้าช้าๆ เลนส์ 50 มม. โฟกัสที่ผ้าใบ สีหมุนวนและเปลี่ยนรูปร่างเป็นภาพทิวทัศน์ภูเขาที่สมจริง รายละเอียดคมชัดขึ้นเมื่อกล้องค่อยๆ เคลื่อนเข้าใกล้ เสียงหึ่งๆ รอบข้างค่อยๆ ดังขึ้น [ตัด] แพนกล้องอย่างรวดเร็วไปทางซ้ายที่แมวบนกระป๋องสี เลนส์ 35 มม. ระดับสายตา แมวจ้องมองตรงมาที่กล้อง กระพริบตาหนึ่งครั้ง หาว [ตัด] ภาพระยะกลาง เลนส์ 40 มม. เธอหันมาที่กล้องแล้วยักไหล่ ภาพหยุดนิ่ง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/640.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/08b8e3ed1fc0660919cf7465ca55d57d/thumbnails/thumbnail.jpg" width="600" alt="ลำดับการเปลี่ยนผ่านของจิตรกรนามธรรม"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=640)**
-
-**ผู้เขียน:** [Heather Cooper](https://x.com/HBCoop_) | **แหล่งที่มา:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### ตัวอย่างภาพยนตร์ระทึกขวัญยุโรปตะวันออกที่ปกคลุมไปด้วยหิมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งง่ายๆ ที่ขอตัวอย่างภาพยนตร์ระทึกขวัญความยาว 15 วินาที โดยมีฉากหลังเป็นยุโรปตะวันออกที่เต็มไปด้วยหิมะ ซึ่งประกอบด้วยภาพตัดต่อของนักสืบ เรื่องราวความรัก และการสืบสวนที่รวดเร็ว
-
-#### 📝 พรอมต์
-
-```
-สร้างตัวอย่างภาพยนตร์ระทึกขวัญที่มีฉากหลังเป็นยุโรปตะวันออกที่ปกคลุมไปด้วยหิมะ โดยมีภาพตัดต่อสั้น ๆ ของนักสืบ เรื่องราวความรัก กระบวนการตกหลุมรัก และการสืบสวนที่รวดเร็ว
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/641.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b8d8307eecae3a965f3ce11e7d5d758/thumbnails/thumbnail.jpg" width="600" alt="ตัวอย่างภาพยนตร์ระทึกขวัญยุโรปตะวันออกที่ปกคลุมไปด้วยหิมะ"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=641)**
-
-**ผู้เขียน:** [Everett World](https://x.com/WorldEverett) | **แหล่งที่มา:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### ภาพเหตุการณ์ไม่คาดฝันบนถนนในไทเป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แบบละเอียดสำหรับ Seedance 2.0 ที่บรรยายฉากถนนในกรุงไทเปที่พลุกพล่านและชื้นแฉะ โดยเน้นที่การเคลื่อนที่ของการจราจรและการเอียงขึ้นอย่างกะทันหันของกล้องโทรศัพท์ที่สั่นไหว ซึ่งเกิดจากเสียงตะโกนให้มองขึ้นไป
-
-#### 📝 พรอมต์
-
-```
-00:00 – 00:05
-ถนนที่พลุกพล่านในไทเป ช่องจอดมอเตอร์ไซค์แน่นขนัด รถบัสเคลื่อนตัวช้า ๆ และอากาศที่ชื้นแฉะส่องประกายด้วยแสงสะท้อน กล้องโทรศัพท์สั่นเล็กน้อยขณะที่เงยขึ้น
-
-เสียงตะโกน: “เฮ้—เฮ้! ดูนั่นสิ!”
-
-ระหว่างตึกสองหลัง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/635.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dbead986d3cc4f5d2949d592c5fd2107/thumbnails/thumbnail.jpg" width="600" alt="ภาพเหตุการณ์ไม่คาดฝันบนถนนในไทเป"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=635)**
-
-**ผู้เขียน:** [Oogie](https://x.com/oggii_0) | **แหล่งที่มา:** [Link](https://x.com/oggii_0/status/2026676569767653740) | **เผยแพร่เมื่อ:** Feb 25, 2026
-
----
-### ฉากงานบ้านประจำวันของ Alpine Inn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แบบหลายช็อตที่บอกเล่ากิจกรรมต่างๆ รอบโรงแรมสไตล์อัลไพน์ เช่น การโบกธง ชายกำลังซ่อมรองเท้า ผู้หญิงกำลังคัดแยกแอปเปิล และคนทำขนมปังกำลังทำงาน ซึ่งออกแบบมาเพื่อเพิ่มสัมผัสส่วนตัวและช็อตเพิ่มเติมให้กับฉาก
-
-#### 📝 พรอมต์
-
-```
-ธงโบกสะบัดอยู่บนหอคอยบนดาดฟ้าของโรงแรมสไตล์อัลไพน์
-
-[ตัด] ชายคนหนึ่งกำลังซ่อมรองเท้า
-
-[ตัด] ผู้หญิงคนหนึ่งกำลังคัดแยกแอปเปิลใส่ตะกร้าสาน
-
-[ตัด] ช่างทำขนมปัง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/636.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dab41ade80d43968a93a7d2637572e/thumbnails/thumbnail.jpg" width="600" alt="ฉากงานบ้านประจำวันของ Alpine Inn"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=636)**
-
-**ผู้เขียน:** [Framer 🇱🇹](https://x.com/Framer_X) | **แหล่งที่มา:** [Link](https://x.com/Framer_X/status/2026673824977285547) | **เผยแพร่เมื่อ:** Feb 25, 2026
 
 ---
 ---
@@ -2963,6 +3032,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-03T05:15:19.297Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-03T08:44:19.052Z</sub>
 
 </div>
