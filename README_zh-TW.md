@@ -74,76 +74,18 @@
 
 ---
 
-## ⭐ 精選提示詞
+## 🔥 精選提示詞
 
-> 精心挑選的高品質提示詞
+> ⭐ 精心挑選的高品質提示詞
 
-### 寶萊塢舞蹈分心男友迷因提示
+### No. 1: 超現實戰場浪人動作場景
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![English](https://img.shields.io/badge/lang-English-blue)
-
-> 給 Seedance 2.0 的提示，指示 AI 在「分心男友」迷因的背景下，以幽默且引人注目的語氣，總結寶萊塢舞蹈風格。
-
-#### 📝 提示詞
-
-```
-用「分心男友」這個迷因來總結寶萊塢舞蹈——確保它夠白痴，而且能獲得 50 個讚。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="寶萊塢舞蹈分心男友迷因提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=379)**
-
-**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **來源:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **發布時間:** Feb 14, 2026
-
----
-### 飛車追逐：懸崖之城（一鏡到底）
-
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
 
-> 一個極其詳細的連續鏡頭提示，描述一場穿越宏偉懸崖城市的極速追逐，著重於動態攝影機運動、熱浪、碎片，並最終揭示一個由瀑布滋養的山谷。
+#### 📖 描述
 
-#### 📝 提示詞
-
-```
-飛車追逐懸崖城市（單次連續鏡頭）從一座雕刻在石頭上的宏偉懸崖城市，鏡頭俯衝向一道沿著狹窄懸崖道路疾馳的微弱光線。鎖定：一輛飛車以驚人的速度貼著牆壁行駛。鏡頭向前猛衝，然後甩回，再緊貼著後方推進器：熱氣蒸騰，碎石從懸崖上崩落，警示燈閃爍。一個坍塌的陽台落下碎片；騎士在一個墜落的拱門下驚險地急轉彎，然後流暢地穿梭於懸掛的晾衣繩和敞開的窗戶之間。鏡頭也穿過相同的開口，緊隨其後。最後一個彎道後突然歸於平靜：鏡頭猛然向外拉開，展現出城市通向一個無邊無際、瀑布滋養的山谷，薄霧化為彩虹。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="飛車追逐：懸崖之城（一鏡到底）"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=393)**
-
-**作者:** [Umesh](https://x.com/umesh_ai) | **來源:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **發布時間:** Feb 14, 2026
-
----
-### 東京擎天柱大戰哥吉拉
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段由 Seedance 2.0 生成的 CGI 影片描述，呈現一輛豪華轎車變形成柯博文，在下著雨的東京夜晚背景下，與哥吉拉展開激戰，伴隨著爆炸和能量衝擊。
-
-#### 📝 提示詞
-
-```
-一輛豪華轎車變身為柯博文，與哥吉拉在下著雨的東京夜晚背景下激戰，爆發出爆炸和能量衝擊波。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="東京擎天柱大戰哥吉拉"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=210)**
-
-**作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **來源:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **發布時間:** Feb 12, 2026
-
----
-### 超現實戰場浪人動作場景
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高度細緻、多鏡頭的 Seedance 2.0 提示，描述了一個超現實、高動作的空中戰場場景，其中一名戴面具的浪人被一隻胸部為風暴雲漩渦的巨大有翼野獸追逐。此提示包含特定的攝影機運動、技術細節（720p、16:9、15 秒）以及戲劇性的結局。
+一個高度細緻、多鏡頭的 Seedance 2.0 提示，描述了一個超現實、高動作的空中戰場場景，其中一名戴面具的浪人被一隻胸部為風暴雲漩渦的巨大有翼野獸追逐。此提示包含特定的攝影機運動、技術細節（720p、16:9、15 秒）以及戲劇性的結局。
 
 #### 📝 提示詞
 
@@ -155,19 +97,73 @@
 15 秒
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="超現實戰場浪人動作場景"></a>
+#### 🎬 影片
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="超現實戰場浪人動作場景">
+</a>
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=133)**
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 11, 2026
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam)
+- **來源:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
+- **發布時間:** February 11, 2026
+
+**[👉 立即體驗 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=133)**
 
 ---
-### 《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0
 
+### No. 2: 東京擎天柱大戰哥吉拉
+
+![English](https://img.shields.io/badge/lang-English-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![中文](https://img.shields.io/badge/lang-中文-red)
 
-> 一個詳細且充滿活力的影片提示，用於 Seedance 2.0，生成一個 15 秒的《鬼滅之刃》風格戰鬥（水之呼吸 vs. 雷之呼吸）真人改編影片。該提示指定了風格（好萊塢真人漫畫改編、黑暗武士、4K、極端快速剪輯、粒子光效）、場景（夜晚迷霧森林），以及三個詳細描述角色動作、能力提升序列和最終衝突的獨特鏡頭。
+#### 📖 描述
+
+一段由 Seedance 2.0 生成的 CGI 影片描述，呈現一輛豪華轎車變形成柯博文，在下著雨的東京夜晚背景下，與哥吉拉展開激戰，伴隨著爆炸和能量衝擊。
+
+#### 📝 提示詞
+
+```
+一輛豪華轎車變身為柯博文，與哥吉拉在下著雨的東京夜晚背景下激戰，爆發出爆炸和能量衝擊波。
+```
+
+#### 🎬 影片
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="東京擎天柱大戰哥吉拉">
+</a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=210)**
+
+</div>
+
+#### 📌 詳情
+
+- **作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs)
+- **來源:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
+- **發布時間:** February 12, 2026
+
+**[👉 立即體驗 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=210)**
+
+---
+
+### No. 3: 《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一個詳細且充滿活力的影片提示，用於 Seedance 2.0，生成一個 15 秒的《鬼滅之刃》風格戰鬥（水之呼吸 vs. 雷之呼吸）真人改編影片。該提示指定了風格（好萊塢真人漫畫改編、黑暗武士、4K、極端快速剪輯、粒子光效）、場景（夜晚迷霧森林），以及三個詳細描述角色動作、能力提升序列和最終衝突的獨特鏡頭。
 
 #### 📝 提示詞
 
@@ -191,19 +187,36 @@
 特效奇觀：藍色水龍與金色閃電瞬間炸裂，形成一股巨大的水雷能量風暴向外擴散。周圍的參天大樹被能量波攔腰折斷，泥土、水花和光線遮蔽了鏡頭。畫面在極致炫目的藍、黃、白光中結束。
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0"></a>
+#### 🎬 影片
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0">
+</a>
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=189)**
 
-**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **發布時間:** Feb 11, 2026
+</div>
+
+#### 📌 詳情
+
+- **作者:** [John](https://x.com/johnAGI168)
+- **來源:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
+- **發布時間:** February 11, 2026
+
+**[👉 立即體驗 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=189)**
 
 ---
-### 動態捕捉下的動漫女孩舞台舞蹈
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+### No. 4: 動態捕捉下的動漫女孩舞台舞蹈
+
 ![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
-> 使用參考影片 1（場景影片）來執行角色 2 的動作（動作捕捉影片），並生成一個包含圖片 3 中角色的影片。影片中，一位身穿黑色洋裝的動漫風格金髮女孩在舞台上優雅地跳舞。
+#### 📖 描述
+
+使用參考影片 1（場景影片）來執行角色 2 的動作（動作捕捉影片），並生成一個包含圖片 3 中角色的影片。影片中，一位身穿黑色洋裝的動漫風格金髮女孩在舞台上優雅地跳舞。
 
 #### 📝 提示詞
 
@@ -211,13 +224,104 @@
 參考影片 1（場景影片）進行人物 2 的動作（動作捕捉影片），用圖片 3 的人物生成影片
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="動態捕捉下的動漫女孩舞台舞蹈"></a>
+#### 🎬 影片
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="動態捕捉下的動漫女孩舞台舞蹈">
+</a>
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=406)**
 
-**作者:** [Jackywine](https://x.com/Jackywine) | **來源:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **發布時間:** Feb 11, 2026
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jackywine](https://x.com/Jackywine)
+- **來源:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
+- **發布時間:** February 11, 2026
+
+**[👉 立即體驗 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=406)**
 
 ---
+
+### No. 5: 飛車追逐：懸崖之城（一鏡到底）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一個極其詳細的連續鏡頭提示，描述一場穿越宏偉懸崖城市的極速追逐，著重於動態攝影機運動、熱浪、碎片，並最終揭示一個由瀑布滋養的山谷。
+
+#### 📝 提示詞
+
+```
+飛車追逐懸崖城市（單次連續鏡頭）從一座雕刻在石頭上的宏偉懸崖城市，鏡頭俯衝向一道沿著狹窄懸崖道路疾馳的微弱光線。鎖定：一輛飛車以驚人的速度貼著牆壁行駛。鏡頭向前猛衝，然後甩回，再緊貼著後方推進器：熱氣蒸騰，碎石從懸崖上崩落，警示燈閃爍。一個坍塌的陽台落下碎片；騎士在一個墜落的拱門下驚險地急轉彎，然後流暢地穿梭於懸掛的晾衣繩和敞開的窗戶之間。鏡頭也穿過相同的開口，緊隨其後。最後一個彎道後突然歸於平靜：鏡頭猛然向外拉開，展現出城市通向一個無邊無際、瀑布滋養的山谷，薄霧化為彩虹。
+```
+
+#### 🎬 影片
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="飛車追逐：懸崖之城（一鏡到底）">
+</a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=393)**
+
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Umesh](https://x.com/umesh_ai)
+- **來源:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
+- **發布時間:** February 14, 2026
+
+**[👉 立即體驗 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=393)**
+
+---
+
+### No. 6: 寶萊塢舞蹈分心男友迷因提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+給 Seedance 2.0 的提示，指示 AI 在「分心男友」迷因的背景下，以幽默且引人注目的語氣，總結寶萊塢舞蹈風格。
+
+#### 📝 提示詞
+
+```
+用「分心男友」這個迷因來總結寶萊塢舞蹈——確保它夠白痴，而且能獲得 50 個讚。
+```
+
+#### 🎬 影片
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="寶萊塢舞蹈分心男友迷因提示">
+</a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=379)**
+
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple)
+- **來源:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
+- **發布時間:** February 14, 2026
+
+**[👉 立即體驗 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=379)**
+
+---
+
+---
+
 ## 🎬 所有提示詞
 
 > 📝 按發布日期排序（最新優先）
@@ -2909,6 +3013,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-03-03T03:40:49.525Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-03-03T03:50:21.609Z</sub>
 
 </div>

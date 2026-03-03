@@ -74,76 +74,18 @@
 
 ---
 
-## ⭐ พรอมต์แนะนำ
+## 🔥 พรอมต์แนะนำ
 
-> พรอมต์คุณภาพสูงที่คัดสรรมาอย่างดี
+> ⭐ พรอมต์คุณภาพสูงที่คัดสรรมาอย่างดี
 
-### พรอมต์มีมแฟนหนุ่มวอกแวกเต้นบอลลีวูด
+### No. 1: ฉากแอคชั่น Ronin สุดเหนือจริงในสนามรบ
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งสำหรับ Seedance 2.0 ที่สั่งให้ AI สรุปสไตล์การเต้นบอลลีวูดในบริบทของมีม 'Distracted Boyfriend' ด้วยน้ำเสียงที่ตลกขบขันและดึงดูดความสนใจ
-
-#### 📝 พรอมต์
-
-```
-สรุปท่าเต้นบอลลีวูดในมีม "Distracted Boyfriend" - ต้องให้มันดูปัญญาอ่อนและได้ 50 ไลค์
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="พรอมต์มีมแฟนหนุ่มวอกแวกเต้นบอลลีวูด"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=379)**
-
-**ผู้เขียน:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **แหล่งที่มา:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **เผยแพร่เมื่อ:** Feb 14, 2026
-
----
-### การไล่ล่าความเร็วสูงข้ามเมืองหน้าผา (ถ่ายต่อเนื่องช็อตเดียว)
-
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
 
-> ข้อความแจ้งที่ละเอียดมากและถ่ายต่อเนื่อง บรรยายถึงการไล่ล่าด้วยความเร็วสูงผ่านเมืองหน้าผาอันยิ่งใหญ่ โดยเน้นที่การเคลื่อนไหวของกล้องแบบไดนามิก, คลื่นความร้อน, เศษซากปรักหักพัง และจบลงด้วยการเปิดเผยหุบเขาที่ได้รับน้ำจากน้ำตก
+#### 📖 คำอธิบาย
 
-#### 📝 พรอมต์
-
-```
-การไล่ล่าสปีดเดอร์ข้ามเมืองหน้าผา (ถ่ายต่อเนื่องช็อตเดียว) จากเมืองหน้าผาขนาดมหึมาที่แกะสลักจากหิน กล้องดิ่งลงสู่แสงริบหรี่เล็กๆ ที่พุ่งไปตามถนนริมหน้าผาแคบๆ ล็อกเป้า: สปีดเดอร์ที่แนบชิดกำแพงด้วยความเร็วบ้าคลั่ง กล้องพุ่งไปข้างหน้าอย่างรวดเร็ว สะบัดกลับ จากนั้นดิ่งลงไปที่ท่อขับด้านหลัง: คลื่นความร้อน เศษหินกระเด็นจากหน้าผา ไฟเตือนกะพริบ ระเบียงที่พังทลายทำให้เศษซากตกลงมา ผู้ขับขี่หักเลี้ยวในวินาทีสุดท้ายใต้ซุ้มประตูที่กำลังจะพัง จากนั้นก็ลอดผ่านราวตากผ้าที่แขวนอยู่และหน้าต่างที่เปิดอยู่เป็นเส้นเดียว กล้องพุ่งผ่านช่องเปิดเดียวกัน โดยยังคงจับจ้องไปที่การเคลื่อนไหว โค้งสุดท้ายและความสงบกะทันหัน: กล้องพุ่งออกไปเผยให้เห็นเมืองที่เปิดออกสู่หุบเขาที่ไร้ขอบเขตซึ่งมีน้ำตกไหลลงมา หมอกกลายเป็นรุ้ง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="การไล่ล่าความเร็วสูงข้ามเมืองหน้าผา (ถ่ายต่อเนื่องช็อตเดียว)"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=393)**
-
-**ผู้เขียน:** [Umesh](https://x.com/umesh_ai) | **แหล่งที่มา:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **เผยแพร่เมื่อ:** Feb 14, 2026
-
----
-### ออพติมัส ไพรม์ ปะทะ ก็อตซิลล่า ที่โตเกียว
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำอธิบายวิดีโอ CGI ที่สร้างโดย Seedance 2.0 ซึ่งแสดงรถยนต์หรูหราที่แปลงร่างเป็น Optimus Prime และต่อสู้กับ Godzilla โดยมีฉากหลังเป็นค่ำคืนที่ฝนตกในโตเกียว พร้อมด้วยการระเบิดและลำแสงพลังงาน
-
-#### 📝 พรอมต์
-
-```
-รถยนต์หรูแปลงร่างเป็น Optimus Prime และต่อสู้กับ Godzilla ปล่อยการระเบิดและพลังงานใส่กันท่ามกลางค่ำคืนที่ฝนตกในโตเกียว
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="ออพติมัส ไพรม์ ปะทะ ก็อตซิลล่า ที่โตเกียว"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=210)**
-
-**ผู้เขียน:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **แหล่งที่มา:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **เผยแพร่เมื่อ:** Feb 12, 2026
-
----
-### ฉากแอคชั่น Ronin สุดเหนือจริงในสนามรบ
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบหลายช็อตที่มีรายละเอียดสูงสำหรับ Seedance 2.0 ซึ่งบรรยายถึงฉากสนามรบเหนือจริงที่เต็มไปด้วยแอ็คชั่นบนท้องฟ้า โดยมีโรนินสวมหน้ากากที่ถูกไล่ล่าโดยสัตว์ร้ายมีปีกขนาดมหึมาซึ่งมีหน้าอกเป็นวังวนของเมฆพายุ พรอมต์นี้รวมถึงการเคลื่อนไหวของกล้องที่เฉพาะเจาะจง รายละเอียดทางเทคนิค (720p, 16:9, 15 วินาที) และฉากจบที่น่าทึ่ง
+พรอมต์แบบหลายช็อตที่มีรายละเอียดสูงสำหรับ Seedance 2.0 ซึ่งบรรยายถึงฉากสนามรบเหนือจริงที่เต็มไปด้วยแอ็คชั่นบนท้องฟ้า โดยมีโรนินสวมหน้ากากที่ถูกไล่ล่าโดยสัตว์ร้ายมีปีกขนาดมหึมาซึ่งมีหน้าอกเป็นวังวนของเมฆพายุ พรอมต์นี้รวมถึงการเคลื่อนไหวของกล้องที่เฉพาะเจาะจง รายละเอียดทางเทคนิค (720p, 16:9, 15 วินาที) และฉากจบที่น่าทึ่ง
 
 #### 📝 พรอมต์
 
@@ -155,19 +97,73 @@
 15 วินาที
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="ฉากแอคชั่น Ronin สุดเหนือจริงในสนามรบ"></a>
+#### 🎬 วิดีโอ
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="ฉากแอคชั่น Ronin สุดเหนือจริงในสนามรบ">
+</a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=133)**
 
-**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **เผยแพร่เมื่อ:** Feb 11, 2026
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
+- **เผยแพร่เมื่อ:** February 11, 2026
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/seedance-2-0-prompts?id=133)**
 
 ---
-### Demon Slayer Live-Action Battle Prompt สำหรับ Seedance 2.0
 
+### No. 2: ออพติมัส ไพรม์ ปะทะ ก็อตซิลล่า ที่โตเกียว
+
+![English](https://img.shields.io/badge/lang-English-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![中文](https://img.shields.io/badge/lang-中文-red)
 
-> ข้อความแจ้งวิดีโอที่มีรายละเอียดและพลังงานสูงสำหรับ Seedance 2.0 ซึ่งสร้างวิดีโอความยาว 15 วินาทีที่ดัดแปลงจากการต่อสู้สไตล์ Demon Slayer (ปราณวารี ปะทะ ปราณอัสนี) ข้อความแจ้งระบุสไตล์ (ภาพยนตร์คนแสดงที่ดัดแปลงจากมังงะสไตล์ฮอลลีวูด, ซามูไรดำ, 4K, การตัดต่อที่รวดเร็วมาก, เอฟเฟกต์แสงอนุภาค), ฉาก (ป่าหมอกยามค่ำคืน) และสามช็อตที่แตกต่างกันซึ่งให้รายละเอียดการกระทำของตัวละคร, ลำดับการเพิ่มพลัง และการปะทะครั้งสุดท้าย
+#### 📖 คำอธิบาย
+
+คำอธิบายวิดีโอ CGI ที่สร้างโดย Seedance 2.0 ซึ่งแสดงรถยนต์หรูหราที่แปลงร่างเป็น Optimus Prime และต่อสู้กับ Godzilla โดยมีฉากหลังเป็นค่ำคืนที่ฝนตกในโตเกียว พร้อมด้วยการระเบิดและลำแสงพลังงาน
+
+#### 📝 พรอมต์
+
+```
+รถยนต์หรูแปลงร่างเป็น Optimus Prime และต่อสู้กับ Godzilla ปล่อยการระเบิดและพลังงานใส่กันท่ามกลางค่ำคืนที่ฝนตกในโตเกียว
+```
+
+#### 🎬 วิดีโอ
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="ออพติมัส ไพรม์ ปะทะ ก็อตซิลล่า ที่โตเกียว">
+</a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=210)**
+
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [HopefulofNFTs](https://x.com/HopefulofNFTs)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
+- **เผยแพร่เมื่อ:** February 12, 2026
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/seedance-2-0-prompts?id=210)**
+
+---
+
+### No. 3: Demon Slayer Live-Action Battle Prompt สำหรับ Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งวิดีโอที่มีรายละเอียดและพลังงานสูงสำหรับ Seedance 2.0 ซึ่งสร้างวิดีโอความยาว 15 วินาทีที่ดัดแปลงจากการต่อสู้สไตล์ Demon Slayer (ปราณวารี ปะทะ ปราณอัสนี) ข้อความแจ้งระบุสไตล์ (ภาพยนตร์คนแสดงที่ดัดแปลงจากมังงะสไตล์ฮอลลีวูด, ซามูไรดำ, 4K, การตัดต่อที่รวดเร็วมาก, เอฟเฟกต์แสงอนุภาค), ฉาก (ป่าหมอกยามค่ำคืน) และสามช็อตที่แตกต่างกันซึ่งให้รายละเอียดการกระทำของตัวละคร, ลำดับการเพิ่มพลัง และการปะทะครั้งสุดท้าย
 
 #### 📝 พรอมต์
 
@@ -191,19 +187,36 @@
 ปรากฏการณ์เอฟเฟกต์พิเศษ: มังกรวารีสีครามและสายฟ้าสีทองระเบิดออกทันที ก่อตัวเป็นพายุพลังงานวารี-อัสนีขนาดใหญ่ที่แผ่กระจายออกไป ต้นไม้ใหญ่รอบข้างหักครึ่งจากคลื่นพลังงาน โคลน น้ำ และแสงบดบังกล้อง ฉากจบลงด้วยแสงสีน้ำเงิน เหลือง และขาวที่เจิดจรัสอย่างยิ่ง
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt สำหรับ Seedance 2.0"></a>
+#### 🎬 วิดีโอ
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt สำหรับ Seedance 2.0">
+</a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=189)**
 
-**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **เผยแพร่เมื่อ:** Feb 11, 2026
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [John](https://x.com/johnAGI168)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
+- **เผยแพร่เมื่อ:** February 11, 2026
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/seedance-2-0-prompts?id=189)**
 
 ---
-### อนิเมะสาวเต้นบนเวทีด้วย Motion Capture
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+### No. 4: อนิเมะสาวเต้นบนเวทีด้วย Motion Capture
+
 ![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
-> ใช้ภาพวิดีโออ้างอิง 1 (วิดีโอฉาก) เพื่อดำเนินการตามการเคลื่อนไหวของตัวละคร 2 (วิดีโอโมชันแคปเจอร์) และสร้างวิดีโอที่มีตัวละครจากภาพ 3 โดยเป็นเด็กสาวผมบลอนด์สไตล์อนิเมะในชุดเดรสสีดำกำลังเต้นรำอย่างสง่างามบนเวที
+#### 📖 คำอธิบาย
+
+ใช้ภาพวิดีโออ้างอิง 1 (วิดีโอฉาก) เพื่อดำเนินการตามการเคลื่อนไหวของตัวละคร 2 (วิดีโอโมชันแคปเจอร์) และสร้างวิดีโอที่มีตัวละครจากภาพ 3 โดยเป็นเด็กสาวผมบลอนด์สไตล์อนิเมะในชุดเดรสสีดำกำลังเต้นรำอย่างสง่างามบนเวที
 
 #### 📝 พรอมต์
 
@@ -211,13 +224,104 @@
 สร้างวิดีโอตัวละคร 2 ที่เคลื่อนไหว (วิดีโอจับภาพการเคลื่อนไหว) โดยอ้างอิงจากวิดีโอ 1 (วิดีโอฉาก) และสร้างวิดีโอจากภาพตัวละคร 3
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="อนิเมะสาวเต้นบนเวทีด้วย Motion Capture"></a>
+#### 🎬 วิดีโอ
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="อนิเมะสาวเต้นบนเวทีด้วย Motion Capture">
+</a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=406)**
 
-**ผู้เขียน:** [Jackywine](https://x.com/Jackywine) | **แหล่งที่มา:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **เผยแพร่เมื่อ:** Feb 11, 2026
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Jackywine](https://x.com/Jackywine)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
+- **เผยแพร่เมื่อ:** February 11, 2026
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/seedance-2-0-prompts?id=406)**
 
 ---
+
+### No. 5: การไล่ล่าความเร็วสูงข้ามเมืองหน้าผา (ถ่ายต่อเนื่องช็อตเดียว)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่ละเอียดมากและถ่ายต่อเนื่อง บรรยายถึงการไล่ล่าด้วยความเร็วสูงผ่านเมืองหน้าผาอันยิ่งใหญ่ โดยเน้นที่การเคลื่อนไหวของกล้องแบบไดนามิก, คลื่นความร้อน, เศษซากปรักหักพัง และจบลงด้วยการเปิดเผยหุบเขาที่ได้รับน้ำจากน้ำตก
+
+#### 📝 พรอมต์
+
+```
+การไล่ล่าสปีดเดอร์ข้ามเมืองหน้าผา (ถ่ายต่อเนื่องช็อตเดียว) จากเมืองหน้าผาขนาดมหึมาที่แกะสลักจากหิน กล้องดิ่งลงสู่แสงริบหรี่เล็กๆ ที่พุ่งไปตามถนนริมหน้าผาแคบๆ ล็อกเป้า: สปีดเดอร์ที่แนบชิดกำแพงด้วยความเร็วบ้าคลั่ง กล้องพุ่งไปข้างหน้าอย่างรวดเร็ว สะบัดกลับ จากนั้นดิ่งลงไปที่ท่อขับด้านหลัง: คลื่นความร้อน เศษหินกระเด็นจากหน้าผา ไฟเตือนกะพริบ ระเบียงที่พังทลายทำให้เศษซากตกลงมา ผู้ขับขี่หักเลี้ยวในวินาทีสุดท้ายใต้ซุ้มประตูที่กำลังจะพัง จากนั้นก็ลอดผ่านราวตากผ้าที่แขวนอยู่และหน้าต่างที่เปิดอยู่เป็นเส้นเดียว กล้องพุ่งผ่านช่องเปิดเดียวกัน โดยยังคงจับจ้องไปที่การเคลื่อนไหว โค้งสุดท้ายและความสงบกะทันหัน: กล้องพุ่งออกไปเผยให้เห็นเมืองที่เปิดออกสู่หุบเขาที่ไร้ขอบเขตซึ่งมีน้ำตกไหลลงมา หมอกกลายเป็นรุ้ง
+```
+
+#### 🎬 วิดีโอ
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="การไล่ล่าความเร็วสูงข้ามเมืองหน้าผา (ถ่ายต่อเนื่องช็อตเดียว)">
+</a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=393)**
+
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Umesh](https://x.com/umesh_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
+- **เผยแพร่เมื่อ:** February 14, 2026
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/seedance-2-0-prompts?id=393)**
+
+---
+
+### No. 6: พรอมต์มีมแฟนหนุ่มวอกแวกเต้นบอลลีวูด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งสำหรับ Seedance 2.0 ที่สั่งให้ AI สรุปสไตล์การเต้นบอลลีวูดในบริบทของมีม 'Distracted Boyfriend' ด้วยน้ำเสียงที่ตลกขบขันและดึงดูดความสนใจ
+
+#### 📝 พรอมต์
+
+```
+สรุปท่าเต้นบอลลีวูดในมีม "Distracted Boyfriend" - ต้องให้มันดูปัญญาอ่อนและได้ 50 ไลค์
+```
+
+#### 🎬 วิดีโอ
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="พรอมต์มีมแฟนหนุ่มวอกแวกเต้นบอลลีวูด">
+</a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=379)**
+
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
+- **เผยแพร่เมื่อ:** February 14, 2026
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/seedance-2-0-prompts?id=379)**
+
+---
+
+---
+
 ## 🎬 พรอมต์ทั้งหมด
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
@@ -2859,6 +2963,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-03T03:41:01.138Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-03T03:50:31.757Z</sub>
 
 </div>

@@ -74,76 +74,18 @@ Neden galerimizi kullanmalısınız?
 
 ---
 
-## ⭐ Öne Çıkan İstemler
+## 🔥 Öne Çıkan İstemler
 
-> El ile seçilmiş olağanüstü sonuçlara sahip istemler
+> ⭐ El ile seçilmiş olağanüstü sonuçlara sahip istemler
 
-### Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi
+### No. 1: Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, yapay zekaya 'Distracted Boyfriend' meme'i bağlamında Bollywood Dans stilini mizahi ve dikkat çekici bir tonla özetlemesini söyleyen bir komut.
-
-#### 📝 İstem
-
-```
-"Dikkatini Dağıtmış Erkek Arkadaş" memindeki Bollywood Dansını özetle - aptalca olduğundan ve 50 beğeni aldığından emin ol.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi"></a>
-
-📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=379)**
-
-**Yazar:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Kaynak:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Yayınlandı:** Feb 14, 2026
-
----
-### Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)
-
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
 
-> Anıtsal bir uçurum kenarı şehrinde geçen, yüksek hızlı bir takip sahnesini betimleyen, dinamik kamera hareketlerine, sıcak hava dalgalanmalarına, enkazlara odaklanan ve şelalelerle beslenen bir vadinin ortaya çıkmasıyla sonuçlanan, son derece detaylı, kesintisiz çekim istemi.
+#### 📖 Açıklama
 
-#### 📝 İstem
-
-```
-Bir uçurum şehrinde hız motoru kovalamacası (tek kesintisiz çekim) Taşa oyulmuş devasa bir uçurum kenarı şehrinden kamera, dar bir çıkıntı yolunda ilerleyen küçük bir ışık huzmesine doğru dalıyor. Kilitlenme: akıl almaz bir hızla duvara yapışmış bir hız motoru. Kamera öne fırlıyor, geriye doğru savruluyor, sonra arka iticilere sıkıca yapışıyor: sıcaklık dalgalanması, çıkıntıdan kopan kum taneleri, yanıp sönen uyarı ışıkları. Çöken bir balkon enkaz yağdırıyor; sürücü düşen bir kemerin altından son anda sıyrılıyor, ardından asılı çamaşır ipleri ve açık pencereler arasından tek bir akıcı hareketle geçiyor. Kamera da aynı açıklıklardan geçerek harekete yapışık kalıyor. Son bir viraj ve ani bir sakinlik: kamera dışarı doğru fırlayarak, sonsuz bir şelale ile beslenen vadiye açılan şehrin ortaya çıkışını gösteriyor, sis gökkuşağına dönüşüyor.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)"></a>
-
-📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=393)**
-
-**Yazar:** [Umesh](https://x.com/umesh_ai) | **Kaynak:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Yayınlandı:** Feb 14, 2026
-
----
-### Optimus Prime vs Godzilla Tokyo'da
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 tarafından oluşturulan bir CGI videosunun açıklaması: Lüks bir otomobilin Optimus Prime'a dönüşerek, yağmurlu bir Tokyo gecesi fonunda patlamalar ve enerji patlamaları eşliğinde Godzilla ile savaştığını tasvir ediyor.
-
-#### 📝 İstem
-
-```
-Lüks bir otomobil Optimus Prime'a dönüşüyor ve yağmurlu bir Tokyo gecesinin fonunda Godzilla ile savaşıyor, patlamalar ve enerji patlamaları saçıyor.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs Godzilla Tokyo'da"></a>
-
-📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=210)**
-
-**Yazar:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Kaynak:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Yayınlandı:** Feb 12, 2026
-
----
-### Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, gökyüzünde gerçeküstü, yüksek aksiyonlu bir savaş alanı sahnesini betimleyen, maskeli bir roninin göğsü fırtına bulutlarından oluşan bir girdap olan devasa kanatlı bir canavar tarafından takip edildiği, son derece ayrıntılı, çoklu çekim komutu. Komut, belirli kamera hareketlerini, teknik detayları (720p, 16:9, 15 saniye) ve dramatik bir finali içerir.
+Seedance 2.0 için, gökyüzünde gerçeküstü, yüksek aksiyonlu bir savaş alanı sahnesini betimleyen, maskeli bir roninin göğsü fırtına bulutlarından oluşan bir girdap olan devasa kanatlı bir canavar tarafından takip edildiği, son derece ayrıntılı, çoklu çekim komutu. Komut, belirli kamera hareketlerini, teknik detayları (720p, 16:9, 15 saniye) ve dramatik bir finali içerir.
 
 #### 📝 İstem
 
@@ -155,19 +97,73 @@ Gökyüzünde gerçeküstü bir savaş alanı: fırtına bulutlarının arasınd
 15 saniye
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi"></a>
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi">
+</a>
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
 
-**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 11, 2026
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam)
+- **Kaynak:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
+- **Yayınlandı:** February 11, 2026
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
 
 ---
-### Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için
 
+### No. 2: Optimus Prime vs Godzilla Tokyo'da
+
+![English](https://img.shields.io/badge/lang-English-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![中文](https://img.shields.io/badge/lang-中文-red)
 
-> Seedance 2.0 için, Demon Slayer tarzı bir savaşın (Su Nefesi vs. Şimşek Nefesi) 15 saniyelik canlı aksiyon uyarlamasını oluşturan, ayrıntılı, yüksek enerjili bir video istemi. İstem, stili (Hollywood canlı aksiyon manga uyarlaması, karanlık samuray, 4K, aşırı hızlı kesmeler, parçacık ışık efektleri), ortamı (gece sisli orman) ve karakterlerin eylemlerini, güçlenme sekanslarını ve son çarpışmayı detaylandıran üç farklı çekimi belirtiyor.
+#### 📖 Açıklama
+
+Seedance 2.0 tarafından oluşturulan bir CGI videosunun açıklaması: Lüks bir otomobilin Optimus Prime'a dönüşerek, yağmurlu bir Tokyo gecesi fonunda patlamalar ve enerji patlamaları eşliğinde Godzilla ile savaştığını tasvir ediyor.
+
+#### 📝 İstem
+
+```
+Lüks bir otomobil Optimus Prime'a dönüşüyor ve yağmurlu bir Tokyo gecesinin fonunda Godzilla ile savaşıyor, patlamalar ve enerji patlamaları saçıyor.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs Godzilla Tokyo'da">
+</a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=210)**
+
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [HopefulofNFTs](https://x.com/HopefulofNFTs)
+- **Kaynak:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
+- **Yayınlandı:** February 12, 2026
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=210)**
+
+---
+
+### No. 3: Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Açıklama
+
+Seedance 2.0 için, Demon Slayer tarzı bir savaşın (Su Nefesi vs. Şimşek Nefesi) 15 saniyelik canlı aksiyon uyarlamasını oluşturan, ayrıntılı, yüksek enerjili bir video istemi. İstem, stili (Hollywood canlı aksiyon manga uyarlaması, karanlık samuray, 4K, aşırı hızlı kesmeler, parçacık ışık efektleri), ortamı (gece sisli orman) ve karakterlerin eylemlerini, güçlenme sekanslarını ve son çarpışmayı detaylandıran üç farklı çekimi belirtiyor.
 
 #### 📝 İstem
 
@@ -191,19 +187,36 @@ Aksiyon: İki kılıç çerçevenin merkezinde şiddetle çarpışır.
 Özel Efekt Gösterisi: Mavi su ejderhası ve altın şimşek anında patlar, dışarıya doğru yayılan devasa bir su-şimşek enerji fırtınası oluşturur. Çevredeki büyük ağaçlar enerji dalgasıyla ikiye ayrılır ve çamur, su ve ışık kamerayı gizler. Sahne aşırı derecede göz kamaştırıcı mavi, sarı ve beyaz bir ışıkla sona erer.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için"></a>
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için">
+</a>
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
 
-**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Yayınlandı:** Feb 11, 2026
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [John](https://x.com/johnAGI168)
+- **Kaynak:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
+- **Yayınlandı:** February 11, 2026
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
 
 ---
-### Hareket Yakalama ile Anime Kız Sahne Dansı
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+### No. 4: Hareket Yakalama ile Anime Kız Sahne Dansı
+
 ![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
-> Karakter 2'nin eylemlerini (hareket yakalama videosu) gerçekleştirmek için referans video 1'i (sahne videosu) kullanın ve görüntü 3'teki karakterle bir video oluşturun. Siyah elbiseli, anime tarzı sarışın bir kız sahnede zarif bir dans sergiliyor.
+#### 📖 Açıklama
+
+Karakter 2'nin eylemlerini (hareket yakalama videosu) gerçekleştirmek için referans video 1'i (sahne videosu) kullanın ve görüntü 3'teki karakterle bir video oluşturun. Siyah elbiseli, anime tarzı sarışın bir kız sahnede zarif bir dans sergiliyor.
 
 #### 📝 İstem
 
@@ -211,13 +224,104 @@ Aksiyon: İki kılıç çerçevenin merkezinde şiddetle çarpışır.
 Karakter 2'nin eylemlerini (hareket yakalama videosu) gerçekleştirmek için referans video 1'i (sahne videosu) kullanarak, resim 3'teki karakterden video oluşturma
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Hareket Yakalama ile Anime Kız Sahne Dansı"></a>
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Hareket Yakalama ile Anime Kız Sahne Dansı">
+</a>
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=406)**
 
-**Yazar:** [Jackywine](https://x.com/Jackywine) | **Kaynak:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **Yayınlandı:** Feb 11, 2026
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jackywine](https://x.com/Jackywine)
+- **Kaynak:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
+- **Yayınlandı:** February 11, 2026
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=406)**
 
 ---
+
+### No. 5: Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Açıklama
+
+Anıtsal bir uçurum kenarı şehrinde geçen, yüksek hızlı bir takip sahnesini betimleyen, dinamik kamera hareketlerine, sıcak hava dalgalanmalarına, enkazlara odaklanan ve şelalelerle beslenen bir vadinin ortaya çıkmasıyla sonuçlanan, son derece detaylı, kesintisiz çekim istemi.
+
+#### 📝 İstem
+
+```
+Bir uçurum şehrinde hız motoru kovalamacası (tek kesintisiz çekim) Taşa oyulmuş devasa bir uçurum kenarı şehrinden kamera, dar bir çıkıntı yolunda ilerleyen küçük bir ışık huzmesine doğru dalıyor. Kilitlenme: akıl almaz bir hızla duvara yapışmış bir hız motoru. Kamera öne fırlıyor, geriye doğru savruluyor, sonra arka iticilere sıkıca yapışıyor: sıcaklık dalgalanması, çıkıntıdan kopan kum taneleri, yanıp sönen uyarı ışıkları. Çöken bir balkon enkaz yağdırıyor; sürücü düşen bir kemerin altından son anda sıyrılıyor, ardından asılı çamaşır ipleri ve açık pencereler arasından tek bir akıcı hareketle geçiyor. Kamera da aynı açıklıklardan geçerek harekete yapışık kalıyor. Son bir viraj ve ani bir sakinlik: kamera dışarı doğru fırlayarak, sonsuz bir şelale ile beslenen vadiye açılan şehrin ortaya çıkışını gösteriyor, sis gökkuşağına dönüşüyor.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)">
+</a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=393)**
+
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Umesh](https://x.com/umesh_ai)
+- **Kaynak:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
+- **Yayınlandı:** February 14, 2026
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=393)**
+
+---
+
+### No. 6: Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Açıklama
+
+Seedance 2.0 için, yapay zekaya 'Distracted Boyfriend' meme'i bağlamında Bollywood Dans stilini mizahi ve dikkat çekici bir tonla özetlemesini söyleyen bir komut.
+
+#### 📝 İstem
+
+```
+"Dikkatini Dağıtmış Erkek Arkadaş" memindeki Bollywood Dansını özetle - aptalca olduğundan ve 50 beğeni aldığından emin ol.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi">
+</a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=379)**
+
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple)
+- **Kaynak:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
+- **Yayınlandı:** February 14, 2026
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=379)**
+
+---
+
+---
+
 ## 🎬 Tüm İstemler
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
@@ -2851,6 +2955,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-03-03T03:41:41.018Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-03-03T03:50:55.760Z</sub>
 
 </div>

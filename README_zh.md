@@ -74,78 +74,18 @@
 
 ---
 
-## ⭐ 精选提示词
+## 🔥 精选提示词
 
-> 精心挑选的高质量提示词
+> ⭐ 精心挑选的高质量提示词
 
-### 宝莱坞舞蹈分心男友梗图提示
+### No. 1: 超现实战场浪人动作场景
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![English](https://img.shields.io/badge/lang-English-blue)
-
-> 给 Seedance 2.0 的提示，指示 AI 在“分心男友”表情包的背景下，以幽默和引人注目的语气总结宝莱坞舞蹈风格。
-
-#### 📝 提示词
-
-```
-用“分心的男朋友”这个梗来总结宝莱坞舞蹈——确保它很蠢，能获得 50 个赞。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="宝莱坞舞蹈分心男友梗图提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=379)**
-
-**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **来源:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **发布时间:** Feb 14, 2026
-
----
-### 飞车追逐悬崖之城（一镜到底）
-
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
 
-> 一个极其详细、一镜到底的提示，描述了一场高速飞车追逐，穿梭于一座宏伟的悬崖城市中，重点突出动态的镜头运动、热浪、碎片，最终揭示出一个由瀑布滋养的山谷。
+#### 📖 描述
 
-#### 📝 提示词
-
-```
-飞车追逐，穿越悬崖城市（单次连续镜头）
-
-镜头从一座雕刻在巨石中的宏伟悬崖城市俯冲而下，追逐着一道沿着狭窄崖边道路疾驰的微弱光线。锁定目标：一辆飞车以惊人的速度紧贴峭壁行驶。镜头猛地向前冲刺，然后迅速拉回，紧接着贴近飞车尾部的推进器：热浪翻滚，碎石从崖边飞溅，警示灯闪烁。一个坍塌的阳台碎片如雨般落下；骑手在最后一刻急转弯，躲过一道坠落的拱门，然后流畅地穿梭于晾晒的衣物和敞开的窗户之间。镜头也穿过同样的开口，紧随飞车的动作。最后一个弯道，突然归于平静：镜头猛然向外拉伸，展现出城市通向一个无边无际、瀑布滋养的山谷，薄雾化作彩虹。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="飞车追逐悬崖之城（一镜到底）"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=393)**
-
-**作者:** [Umesh](https://x.com/umesh_ai) | **来源:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **发布时间:** Feb 14, 2026
-
----
-### 擎天柱大战哥斯拉在东京
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 生成的 CGI 视频描述：一辆豪华轿车在东京的雨夜背景下，变形为擎天柱，与哥斯拉展开激战，伴随着爆炸和能量冲击波。
-
-#### 📝 提示词
-
-```
-一辆豪华轿车变形成擎天柱，在东京雨夜的背景下与哥斯拉搏斗，爆发出爆炸和能量冲击波。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="擎天柱大战哥斯拉在东京"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=210)**
-
-**作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **来源:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **发布时间:** Feb 12, 2026
-
----
-### 超现实战场浪人动作场景
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细、多镜头提示，用于 Seedance 2.0，描述了一个超现实、高动作的空中战场场景，其中一名蒙面浪人被一只胸部是暴风云漩涡的巨大有翼野兽追逐。该提示包括具体的摄像机运动、技术细节（720p、16:9、15 秒）以及戏剧性的结局。
+一个高度详细、多镜头提示，用于 Seedance 2.0，描述了一个超现实、高动作的空中战场场景，其中一名蒙面浪人被一只胸部是暴风云漩涡的巨大有翼野兽追逐。该提示包括具体的摄像机运动、技术细节（720p、16:9、15 秒）以及戏剧性的结局。
 
 #### 📝 提示词
 
@@ -157,19 +97,73 @@
 15 秒
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="超现实战场浪人动作场景"></a>
+#### 🎬 视频
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="超现实战场浪人动作场景">
+</a>
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=133)**
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 11, 2026
+</div>
+
+#### 📌 详情
+
+- **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam)
+- **来源:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
+- **发布时间:** February 11, 2026
+
+**[👉 立即体验 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=133)**
 
 ---
-### 《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0
 
+### No. 2: 擎天柱大战哥斯拉在东京
+
+![English](https://img.shields.io/badge/lang-English-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![中文](https://img.shields.io/badge/lang-中文-red)
 
-> 一个为 Seedance 2.0 设计的详细、高能量视频提示，用于生成一个 15 秒的《鬼灭之刃》风格战斗（水之呼吸 vs. 雷之呼吸）的真人改编片段。该提示详细说明了风格（好莱坞真人漫画改编、黑暗武士、4K、极致快速剪辑、粒子光效）、场景（夜晚迷雾森林），以及三个不同镜头，详细描绘了角色的动作、能力提升序列和最终的冲突。
+#### 📖 描述
+
+Seedance 2.0 生成的 CGI 视频描述：一辆豪华轿车在东京的雨夜背景下，变形为擎天柱，与哥斯拉展开激战，伴随着爆炸和能量冲击波。
+
+#### 📝 提示词
+
+```
+一辆豪华轿车变形成擎天柱，在东京雨夜的背景下与哥斯拉搏斗，爆发出爆炸和能量冲击波。
+```
+
+#### 🎬 视频
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="擎天柱大战哥斯拉在东京">
+</a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=210)**
+
+</div>
+
+#### 📌 详情
+
+- **作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs)
+- **来源:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
+- **发布时间:** February 12, 2026
+
+**[👉 立即体验 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=210)**
+
+---
+
+### No. 3: 《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一个为 Seedance 2.0 设计的详细、高能量视频提示，用于生成一个 15 秒的《鬼灭之刃》风格战斗（水之呼吸 vs. 雷之呼吸）的真人改编片段。该提示详细说明了风格（好莱坞真人漫画改编、黑暗武士、4K、极致快速剪辑、粒子光效）、场景（夜晚迷雾森林），以及三个不同镜头，详细描绘了角色的动作、能力提升序列和最终的冲突。
 
 #### 📝 提示词
 
@@ -193,19 +187,36 @@
 特效奇观：蓝色水龙与金色闪电瞬间炸裂，形成一个向外扩散的巨大水雷能量风暴。周围的参天大树被能量波拦腰折断，泥土、水花与光线遮蔽了镜头。画面在极致耀眼的蓝、黄、白光中结束。
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0"></a>
+#### 🎬 视频
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0">
+</a>
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=189)**
 
-**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **发布时间:** Feb 11, 2026
+</div>
+
+#### 📌 详情
+
+- **作者:** [John](https://x.com/johnAGI168)
+- **来源:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
+- **发布时间:** February 11, 2026
+
+**[👉 立即体验 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=189)**
 
 ---
-### 动漫少女舞台动感舞蹈与动作捕捉
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+### No. 4: 动漫少女舞台动感舞蹈与动作捕捉
+
 ![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
-> 使用参考视频 1（场景视频）来执行角色 2 的动作（动作捕捉视频），并生成一个包含图片 3 中角色的视频。视频中，一位身穿黑色连衣裙的动漫风格金发女孩在舞台上跳着优雅的舞蹈。
+#### 📖 描述
+
+使用参考视频 1（场景视频）来执行角色 2 的动作（动作捕捉视频），并生成一个包含图片 3 中角色的视频。视频中，一位身穿黑色连衣裙的动漫风格金发女孩在舞台上跳着优雅的舞蹈。
 
 #### 📝 提示词
 
@@ -213,13 +224,106 @@
 参考视频 1（场景视频）进行人物 2 的动作（动作捕捉视频），用图片 3 的人物生成视频
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="动漫少女舞台动感舞蹈与动作捕捉"></a>
+#### 🎬 视频
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="动漫少女舞台动感舞蹈与动作捕捉">
+</a>
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=406)**
 
-**作者:** [Jackywine](https://x.com/Jackywine) | **来源:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **发布时间:** Feb 11, 2026
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jackywine](https://x.com/Jackywine)
+- **来源:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
+- **发布时间:** February 11, 2026
+
+**[👉 立即体验 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=406)**
 
 ---
+
+### No. 5: 飞车追逐悬崖之城（一镜到底）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一个极其详细、一镜到底的提示，描述了一场高速飞车追逐，穿梭于一座宏伟的悬崖城市中，重点突出动态的镜头运动、热浪、碎片，最终揭示出一个由瀑布滋养的山谷。
+
+#### 📝 提示词
+
+```
+飞车追逐，穿越悬崖城市（单次连续镜头）
+
+镜头从一座雕刻在巨石中的宏伟悬崖城市俯冲而下，追逐着一道沿着狭窄崖边道路疾驰的微弱光线。锁定目标：一辆飞车以惊人的速度紧贴峭壁行驶。镜头猛地向前冲刺，然后迅速拉回，紧接着贴近飞车尾部的推进器：热浪翻滚，碎石从崖边飞溅，警示灯闪烁。一个坍塌的阳台碎片如雨般落下；骑手在最后一刻急转弯，躲过一道坠落的拱门，然后流畅地穿梭于晾晒的衣物和敞开的窗户之间。镜头也穿过同样的开口，紧随飞车的动作。最后一个弯道，突然归于平静：镜头猛然向外拉伸，展现出城市通向一个无边无际、瀑布滋养的山谷，薄雾化作彩虹。
+```
+
+#### 🎬 视频
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="飞车追逐悬崖之城（一镜到底）">
+</a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=393)**
+
+</div>
+
+#### 📌 详情
+
+- **作者:** [Umesh](https://x.com/umesh_ai)
+- **来源:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
+- **发布时间:** February 14, 2026
+
+**[👉 立即体验 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=393)**
+
+---
+
+### No. 6: 宝莱坞舞蹈分心男友梗图提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+给 Seedance 2.0 的提示，指示 AI 在“分心男友”表情包的背景下，以幽默和引人注目的语气总结宝莱坞舞蹈风格。
+
+#### 📝 提示词
+
+```
+用“分心的男朋友”这个梗来总结宝莱坞舞蹈——确保它很蠢，能获得 50 个赞。
+```
+
+#### 🎬 视频
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="宝莱坞舞蹈分心男友梗图提示">
+</a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=379)**
+
+</div>
+
+#### 📌 详情
+
+- **作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple)
+- **来源:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
+- **发布时间:** February 14, 2026
+
+**[👉 立即体验 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=379)**
+
+---
+
+---
+
 ## 🎬 所有提示词
 
 > 📝 按发布日期排序（最新优先）
@@ -2907,6 +3011,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-03-03T03:40:45.563Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-03-03T03:50:19.780Z</sub>
 
 </div>

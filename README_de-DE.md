@@ -74,76 +74,18 @@ Warum unsere Galerie nutzen?
 
 ---
 
-## ⭐ Ausgewählte Prompts
+## 🔥 Ausgewählte Prompts
 
-> Handverlesene Prompts mit herausragenden Ergebnissen
+> ⭐ Handverlesene Prompts mit herausragenden Ergebnissen
 
-### Bollywood-Tanz: Distracted-Boyfriend-Meme-Prompt
+### No. 1: Surrealistische Ronin-Action-Szene auf dem Schlachtfeld
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Seedance 2.0, der die KI anweist, den Bollywood-Tanzstil im Kontext des „Distracted Boyfriend“-Memes zusammenzufassen, mit einem humorvollen und aufmerksamkeitsstarken Ton.
-
-#### 📝 Prompt
-
-```
-Fasse den Bollywood-Tanz im Meme „Distracted Boyfriend“ zusammen – stelle sicher, dass es bescheuert ist und 50 Likes bekommt.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood-Tanz: Distracted-Boyfriend-Meme-Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=379)**
-
-**Autor:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Quelle:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Verfolgungsjagd durch eine Klippenstadt (Ein einziger, durchgehender Shot)
-
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
 
-> Ein extrem detaillierter, durchgängiger Prompt, der eine Hochgeschwindigkeits-Verfolgungsjagd durch eine monumentale Klippenstadt beschreibt, mit Fokus auf dynamische Kamerabewegung, Hitzeflimmern, Trümmer und einem Höhepunkt, der ein von einem Wasserfall gespeistes Tal enthüllt.
+#### 📖 Beschreibung
 
-#### 📝 Prompt
-
-```
-Verfolgungsjagd mit einem Speeder durch eine Klippenstadt (eine einzige, durchgehende Aufnahme) Aus einer monumentalen, in Stein gehauenen Klippenstadt taucht die Kamera auf einen winzigen Lichtstreifen zu, der über eine schmale Felsstraße rast. Ziel erfasst: ein Speeder, der sich mit irrsinniger Geschwindigkeit an der Wand entlangschlängelt. Die Kamera schießt voraus, schnellt zurück und fällt dann dicht an die hinteren Triebwerke: Hitzeschleier, Schmutz, der vom Felsrand abspringt, blinkende Warnlichter. Ein einstürzender Balkon regnet Trümmer; der Fahrer weicht im letzten Moment unter einem fallenden Bogen aus und schlängelt sich dann in einer fließenden Bewegung durch hängende Wäscheleinen und offene Fenster. Die Kamera huscht durch dieselben Öffnungen und bleibt der Bewegung treu. Eine letzte Biegung und plötzliche Ruhe: Die Kamera schießt nach außen und enthüllt die Stadt, die sich zu einem grenzenlosen, von Wasserfällen gespeisten Tal öffnet, wobei sich der Nebel in einen Regenbogen verwandelt.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Verfolgungsjagd durch eine Klippenstadt (Ein einziger, durchgehender Shot)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=393)**
-
-**Autor:** [Umesh](https://x.com/umesh_ai) | **Quelle:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Veröffentlicht:** Feb 14, 2026
-
----
-### Optimus Prime vs. Godzilla in Tokio
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Beschreibung eines von Seedance 2.0 generierten CGI-Videos, das einen Luxuswagen zeigt, der sich in Optimus Prime verwandelt und gegen Godzilla kämpft, vor dem Hintergrund einer regnerischen Tokioter Nacht mit Explosionen und Energiestrahlen.
-
-#### 📝 Prompt
-
-```
-Ein Luxusauto verwandelt sich in Optimus Prime und kämpft gegen Godzilla, wobei Explosionen und Energiestöße vor dem Hintergrund einer regnerischen Tokioter Nacht entfesselt werden.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs. Godzilla in Tokio"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=210)**
-
-**Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Quelle:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Veröffentlicht:** Feb 12, 2026
-
----
-### Surrealistische Ronin-Action-Szene auf dem Schlachtfeld
-
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine surreale, actionreiche Schlachtfeldszene am Himmel beschreibt, mit einem maskierten Ronin, der von einem kolossalen geflügelten Biest verfolgt wird, dessen Brust ein Wirbelsturm aus Gewitterwolken ist. Der Prompt enthält spezifische Kamerabewegungen, technische Details (720p, 16:9, 15 Sekunden) und ein dramatisches Finale.
+Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine surreale, actionreiche Schlachtfeldszene am Himmel beschreibt, mit einem maskierten Ronin, der von einem kolossalen geflügelten Biest verfolgt wird, dessen Brust ein Wirbelsturm aus Gewitterwolken ist. Der Prompt enthält spezifische Kamerabewegungen, technische Details (720p, 16:9, 15 Sekunden) und ein dramatisches Finale.
 
 #### 📝 Prompt
 
@@ -155,19 +97,73 @@ Ein surreales Schlachtfeld am Himmel: schwebende Felseninseln treiben durch ein 
 15 Sekunden
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Surrealistische Ronin-Action-Szene auf dem Schlachtfeld"></a>
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Surrealistische Ronin-Action-Szene auf dem Schlachtfeld">
+</a>
 
 📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
 
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Veröffentlicht:** Feb 11, 2026
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam)
+- **Quelle:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
+- **Veröffentlicht:** February 11, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
 
 ---
-### Demon Slayer Live-Action Battle Prompt für Seedance 2.0
 
+### No. 2: Optimus Prime vs. Godzilla in Tokio
+
+![English](https://img.shields.io/badge/lang-English-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![中文](https://img.shields.io/badge/lang-中文-red)
 
-> Ein detaillierter, energiegeladener Videoprompt für Seedance 2.0, der eine 15-sekündige Live-Action-Adaption eines Kampfes im Demon Slayer-Stil (Wasseratmung vs. Donneratmung) generiert. Der Prompt spezifiziert den Stil (Hollywood Live-Action-Manga-Adaption, dunkler Samurai, 4K, extrem schnelle Schnitte, Partikellichteffekte), den Schauplatz (nebliger Wald bei Nacht) und drei verschiedene Einstellungen, die die Aktionen der Charaktere, die Power-Up-Sequenzen und den finalen Zusammenprall detailliert beschreiben.
+#### 📖 Beschreibung
+
+Eine Beschreibung eines von Seedance 2.0 generierten CGI-Videos, das einen Luxuswagen zeigt, der sich in Optimus Prime verwandelt und gegen Godzilla kämpft, vor dem Hintergrund einer regnerischen Tokioter Nacht mit Explosionen und Energiestrahlen.
+
+#### 📝 Prompt
+
+```
+Ein Luxusauto verwandelt sich in Optimus Prime und kämpft gegen Godzilla, wobei Explosionen und Energiestöße vor dem Hintergrund einer regnerischen Tokioter Nacht entfesselt werden.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs. Godzilla in Tokio">
+</a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=210)**
+
+</div>
+
+#### 📌 Details
+
+- **Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs)
+- **Quelle:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
+- **Veröffentlicht:** February 12, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=210)**
+
+---
+
+### No. 3: Demon Slayer Live-Action Battle Prompt für Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Beschreibung
+
+Ein detaillierter, energiegeladener Videoprompt für Seedance 2.0, der eine 15-sekündige Live-Action-Adaption eines Kampfes im Demon Slayer-Stil (Wasseratmung vs. Donneratmung) generiert. Der Prompt spezifiziert den Stil (Hollywood Live-Action-Manga-Adaption, dunkler Samurai, 4K, extrem schnelle Schnitte, Partikellichteffekte), den Schauplatz (nebliger Wald bei Nacht) und drei verschiedene Einstellungen, die die Aktionen der Charaktere, die Power-Up-Sequenzen und den finalen Zusammenprall detailliert beschreiben.
 
 #### 📝 Prompt
 
@@ -191,19 +187,36 @@ Aktion: Die beiden Schwerter kollidieren heftig in der Mitte des Bildes.
 Spezialeffekt-Spektakel: Der blaue Wasserdrache und der goldene Blitz explodieren augenblicklich und bilden einen massiven Wasser-Donner-Energiesturm, der sich nach außen ausbreitet. Die umliegenden großen Bäume werden von der Energiewelle in zwei Hälften gerissen, und Schlamm, Wasser und Licht verdecken die Kamera. Die Szene endet in einem extrem blendenden blau-gelb-weißen Licht.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt für Seedance 2.0"></a>
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt für Seedance 2.0">
+</a>
 
 📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=189)**
 
-**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Veröffentlicht:** Feb 11, 2026
+</div>
+
+#### 📌 Details
+
+- **Autor:** [John](https://x.com/johnAGI168)
+- **Quelle:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
+- **Veröffentlicht:** February 11, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=189)**
 
 ---
-### Anime-Mädchen-Bühnentanz mit Motion Capture
 
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+### No. 4: Anime-Mädchen-Bühnentanz mit Motion Capture
+
 ![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
-> Verwenden Sie Referenzvideo 1 (Szenenvideo), um die Aktionen von Charakter 2 (Motion-Capture-Video) auszuführen, und generieren Sie ein Video mit dem Charakter aus Bild 3. Ein blondes Mädchen im Anime-Stil in einem schwarzen Kleid führt einen eleganten Tanz auf einer Bühne auf.
+#### 📖 Beschreibung
+
+Verwenden Sie Referenzvideo 1 (Szenenvideo), um die Aktionen von Charakter 2 (Motion-Capture-Video) auszuführen, und generieren Sie ein Video mit dem Charakter aus Bild 3. Ein blondes Mädchen im Anime-Stil in einem schwarzen Kleid führt einen eleganten Tanz auf einer Bühne auf.
 
 #### 📝 Prompt
 
@@ -211,13 +224,104 @@ Spezialeffekt-Spektakel: Der blaue Wasserdrache und der goldene Blitz explodiere
 Referenzvideo 1 (Szenenvideo) für die Aktion von Person 2 (Motion-Capture-Video), um ein Video der Person aus Bild 3 zu generieren.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Anime-Mädchen-Bühnentanz mit Motion Capture"></a>
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Anime-Mädchen-Bühnentanz mit Motion Capture">
+</a>
 
 📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=406)**
 
-**Autor:** [Jackywine](https://x.com/Jackywine) | **Quelle:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **Veröffentlicht:** Feb 11, 2026
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jackywine](https://x.com/Jackywine)
+- **Quelle:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
+- **Veröffentlicht:** February 11, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=406)**
 
 ---
+
+### No. 5: Verfolgungsjagd durch eine Klippenstadt (Ein einziger, durchgehender Shot)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Beschreibung
+
+Ein extrem detaillierter, durchgängiger Prompt, der eine Hochgeschwindigkeits-Verfolgungsjagd durch eine monumentale Klippenstadt beschreibt, mit Fokus auf dynamische Kamerabewegung, Hitzeflimmern, Trümmer und einem Höhepunkt, der ein von einem Wasserfall gespeistes Tal enthüllt.
+
+#### 📝 Prompt
+
+```
+Verfolgungsjagd mit einem Speeder durch eine Klippenstadt (eine einzige, durchgehende Aufnahme) Aus einer monumentalen, in Stein gehauenen Klippenstadt taucht die Kamera auf einen winzigen Lichtstreifen zu, der über eine schmale Felsstraße rast. Ziel erfasst: ein Speeder, der sich mit irrsinniger Geschwindigkeit an der Wand entlangschlängelt. Die Kamera schießt voraus, schnellt zurück und fällt dann dicht an die hinteren Triebwerke: Hitzeschleier, Schmutz, der vom Felsrand abspringt, blinkende Warnlichter. Ein einstürzender Balkon regnet Trümmer; der Fahrer weicht im letzten Moment unter einem fallenden Bogen aus und schlängelt sich dann in einer fließenden Bewegung durch hängende Wäscheleinen und offene Fenster. Die Kamera huscht durch dieselben Öffnungen und bleibt der Bewegung treu. Eine letzte Biegung und plötzliche Ruhe: Die Kamera schießt nach außen und enthüllt die Stadt, die sich zu einem grenzenlosen, von Wasserfällen gespeisten Tal öffnet, wobei sich der Nebel in einen Regenbogen verwandelt.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Verfolgungsjagd durch eine Klippenstadt (Ein einziger, durchgehender Shot)">
+</a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=393)**
+
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Umesh](https://x.com/umesh_ai)
+- **Quelle:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
+- **Veröffentlicht:** February 14, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=393)**
+
+---
+
+### No. 6: Bollywood-Tanz: Distracted-Boyfriend-Meme-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Beschreibung
+
+Ein Prompt für Seedance 2.0, der die KI anweist, den Bollywood-Tanzstil im Kontext des „Distracted Boyfriend“-Memes zusammenzufassen, mit einem humorvollen und aufmerksamkeitsstarken Ton.
+
+#### 📝 Prompt
+
+```
+Fasse den Bollywood-Tanz im Meme „Distracted Boyfriend“ zusammen – stelle sicher, dass es bescheuert ist und 50 Likes bekommt.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood-Tanz: Distracted-Boyfriend-Meme-Prompt">
+</a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=379)**
+
+</div>
+
+#### 📌 Details
+
+- **Autor:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple)
+- **Quelle:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
+- **Veröffentlicht:** February 14, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=379)**
+
+---
+
+---
+
 ## 🎬 Alle Prompts
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
@@ -2921,6 +3025,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-03-03T03:41:21.180Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-03-03T03:50:42.495Z</sub>
 
 </div>
