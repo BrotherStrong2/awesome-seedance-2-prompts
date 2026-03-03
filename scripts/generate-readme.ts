@@ -27,7 +27,7 @@ async function main() {
 
   // Download videos: auto (incremental) or force (all)
   if (downloadVideosMode === 'true' || downloadVideosMode === 'auto') {
-    const prompts = await fetchSeedancePrompts('en');
+    const { prompts } = await fetchSeedancePrompts('en');
 
     // In auto mode, only download videos for prompts not yet in video-urls.json
     const promptsToProcess = downloadVideosMode === 'auto'
@@ -53,11 +53,11 @@ async function main() {
     console.log(`\n🌐 Processing language: ${lang.name} (${lang.code})...`);
 
     console.log(`  📥 Fetching Seedance 2.0 prompts (locale: ${lang.code})...`);
-    const prompts = await fetchSeedancePrompts(lang.code);
-    console.log(`  ✅ Got ${prompts.length} prompts with thumbnails`);
+    const { prompts, totalDocs } = await fetchSeedancePrompts(lang.code);
+    console.log(`  ✅ Got ${prompts.length} prompts with thumbnails (total in CMS: ${totalDocs}, featured: ${prompts.filter(p => p.featured).length})`);
 
     console.log(`  📝 Generating ${lang.readmeFileName}...`);
-    const readme = generateReadme(prompts, lang.code, videoUrls);
+    const readme = generateReadme(prompts, lang.code, videoUrls, totalDocs);
     const outPath = resolve(ROOT, lang.readmeFileName);
     writeFileSync(outPath, readme, 'utf-8');
     console.log(`  ✅ ${lang.readmeFileName} written (${(readme.length / 1024).toFixed(1)} KB)`);

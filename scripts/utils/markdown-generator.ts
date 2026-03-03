@@ -56,7 +56,7 @@ function formatDate(iso?: string): string {
  */
 export type VideoUrlMap = Record<string, string>;
 
-export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en', videoUrls: VideoUrlMap = {}): string {
+export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en', videoUrls: VideoUrlMap = {}, totalDocs?: number): string {
   const now = new Date().toISOString().split('T')[0];
   const localePrefix = getLocalePrefix(locale);
   const galleryUrl = `https://youmind.com/${localePrefix}/seedance-2-0-prompts`;
@@ -152,7 +152,7 @@ ${t('whatIsIntro', locale)}
 
 | ${t('metric', locale)} | ${t('count', locale)} |
 |--------|-------|
-| 📝 ${t('totalPrompts', locale)} | **${prompts.length}** |
+| 📝 ${t('totalPrompts', locale)} | **${totalDocs ?? prompts.length}** |
 | ⭐ ${t('featuredPrompts', locale)} | **${featured.length}** |
 | 🔄 ${t('lastUpdated', locale)} | **${now}** |
 
