@@ -209,9 +209,11 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Fetch
   // --- 2. Fetch all featured prompts separately (they may be older than limit:200) ---
   const featuredQuery = stringify({
     where: { model: { equals: 'seedance-2.0' }, featured: { equals: true } },
-    sort: 'sort',
+    sort: 'sort',          // sort by the CMS 'sort' field (asc = hand-curated order)
     limit: 100,
-    ...SHARED_QUERY_PARAMS(locale),
+    depth: 2,
+    locale,
+    select: { sourceMeta: false, raw: false },
   }, { addQueryPrefix: true });
 
   const featuredUrl = `${CMS_HOST}/api/video-prompts${featuredQuery}`;

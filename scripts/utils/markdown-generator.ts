@@ -162,14 +162,15 @@ ${t('whatIsIntro', locale)}
 
   // Featured section
   if (featured.length > 0) {
-    md += `## ⭐ ${t('featuredPrompts', locale)}
+    md += `## 🔥 ${t('featuredPrompts', locale)}
 
-> ${t('featuredDesc', locale)}
+> ⭐ ${t('featuredDesc', locale)}
 
 `;
-    for (const p of featured) {
-      md += generatePromptBlock(p, locale, galleryUrl, true, videoUrls);
-    }
+    featured.forEach((p, i) => {
+      md += generateFeaturedPromptBlock(p, i + 1, locale, galleryUrl, videoUrls);
+    });
+    md += `---\n\n`;
   }
 
   // Regular prompts
@@ -266,6 +267,68 @@ ${t('licensedUnder', locale)}
 
 </div>
 `;
+
+  return md;
+}
+
+/**
+ * Featured prompt card — rich layout matching nano-banana-pro style.
+ * Uses numbered heading, dedicated Description / Prompt / Video / Details sections,
+ * and center-aligned media.
+ */
+function generateFeaturedPromptBlock(
+  p: import('./cms-client.js').ProcessedPrompt,
+  index: number,
+  locale: string,
+  galleryUrl: string,
+  videoUrls: VideoUrlMap = {},
+): string {
+  const langBadge = LANG_BADGES[p.language] || `![${p.language}](https://img.shields.io/badge/lang-${p.language}-grey)`;
+  const authorLink = p.author?.link || '#';
+  const authorName = p.author?.name || 'Unknown';
+  const publishedDate = p.sourcePublishedAt
+    ? new Date(p.sourcePublishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+    : 'N/A';
+  const promptContent = p.translatedContent || p.content;
+  const displayImage = p.referenceImages?.[0] || p.mediaImages?.[0] || p.thumbnail;
+  const tryLink = `${galleryUrl}?id=${p.id}`;
+  const videoUrl = videoUrls[String(p.id)];
+  const watchVideoLink = `**[${t('watchVideo', locale)}](${tryLink})**`;
+
+  let md = `### No. ${index}: ${p.title}\n\n`;
+  md += `${langBadge}\n`;
+  md += `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n\n`;
+
+  if (p.description) {
+    md += `#### 📖 ${t('description', locale)}\n\n${p.description}\n\n`;
+  }
+
+  md += `#### 📝 ${t('prompt', locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
+
+  // Video / thumbnail embed (center-aligned)
+  md += `#### 🎬 ${t('video', locale)}\n\n`;
+  md += `<div align="center">\n\n`;
+  if (videoUrl && videoUrl.includes('user-attachments/assets/')) {
+    md += `${videoUrl}\n\n`;
+    md += `${watchVideoLink}\n\n`;
+  } else if (videoUrl && displayImage) {
+    md += `<a href="${videoUrl}">\n`;
+    md += `<img src="${displayImage}" width="700" alt="${p.title}">\n`;
+    md += `</a>\n\n`;
+    md += `📥 *${t('clickToPlay', locale)}* | ${watchVideoLink}\n\n`;
+  } else {
+    md += `<img src="${displayImage}" width="700" alt="${p.title}">\n\n`;
+    md += `${watchVideoLink}\n\n`;
+  }
+  md += `</div>\n\n`;
+
+  md += `#### 📌 ${t('details', locale)}\n\n`;
+  md += `- **${t('author', locale)}:** [${authorName}](${authorLink})\n`;
+  if (p.sourceLink) md += `- **${t('source', locale)}:** [Twitter Post](${p.sourceLink})\n`;
+  md += `- **${t('published', locale)}:** ${publishedDate}\n\n`;
+
+  md += `**[👉 ${t('tryItNow', locale)}](${tryLink})**\n\n`;
+  md += `---\n\n`;
 
   return md;
 }
