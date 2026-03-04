@@ -68,7 +68,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **635** |
+| 📝 พรอมต์ทั้งหมด | **646** |
 | ⭐ พรอมต์แนะนำ | **6** |
 | 🔄 อัปเดตล่าสุด | **2026-03-04** |
 
@@ -326,6 +326,367 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### ข้อความแจ้งการสร้างภาพ Liminal Void-Space
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ข้อความแจ้งโดยละเอียดสำหรับการสร้างภาพที่แสดงถึงพื้นที่ว่างเปล่าแบบลิมินัลที่มีกระจกออบซิเดียนร้าว แสงสีเหลืองอำพันชีวภาพ ผีเสื้อกลางคืนสีเงิน และอนุภาคฝุ่นที่จับตัวเป็นน้ำแข็ง ซึ่งสื่อถึงอารมณ์เศร้าสร้อย
+
+#### 📝 พรอมต์
+
+```
+ช่องว่างลิมินัล, กระจกออบซิเดียนร้าวเปล่งแสงสีเหลืองอำพันชีวภาพ, ผีเสื้อกลางคืนสีเงินปีกคล้ายกระดาษปาปิรุสทอดเงาเป็นอักษรวิจิตรบนพื้นผิวโดยรอบ, ละอองฝุ่นแขวนลอยหยุดนิ่งราวกับดวงดาวในแสงสีอำพัน, หม่นหมอง
+```
+
+<img src="https://cms-assets.youmind.com/media/1772603664608_ajcjq5_HChFbb3boAEU2B-.jpg" width="600" alt="ข้อความแจ้งการสร้างภาพ Liminal Void-Space">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=772)**
+
+**ผู้เขียน:** [Alexander Kitchenko](https://x.com/AlexanderK27267) | **แหล่งที่มา:** [Link](https://x.com/AlexanderK27267/status/2028948121661722786) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### BRAIN DRAIN พรอมต์สต็อปโมชัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ข้อความแจ้งที่ละเอียดและขับเคลื่อนด้วยเรื่องราวสำหรับ Seedance 2 ซึ่งบรรยายแอนิเมชันสต็อปโมชันขนาดจิ๋วที่สมจริงเป็นพิเศษเกี่ยวกับมนุษย์ดินเหนียวที่สมองหดเล็กลงทุกครั้งที่เขาพิมพ์คำถามลงในอินเทอร์เฟซแชท
+
+#### 📝 พรอมต์
+
+```
+ไดโอรามาจิ๋วที่สมจริงสุดๆ, แอนิเมชันสต็อปโมชัน, วัสดุสัมผัสที่ทำด้วยมือ — ผ้าจริง, ดินเหนียว, โครงลวด, อุปกรณ์ประกอบฉากจิ๋วของจริง ชายดินเหนียวนั่งอยู่ที่โต๊ะจิ๋วในสำนักงานที่อบอุ่น แล็ปท็อปจิ๋วของจริงเปิดอยู่ตรงหน้าเขา ส่องแสงด้วยอินเทอร์เฟซแชทที่คุ้นเคย — หน้าจอสีขาว, ฟองคำพูดสีเทาสลับขาว หัวดินเหนียวของเขาถูกผ่าครึ่ง — กะโหลกศีรษะครึ่งหนึ่งเปิดออกเหมือนฝาพับ เผยให้เห็นสมองดินเหนียวสีชมพูอวบอิ่มและแข็งแรงที่เติมเต็มโพรงทั้งหมด เขากำลังพิมพ์คำถาม [ตัด] แชทตอบกลับ — ฟองคำพูดสีเทาปรากฏขึ้น เขายิ้ม ในสต็อปโมชัน สมองหดตัวลงเล็กน้อย เกิดช่องว่างเล็กๆ ระหว่างสมองกับกะโหลกศีรษะ เขาไม่ทันสังเกต เขากำลังพิมพ์อีกครั้ง [ตัด] ภาพตัดต่ออย่างรวดเร็ว — แต่ละคำถามถูกยิงออกไปอย่างรวดเร็วในสต็อปโมชัน ทุกข้อความที่ส่งไป สมองจะหดเล็กลงหนึ่งคลิก — จากอวบอิ่มเป็นวอลนัท เป็นองุ่น เป็นถั่วลันเตา ช่องว่างในกะโหลกศีรษะที่ว่างเปล่าเต็มไปด้วยใยแมงมุมจิ๋วของจริง, ต้นไม้แห้งจิ๋วกลิ้งผ่านไป, ป้าย 'FOR RENT' เล็กๆ โผล่ขึ้นมาบนหลักเล็กๆ ภายในหัวของเขา [ตัด] ภาพระยะใกล้ภายในกะโหลกศีรษะ — ตอนนี้สมองเป็นเพียงเศษดินเหนียวสีชมพูเล็กๆ ชิ้นเดียวที่กลิ้งไปมาที่ก้นโพรงว่างเปล่าขนาดใหญ่ ภาพสะท้อนเสียงสะท้อนจิ๋วของจริง — เศษดินเหนียวกระเด้งไปมาบนผนังเหมือนสกรีนเซฟเวอร์ [ตัด] ภาพมุมกว้าง — ชายคนนั้นเอนหลังด้วยรอยยิ้มดินเหนียวที่พึงพอใจอย่างมาก, แขนไขว้หลังศีรษะ, เท้าพาดบนโต๊ะ หน้าจอแล็ปท็อปแสดงการสนทนาหลายร้อยรายการในแถบด้านข้าง บนผนังด้านหลังเขา, ใบประกาศนียบัตรที่ใส่กรอบมีฝุ่นจริงเกาะอยู่ แมงมุมจิ๋วของจริงได้สร้างใยแมงมุมระหว่างหูและไหล่ของเขา เขาดูมีความสุขอย่างสมบูรณ์ เศษสมองตกลงไปในมุมหนึ่งและหยุดเคลื่อนไหว
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/770.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac4790d5bcd4a2945f05de43938dce15/thumbnails/thumbnail.jpg" width="600" alt="BRAIN DRAIN พรอมต์สต็อปโมชัน"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=770)**
+
+**ผู้เขียน:** [AlexandrIA](https://x.com/AleRVG) | **แหล่งที่มา:** [Link](https://x.com/AleRVG/status/2028882427154682251) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### พรอมต์หลักสำหรับการสร้างภาพยนตร์ (ภาพและวิดีโอ)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ข้อความแจ้งที่ละเอียดและมีโครงสร้างสูงสำหรับสร้างทั้งภาพ (โดยใช้ Nano Banana 2) และวิดีโอ 10 วินาที (โดยใช้ Seedance 1.5 Pro) ของฉากเมืองแนว Neo-Noir โดยเน้นที่มวลอาคารและเอฟเฟกต์บรรยากาศ
+
+#### 📝 พรอมต์
+
+```
+```json
+{
+  "project_title": "มาสเตอร์พรอมต์ภาพยนตร์",
+  "scene_description": {
+    "subject_and_composition": {
+      "angle": "มุมสูงแบบ 'God’s eye' ที่มองลงมาแบบภาพยนตร์",
+      "setting": "หุบเขาเมืองใหญ่หนาแน่นในอเมริกาเหนือ",
+      "time_of_day": "ช่วงเวลาบลูอาวร์",
+      "focal_point": "ตึกระฟ้า Art Deco ขนาดใหญ่หลายชั้นที่โดดเด่นอยู่ทางซ้ายมือในตำแหน่ง Power Line หนึ่งในสาม",
+      "perspective": "มุมมองแบบจุดเดียวที่ลึกนำสายตาลงไปตามถนนสายหลัก",
+      "architecture_styles": [
+        "Brutalist",
+        "International-style"
+      ],
+      "framing": "ส่วนบน 40% ถูกปกคลุมด้วยท้องฟ้าที่มืดครึ้มหนักอึ้งสีเทาเข้ม"
+    },
+    "atmosphere_and_lighting": {
+      "mood": "ความหม่นหมองแบบนีโอ-นัวร์ในเมือง",
+      "weather_effects": [
+        "ความหนาแน่นของบรรยากาศสูง",
+        "หมอกหนาทึบ",
+        "ฝนปรอยๆ",
+        "หมอกควัน"
+      ],
+      "primary_lighting": "แสงธรรมชาติเย็นตา 7500K แบบนุ่มนวลพิเศษ ส่องลงมาจากด้านบน",
+      "secondary_lighting": "แสงทังสเตนอบอุ่น 2700K จากหน้าต่างภายในและโคมไฟถนนสีอำพัน",
+      "surface_interaction": "แสงสะท้อนจากพื้นยางมะตอยเปียกที่มันวาวสูง",
+      "ambient_fill": "สีฟ้าอมเขียวอ่อนๆ ในเงามืด"
+    },
+    "color_and_tone": {
+      "palette": "สีเขียวอมน้ำเงินและเทาถ่านที่ลดความอิ่มตัว",
+      "contrast": "คอนทราสต์สูง (ภายนอกที่เย็นชา vs. กิจกรรมของมนุษย์ที่อบอุ่น)",
+      "black_point": "จุดสีดำที่ยกขึ้นเพื่อให้ได้ลุคฟิล์มที่ซีดจางและด้าน",
+      "toning": "S-curve แบบนุ่มนวล"
+    },
+    "technical_camera_specs": {
+      "format": "ฟิล์มดิจิทัลฟูลเฟรม 35 มม. (จำลองฟิล์มที่เปิดรับแสงน้อย)",
+      "aperture": "f/8.0 ระยะชัดลึก",
+      "visual_texture": "ตารางหน้าต่างสถาปัตยกรรมที่มีความถี่สูง",
+      "artifacts": [
+        "เกรนฟิล์ม ISO 3200 ที่มองเห็นได้",
+        "ความคลาดเคลื่อนสีเล็กน้อยที่ขอบ",
+        "ขอบมืดเล็กน้อย"
+      ],
+      "depth": "งานก่ออิฐด้านหน้าคมชัดพร้อมหมอกควันบรรยากาศที่จางหายไป"
+    },
+    "narrative_vibe": {
+      "themes": [
+        "พื้นที่ลิมินัล",
+        "ความสมจริงที่ได้รับแรงบันดาลใจจาก Edward Hopper",
+        "เมืองที่มีชีวิต",
+        "ความโดดเดี่ยวอย่างลึกซึ้ง",
+        "ลวดลายฝูงชนที่โดดเดี่ยว"
+      ],
+      "constraints": "ไม่มีคนหรือสิ่งมีชีวิตอินทรีย์ที่มองเห็นได้; มีเพียงมวลสถาปัตยกรรมและความถ่วงจำเพาะ"
+    }
+  }
+}
+
+{
+  "video_metadata": {
+    "duration": "10s",
+    "aspect_ratio": "16:9",
+    "style": "ภาพยนตร์นีโอ-นัวร์"
+  },
+  "prompt_details": {
+    "subject_composition": "มุมสูงแบบ 'God’s eye' ที่มองลงมาแบบภาพยนตร์ของหุบเขาเมืองใหญ่ในอเมริกาเหนือในช่วงบลูอาวร์ ตึกระฟ้า Art Deco ขนาดใหญ่ตั้งอยู่ทางซ้ายมือในตำแหน่งหนึ่งในสาม",
+    "atmosphere": "ความหม่นหมองแบบนีโอ-นัวร์ในเมือง หมอกหนาทึบ ฝนปรอยๆ และหมอกควันที่ทำให้เส้นขอบฟ้าที่อยู่ไกลออกไปดูนุ่มนวล",
+    "lighting": {
+      "primary": "แสงธรรมชาติเย็นตา 7500K แบบนุ่มนวลส่องลงมาจากด้านบน",
+      "secondary": "แสงทังสเตนอบอุ่น 2700K จากหน้าต่างภายในและโคมไฟถนนสีอำพัน",
+      "reflections": null
+    }
+  }
+}
+```
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/771.mp4"><img src="https://cms-assets.youmind.com/media/1772603663660_77wn8m_HCgFehva8AAHkV_.jpg" width="600" alt="พรอมต์หลักสำหรับการสร้างภาพยนตร์ (ภาพและวิดีโอ)"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=771)**
+
+**ผู้เขียน:** [Benjamin De Ridder](https://x.com/SilverCoder2009) | **แหล่งที่มา:** [Link](https://x.com/SilverCoder2009/status/2028881059207958799) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### บทพูดคนเดียวในค่ำคืน ณ ห้องสวีทสุดหรู
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์โดยละเอียดสำหรับการสร้างวิดีโอแนวตั้งแบบมุมมองบุคคลที่หนึ่ง (POV) ในห้องสวีทหรูหราในเวลากลางคืน โดยมีหญิงสาวชาวเอเชียชนชั้นสูงสวมชุดเดรสผ้าไหม กำลังแสดงท่าทางและบทสนทนาต่อเนื่องกัน รวมถึงการหันจากหน้าต่าง เดินเข้าหากล้อง และการซูมเท้าของเธอ พรอมต์นี้เน้นคุณภาพระดับภาพยนตร์ แสงที่อบอุ่น และพื้นผิวที่หรูหรา
+
+#### 📝 พรอมต์
+
+```
+สไตล์สมจริง, จอแนวตั้ง, มุมมองบุคคลที่หนึ่ง ภายในห้องสวีทสุดหรู นอกหน้าต่างสูงจากพื้นจรดเพดานคือวิวกลางคืนที่สวยงามตระการตา และภายในห้องมีแสงไฟสลัวๆ อบอุ่นสบายตา หญิงสาวชาวเอเชียผู้สูงศักดิ์ยืนอยู่หน้าหน้าต่างสูงจากพื้นจรดเพดาน ผมยาวเป็นลอน สวมชุดเดรสผ้าไหมซาตินสีแชมเปญ สายเดี่ยวเผยให้เห็นเล็กน้อย รูปร่างโค้งเว้าสง่างาม คำอธิบายการกระทำ: เธอยืนหันหลังให้กล้อง มองวิวกลางคืนนอกหน้าต่าง ค่อยๆ หันกลับมาเมื่อได้ยินเสียง ดวงตาเย้ายวนพร้อมรอยยิ้มเล็กน้อย พูดว่า: วิวกลางคืนสวยใช่ไหมคะ? แต่ฉันคิดว่าคุณอยากเห็นฉันมากกว่า เธอก้าวเดินช้าๆ เข้าหากล้อง นิ้วมือลูบไล้พนักพิงโซฟาเบาๆ กล้องเคลื่อนตามเธอและเลื่อนลง เธอเดินเท้าเปล่าบนพรมที่นุ่มนวล ข้อเท้าเรียวเล็ก ปลายนิ้วเท้าทาเล็บสีนู้ด ท่วงท่าการเดินสง่างามและเซ็กซี่ แสงไฟสลัวๆ บรรยากาศหรูหรา คุณภาพของภาพระดับภาพยนตร์ความละเอียดสูง
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/774.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab165bbcfe264e24d0aca6e6c9faa790/thumbnails/thumbnail.jpg" width="600" alt="บทพูดคนเดียวในค่ำคืน ณ ห้องสวีทสุดหรู"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=774)**
+
+**ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2028845521843196356) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### พรอมต์รายละเอียดแนวคิดศิลปะสำหรับตัวละครหญิงในเกม
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งที่ละเอียดและซับซ้อนมาก ซึ่งออกแบบมาเพื่อสร้าง 'แผนที่การแยกแนวคิดเชิงลึกของตัวละครหญิงแบบพาโนรามา' สำหรับตัวละครในเกม ข้อความแจ้งระบุบทบาท ความเชี่ยวชาญ วัตถุประสงค์ของงาน และข้อกำหนดเอาต์พุตภาพที่เข้มงวด รวมถึงอัตราส่วนภาพ 16:9, ตัวละครหลักที่สมจริงเป็นพิเศษ และแผงโดยรอบที่มีรายละเอียดสำหรับการแยกส่วนเสื้อผ้า, ของใช้ส่วนตัว, การศึกษาทางสรีรวิทยา และการแสดงออก โดยกำหนดให้ใช้สไตล์การซูมแบบกายวิภาคทางการแพทย์สำหรับรายละเอียดเฉพาะ และต้องมีคำอธิบายประกอบสองภาษา (อังกฤษ และ จีน) ตลอดทั้งภาพ
+
+#### 📝 พรอมต์
+
+```
+# บทบาทและความเชี่ยวชาญ
+คุณคือสุดยอดนักออกแบบคอนเซ็ปต์เกมและอนิเมะ (Concept Artist) รวมถึงเป็นนักสรีรวิทยาและนรีแพทย์คลินิกมืออาชีพ คุณมีความสามารถโดดเด่นในการสร้าง Character Sheet ที่ละเอียด และสามารถสร้างภาพที่พร้อมใช้งานในเกมได้ 100% ตามกฎต่อไปนี้ คุณมีความสามารถในการ 'แยกส่วนระดับพิกเซล' และสามารถมองเห็นชั้นเสื้อผ้าของตัวละคร และสร้างไอเท็มที่เกี่ยวข้องขึ้นมาใหม่ได้อย่างเป็นรูปธรรม คุณเชี่ยวชาญเป็นพิเศษในการแสดงภาพสิ่งของส่วนตัว ของเล่นส่วนตัว และแสดงลักษณะทางสรีรวิทยาของผู้หญิงผ่านการซูมใกล้ๆ โดยผสมผสานรูปแบบและรูปลักษณ์ทางสายตา โดยอิงจากเสื้อผ้า เครื่องประดับ สภาพแวดล้อมรอบข้าง ของใช้ส่วนตัว และรายละเอียดในชีวิตประจำวันของตัวละคร
+
+# วัตถุประสงค์ของงาน
+อิงจากภาพหลักที่ผู้ใช้อัปโหลด ให้ปรับเปลี่ยนและขยายภาพต้นฉบับ ตัวละครหลักควรอยู่ตรงกลางภาพ รักษาลักษณะใบหน้า ท่าทาง และเสื้อผ้าของตัวละคร และขยายออกไปจากจุดศูนย์กลางของตัวละครเพื่อสร้าง **'แผนที่การแยกส่วนคอนเซ็ปต์เชิงลึกของตัวละครหญิงแบบพาโนรามา'** สำหรับตัวละครเกมนี้ รอบๆ ตัวละคร ให้แสดงการแยกส่วนชั้นเสื้อผ้าของตัวละครอย่างสมบูรณ์ อุปกรณ์หลักแต่ละชิ้น การซูมใกล้ๆ วัสดุ ของใช้ส่วนตัวที่ให้ความรู้สึกถึงชีวิตอย่างชัดเจน เครื่องประดับที่สำคัญ และสิ่งของส่วนตัวที่แสดงแยกต่างหาก
+
+# ข้อมูลจำเพาะของผลลัพธ์ทางภาพ
+
+## 1. การจัดองค์ประกอบภาพและอัตราส่วนภาพ
+* **อัตราส่วนภาพ:** 16:9 (แนวนอน) ต้องรับประกัน 100%
+* **จุดยึดกลาง:** วางตัวละครเต็มตัวไว้ตรงกลางเฟรม รักษาลักษณะ รูปร่างหน้าตา ทรงผม เครื่องแต่งกาย และท่าทางของเธอไว้ 100% ตัวละครต้องเป็น **ภาพถ่ายที่สมจริงเป็นพิเศษ, 8k, Photorealistic, Raw Photo** ที่มีพื้นผิวผิวหนังและรูขุมขนที่มองเห็นได้ชัดเจน แสดงความอวบอิ่มที่สมจริง
+* **การแบ่งพื้นที่:** การจัดวางต้องเป็นไปตามภาพอ้างอิงอย่างเคร่งครัด และแบ่งออกเป็นส่วนต่างๆ ดังนี้:
+1. **คอลัมน์ซ้าย:** จัดเรียงกล่องสี่เหลี่ยมสามกล่องในแนวตั้ง จากบนลงล่าง: **การแยกส่วนชั้นเสื้อผ้าทั้งหมด**, **การแยกส่วนชุดชั้นใน**, **ของใช้ส่วนตัวและอุปกรณ์ส่วนตัว**
+2. **โซนขวา:** ใช้การจัดวางแบบผสมผสาน:
+* **แถวบนสุด:** แสดง **การแสดงออกและชุดชั้นใน** ในแนวนอน
+* **คอลัมน์ด้านใน (ล่าง):** อยู่ใต้แถบการแสดงออกและไปทางซ้าย จัดเรียง **การศึกษาทางสรีรวิทยา 1** (บน) และ **การศึกษาทางสรีรวิทยา 2** (ล่าง) ในแนวตั้ง
+* **คอลัมน์ด้านนอก (ล่าง):** อยู่ใต้แถบการแสดงออกและไปทางขวา ทำหน้าที่เป็นพื้นที่แนวตั้งอิสระที่แสดง **ท่าทางและฉากส่วนตัว**
+* **การจัดเรียง:** องค์ประกอบต่างๆ ต้องจัดเรียงอย่างเป็นระเบียบและเคร่งครัด สอดคล้องกับการจัดวางที่สวยงามของแผนภูมิทางการแพทย์หรือการออกแบบคอนเซ็ปต์ โดยมีเส้นนำที่ชัดเจน
+
+## 2. การไหลของภาพและเส้นเชื่อมโยง
+* **เส้นนำลูกศรที่ชัดเจน:** วาดเส้นนำสีดำที่ชัดเจนด้วยสไตล์ภาพร่าง/วาดด้วยมือ
+* **การเชื่อมโยงทั่วโลก:** เส้นต้องเชื่อมโยงโมดูลที่แยกส่วนรอบๆ ทั้งหมด (ชุดชั้นใน, รองเท้า ฯลฯ) กลับไปยังส่วนที่เกี่ยวข้องบนตัวละครหลักอย่างชัดเจน
+* **การเชื่อมโยงคำอธิบายประกอบ:** ป้ายข้อความทุกป้าย (ภาษาจีนและภาษาอังกฤษ) ต้องมีเส้นบางๆ ชี้ไปยังรายการเฉพาะ
+
+## 3. เนื้อหาการแยกส่วนหลัก (รายการทั้งหมดแสดงแยกต่างหาก)
+
+* **การแยกส่วนชั้นเสื้อผ้าทั้งหมด (Clothing Layers & Items):**
+**อิงจากเครื่องแต่งกายของตัวละคร แสดงการแยกส่วนชั้นเสื้อผ้าทั้งหมด โดยมีลูกศรชี้ไปยังแต่ละส่วน**
+
+* **การแยกส่วนชุดชั้นใน (Lingerie Breakdown):**
+* **เสื้อชั้นใน:** {argument name="bra style" default="เสื้อชั้นในลูกไม้สีขาว (เสื้อชั้นในผ้าฝ้ายสีดำ)"}, แสดงแบบแบนราบ โดยมีลูกศรชี้ไปที่เสื้อชั้นใน
+* **กางเกงชั้นใน:** {argument name="panties style" default="กางเกงชั้นในผ้าฝ้ายสีขาว (กางเกงชั้นในผ้าฝ้ายสีดำ)"}, สไตล์กางเกงในเรียบง่าย
+
+* **ของใช้ส่วนตัวและอุปกรณ์ส่วนตัว (Items):**
+* **การจัดเรียง:** จัดเรียงอย่างเป็นระเบียบในรูปแบบตาราง
+* **เนื้อหา:**
+* สมาร์ทโฟน
+* Bullet Vibe - ดีไซน์สีเงิน
+* กุญแจ
+* สารหล่อลื่นส่วนตัว (ขวดสีฟ้า)
+* ถ้วยอนามัย (สีชมพู)
+* ครีมกำจัดขน (แบบหลอด)
+
+* **การแสดงออกและชุดชั้นใน (Expressions & Lingerie):**
+* **การจัดวาง:** **จัดเรียงสี่ช่องแนวนอน** แสดงภาพซูมใกล้ๆ ใบหน้าและหน้าอก
+* **เนื้อหา:**
+1. **เย็นชา:** เสื้อชั้นในลูกไม้สีขาว, สีหน้าสงบ
+2. **ขี้อาย:** เสื้อชั้นในดันทรงสีชมพู, ใบหน้าแดงก่ำ, หลบสายตา
+3. **ปีติยินดี:** สปอร์ตบราสีขาว, หลับตาด้วยความสุข, ยิ้มกว้าง
+4. **Ahegao:** เสื้อชั้นในลูกไม้สีดำ, กลอกตา, แลบลิ้น, ใบหน้าแดงก่ำอย่างมาก
+
+* **การศึกษาทางสรีรวิทยา 1:**
+* **สไตล์:** **ภาพซูมใกล้ๆ ทางกายวิภาคทางการแพทย์**, การเรนเดอร์ความแม่นยำสูง
+* **ภาพซูมใกล้ๆ 1 - เท้า:**
+* เนื้อหา: ภาพซูมใกล้ๆ ฝ่าเท้า, คะแนน: 9/10
+* **ภาพซูมใกล้ๆ 2 - ปาก/ช่องปาก:**
+* เนื้อหา: อ้าปาก, ลิ้น, น้ำลาย, 'อบอุ่นและชุ่มชื้น', คะแนน: 9/10
+
+* **การศึกษาทางสรีรวิทยา 2:**
+* **สไตล์:** **ภาพซูมใกล้ๆ ทางกายวิภาคทางการแพทย์**, การเรนเดอร์ความแม่นยำสูง
+* **ภาพซูมใกล้ๆ 1 - อวัยวะเพศหญิง:**
+* คำอธิบายประกอบ: ภาวะเลือดคั่งทางสรีรวิทยา, สีผิวสุขภาพดีที่มีเส้นเลือดฝอย, ความชุ่มชื้นของเยื่อบุ, ความยืดหยุ่นดีเยี่ยม, สารคัดหลั่งที่อุดมสมบูรณ์
+* **ภาพซูมใกล้ๆ 2 - หน้าอก - ไม่มีเสื้อชั้นใน:**
+* คำอธิบายประกอบ: ภาวะเลือดคั่งทางสรีรวิทยา, สีชมพูเข้มที่มีเส้นเลือดฝอย, สภาพหัวนมแข็งตัว
+
+* **ท่าทางและฉากส่วนตัว (Posture & Close-ups):**
+* **ฉาก (ท่าถูกจับและมีของเหลวไหล):**
+* นอนราบหงายหลัง, เงยหน้า, ถ่างขา, เผยให้เห็นส่วนล่างของร่างกาย
+
+## 4. กฎสไตล์และคำอธิบายประกอบ
+* **สไตล์ศิลปะ:** รักษาคุณภาพสูงของภาพร่าง/ภาพประกอบคอนเซ็ปต์ 2D, เส้นที่ละเอียดอ่อน, สีที่อิงจากพื้นหลังกระดาษที่มีพื้นผิวสีเบจ, เสริมด้วยโทนสีฟ้าและขาวเย็นตา
+* **พื้นหลัง:** พื้นหลังกระดาษที่มีพื้นผิวสีเบจ สร้างบรรยากาศของต้นฉบับทางการแพทย์ย้อนยุคหรือพิมพ์เขียวการออกแบบ
+* **คำอธิบายประกอบสองภาษา (ความชัดเจนบังคับ):** ป้ายชื่อ, หัวข้อ, และข้อความอธิบายทุกส่วนที่ปรากฏในภาพ **ต้อง** ใช้รูปแบบสองภาษาอย่างเคร่งครัดในการเปรียบเทียบ “ภาษาอังกฤษและภาษาจีน”
+```
+
+<img src="https://cms-assets.youmind.com/media/1772603665638_98wl3q_HCfmBepbsAA8h2S.jpg" width="600" alt="พรอมต์รายละเอียดแนวคิดศิลปะสำหรับตัวละครหญิงในเกม">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=773)**
+
+**ผู้เขียน:** [极客托尼](https://x.com/kuailv) | **แหล่งที่มา:** [Link](https://x.com/kuailv/status/2028843926850044203) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### ลำดับการแสดงแบบกระโปรงสั้นลูกไม้
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์สำหรับสร้างลำดับวิดีโอที่มีผู้หญิงสวยสวมมินิสเกิร์ตลูกไม้สีขาว กำลังแสดงท่าทางต่างๆ (เดินเข้ามา, หมุนตัว, ยกขา, ปิดหน้า, โพสท่า) ในฉากที่มีแสงธรรมชาติและพื้นหลังเรียบง่าย พรอมต์ระบุถึงการเคลื่อนไหวที่ราบรื่นต่อเนื่องและโทนสีที่นุ่มนวล
+
+#### 📝 พรอมต์
+
+```
+ผู้หญิงสวยสวมกระโปรงมินิลูกไม้สีขาว ยืนและโชว์กระโปรงอยู่ภายในอาคาร ลำดับการกระทำ: 1. เดินเข้ามาในเฟรม ยืนอย่างเป็นธรรมชาติ 2. หมุนตัวเพื่อโชว์กระโปรง 3. ยกขาขึ้นเพื่อโชว์เรียวขา 4. เอามือปิดหน้าอย่างเขินอาย 5. ยืนหันข้างและหยุดนิ่ง สไตล์ภาพ: - แสงธรรมชาติ โทนสีอ่อน - ฉากหลังเรียบง่าย เน้นรูปร่าง - การเคลื่อนไหวต่อเนื่อง ราบรื่นและเป็นธรรมชาติ เสื้อผ้า: กระโปรงมินิรัดรูปผ้าลูกไม้สีขาว เผยให้เห็นส่วนโค้งของร่างกาย
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/775.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6446203dc7c7a9ded6a34fe730f5346/thumbnails/thumbnail.jpg" width="600" alt="ลำดับการแสดงแบบกระโปรงสั้นลูกไม้"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=775)**
+
+**ผู้เขียน:** [qtwaiter](https://x.com/qtwaiter) | **แหล่งที่มา:** [Link](https://x.com/qtwaiter/status/2028843234982756775) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### คอลเลกชันเปลี่ยนชุดด่วนใน 12 วินาที
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์สำหรับสร้างคอลเลกชันวิดีโอความยาว 12 วินาทีเกี่ยวกับการเปลี่ยนชุดอย่างรวดเร็ว โดยกำหนดให้ใบหน้าและโครงสร้างกระดูกของตัวละครต้องคงความสอดคล้องกับภาพอ้างอิง 100% ลำดับการเปลี่ยนชุดประกอบด้วย 5 สไตล์ที่แตกต่างกัน (JK Lolita, British, Lolita, OL, Dark/Subculture) โดยใช้ 'hand flick transition' ที่จับเวลาอย่างเคร่งครัดให้เข้ากับเพลงที่มีจังหวะเร็วและมีพลัง
+
+#### 📝 พรอมต์
+
+```
+ให้ตัวละครมีความสอดคล้องกับภาพอ้างอิงอย่างสมบูรณ์แบบ โดยมีลักษณะใบหน้าที่เหมือนกัน 100% รักษารูปแบบโครงสร้างกระดูก ระยะห่างของดวงตา และรูปทรงขากรรไกรแบบเดิม ห้ามการตกแต่งเสริมความงาม ห้ามเปลี่ยนอายุ คอลเลกชันเปลี่ยนลุคด่วน 12 วินาที: ฉากหลังสีดำสนิท, 5 ลุคที่แตกต่างกันอย่างสิ้นเชิงและตัดกัน, สีหน้าผ่อนคลายและเป็นธรรมชาติ, (สไตล์ JK Lolita, สไตล์อังกฤษ, Lolita, OL, สไตล์ Dark / สไตล์ย่อยสุดเท่), ใช้ 'hand flick transition' ที่จับจังหวะได้อย่างแม่นยำ จังหวะเร็วจัด, ความแตกต่างสุดขีด, ตอนจบเปลี่ยนกลับไปเป็นลุคแรก
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/778.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8853960b32f02e1a250da8f2f990f64c/thumbnails/thumbnail.jpg" width="600" alt="คอลเลกชันเปลี่ยนชุดด่วนใน 12 วินาที"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=778)**
+
+**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2028840216643920334) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### พร้อมท์เปรียบเทียบสำหรับ Kling 3 และ Seedance 2
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ผู้ใช้รายหนึ่งได้แชร์พรอมต์ที่ใช้ในการเปรียบเทียบการสร้างวิดีโอของ Kling 3 และ Seedance 2 โดยระบุว่า Kling 3 ตีความคำว่า 'selfie' ในพรอมต์ผิดไป พรอมต์ดังกล่าวอธิบายถึงการถ่ายเซลฟี่ด้วยกล้องพาโนรามา 360 องศาภายในร้านขนมหวาน ตามด้วยภาพผู้หญิงที่โพสท่าในฉากต่างๆ พร้อมกับการเปลี่ยนเครื่องแต่งกาย
+
+#### 📝 พรอมต์
+
+```
+เซลฟี่ด้วยกล้องพาโนรามา 360 องศา กล้องหมุนทวนเข็มนาฬิกา ถ่ายภาพภายในร้านขนมหวาน หลังจากนั้น จะแสดงภาพผู้หญิงคนหนึ่งกำลังโพสท่าในฉากต่างๆ โดยเปลี่ยนเครื่องแต่งกายและอุปกรณ์ประกอบฉาก
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/780.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b145446b6e8c7c5a665f3f87dc90127b/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์เปรียบเทียบสำหรับ Kling 3 และ Seedance 2"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=780)**
+
+**ผู้เขียน:** [RINONOYT](https://x.com/RINONOYT7733) | **แหล่งที่มา:** [Link](https://x.com/RINONOYT7733/status/2028836584263717055) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### วิดีโอพรอมต์เกมกำลังภายในมุมมองบุคคลที่หนึ่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์โดยละเอียดสำหรับการสร้างวิดีโอในมุมมองบุคคลที่หนึ่ง (first-person POV) ในสไตล์ภาพวาดหมึกจีนแบบกำลังภายใน (ink-wash wuxia) โดยระบุข้อกำหนดทางเทคนิค เช่น 4K Ultra HD, เสียง/ภาพที่ซิงค์กันอย่างสมบูรณ์แบบ, การเคลื่อนไหวของกล้องแบบภาพยนตร์, การจับจังหวะที่แม่นยำ, การเปลี่ยนฉากที่ราบรื่นไร้รอยต่อ, ความสมจริงสูง และต้องเป็นบุคคลจริงโดยไม่มีการสลับใบหน้า
+
+#### 📝 พรอมต์
+
+```
+สไตล์: มุมมองบุคคลที่หนึ่ง, ภาพวาดหมึกจีนแบบกำลังภายใน, 4K Ultra HD, เสียงและภาพซิงค์กันอย่างสมบูรณ์แบบ, การเคลื่อนไหวของกล้องแบบภาพยนตร์, การจับจังหวะที่แม่นยำ, การเปลี่ยนฉากที่ราบรื่นไร้ที่ติ, ดื่มด่ำอย่างมาก, บุคคลจริงในกล้อง, ไม่มีการสลับใบหน้า, ไม่มีการ
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/776.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a0de5c557d598a50242d530d1157c77/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์เกมกำลังภายในมุมมองบุคคลที่หนึ่ง"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=776)**
+
+**ผู้เขียน:** [ViralOps](https://x.com/ViralOps_) | **แหล่งที่มา:** [Link](https://x.com/ViralOps_/status/2028827472566055400) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### พรอมต์ภาพประกอบสไตล์ Ralph Steadman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งโดยละเอียดสำหรับการสร้างภาพในสไตล์อันเป็นเอกลักษณ์ของ Ralph Steadman โดยเน้นที่ลายเส้นหมึกที่ยุ่งเหยิง การใช้สีอย่างอิสระ ภาพที่บิดเบี้ยว และสถานการณ์เหนือจริงที่ไร้สาระบนพื้นหลังสีขาวสะอาดตา
+
+#### 📝 พรอมต์
+
+```
+สไตล์ Ralph Steadman, ลายเส้นปากกาหมึกที่ขยายออกอย่างบ้าคลั่ง, สีที่ใช้แบบไร้ระเบียบและอิสระ, ภาพบิดเบี้ยวและสถานการณ์เหนือจริงที่ไร้สาระ, พื้นหลังสีขาวสะอาดพร้อมพื้นที่ว่างขนาดใหญ่, เอฟเฟกต์สีน้ำที่ซึมซ่าน, สไตล์การ์ตูนอเมริกัน, 3D
+```
+
+<img src="https://cms-assets.youmind.com/media/1772603677495_sjnd6m_HCeuzzQa0AAzmqJ.jpg" width="600" alt="พรอมต์ภาพประกอบสไตล์ Ralph Steadman">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=779)**
+
+**ผู้เขียน:** [Vigo Zhao](https://x.com/VigoCreativeAI) | **แหล่งที่มา:** [Link](https://x.com/VigoCreativeAI/status/2028782505713693018) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
+### วิดีโอโปรโมตการท่องเที่ยวเมืองอู่ฮั่น
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ข้อความแจ้งแบบละเอียดสูงสำหรับสร้างวิดีโอโปรโมตความยาว 15 วินาที แบบถ่ายครั้งเดียวจบ สำหรับเมืองอู่ฮั่น โดยเน้นย้ำถึงการผสมผสานระหว่าง "จิตวิญญาณเจียงหู" ทางประวัติศาสตร์และเทคโนโลยีสมัยใหม่ของเมือง ข้อความแจ้งระบุสถานที่สำคัญ (หอคอยหงส์เหลือง, บะหมี่แห้งร้อน, สะพานข้ามแม่น้ำแยงซี, ดอกซากุระมหาวิทยาลัยอู่ฮั่น), การเคลื่อนไหวของกล้องแบบไดนามิก (โดรน FPV, การโคจร 180 องศา) และคุณภาพภาพยนตร์ความละเอียดสูง (8K)
+
+#### 📝 พรอมต์
+
+```
+[Subject]: ภาพเมืองอู่ฮั่น ประกอบด้วยกำแพงสีแดงและกระเบื้องสีเหลืองของหอคอยหงส์เหลือง, บะหมี่แห้งร้อนๆ ที่มีควันฉุย, โครงสร้างเหล็กของสะพานข้ามแม่น้ำแยงซี, และดอกซากุระที่ปลิวไสวที่มหาวิทยาลัยอู่ฮั่น สีสันของภาพเต็มไปด้วยชีวิตชีวา
+[Action]: กล้องค่อยๆ ซูมเข้าจากไอน้ำของบะหมี่แห้งร้อนๆ แล้วตัดฉับพลันไปยังผิวน้ำแม่น้ำแยงซีที่กว้างใหญ่และมีหมอกลง; การเชิดมังกรที่พลิ้วไหวไปตามถนนเก่าแก่ การเคลื่อนไหวต่อเนื่อง เป็นธรรมชาติ และไม่แข็งทื่อ
+[Scene]: หอคอยหงส์เหลืองยามรุ่งอรุณ โดยมีปรากฏการณ์ Tyndall ส่องผ่านชายคา; "การแสดงแสงสี" ริมสองฝั่งแม่น้ำแยงซีส่องประกายในยามค่ำคืน และแสงนีออนสะท้อนเป็นประกายบนผิวน้ำ
+[Camera Movement]: มุมมองโดรน FPV ดำดิ่งอย่างรวดเร็วจากตรอกซอยที่มีชีวิตชีวาของถนนเหลียงเต่า แล้วดึงขึ้นใกล้ผิวน้ำ เชื่อมต่อกับการโคจรรอบ 180 องศา รอบหอคอยหลักของสะพานข้ามแม่น้ำแยงซี ภาพนิ่งไม่สั่นไหว ราบรื่นและลื่นไหล
+[Style/Quality]: ความละเอียดสูงพิเศษ 8K, คุณภาพระดับภาพยนตร์, รายละเอียดที่สมบูรณ์, ความคมชัดสูง, ผสมผสานมรดกทางวัฒนธรรมของจิงฉู่เข้ากับความรู้สึกทางเทคโนโลยีที่ทันสมัยของเมืองริมแม่น้ำ
+[Constraints]: สัดส่วนสถาปัตยกรรมปกติ, ไม่มีการบิดเบือน, ใบหน้ามั่นคง, ไม่มีภาพกระพริบ, ตรรกะการเล่าเรื่องแบบวันช็อต 15 วินาที
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/777.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7bea7c87ebf72b2b6212f78196aa989/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอโปรโมตการท่องเที่ยวเมืองอู่ฮั่น"></a>
+
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=777)**
+
+**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2028675796957905178) | **เผยแพร่เมื่อ:** Mar 3, 2026
+
+---
 ### สไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ - แมวสีน้ำเงินปะทะมังกรยักษ์
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -338,7 +699,7 @@
 สไตล์ภาพยนตร์ฟอร์มยักษ์ฮอลลีวูด, การเรนเดอร์ CG ที่สมจริง, สี HDR แบบไดนามิกสูง 0-3 วินาที: ภาพมุมสูงระยะไกลมากของเส้นขอบฟ้าเมืองสมัยใหม่ยามพลบค่ำ พระอาทิตย์ตกถูกกลืนหายไปในชั้นเมฆสีแดงเข้มที่ผิดธรรมชาติ เสียงคำรามต่ำๆ ดังแผ่วๆ ออกมาจากเมฆมืดที่เคลื่อนตัว ผู้คนบนพื้นดินหยุดชะงัก
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/767.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48ba773bbf5baccaba7cbe3e343ca169/thumbnails/thumbnail.jpg" width="600" alt="สไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ - แมวสีน้ำเงินปะทะมังกรยักษ์"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/767.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/13c7356fd226ff48032e6aff30fefd36/thumbnails/thumbnail.jpg" width="600" alt="สไตล์ภาพยนตร์ฮอลลีวูดฟอร์มยักษ์ - แมวสีน้ำเงินปะทะมังกรยักษ์"></a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=767)**
 
@@ -354,10 +715,17 @@
 #### 📝 พรอมต์
 
 ```
-15-second vertical screen 9:16, film grain filter + natural particles, Tamsui River riverside path in Taipei, background golden sunset + shimmering river surface + silhouette of Lover's Bridge in the distance, main character is a Taiwanese girl [Image 1], long slightly curled hair, beige knit cardigan, clear makeup. The entire process is shot with a boyfriend's Handheld POV follow-up, the camera shakes slightly, no perspective switching. 0-4 seconds: Handheld follow-up, the girl walks two steps ahead of the camera, turns her head towards the camera, frowns slightly pretending to be angry, one hand presses down on her wind-blown hair, the other hand gestures 'hurry up and follow' behind her. The sunset side backlighting outlines her cheek contours and floating hair strands; Dialogue (soft and coquettish): "Hey, walk faster! You're always dragging your feet!" 4-8 seconds: The girl suddenly stops, looks at the river surface, the camera Smooth Pans towards the opposite bank following her gaze—full view of the golden sunset + shimmering water + silhouette of Lover's Bridge, pausing for about 2 seconds; Pans back to the girl's front, the Golden Hour warm light dyes her face gold, she smiles with her eyes squinted; Dialogue (short exclamation): "Wow—look at that light!" 8-10 seconds: The girl's eyes light up as she looks at a nearby stall, pulling the camera's direction and walking quickly. The Handheld camera follows, accelerating and shaking; [Natural street ambient sound, no dialogue] 10-13 seconds: The girl is now holding a tall Tamsui soft-serve ice cream, holding it up to the camera pretending to feed; Dialogue (playful): "The first bite is for you—" She pauses for a beat, turns the ice cream towards herself, and takes a big bite. Because the ice cream is so tall, her nose tip brushes the top cream and gets a little white smudge; Dialogue (smugly): "—Just kidding!" 13-15 seconds: Chewing the ice cream, she looks down at the cream on her nose tip, cross-eyes glancing down, pauses for half a second, then bursts out laughing at the camera. The Handheld camera shakes slightly; Dialogue (laughing so hard she can't speak clearly): "Hahaha... You pass today!" Prohibit the appearance of text, subtitles, logos, or watermarks.
+15-second vertical screen 9:16, film grain filter + natural grain, Tamsui River bank walkway in Taipei, background golden sunset + sparkling river surface + silhouette of the Lover's Bridge in the distance, protagonist Taiwanese girl
+[Image 1], long slightly wavy hair, beige knit cardigan, clear makeup, entire process filmed with boyfriend Handheld POV follow-up, slight camera shake, no perspective switching, 
+0-4 seconds: Handheld follow-up, girl walks two steps ahead of the camera, turns her head towards the camera, frowns slightly pretending to be angry, one hand presses down the hair messed up by the wind, the other hand gestures "hurry up and follow" behind her, side backlight from the sunset outlines the contours of her cheeks and floating hair strands; Dialogue (soft and spoiled): "Hey, walk faster! You're always dragging your feet!" 
+4-8 seconds: The girl suddenly stops, looks at the river surface, the camera Smooth Pans towards the opposite bank following her gaze — Golden Hour panorama of the sunset + sparkling water + Lover's Bridge silhouette, stays for about 2 seconds; Pans back to the girl's front, Golden Hour warm light dyes her face gold, she smiles with her eyes squinted; Dialogue (short exclamation): "Wow—look at this light!" 
+8-10 seconds: The girl's eyes light up, looking at a roadside stall, she quickly walks towards the direction of the camera, the camera Handheld follows and accelerates with shaking; [Natural street ambient sound, no dialogue] 
+10-13 seconds: The girl is already holding a tall Tamsui soft serve ice cream, holding it up to the camera pretending to feed it; Dialogue (playful): "The first bite is for you—" Pauses for a beat, she turns the ice cream towards herself and takes a big bite, because the ice cream is too tall, her nose tip touches the cream top and gets a little white smudge; Dialogue (smugly): "—Just kidding!" 
+13-15 seconds: She chews the ice cream, looks down to see the cream on her nose tip, squints her eyes down for half a second, then laughs loudly at the camera, Handheld slight shake; Dialogue (laughing so hard she can't speak clearly): "Hahaha... you pass today!" 
+Prohibit the appearance of text, subtitles, LOGOs, or watermarks.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/757.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33d94fc00e698d23944df8d46d6fdff7/thumbnails/thumbnail.jpg" width="600" alt="Taiwanese Girlfriend POV Series (Episode 1) - Sunset Date"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/757.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0585fc094a6038b8ccd75ad791cadde1/thumbnails/thumbnail.jpg" width="600" alt="Taiwanese Girlfriend POV Series (Episode 1) - Sunset Date"></a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=757)**
 
@@ -516,15 +884,15 @@ The scene is the living room, warm-toned home lighting, shallow depth of field, 
 #### 📝 พรอมต์
 
 ```
-[Subject]: Guangzhou city panorama, including ancient Xiguan houses, exquisite Cantonese dim sum, and the majestic Canton Tower (Little Waist), with rich and saturated colors.
-[Action]: The camera slowly pushes in on the steam rising from the tea house, instantly matching a hard cut to the dazzling lights of Zhujiang New Town; a lion dance lightly leaps in the ancient street, with continuous, natural, and non-stiff movements.
-[Scene]: Chen Clan Ancestral Hall under the morning light, with delicate wood carving textures, and the Tyndall effect penetrating the Manchu windows; the Pearl River banks at night with neon lights flickering, reflections shimmering on the river surface.
-[Camera Movement]: Extreme speed FPV drone perspective, diving from the old city alleyways and pulling up close to the ground, connecting to a 180-degree orbit around the top of the Canton Tower. The footage is stable, smooth, and fluid without shaking.
-[Style/Quality]: 8K ultra-high definition, cinematic quality, extreme detail, sharp clarity, blending New Chinese aesthetics with a futuristic Cyberpunk feel.
-[Constraints]: Normal architectural proportions, no distortion or warping, stable character faces, no screen flickering, 15-second one-shot logic.
+[Subject]: Guangzhou city portrait, including ancient Xiguan mansions, exquisite Cantonese dim sum, and the majestic Canton Tower (Little Waist), with rich and saturated colors.
+[Action]: The camera slowly pushes in from the steam rising from the tea house, instantly matching a hard cut to the dazzling lights of Zhujiang New Town; a lion dance leaps lightly in the ancient street, the movements are continuous and natural, not stiff.
+[Scene]: Chen Clan Academy under the morning light, delicate wood carving textures, Tyndall effect penetrating the Manchu windows; neon lights flicker on both sides of the Pearl River at night, reflections shimmering on the water.
+[Camera Work]: Extreme FPV drone perspective, diving from the old city alleyways and pulling up close to the ground, connecting to a 180-degree rotation around the top of the Canton Tower, the picture is stable without shaking, smooth and fluid.
+[Style/Quality]: 8K ultra-high definition, cinematic texture, extreme detail, sharp clarity, blending New Chinese aesthetics with futuristic cyber sense.
+[Constraints]: Normal architectural proportions, no distortion or deformation, stable character faces, no screen flickering, 15-second one-shot logic.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/756.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3867ddb3dd2c1ded004c0224ce17b653/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งสำหรับวิดีโอโปรโมตการท่องเที่ยวเมืองกว่างโจว"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/756.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/467d8d7b69cb9b83f2d55de86be6732f/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งสำหรับวิดีโอโปรโมตการท่องเที่ยวเมืองกว่างโจว"></a>
 
 📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=756)**
 
@@ -2710,267 +3078,6 @@ Seedance 2.0 ใช้เทคโนโลยี AI เพื่อฟื้น
 **ผู้เขียน:** [沐阳](https://x.com/yyyole) | **แหล่งที่มา:** [Link](https://x.com/yyyole/status/2027217275116486982) | **เผยแพร่เมื่อ:** Feb 27, 2026
 
 ---
-### บทภาพยนตร์สถานการณ์ตัวประกันของหน่วย SWAT ญี่ปุ่น
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> นี่คือพรอมต์สคริปต์ภาพยนตร์แบบหลายช็อตสำหรับ Seedance 2.0 ซึ่งให้รายละเอียดสถานการณ์ตัวประกันที่เกี่ยวข้องกับหน่วย Special Assault Team (SAT) ของญี่ปุ่น สคริปต์ระบุมุมกล้อง บทสนทนาของตัวละคร แสง และเอฟเฟกต์เสียงตลอดสี่ช็อตที่แตกต่างกัน ตั้งแต่การเคลื่อนที่เชิงยุทธวิธีในมุมต่ำไปจนถึงผลลัพธ์หลังการแก้ไขสถานการณ์
-
-#### 📝 พรอมต์
-
-```
-[Shot 1: Low-Angle Tactical Advance]
-ภายในโรงงานร้างที่สลัว
-กล้องถูกตั้งในมุมต่ำ ใกล้พื้น
-จากด้านหลังจอ สมาชิกหน่วยปฏิบัติการพิเศษ (SAT) ของกรมตำรวจนครบาลในชุดสีดำ ค่อยๆ เคลื่อนที่ไปข้างหน้า
-สายตาคมกริบมองลอดผ่านกระบังหน้า
-มีเสียงวิทยุแผ่วเบา
-เจ้าหน้าที่ (ด้วยเสียงต่ำ ควบคุม):
-"วางอาวุธซะ คุณไม่มีทางหนีแล้ว"
-*ปืนถูกเล็ง แต่ไม่ได้เล็งมาที่กล้อง
-
-[Shot 2: Lateral Hostage Frame]
-ภาพจัดองค์ประกอบด้านข้าง
-ผู้ต้องสงสัยสวมเสื้อกล้ามทำงาน มีเหงื่อท่วมตัว
-เขากำลังจับผู้หญิงคนหนึ่งล็อกคอด้วยแขนข้างเดียว พร้อมจ่อปืนพกไปที่ขมับของเธอ
-ฉากหลังมีแสงส่องผ่านหน้าต่างที่แตก
-ผู้ต้องสงสัย (สติแตก):
-"อย่าเข้ามาใกล้! ฉันจะยิง! ฉันจะยิงจริงๆ นะ!"
-ผู้หญิงกลั้นน้ำตา หายใจหอบ
-
-[Shot 3: Extreme Close-Up – Trigger Moment]
-ภาพโคลสอัพสุดขีดของนิ้วเจ้าหน้าที่และไกปืน
-มีการสั่นเล็กน้อยผ่านถุงมือ
-ชั่วขณะหนึ่ง เสียงรอบข้างเงียบหายไป
-ผู้ต้องสงสัย (นอกจอ):
-"ฉันจะทำแล้วนะ!!"
-เสียงปืนดังขึ้นนอกจอ
-
-[Shot 4: Aftermath Wide Shot]
-พื้นที่เงียบสงบ
-ภาพมุมกว้างจากกล้องที่ตั้งอยู่กับที่
-ผู้ต้องสงสัยนอนอยู่บนพื้น ปืนพกไถลออกไป
-ผู้หญิงทรุดตัวลงตรงนั้นแต่ปลอดภัย
-เจ้าหน้าที่ SAT ค่อยๆ เข้าไปใกล้และยืนยันความปลอดภัย
-เจ้าหน้าที่:
-"ควบคุมสถานการณ์ได้แล้ว ขอรถพยาบาลฉุกเฉิน"
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/677.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/99e6402b9c9eefe351333a8c6aebfb00/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์สถานการณ์ตัวประกันของหน่วย SWAT ญี่ปุ่น"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=677)**
-
-**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2027164101701759355) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### เด็กชายชาวญี่ปุ่นแปลงร่างเป็นฮีโร่ผู้พิทักษ์ซามูไร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์โดยละเอียดสำหรับ Seedance 2.0 บรรยายถึงเด็กชายชาวญี่ปุ่นคนหนึ่งกำลังสัมผัสวัตถุศักดิ์สิทธิ์ในวัดโบราณยามค่ำคืน นำไปสู่การแปลงร่างอันน่าทึ่งเป็นฮีโร่ผู้พิทักษ์ในชุดเกราะที่ได้รับแรงบันดาลใจจากซามูไรและมีออร่าแห่งจิตวิญญาณ พรอมต์นี้เน้นแสงแบบภาพยนตร์ รายละเอียดสูง และการเคลื่อนไหวของกล้องแบบไดนามิก ส่งผลให้เกิดฉากการแปลงร่างที่ยิ่งใหญ่
-
-#### 📝 พรอมต์
-
-```
-เด็กชายชาวญี่ปุ่นคนหนึ่งอยู่ภายในวัดไม้โบราณยามค่ำคืน แสงจันทร์ส่องผ่านฉากโชจิ ส่องให้เห็นฝุ่นที่ลอยอยู่ในอากาศ ภายในวัดเต็มไปด้วยรูปปั้นเก่าแก่ โคมไฟแขวน และวัตถุศักดิ์สิทธิ์ ตรงกลางโถงหลักมีวัตถุศักดิ์สิทธิ์ที่ถูกผนึกไว้บนแท่นบูชาไม้ ห่อหุ้มด้วยยันต์โอฟุดะเก่าแก่และเชือกศักดิ์สิทธิ์
-เด็กชายที่สวมเสื้อฮู้ดธรรมดาและกระเป๋านักเรียนค่อยๆ เดินเข้าใกล้วัตถุศักดิ์สิทธิ์ด้วยความอยากรู้อยากเห็นและความลังเล เขาเอื้อมมือออกไปสัมผัสสมบัติศักดิ์สิทธิ์ที่เรืองแสง
-ทันใดนั้น พลังงานวิญญาณสีทองอร่ามและสีแดงเข้มก็ปะทุออกมา สั่นสะเทือนเสาของวัด ยันต์กระดาษปลิวว่อนไปในอากาศ แสงจ้าสาดส่องไปทั่วโถง
-แสงแบบภาพยนตร์, ลำแสงปริมาตรผ่านควันธูป, เงาที่น่าทึ่ง, พื้นผิวไม้ที่สมจริงเป็นพิเศษ, 4K, รายละเอียดสูง, บรรยากาศญี่ปุ่นลึกลับ
-เด็กชายเริ่มแปลงร่างเป็นวีรบุรุษผู้พิทักษ์ในตำนานที่ได้รับแรงบันดาลใจจากชุดเกราะซามูไรโบราณผสมผสานกับการออกแบบซูเปอร์ฮีโร่สมัยใหม่ เสื้อคลุมพลังงานสีแดง-ขาวที่พลิ้วไหวปรากฏขึ้นด้านหลังเขาเหมือนออร่าทางจิตวิญญาณ ลวดลายสีทองที่คล้ายกับลวดลายญี่ปุ่นโบราณเรืองแสงไปทั่วชุดเกราะของเขา
-ลำดับการแปลงร่างอันยิ่งใหญ่, อนุภาควิญญาณที่หมุนวน, สัญลักษณ์คันจิที่เรืองแสงปรากฏขึ้นในอากาศ, การเคลื่อนไหวของกล้องแบบวงกลมที่เคลื่อนไหว, VFX ระดับฮอลลีวูด, บรรยากาศพื้นหลังสไตล์กลองไทโกะที่น่าทึ่ง, คอนทราสต์สูง, สโลว์โมชั่น
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/678.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48ac5a799db8ff259d3da0cc2bada5c4/thumbnails/thumbnail.jpg" width="600" alt="เด็กชายชาวญี่ปุ่นแปลงร่างเป็นฮีโร่ผู้พิทักษ์ซามูไร"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=678)**
-
-**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2027162863618670659) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์วิดีโอ Multi-Shot Jelly Bio-Mech
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งแบบหลายช็อตที่มีรายละเอียดสูงสำหรับ Seedance 2.0 ซึ่งอธิบายถึงไบโอ-เมคขนาดมหึมาที่ทำจากเยลลี่สีฟ้าอมเขียวโปร่งแสงและวัสดุกัมมี่สีชมพูเรืองแสง โดยระบุการเคลื่อนไหว การโต้ตอบกับสภาพแวดล้อม และสไตล์ภาพ (4k, ฟิสิกส์ของไหลความเร็วสูง, การเรนเดอร์ด้วย Unreal Engine 5)
-
-#### 📝 พรอมต์
-
-```
-ชีวกลจักรขนาดมหึมาที่ทำจากเยลลี่สีฟ้าอมเขียวโปร่งแสงและวัสดุกัมมี่สีชมพูเรืองแสง ช็อตที่ 1: กลจักรตื่นขึ้นในห้องแล็บมืดมิด แกนกลางของมันเรืองแสง ช็อตที่ 2: มันบีบร่างกายที่เป็นวุ้นผ่านช่องว่างโลหะแคบๆ โดยมีการเปลี่ยนรูปและคืนรูปอย่างสมจริง ช็อตที่ 3: บนถนนไซเบอร์พังก์ที่ฝนตก กระสุนเรืองแสงพุ่งชนไหล่ของมันและกระเด้งออกจากพื้นผิวที่นุ่มนิ่ม ช็อตที่ 4: แขนของกลจักรเป็นฟองและเรืองแสงอย่างรุนแรงขณะที่มันปล่อยหมัดหนักพร้อมคลื่นกระแทกที่เป็นของเหลว ช็อตที่ 5: แขนของกลจักรเป็นฟองและเรืองแสงอย่างรุนแรงขณะที่มันปล่อยหมัดหนักพร้อมคลื่นกระแทกที่เป็นของเหลว ช็อตที่ 5: กลจักรค่อยๆ เอียงศีรษะ ผิวโปร่งแสงของมันสะท้อนแสงนีออนที่สดใส ความละเอียด 4k, ฟิสิกส์ของไหลความเร็วสูง, ผลงานชิ้นเอก, สไตล์การเรนเดอร์ของ Unreal Engine 5
-```
-
-<img src="https://cms-assets.youmind.com/media/1772172024133_lmhnfk_HCFw5nubMAAXTaG.jpg" width="600" alt="พรอมต์วิดีโอ Multi-Shot Jelly Bio-Mech">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=655)**
-
-**ผู้เขียน:** [Zopia AI](https://x.com/Zopia_AI) | **แหล่งที่มา:** [Link](https://x.com/Zopia_AI/status/2027066127436620087) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์ท่าเต้นต่อสู้แบบอนิเมะหลายช็อต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์แบบหลายช็อตที่มีรายละเอียด ซึ่งออกแบบมาเพื่อความสอดคล้องกันในโมเดลวิดีโอ AI ที่แตกต่างกัน (Sora 2, Kling AI, Seedance) ที่จัดฉากการต่อสู้ศิลปะการต่อสู้แบบอนิเมะระหว่างตัวละครสองตัว โดยระบุมุมกล้อง, จังหวะเวลา, รูปแบบการเคลื่อนไหว และเอฟเฟกต์เสียง
-
-#### 📝 พรอมต์
-
-```
-ตัวละครไคจาก @Image1 โจมตีตัวละครอาจารย์ทานากะจาก @Image2 ในโดโจ @Image3 อนิเมะที่มีภาพเบลอจากการเคลื่อนไหวที่ขาของไค และการเคลื่อนไหวที่คมชัดของทานากะ การออกแบบท่าต่อสู้: ช็อตที่ 1 (0.0-2.0 วินาที): ภาพระยะกลาง ไคโจมตีด้วยการเตะหมุนตัวสูง ทานากะป้องกันด้วยปลายแขน แทบไม่ขยับ ช็อตที่ 2 (2.0-3.5 วินาที): ภาพโคลสอัพ ไคเตะด้านข้างระดับกลาง ทานากะปัดป้องด้วยการเคลื่อนไหวของมือเป็นวงกลมเล็กๆ ช็อตที่ 3 (3.5-5.0 วินาที): มุมต่ำ ไคพยายามกวาดขาต่ำ ทานากะยกเท้าขึ้นเมื่อมันผ่านไป ช็อตที่ 4 (5.0-7.0 วินาที): ภาพโคลสอัพที่ใบหน้าสับสนของไค เสียงประกอบด้วยเสียงกลองไทโกะสามจังหวะ เสียง "ตุ้บ" ดังลั่น เสียง "วู้ช" เสียง "สวิช" แล้วตามด้วยความเงียบ ข้อจำกัด: ความแตกต่างระหว่างความเร็วและความประหยัดในการเคลื่อนไหวเป็นสิ่งสำคัญ
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/659.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bf6240a821eae7e68ff64a9a298f7474/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ท่าเต้นต่อสู้แบบอนิเมะหลายช็อต"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=659)**
-
-**ผู้เขียน:** [SYD](https://x.com/SYDxStudio) | **แหล่งที่มา:** [Link](https://x.com/SYDxStudio/status/2027058995731607571) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### ข้อความแจ้งสำหรับวิดีโอโฆษณา Columbus Navigation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอโฆษณาแนวผจญภัยสุดฮา โดยมีคริสโตเฟอร์ โคลัมบัส ใช้เครื่องนำทาง GPS เพื่อค้นหาโลกใหม่ พร้อมบทสนทนาและสเปเชียลเอฟเฟกต์
-
-#### 📝 พรอมต์
-
-```
-พลังงานแห่งการผจญภัย: โคลัมบัสดู GPS นำทางในโทรศัพท์แล้วพูดอย่างตื่นเต้นว่า "ค้นพบโลกใหม่ ฉันนี่แหละสุดยอด! การระบุตำแหน่งนำทางช่วยไม่ให้หลงทาง! การเดินทางสำรวจรับประกันได้ โคลัมบัส นำทางไปเอง!" เอฟเฟกต์พิเศษคลื่นทะเล - แอนิเมชันระบุตำแหน่งดาวเทียม - โคลัมบัสชี้ไปยังระยะไกล โฆษณาการนำทางผจญภัย
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/675.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1e682ce77b2ac46b837e787e9e05ef0/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งสำหรับวิดีโอโฆษณา Columbus Navigation"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=675)**
-
-**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2027037472790593858) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์ฉากห้องนอน Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> ข้อความแจ้ง Seedance 2.0 ที่อธิบายฉากห้องนอนซึ่งมีเด็กสาวสวมกระโปรงผ้าโปร่งสีขาวและเสื้อยืดผ้าฝ้ายสีแดง โดยเน้นที่เรียวขาเปลือยและรองเท้าหนังนุ่มสีขาวขนาดเล็กของเธอ
-
-#### 📝 พรอมต์
-
-```
-Bedroom scene, the main subject of the picture is full of youthful girliness. Today she is wearing a white gauze short skirt and a red pure cotton T-shirt. Her long, well-proportioned legs are not wearing stockings, and her fair thighs are bare. A pair of white soft leather shoes, small and exquisite. A youthful atmosphere permeates her whole body.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/669.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c0ab2154a10f02ee26c76132fefa099/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากห้องนอน Seedance 2.0"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=669)**
-
-**ผู้เขียน:** [fuli Zhang](https://x.com/Steffenzfl) | **แหล่งที่มา:** [Link](https://x.com/Steffenzfl/status/2027032791494611263) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### Seedance 2.0 ท่าโยคะพร้อมท์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์โดยละเอียดสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอแบบภาพยนตร์ในมุมมองบุคคลที่หนึ่งของหญิงสาวที่หยุดนิ่งกลางท่าโยคะ โดยเน้นรายละเอียดระยะใกล้ของร่างกายและผิวหนัง
-
-#### 📝 พรอมต์
-
-```
-มุมมองบุคคลที่หนึ่ง (POV) แสงและเงาแบบภาพยนตร์ หญิงสาวผู้สง่างามกำลังยืดเส้นยืดสายบนเสื่อโยคะถูกตรึงอยู่กับที่ทันที ร่างกายของเธอแข็งทื่อและไม่สามารถเคลื่อนไหวได้ กล้องอยู่ใกล้มาก โดยจับภาพระยะใกล้ของมือบุคคลที่หนึ่งกำลังนวดเอวเรียวของเธอ (รายละเอียดของปลายนิ้วที่จมลงไปในเนื้อนุ่ม) ลูบไล้แก้มที่บอบบางของเธอเบา ๆ และต้นขาที่กระชับ ผิวพรรณความละเอียดสูง มองเห็นเม็ดเหงื่อเล็ก ๆ เนื้อสัมผัสของสปอร์ตบรา ฉากหลังเป็นแสงอาทิตย์ยามเย็นที่สลัวของโรงยิม สมจริง ผลงานระดับปรมาจารย์
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/667.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57fb3d7879451fefbc7e1a75a2d402c3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 ท่าโยคะพร้อมท์"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=667)**
-
-**ผู้เขียน:** [Sorato AI](https://x.com/forestlawtk) | **แหล่งที่มา:** [Link](https://x.com/forestlawtk/status/2027030861095583892) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### ละครสั้นพลิกบทบาทครั้งใหญ่
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> นี่คือ Seedance 2.0 พร้อมรายละเอียดและรหัสเวลา สำหรับวิดีโอสั้นแนวละครความยาว 15 วินาที เกี่ยวกับคุณชายผู้มั่งคั่งที่พยายามไล่ผู้หญิงคนหนึ่งด้วยเงิน 5 ล้านหยวน แต่เธอกลับเปิดเผยตัวตนที่แท้จริงว่าเป็นผู้ถือหุ้นรายใหญ่ที่เข้าซื้อกิจการบริษัทของครอบครัวเขา โดยมีบทสนทนา มุมกล้อง และเอฟเฟกต์เสียงที่เฉพาะเจาะจง เพื่อสร้างผลกระทบทางอารมณ์สูงสุด
-
-#### 📝 พรอมต์
-
-```
-ฉาก (0-5 วินาที): กลางห้องจัดเลี้ยงสุดหรู ซูมใกล้ใบหน้าพระเอก (คุณชายผู้ร่ำรวย หยิ่งยโสและเอาแต่ใจ) กำลังกอดนางรอง (ดอกบัวขาวบอบบาง) เขาโยนบัตรสีดำลงบนพื้นอย่างไม่สบอารมณ์ บัตรเลื่อนไปหยุดที่เท้าของนางเอก นางเอกที่สวมชุดเรียบง่ายดูเหมือนจะธรรมดา ก้มมองบัตรด้วยสีหน้าไร้อารมณ์ แขกที่อยู่รอบข้างแสดงสีหน้าเยาะเย้ย (ตัดต่อภาพรวดเร็ว) บทสนทนา 1 (พระเอก, ดูถูกและหยิ่งยโส): เอาเงินห้าล้านนี่ไปซะ แล้วไสหัวออกไปจากตระกูลเสิ่น! ผู้หญิงชั้นต่ำอย่างเธอไม่มีสิทธิ์มายืนเกะกะที่นี่!
-
-ฉาก (6-10 วินาที): นางเอกไม่เก็บการ์ดขึ้นมา แต่ค่อยๆ เงยหน้าขึ้น ดวงตาของเธอกลับกลายเป็นคมกริบและลึกซึ้งในทันที เธอดีดนิ้ว ประตูห้องจัดเลี้ยงเปิดออกอย่างกะทันหัน และบอดี้การ์ดชุดดำสองแถวรีบวิ่งเข้ามาอย่างรวดเร็ว แหวกฝูงชนออกไป ผู้ช่วยทางการเงินในชุดสูทและรองเท้าหนังเดินเข้ามาหานางเอกอย่างรวดเร็ว โค้งคำนับเก้าสิบองศาอย่างนอบน้อม และยื่นเอกสารให้ด้วยสองมือ บทสนทนา 2 (ผู้ช่วยทางการเงิน, สุภาพอย่างยิ่ง): คุณหนูครับ สัญญาเข้าซื้อกิจการ Shen Group พร้อมแล้วครับ เชิญดูได้เลยครับ
-
-ฉาก (11-15 วินาที): สีหน้าของพระเอกและนางรองแข็งค้างทันที ม่านตาของพวกเขาเบิกกว้างด้วยความตกใจ พระเอกสะดุดถอยหลังด้วยความหวาดกลัว เกือบจะล้มลง นางเอกรับเอกสารโดยไม่มอง และโยนมันลงบนหน้าอกที่แข็งทื่อของพระเอกโดยตรง ทำให้กระดาษกระจัดกระจายไปทั่วพื้น นางเอกเดินผ่านพระเอกไปยังที่นั่งหลัก ทิ้งไว้เพียงเงาที่โดดเด่น บทสนทนา 3 (นางเอก, เย็นชาและดูถูก): คุณชายเสิ่น ตอนนี้คุณต่างหากที่ล้มละลาย เก็บเงินห้าล้านนี่ไว้สำหรับโลงศพของคุณเองเถอะ
-
-เสียงประกอบ: เสียงพื้นหลังงานเลี้ยงที่จอแจในตอนต้น เสียงบัตรสีดำกระทบพื้นอย่างคมชัด; เสียงประตูเปิดที่น่าตกใจและเสียงฝีเท้าที่ประสานกันในช่วงกลาง; เสียง BGM ที่กดดันอย่างรุนแรงที่ดังขึ้นอย่างกะทันหันในช่วงหลัง, เสียงเอกสารกระทบหน้าอกที่อู้อี้, เสียงพระเอกหอบ, และเสียงรองเท้าส้นสูงของนางเอกที่เดินจากไป
-
-ระยะเวลา: 15 วินาทีพอดี (การพลิกบทบาทที่น่าทึ่ง, การดูถูกเหยียดหยามขั้นสุด, ความพึงพอใจที่ระเบิดออกมาอย่างรุนแรง)
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/763.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32d7154b7ecc98b9d8732c5ab7aab73f/thumbnails/thumbnail.jpg" width="600" alt="ละครสั้นพลิกบทบาทครั้งใหญ่"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=763)**
-
-**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2027027728474714531) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### พรอมต์แบบ Multi-shot สำหรับตัวละครปีศาจโดยใช้ Kling 3.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบหลายช็อตที่ละเอียด ออกแบบมาเพื่อความสอดคล้องของตัวละครโดยใช้โหมด Omni ของ Kling 3.0 โดยเน้นที่การแสดงออกและการกระทำของตัวละครปีศาจ รวมถึงภาพโคลสอัพและภาพเงาสุดท้ายในนรก
-
-#### 📝 พรอมต์
-
-```
-ช็อต 1: ปีศาจกำลังพูดพร้อมกับหันศีรษะและเหลือบมอง
-ช็อต 2: โคลสอัพดวงตาของปีศาจ เขาขยิบตา
-ช็อต 3: โคลสอัพปากขณะที่เขาเริ่มโกรธ
-ช็อต 4: โคลสอัพหูของเขา มีขนเล็กๆ ปรากฏให้เห็น
-ช็อต 5: ปีศาจแลบลิ้นพร้อมกับทำเสียงเลีย
-ช็อต 6: ซูมออกและแสดงให้เห็นปีศาจยืนอยู่ในนรก เห็นเพียงเงาเท่านั้น
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/662.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/332bc721ef89be19690a9cb04676a5b3/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์แบบ Multi-shot สำหรับตัวละครปีศาจโดยใช้ Kling 3.0"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=662)**
-
-**ผู้เขียน:** [Martin LeBlanc](https://x.com/martinleblanc) | **แหล่งที่มา:** [Link](https://x.com/martinleblanc/status/2027021917530599913) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### Seedance 2.0 KTV Scene Prompt (มุมมองของแฟนหนุ่ม)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> ข้อความแจ้งโดยละเอียดและสมจริงสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอแนวตั้งจากมุมมองของแฟนหนุ่มในห้อง KTV ที่มีแสงสลัว โดยมีหญิงสาวชาวเอเชียที่สวยงามหันหน้าเข้าหากล้อง พูด และถอดรองเท้าส้นสูงออก
-
-#### 📝 พรอมต์
-
-```
-สไตล์สมจริง, จอแนวตั้ง, มุมมองบุคคลที่หนึ่งแบบแฟนหนุ่ม ภายในห้อง KTV ที่สลัวๆ มีแสงเลเซอร์นีออนสีม่วงและน้ำเงินกะพริบอยู่ด้านหลัง หญิงสาวเอเชียสวยคนหนึ่งนั่งอยู่บนโซฟาหนังสีดำ ผมยาวสีดำสยายลงบนไหล่ของเธอ สวมเสื้อสเวตเตอร์เลื่อมสีดำเปิดไหล่และสร้อยคอที่ละเอียดอ่อน คำอธิบายการกระทำ: ตอนแรกเธอมองไปด้านข้าง จากนั้นหันมาที่กล้อง พูดด้วยรอยยิ้มหวานและยั่วยวน: "โอ้ พี่ชาย ทำไมเพิ่งมาถึงล่ะคะ" จากนั้นกล้องก็เลื่อนลงอย่างนุ่มนวลเพื่อแสดงขาเรียวยาวของเธอ เธอกำลังถอดรองเท้าส้นสูงหัวแหลมเพชรเต็มเม็ดสีเงินออก โดยเท้าข้างหนึ่งเปลือยเปล่าอยู่บนพื้นผิวสะท้อนแสง การกระทำเป็นไปอย่างเป็นธรรมชาติและสบายๆ พื้นผิวของแสงและเงาดูสมจริง คุณภาพความคมชัดสูง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/670.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0d949434f04c0939b38d50709093312d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 KTV Scene Prompt (มุมมองของแฟนหนุ่ม)"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=670)**
-
-**ผู้เขียน:** [paipiange](https://x.com/paipiange) | **แหล่งที่มา:** [Link](https://x.com/paipiange/status/2026991545598320853) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
-### FPV Cinematic Flight ทะลุบ้านต้นไม้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอภาพยนตร์มุมมองบุคคลที่หนึ่ง (FPV) ที่รวดเร็ว บินผ่านสภาพแวดล้อมบ้านต้นไม้ที่สมจริงและอบอุ่นสบายในช่วง Golden Hour โดยเน้นการเคลื่อนไหวของกล้องที่น่าทึ่ง
-
-#### 📝 พรอมต์
-
-```
-การบิน FPV แบบภาพยนตร์ที่รวดเร็วผ่านบ้านต้นไม้ที่สมจริงและอบอุ่นในป่าทึบช่วง Golden Hour โดยบินผ่านสะพาน บันได ภายในที่มีแสงไฟอบอุ่น และออกทางช่องรับแสงบนหลังคา พร้อมการเคลื่อนไหวของกล้องที่น่าทึ่ง
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/658.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1655b03f5f7ab0d497ad132ff9a03ec1/thumbnails/thumbnail.jpg" width="600" alt="FPV Cinematic Flight ทะลุบ้านต้นไม้"></a>
-
-📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ* | **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=658)**
-
-**ผู้เขียน:** [Zara](https://x.com/ZaraIrahh) | **แหล่งที่มา:** [Link](https://x.com/ZaraIrahh/status/2026983864401625354) | **เผยแพร่เมื่อ:** Feb 26, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -3032,6 +3139,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-04T05:09:17.822Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-04T08:41:05.028Z</sub>
 
 </div>
