@@ -11,7 +11,7 @@
 
 Uma coleção curada de prompts de geração de vídeo de alta qualidade para o Seedance 2.0 da ByteDance
 
-> ⚠️ **Aviso de Direitos Autorais**: Todos os prompts são coletados da comunidade para fins educacionais. Se você acredita que algum conteúdo infringe seus direitos, por favor [abra uma issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new) e nós o removeremos prontamente.
+> ⚠️ **Aviso de Direitos Autorais**: Todos os prompts são coletados da comunidade para fins educacionais. Se você acredita que algum conteúdo infringe seus direitos, por favor [abra uma issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new) e nós o removeremos prontamente.
 
 ---
 

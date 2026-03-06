@@ -11,7 +11,7 @@
 
 Bộ sưu tập prompt tạo video chất lượng cao cho Seedance 2.0 của ByteDance
 
-> ⚠️ **Thông báo bản quyền**: Tất cả các prompt được thu thập từ cộng đồng cho mục đích giáo dục. Nếu bạn tin rằng bất kỳ nội dung nào vi phạm quyền của bạn, vui lòng [mở một issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new) và chúng tôi sẽ xóa nó ngay lập tức.
+> ⚠️ **Thông báo bản quyền**: Tất cả các prompt được thu thập từ cộng đồng cho mục đích giáo dục. Nếu bạn tin rằng bất kỳ nội dung nào vi phạm quyền của bạn, vui lòng [mở một issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new) và chúng tôi sẽ xóa nó ngay lập tức.
 
 ---
 

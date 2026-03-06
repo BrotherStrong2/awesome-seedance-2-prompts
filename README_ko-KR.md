@@ -11,7 +11,7 @@
 
 ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
-> ⚠️ **저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new). 즉시 삭제하겠습니다.
+> ⚠️ **저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new). 즉시 삭제하겠습니다.
 
 ---
 

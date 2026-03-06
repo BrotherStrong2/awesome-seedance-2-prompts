@@ -11,7 +11,7 @@
 
 ByteDance Seedance 2.0 için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
-> ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new) ve derhal kaldıralım.
+> ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new) ve derhal kaldıralım.
 
 ---
 

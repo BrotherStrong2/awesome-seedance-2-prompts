@@ -11,7 +11,7 @@
 
 字節跳動 Seedance 2.0 高質量視頻生成提示詞精選集合
 
-> ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/issues/new)，我們將立即移除。
+> ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/issues/new)，我們將立即移除。
 
 ---
 
