@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **704** |
+| 📝 Toplam İstem | **703** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-03-06** |
 
@@ -1294,25 +1294,6 @@ Popüler çevrimiçi müzik kullanımı, ritim düşüşünde ağır çekim ve h
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=813)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **Yayınlandı:** Mar 4, 2026
-
----
-### Runway Gen-3 Video Çin Sarayı Sahnesi İçin İstem
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Runway Gen-3 için tasarlanmış, gece parlak ışıklarla aydınlatılmış antik bir sarayın önünde dans eden zarif Çinli kadınların videosunu oluşturmak için bir istem; sinematik kalite ve yüksek detay vurgulanmıştır.
-
-#### 📝 İstem
-
-```
-Geceleri parlak bir şekilde aydınlatılmış antik Çin sarayının önünde, beyaz dar kesim uzun elbiseler giymiş bir grup zarif Çinli güzel, kollarını kaldırarak senkronize dans hareketleri sergiliyor, sinematik aydınlatma, ultra gerçekçi, yüksek detay, 8k
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Runway Gen-3 Video Çin Sarayı Sahnesi İçin İstem"></a>
-
-📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=795)**
-
-**Yazar:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **Kaynak:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **Yayınlandı:** Mar 4, 2026
 
 ---
 ### Sinematik İstek Yapısı Örneği
@@ -2942,6 +2923,41 @@ Yeni Çin Tarzı sinematik kalitede tanıtım videosu, görüntü taze ve romant
 **Yazar:** [破忒头](https://x.com/potetou7811) | **Kaynak:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **Yayınlandı:** Mar 1, 2026
 
 ---
+### Seedance 2.0 'Kart Kontrolü' Geçiş Videosu için İstek
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 için, tek bir kartı manipüle eden bir karakterle başlayıp yeni, çekici bir kimliğin (kedi kulaklı figür) dramatik bir şekilde ortaya çıkmasıyla biten 10 saniyelik bir video geçiş sekansı oluşturmak üzere son derece ayrıntılı, zaman kodlu ve teknik olarak spesifik bir komut istemi. Komut istemi, kamera açılarını, hareket dinamiklerini, aydınlatmayı ve görsel efektleri belirtirken, ekstra kart parçacıkları gibi belirli kusurları kesinlikle yasaklamaktadır.
+
+#### 📝 İstem
+
+```
+İlk kare için başlangıç görüntüsünü kilitle, en boy oranı 16:9, toplam süre 10 saniye. Sahne Çapraz Alçak Açılı Orta Yakın Çekim ile açılır.
+
+Vücudun üst kısmı kısmen görünür, baş sol taraftadır. Sağ işaret ve orta parmaklar, ekranın ortasında tek bir kartı yanlamasına tutmaktadır, bakış Stoic (sakin ve kararlı), yüzünde Laser-focused (lazer odaklı) Minimalist (minimalist) bir ifade vardır.
+
+0s - 2s (Açılış kinetik enerjisi: Sakin fiziksel manipülasyon): 1.6 saniyede, bilek hafifçe döner ve izole edilmiş kart yüzünün çevrilerek kırmızı arkasını göstermesini sağlar. Bu kinetik enerji, kameranın düzleşmesini ve soğuk beyaz matris aydınlatması ile yüksek parlaklıktaki zemine sahip orta çekim koridoru ortaya çıkaran pürüzsüz bir Dolly Out gerçekleştirmesini tetikleyen bir dayanak noktası görevi görür.
+
+2s - 4s (Alan germe ve tek kart yay yörüngesi): Kahraman (tek kart 1.5)'i iki eliyle döndürür ve ardından pürüzsüzce birbirinden ayırır (Eller fırlatma hareketi olmadan ayrılır). Tek iskambil kartı, sanki manyetik bir kuvvet tarafından çekilmiş gibi, kendi ekseni etrafında merkezlenmiş, yere paralel yüksek hızlı yatay bir kendi kendine dönüş (High-speed horizontal axis-spin) gerçekleştirir ve omuz hizasında sağdan sola yatay yarım dairesel bir yay yörüngesi izler. Parçacık püskürtme efektleri kesinlikle yasaktır, kartın kameraya doğru uçması (Z ekseni) kesinlikle yasaktır ve uzayda ikinci bir kartın herhangi bir piksel artçı görüntüsü kesinlikle yasaktır (Absolutely zero extra card particles). Aynı anda, kamera hızla tam çekime uzaklaşır ve görüşün merkezini tamamen izole edilmiş dönen kartın yörüngesine bırakır.
+
+4s - 6s (Kamera geri tepmesi ve kart yakalama hazırlığı): Kamera, kartın ataletini kullanarak hızla içeri doğru itme (Dolly In) yapar ve tekrar özneye kilitlenir. Sol el, tek kartı hassas bir şekilde yakalar ve bilek eklemini hazırlık için geri çeker. Bu sırada, tüm fiziksel alan 'tek kart boşluğu' durumunda kalır.
+
+6s - 7s (Gizleyici geçiş: Gerçeklikten sahneye kritik nokta): Kart yüzü doğrudan kameraya doğru gösterilir. Kamera, kart yüzünü odaklanma dayanak noktası olarak kullanarak üstel olarak hızlandırılmış bir atılım gerçekleştirir. 5.5 saniyede, kart yüzü ekranın %100'ünü tamamen kaplayarak fiziksel bir kapanma dayanak noktası oluşturur ve uzaysal kesinti sağlar.
+
+7s - 10s (Kimlik değişimi ve büyüleyici dondurulmuş kare): Kart yüzü kayarak açıldığı anda, kırmızı bir elbiseye, kedi kulaklı bir görüntüye pürüzsüz bir geçiş olur. Sahne anında Ultra geniş açılı 14mm güçlü perspektif kompozisyonuna geçer. Ekranın merkezinde yer alan yüz ifadesi Alluring (çekici) ve Authoritative gaze (otoriter bakış) ile Sultry smirk (seksi sırıtış) ve Dominant elegance (kontrol edici zarafet) olarak değişir.
+
+Kahramanın sol eli açık, delici bir dinamizmle doğrudan kamerayı işaret ediyor. Avuç içi perspektif nedeniyle son derece büyük görünüyor, ekranı yırtan bir etki yaratıyor ve vücut hafifçe geriye doğru eğilmiş. Arka plan şimdi koyu bir fon ve altın oymalı bir resim çerçevesine dönüşmüş. Yukarıdan gelen güçlü arka ışık, öznenin kedi kulaklarında ve gümüş saçlarında keskin kenar aydınlatmaları oluşturuyor. Kırmızı elbise malzemesi, yan ışık altında derin bir ışık ve gölge gradyanı gösteriyor.
+
+Odak dışı birden fazla iskambil kartı, ön plan öğeleri olarak yavaşça dönerek uzaysal derinlikte yırtılma hissi yaratıyor. Öznenin sağ işaret parmağı çeneye hafifçe dokunuyor, gözler kameraya kilitlenmiş. Sahne nihayet aşırı sinematik derinlikle muhteşem bir pozda donuyor.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 'Kart Kontrolü' Geçiş Videosu için İstek"></a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=730)**
+
+**Yazar:** [李岳](https://x.com/liyue_ai) | **Kaynak:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **Yayınlandı:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3003,6 +3019,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-03-06T06:30:05.824Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-03-06T08:39:16.372Z</sub>
 
 </div>

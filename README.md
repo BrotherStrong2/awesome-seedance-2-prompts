@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **704** |
+| 📝 Total Prompts | **703** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-03-06** |
 
@@ -1297,25 +1297,6 @@ Segment 1:
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=813)**
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **Published:** Mar 4, 2026
-
----
-### Runway Gen-3 Video Prompt for Chinese Palace Scene
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt designed for Runway Gen-3 to generate a video of elegant Chinese women dancing in front of a brightly lit ancient palace at night, emphasizing cinematic quality and high detail.
-
-#### 📝 Prompt
-
-```
-In front of a brightly lit ancient Chinese palace at night, a group of elegant Chinese beauties wearing white slim-fit long dresses, performing synchronized dance movements with arms raised, cinematic lighting, ultra realistic, high detail, 8k
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Runway Gen-3 Video Prompt for Chinese Palace Scene"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=795)**
-
-**Author:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **Source:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **Published:** Mar 4, 2026
 
 ---
 ### Cinematic Prompting Structure Example
@@ -2949,6 +2930,41 @@ New Chinese Style cinematic quality promotional video, the picture is fresh and 
 **Author:** [破忒头](https://x.com/potetou7811) | **Source:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **Published:** Mar 1, 2026
 
 ---
+### Seedance 2.0 Prompt for 'Card Check' Transition Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> An extremely detailed, time-coded, and technically specific prompt for Seedance 2.0 to generate a 10-second video transition sequence, starting with a character manipulating a single card and ending in a dramatic reveal of a new, alluring identity (cat-eared figure). The prompt specifies camera angles, movement dynamics, lighting, and visual effects, strictly prohibiting certain artifacts like extra card particles.
+
+#### 📝 Prompt
+
+```
+Lock the initial image for the first frame, aspect ratio 16:9, total duration 10s. The scene opens with a Diagonal Low-angle Medium Close-up.
+
+The upper body is partially visible, the head is on the left side. The right index and middle fingers are only holding one single card sideways across the center of the screen, the gaze is Stoic (firm and calm), the face presents a Laser-focused (laser-like concentration) Minimalist (minimalist) expression.
+
+0s - 2s (Opening kinetic energy: Calm physical manipulation): At 1.6s, the wrist slightly rotates, causing the isolated card face to flip and display its red back. This kinetic energy acts as an anchor point to trigger the camera to straighten and execute a smooth Dolly Out, revealing the mid-shot corridor with cold white matrix lighting and high-gloss flooring.
+
+2s - 4s (Space stretching and single card arc trajectory): The protagonist rotates the (single card 1.5) with both hands and then smoothly moves them apart (Hands move apart without any throwing motion). The single playing card, as if attracted by magnetic force, executes a high-speed horizontal self-spin (High-speed horizontal axis-spin) parallel to the ground, centered on its axis, and follows a horizontal semi-circular arc trajectory from right to left at shoulder height. Strictly prohibit particle spray effects, strictly prohibit the card from flying towards the camera (Z-axis), and absolutely prohibit any pixel afterimages of a second card in the space (Absolutely zero extra card particles). Simultaneously, the camera quickly zooms out to a full shot, leaving the center of the view entirely to the trajectory of the isolated spinning card.
+
+4s - 6s (Camera rebound and card catching preparation): The camera uses the card's inertia to rapidly push in (Dolly In), locking back onto the subject. The left hand precisely catches the single card and retracts the wrist joint to prepare. At this time, the entire physical space remains in a 'single card vacuum' state.
+
+6s - 7s (Obscuring transition: The critical point from reality to stage): The card face is displayed directly towards the camera. The camera uses the card face as a focusing anchor point to execute an exponentially accelerated dash. At 5.5s, the card face completely occupies 100% of the screen, forming a physical occlusion anchor point, achieving spatial interruption.
+
+7s - 10s (Identity mutation and captivating freeze frame): The moment the card face slides open, a smooth transition occurs to a red dress, cat-eared image. The scene instantly switches to an Ultra-wide angle 14mm strong perspective composition. Located in the center of the screen, the facial expression changes to Alluring (charming) and Authoritative gaze (authoritative gaze), with a Sultry smirk (sexy sneer) and Dominant elegance (controlling elegance).
+
+The protagonist's left hand is spread open, pointing straight at the camera in a penetrating dynamic. The palm appears extremely large due to perspective, creating a screen-breaking effect, and the body is slightly leaning back. The background has now switched to a dark backdrop and a gold carved picture frame. Strong backlighting from the top outlines sharp rim lighting on the subject's cat ears and silver hair. The red dress material shows a deep light and shadow gradient under the side light.
+
+Multiple playing cards, out of focus, rotate slowly as foreground elements, creating a tearing sense of spatial depth. The subject's right index finger lightly touches the jaw, eyes locked on the camera. The scene finally freezes in a gorgeous posture with extreme cinematic depth.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt for 'Card Check' Transition Video"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=730)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **Published:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -3010,6 +3026,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-03-06T06:29:07.445Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-03-06T08:38:40.260Z</sub>
 
 </div>

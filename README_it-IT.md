@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **704** |
+| 📝 Totale prompt | **703** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-03-06** |
 
@@ -1292,25 +1292,6 @@ Schermo orizzontale 16:9, estetica da film di zombie in stile Hong Kong anni '80
 📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=813)**
 
 **Autore:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **Pubblicato:** Mar 4, 2026
-
----
-### Prompt video di Runway Gen-3 per una scena di palazzo cinese
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt progettato per Runway Gen-3 per generare un video di eleganti donne cinesi che danzano di fronte a un antico palazzo illuminato a giorno di notte, enfatizzando la qualità cinematografica e l'alto livello di dettaglio.
-
-#### 📝 Prompt
-
-```
-Di fronte a un antico palazzo cinese illuminato a giorno di notte, un gruppo di eleganti bellezze cinesi che indossano lunghi abiti bianchi aderenti, eseguono movimenti di danza sincronizzati con le braccia alzate, illuminazione cinematografica, ultra realistico, alta definizione, 8k
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Prompt video di Runway Gen-3 per una scena di palazzo cinese"></a>
-
-📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=795)**
-
-**Autore:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **Fonte:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **Pubblicato:** Mar 4, 2026
 
 ---
 ### Esempio di struttura di prompt cinematografico
@@ -2953,6 +2934,41 @@ Video promozionale in stile cinese, di qualità cinematografica, con immagini fr
 **Autore:** [破忒头](https://x.com/potetou7811) | **Fonte:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **Pubblicato:** Mar 1, 2026
 
 ---
+### Seedance 2.0: Prompt per il video di transizione "Card Check"
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt estremamente dettagliato, con codifica temporale e tecnicamente specifico per Seedance 2.0, per generare una sequenza di transizione video di 10 secondi, che inizia con un personaggio che manipola una singola carta e termina con una rivelazione drammatica di una nuova, seducente identità (una figura con orecchie da gatto). Il prompt specifica angolazioni della telecamera, dinamiche di movimento, illuminazione ed effetti visivi, proibendo rigorosamente alcuni artefatti come particelle di carta extra.
+
+#### 📝 Prompt
+
+```
+Blocca l'immagine iniziale per il primo fotogramma, proporzioni 16:9, durata totale 10s. La scena si apre con un primo piano medio diagonale dal basso.
+
+La parte superiore del corpo è parzialmente visibile, la testa è sul lato sinistro. L'indice e il medio della mano destra tengono una singola carta di lato al centro dello schermo, lo sguardo è Stoico (fermo e calmo), il viso presenta un'espressione Minimalista (minimalista) e Laser-focused (concentrazione laser).
+
+0s - 2s (Energia cinetica di apertura: Manipolazione fisica calma): A 1.6s, il polso ruota leggermente, facendo capovolgere la faccia della carta isolata e mostrando il suo dorso rosso. Questa energia cinetica funge da punto di ancoraggio per attivare la telecamera a raddrizzarsi ed eseguire un fluido Dolly Out, rivelando il corridoio a mezza inquadratura con illuminazione a matrice bianca fredda e pavimentazione lucida.
+
+2s - 4s (Allungamento dello spazio e traiettoria ad arco della singola carta): Il protagonista ruota la (singola carta 1.5) con entrambe le mani e poi le allontana fluidamente (Le mani si allontanano senza alcun movimento di lancio). La singola carta da gioco, come attratta da una forza magnetica, esegue una rotazione orizzontale ad alta velocità (High-speed horizontal axis-spin) parallela al terreno, centrata sul suo asse, e segue una traiettoria orizzontale ad arco semicircolare da destra a sinistra all'altezza delle spalle. Proibire rigorosamente effetti di spruzzo di particelle, proibire rigorosamente che la carta voli verso la telecamera (asse Z), e proibire assolutamente qualsiasi persistenza di pixel di una seconda carta nello spazio (Assolutamente zero particelle di carta extra). Contemporaneamente, la telecamera si allontana rapidamente a campo lungo, lasciando il centro della visuale interamente alla traiettoria della carta rotante isolata.
+
+4s - 6s (Rimbalzo della telecamera e preparazione alla presa della carta): La telecamera utilizza l'inerzia della carta per spingere rapidamente (Dolly In), bloccandosi nuovamente sul soggetto. La mano sinistra afferra precisamente la singola carta e ritrae l'articolazione del polso per prepararsi. In questo momento, l'intero spazio fisico rimane in uno stato di "vuoto di singola carta".
+
+6s - 7s (Transizione oscurante: Il punto critico dalla realtà al palcoscenico): La faccia della carta è mostrata direttamente verso la telecamera. La telecamera utilizza la faccia della carta come punto di ancoraggio per eseguire uno scatto accelerato esponenzialmente. A 5.5s, la faccia della carta occupa completamente il 100% dello schermo, formando un punto di ancoraggio di occlusione fisica, ottenendo un'interruzione spaziale.
+
+7s - 10s (Mutazione dell'identità e fermo immagine accattivante): Nel momento in cui la faccia della carta si apre, avviene una transizione fluida verso un abito rosso, immagine con orecchie da gatto. La scena passa istantaneamente a una composizione con prospettiva forte ultra-grandangolare da 14mm. Situata al centro dello schermo, l'espressione facciale cambia in Alluring (affascinante) e Authoritative gaze (sguardo autorevole), con un Sultry smirk (sorriso sexy) e Dominant elegance (eleganza dominante).
+
+La mano sinistra del protagonista è aperta, puntando dritto verso la telecamera con una dinamica penetrante. Il palmo appare estremamente grande a causa della prospettiva, creando un effetto di rottura dello schermo, e il corpo è leggermente inclinato all'indietro. Lo sfondo è ora passato a uno sfondo scuro e una cornice dorata intagliata. Una forte retroilluminazione dall'alto delinea un'illuminazione di contorno netta sulle orecchie da gatto e sui capelli argentati del soggetto. Il materiale dell'abito rosso mostra un profondo gradiente di luce e ombra sotto la luce laterale.
+
+Diverse carte da gioco, fuori fuoco, ruotano lentamente come elementi in primo piano, creando un senso di profondità spaziale lacerante. L'indice destro del soggetto tocca leggermente la mascella, gli occhi fissi sulla telecamera. La scena si blocca infine in una postura splendida con estrema profondità cinematografica.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0: Prompt per il video di transizione "Card Check""></a>
+
+📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=730)**
+
+**Autore:** [李岳](https://x.com/liyue_ai) | **Fonte:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **Pubblicato:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3014,6 +3030,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-03-06T06:29:54.054Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-03-06T08:39:05.255Z</sub>
 
 </div>

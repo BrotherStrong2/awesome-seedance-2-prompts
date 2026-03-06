@@ -68,7 +68,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **704** |
+| 📝 提示词总数 | **703** |
 | ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-03-06** |
 
@@ -1297,25 +1297,6 @@ Segment 1:
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=813)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **发布时间:** Mar 4, 2026
-
----
-### Runway Gen-3 视频提示：中国宫殿场景
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个为 Runway Gen-3 设计的提示，用于生成一段视频：优雅的中国女性在灯火通明的古老宫殿前翩翩起舞，强调电影般的画质和高细节。
-
-#### 📝 提示词
-
-```
-在夜晚灯火通明的中国古宫殿前，一群身着白色修身长裙的优雅中国美女，手臂高举，舞姿同步，电影级灯光，超现实，高细节，8k
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Runway Gen-3 视频提示：中国宫殿场景"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=795)**
-
-**作者:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **来源:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **发布时间:** Mar 4, 2026
 
 ---
 ### 电影级提示词结构示例
@@ -2965,6 +2946,41 @@ product design, [object or vehicle with material accents], exploded view diagram
 **作者:** [破忒头](https://x.com/potetou7811) | **来源:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **发布时间:** Mar 1, 2026
 
 ---
+### Seedance 2.0 提示词，用于“卡片检查”过渡视频
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个极其详细、带有时间码且技术性极强的 Seedance 2.0 提示，用于生成一个 10 秒的视频转场序列，该序列以一个角色操纵一张卡片开始，并以戏剧性地揭示一个全新的、诱人的身份（猫耳形象）结束。该提示详细说明了摄像机角度、运动动态、灯光和视觉效果，并严格禁止了某些伪影，如额外的卡片粒子。
+
+#### 📝 提示词
+
+```
+锁定首帧初始图像，宽高比 16:9，总时长 10 秒。场景以对角低角度中景特写开场。
+
+上半身部分可见，头部偏左。右手食指和中指仅侧向持有一张扑克牌，横贯屏幕中央，眼神坚毅（firm and calm），面部呈现出专注（laser-like concentration）且极简（minimalist）的表情。
+
+0 秒 - 2 秒（开场动能：平静的物理操控）：在 1.6 秒时，手腕轻微旋转，使孤立的牌面翻转，露出红色背面。此动能作为锚点，触发摄像机拉直并执行平滑的推拉（Dolly Out），展现出带有冷白色矩阵灯光和高光地板的中景走廊。
+
+2 秒 - 4 秒（空间拉伸与单张卡牌弧线轨迹）：主角双手旋转（单张卡牌 1.5），然后平滑地将双手分开（双手分开，无任何抛掷动作）。这张单张扑克牌仿佛受到磁力吸引，以其轴心为中心，平行于地面进行高速水平自旋（High-speed horizontal axis-spin），并沿着从右到左的水平半圆形弧线轨迹在肩部高度移动。严禁粒子喷射效果，严禁卡牌飞向摄像机（Z 轴），绝对禁止空间中出现第二张卡牌的任何像素残影（Absolutely zero extra card particles）。同时，摄像机快速拉远至全景，将画面中心完全留给孤立旋转卡牌的轨迹。
+
+4 秒 - 6 秒（摄像机回弹与卡牌接取准备）：摄像机利用卡牌的惯性快速推近（Dolly In），重新锁定主体。左手精准接住单张卡牌并收回腕关节进行准备。此时，整个物理空间仍处于“单卡真空”状态。
+
+6 秒 - 7 秒（遮蔽过渡：从现实到舞台的临界点）：牌面直接面向摄像机。摄像机以牌面为聚焦锚点，执行指数级加速冲刺。在 5.5 秒时，牌面完全占据屏幕 100%，形成物理遮挡锚点，实现空间中断。
+
+7 秒 - 10 秒（身份变异与迷人定格）：牌面滑开的瞬间，平滑过渡到红色连衣裙、猫耳形象。场景瞬间切换到 14 毫米超广角强透视构图。位于屏幕中央，面部表情变为魅惑（charming）和权威（authoritative gaze），带着性感的坏笑（sultry smirk）和掌控的优雅（dominant elegance）。
+
+主角左手张开，以穿透性的动态直指摄像机。手掌因透视效果显得异常巨大，营造出破屏效果，身体略微后倾。背景已切换为深色背景和金色雕花画框。顶部强烈的逆光勾勒出主体猫耳和银发清晰的轮廓光。红色连衣裙材质在侧光下呈现出深邃的光影渐变。
+
+多张失焦的扑克牌作为前景元素缓慢旋转，营造出撕裂般的空间深度感。主体右手食指轻触下颌，目光锁定摄像机。场景最终以极具电影感的华丽姿态定格。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 提示词，用于“卡片检查”过渡视频"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=730)**
+
+**作者:** [李岳](https://x.com/liyue_ai) | **来源:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **发布时间:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 更多提示词
@@ -3026,6 +3042,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-03-06T06:29:11.322Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-03-06T08:38:41.017Z</sub>
 
 </div>

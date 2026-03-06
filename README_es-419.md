@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **704** |
+| 📝 Total de prompts | **703** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-03-06** |
 
@@ -1294,25 +1294,6 @@ Pantalla horizontal 16:9, estética de película de zombis de Hong Kong de los 8
 📥 *Haz clic en la imagen para descargar el video* | **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=813)**
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Fuente:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **Publicado:** Mar 4, 2026
-
----
-### Prompt de video de Runway Gen-3 para escena de Palacio Chino
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt diseñado para Runway Gen-3 para generar un video de elegantes mujeres chinas bailando frente a un palacio antiguo brillantemente iluminado por la noche, enfatizando la calidad cinematográfica y el alto nivel de detalle.
-
-#### 📝 Prompt
-
-```
-Frente a un palacio chino antiguo brillantemente iluminado por la noche, un grupo de elegantes bellezas chinas con vestidos largos blancos ajustados, realizando movimientos de baile sincronizados con los brazos en alto, iluminación cinematográfica, ultra realista, alto detalle, 8k
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de Runway Gen-3 para escena de Palacio Chino"></a>
-
-📥 *Haz clic en la imagen para descargar el video* | **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=795)**
-
-**Autor:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **Fuente:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **Publicado:** Mar 4, 2026
 
 ---
 ### Ejemplo de estructura de prompt cinematográfico
@@ -2947,6 +2928,41 @@ Video promocional con calidad cinematográfica de Nuevo Estilo Chino, la imagen 
 **Autor:** [破忒头](https://x.com/potetou7811) | **Fuente:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **Publicado:** Mar 1, 2026
 
 ---
+### Seedance 2.0: Prompt para el video de transición de "Card Check"
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Una instrucción extremadamente detallada, con código de tiempo y técnicamente específica para que Seedance 2.0 genere una secuencia de transición de video de 10 segundos, que comienza con un personaje manipulando una sola carta y termina en una revelación dramática de una nueva y atractiva identidad (figura con orejas de gato). La instrucción especifica ángulos de cámara, dinámicas de movimiento, iluminación y efectos visuales, prohibiendo estrictamente ciertos artefactos como partículas de cartas adicionales.
+
+#### 📝 Prompt
+
+```
+Bloquee la imagen inicial para el primer fotograma, relación de aspecto 16:9, duración total 10s. La escena comienza con un primer plano medio en ángulo bajo diagonal.
+
+La parte superior del cuerpo es parcialmente visible, la cabeza está en el lado izquierdo. Los dedos índice y medio derechos solo sostienen una sola carta de lado a través del centro de la pantalla, la mirada es Estoica (firme y tranquila), el rostro presenta una expresión Minimalista (minimalista) con concentración tipo láser (Laser-focused).
+
+0s - 2s (Energía cinética de apertura: Manipulación física tranquila): A los 1.6s, la muñeca gira ligeramente, haciendo que la cara aislada de la carta se voltee y muestre su dorso rojo. Esta energía cinética actúa como un punto de anclaje para que la cámara se enderece y ejecute un suave Dolly Out, revelando el pasillo en plano medio con iluminación de matriz blanca fría y suelo de alto brillo.
+
+2s - 4s (Estiramiento del espacio y trayectoria de arco de una sola carta): El protagonista gira la (carta única 1.5) con ambas manos y luego las separa suavemente (Las manos se separan sin ningún movimiento de lanzamiento). La única carta de juego, como si fuera atraída por una fuerza magnética, ejecuta un giro horizontal de alta velocidad sobre su propio eje (High-speed horizontal axis-spin) paralelo al suelo, centrado en su eje, y sigue una trayectoria de arco semicircular horizontal de derecha a izquierda a la altura del hombro. Prohibido estrictamente los efectos de pulverización de partículas, prohibido estrictamente que la carta vuele hacia la cámara (eje Z), y absolutamente prohibido cualquier rastro de píxeles de una segunda carta en el espacio (Absolutely zero extra card particles). Simultáneamente, la cámara se aleja rápidamente a un plano completo, dejando el centro de la vista completamente a la trayectoria de la carta giratoria aislada.
+
+4s - 6s (Rebote de la cámara y preparación para atrapar la carta): La cámara utiliza la inercia de la carta para acercarse rápidamente (Dolly In), volviendo a enfocar al sujeto. La mano izquierda atrapa con precisión la carta única y retrae la articulación de la muñeca para prepararse. En este momento, todo el espacio físico permanece en un estado de "vacío de una sola carta".
+
+6s - 7s (Transición de ocultación: El punto crítico de la realidad al escenario): La cara de la carta se muestra directamente hacia la cámara. La cámara utiliza la cara de la carta como punto de anclaje de enfoque para ejecutar un movimiento rápido acelerado exponencialmente. A los 5.5s, la cara de la carta ocupa completamente el 100% de la pantalla, formando un punto de anclaje de oclusión física, logrando una interrupción espacial.
+
+7s - 10s (Mutación de identidad y fotograma congelado cautivador): En el momento en que la cara de la carta se desliza, se produce una transición suave a una imagen de vestido rojo con orejas de gato. La escena cambia instantáneamente a una composición de perspectiva fuerte de ángulo ultra amplio de 14 mm. Ubicada en el centro de la pantalla, la expresión facial cambia a una mirada Seductora (charming) y Autoritaria (authoritative gaze), con una sonrisa sensual (Sultry smirk) y elegancia Dominante (controlling elegance).
+
+La mano izquierda del protagonista está extendida, apuntando directamente a la cámara en una dinámica penetrante. La palma parece extremadamente grande debido a la perspectiva, creando un efecto de ruptura de pantalla, y el cuerpo está ligeramente inclinado hacia atrás. El fondo ahora ha cambiado a un telón de fondo oscuro y un marco de fotos tallado en oro. Una fuerte luz de fondo desde arriba delinea una iluminación de contorno nítida en las orejas de gato y el cabello plateado del sujeto. El material del vestido rojo muestra un profundo gradiente de luz y sombra bajo la luz lateral.
+
+Múltiples cartas de juego, fuera de foco, giran lentamente como elementos de primer plano, creando una sensación de desgarro de profundidad espacial. El dedo índice derecho del sujeto toca ligeramente la mandíbula, con los ojos fijos en la cámara. La escena finalmente se congela en una postura magnífica con una profundidad cinematográfica extrema.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0: Prompt para el video de transición de "Card Check""></a>
+
+📥 *Haz clic en la imagen para descargar el video* | **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=730)**
+
+**Autor:** [李岳](https://x.com/liyue_ai) | **Fuente:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **Publicado:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -3008,6 +3024,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-03-06T06:29:42.222Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-03-06T08:38:53.497Z</sub>
 
 </div>

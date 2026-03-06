@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **704** |
+| 📝 Gesamtanzahl Prompts | **703** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-03-06** |
 
@@ -1293,25 +1293,6 @@ Segment 1:
 📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=813)**
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Quelle:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **Veröffentlicht:** Mar 4, 2026
-
----
-### Runway Gen-3 Video-Prompt für eine chinesische Palastszene
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Prompt für Runway Gen-3, um ein Video von eleganten chinesischen Frauen zu generieren, die nachts vor einem hell erleuchteten alten Palast tanzen, wobei der Schwerpunkt auf cineastischer Qualität und hoher Detailgenauigkeit liegt.
-
-#### 📝 Prompt
-
-```
-Vor einem hell erleuchteten, antiken chinesischen Palast bei Nacht tanzt eine Gruppe eleganter chinesischer Schönheiten in weißen, figurbetonten langen Kleidern synchron mit erhobenen Armen. Die Szene ist filmisch beleuchtet, ultrarealistisch, detailreich und in 8k.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Runway Gen-3 Video-Prompt für eine chinesische Palastszene"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=795)**
-
-**Autor:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **Quelle:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **Veröffentlicht:** Mar 4, 2026
 
 ---
 ### Beispiel für eine Cinematic Prompting-Struktur
@@ -2945,6 +2926,41 @@ Neues chinesisches Werbevideo in Kinoqualität: Das Bild ist frisch und romantis
 **Autor:** [破忒头](https://x.com/potetou7811) | **Quelle:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **Veröffentlicht:** Mar 1, 2026
 
 ---
+### Seedance 2.0 Prompt für das Übergangsvideo „Card Check“
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein extrem detaillierter, zeitcodierter und technisch spezifischer Prompt für Seedance 2.0 zur Generierung einer 10-sekündigen Video-Übergangssequenz, die mit einer Figur beginnt, die eine einzelne Karte manipuliert, und in einer dramatischen Enthüllung einer neuen, verführerischen Identität (katzenohrige Figur) endet. Der Prompt spezifiziert Kamerawinkel, Bewegungsdynamik, Beleuchtung und visuelle Effekte und verbietet strikt bestimmte Artefakte wie zusätzliche Kartenpartikel.
+
+#### 📝 Prompt
+
+```
+Sperren Sie das Ausgangsbild für das erste Frame, Seitenverhältnis 16:9, Gesamtdauer 10s. Die Szene beginnt mit einer diagonalen Halbnaheinstellung aus niedriger Perspektive.
+
+Der Oberkörper ist teilweise sichtbar, der Kopf befindet sich auf der linken Seite. Der rechte Zeige- und Mittelfinger halten nur eine einzelne Karte seitlich über die Mitte des Bildschirms, der Blick ist stoisch (fest und ruhig), das Gesicht zeigt einen laserfokussierten (laserartige Konzentration) minimalistischen Ausdruck.
+
+0s - 2s (Öffnende kinetische Energie: Ruhige physische Manipulation): Bei 1,6s dreht sich das Handgelenk leicht, wodurch die isolierte Kartenfläche umklappt und ihre rote Rückseite zeigt. Diese kinetische Energie dient als Ankerpunkt, um die Kamera dazu zu bringen, sich aufzurichten und eine sanfte Dolly-Out-Bewegung auszuführen, die den Korridor in mittlerer Einstellung mit kaltweißer Matrixbeleuchtung und hochglänzendem Boden enthüllt.
+
+2s - 4s (Raumdehnung und Einzelkarten-Bogenbahn): Der Protagonist dreht die (einzelne Karte 1.5) mit beiden Händen und bewegt sie dann sanft auseinander (Hände bewegen sich ohne Wurfgeste auseinander). Die einzelne Spielkarte führt, wie von magnetischer Kraft angezogen, eine schnelle horizontale Eigendrehung (High-speed horizontal axis-spin) parallel zum Boden, zentriert auf ihrer Achse, aus und folgt einer horizontalen halbkreisförmigen Bogenbahn von rechts nach links auf Schulterhöhe. Partikelsprüheffekte sind strengstens untersagt, das Fliegen der Karte zur Kamera (Z-Achse) ist strengstens untersagt, und jegliche Pixel-Nachbilder einer zweiten Karte im Raum sind absolut untersagt (Absolutely zero extra card particles). Gleichzeitig zoomt die Kamera schnell zu einer Totalen heraus, wodurch die Mitte des Bildes vollständig der Bahn der isolierten sich drehenden Karte überlassen wird.
+
+4s - 6s (Kamera-Rebound und Vorbereitung zum Kartenfangen): Die Kamera nutzt die Trägheit der Karte, um schnell einzufahren (Dolly In) und sich wieder auf das Motiv zu fixieren. Die linke Hand fängt die einzelne Karte präzise und zieht das Handgelenk zurück, um sich vorzubereiten. Zu diesem Zeitpunkt bleibt der gesamte physische Raum in einem „Einzelkarten-Vakuum“-Zustand.
+
+6s - 7s (Verdeckender Übergang: Der kritische Punkt von der Realität zur Bühne): Die Kartenfläche wird direkt zur Kamera gezeigt. Die Kamera nutzt die Kartenfläche als Fokussierungsankerpunkt, um einen exponentiell beschleunigten Dash auszuführen. Bei 5,5s nimmt die Kartenfläche 100% des Bildschirms ein und bildet einen physischen Okklusionsankerpunkt, wodurch eine räumliche Unterbrechung erreicht wird.
+
+7s - 10s (Identitätsmutation und fesselndes Standbild): In dem Moment, in dem die Kartenfläche aufgleitet, erfolgt ein fließender Übergang zu einem roten Kleid, katzenohrigen Bild. Die Szene wechselt sofort zu einer Ultra-Weitwinkel-14mm-Komposition mit starker Perspektive. In der Mitte des Bildschirms ändert sich der Gesichtsausdruck zu einem verführerischen (charming) und autoritären Blick (authoritative gaze), mit einem sinnlichen Grinsen (sexy sneer) und dominanter Eleganz (controlling elegance).
+
+Die linke Hand des Protagonisten ist ausgebreitet und zeigt in einer durchdringenden Dynamik direkt auf die Kamera. Die Handfläche erscheint aufgrund der Perspektive extrem groß, wodurch ein bildschirmbrechender Effekt entsteht, und der Körper lehnt sich leicht zurück. Der Hintergrund ist nun zu einer dunklen Kulisse und einem goldgeschnitzten Bilderrahmen gewechselt. Starkes Gegenlicht von oben zeichnet scharfe Randlichter auf den Katzenohren und dem silbernen Haar des Motivs. Das Material des roten Kleides zeigt einen tiefen Licht- und Schattenverlauf unter dem Seitenlicht.
+
+Mehrere Spielkarten, unscharf, drehen sich langsam als Vordergrundelemente und erzeugen ein zerreißendes Gefühl räumlicher Tiefe. Der rechte Zeigefinger des Motivs berührt leicht den Kiefer, die Augen sind auf die Kamera gerichtet. Die Szene friert schließlich in einer wunderschönen Pose mit extremer filmischer Tiefe ein.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt für das Übergangsvideo „Card Check“"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=730)**
+
+**Autor:** [李岳](https://x.com/liyue_ai) | **Quelle:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **Veröffentlicht:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3006,6 +3022,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-03-06T06:29:46.122Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-03-06T08:38:57.423Z</sub>
 
 </div>

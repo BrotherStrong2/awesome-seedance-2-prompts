@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **704** |
+| 📝 Total de prompts | **703** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-03-06** |
 
@@ -1292,25 +1292,6 @@ Tela horizontal 16:9, estética de filme de zumbi estilo Hong Kong dos anos 80, 
 📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=813)**
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2029185241965875341) | **Publicado:** Mar 4, 2026
-
----
-### Prompt de Vídeo Runway Gen-3 para Cena de Palácio Chinês
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt projetado para o Runway Gen-3 para gerar um vídeo de mulheres chinesas elegantes dançando em frente a um antigo palácio bem iluminado à noite, enfatizando a qualidade cinematográfica e o alto nível de detalhes.
-
-#### 📝 Prompt
-
-```
-Em frente a um palácio chinês antigo bem iluminado à noite, um grupo de elegantes belezas chinesas vestindo vestidos longos brancos justos, realizando movimentos de dança sincronizados com os braços erguidos, iluminação cinematográfica, ultrarrealista, alta definição, 8k
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/795.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67c4b285b3ee052a592c97a8ff4dae55/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo Runway Gen-3 para Cena de Palácio Chinês"></a>
-
-📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=795)**
-
-**Autor:** [Web4 杰克院长](https://x.com/JackyDeanBTC) | **Fonte:** [Link](https://x.com/JackyDeanBTC/status/2029181898904510902) | **Publicado:** Mar 4, 2026
 
 ---
 ### Exemplo de Estrutura de Prompt Cinematográfico
@@ -2947,6 +2928,41 @@ Vídeo promocional com qualidade cinematográfica no Novo Estilo Chinês, a imag
 **Autor:** [破忒头](https://x.com/potetou7811) | **Fonte:** [Link](https://x.com/potetou7811/status/2028036590753271922) | **Publicado:** Mar 1, 2026
 
 ---
+### Seedance 2.0 Prompt para o Vídeo de Transição 'Card Check'
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt extremamente detalhado, com marcação de tempo e tecnicamente específico para o Seedance 2.0 gerar uma sequência de transição de vídeo de 10 segundos, começando com um personagem manipulando uma única carta e terminando em uma revelação dramática de uma nova e sedutora identidade (figura com orelhas de gato). O prompt especifica ângulos de câmera, dinâmica de movimento, iluminação e efeitos visuais, proibindo estritamente certos artefatos, como partículas extras de cartas.
+
+#### 📝 Prompt
+
+```
+Fixe a imagem inicial para o primeiro quadro, proporção 16:9, duração total 10s. A cena começa com um Plano Médio Fechado Diagonal de Ângulo Baixo.
+
+A parte superior do corpo está parcialmente visível, a cabeça está no lado esquerdo. Os dedos indicador e médio da mão direita estão segurando apenas uma única carta de lado no centro da tela, o olhar é Estoico (firme e calmo), o rosto apresenta uma expressão Minimalista (minimalista) com Concentração Laser (concentração semelhante a um laser).
+
+0s - 2s (Energia cinética de abertura: Manipulação física calma): Em 1.6s, o pulso gira ligeiramente, fazendo com que a face isolada da carta vire e exiba seu verso vermelho. Essa energia cinética atua como um ponto de ancoragem para acionar a câmera a se endireitar e executar um suave Dolly Out, revelando o corredor em plano médio com iluminação de matriz branca fria e piso de alto brilho.
+
+2s - 4s (Alongamento do espaço e trajetória em arco de carta única): O protagonista gira a (carta única 1.5) com as duas mãos e depois as afasta suavemente (Mãos se afastam sem qualquer movimento de arremesso). A carta de baralho única, como se atraída por força magnética, executa um giro horizontal de alta velocidade (Giro em eixo horizontal de alta velocidade) paralelo ao chão, centrado em seu eixo, e segue uma trajetória em arco semi-circular horizontal da direita para a esquerda na altura do ombro. Proibir estritamente efeitos de partículas em spray, proibir estritamente a carta de voar em direção à câmera (eixo Z), e proibir absolutamente quaisquer pós-imagens de pixel de uma segunda carta no espaço (Absolutamente zero partículas extras de carta). Simultaneamente, a câmera afasta-se rapidamente para um plano geral, deixando o centro da visão inteiramente para a trajetória da carta giratória isolada.
+
+4s - 6s (Rebote da câmera e preparação para pegar a carta): A câmera usa a inércia da carta para avançar rapidamente (Dolly In), travando de volta no sujeito. A mão esquerda pega precisamente a carta única e retrai a articulação do pulso para se preparar. Neste momento, todo o espaço físico permanece em um estado de 'vácuo de carta única'.
+
+6s - 7s (Transição de obscurecimento: O ponto crítico da realidade para o palco): A face da carta é exibida diretamente para a câmera. A câmera usa a face da carta como um ponto de ancoragem de foco para executar um avanço acelerado exponencialmente. Em 5.5s, a face da carta ocupa completamente 100% da tela, formando um ponto de ancoragem de oclusão física, alcançando interrupção espacial.
+
+7s - 10s (Mutação de identidade e quadro congelado cativante): No momento em que a face da carta desliza, ocorre uma transição suave para uma imagem de vestido vermelho com orelhas de gato. A cena muda instantaneamente para uma composição de perspectiva forte de ângulo ultra-amplo de 14mm. Localizada no centro da tela, a expressão facial muda para um olhar Sedutor (charmoso) e Autoritário (olhar autoritário), com um Sorriso Sensual (sorriso sexy) e Elegância Dominante (elegância controladora).
+
+A mão esquerda do protagonista está aberta, apontando diretamente para a câmera em uma dinâmica penetrante. A palma parece extremamente grande devido à perspectiva, criando um efeito de quebra de tela, e o corpo está ligeiramente inclinado para trás. O fundo agora mudou para um cenário escuro e uma moldura dourada esculpida. Uma forte luz de fundo vinda de cima delineia uma iluminação de contorno nítida nas orelhas de gato e no cabelo prateado do sujeito. O material do vestido vermelho mostra um gradiente profundo de luz e sombra sob a luz lateral.
+
+Múltiplas cartas de baralho, fora de foco, giram lentamente como elementos de primeiro plano, criando uma sensação de profundidade espacial. O dedo indicador direito do sujeito toca levemente o queixo, os olhos fixos na câmera. A cena finalmente congela em uma postura deslumbrante com extrema profundidade cinematográfica.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/730.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/314264e519db68c5c1ba036360554df2/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt para o Vídeo de Transição 'Card Check'"></a>
+
+📥 *Clique na imagem para baixar o vídeo* | **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=730)**
+
+**Autor:** [李岳](https://x.com/liyue_ai) | **Fonte:** [Link](https://x.com/liyue_ai/status/2028008930396561624) | **Publicado:** Mar 1, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3008,6 +3024,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-03-06T06:29:57.949Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-03-06T08:39:08.911Z</sub>
 
 </div>
