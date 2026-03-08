@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **714** |
+| 📝 Total des prompts | **725** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-03-08** |
 
@@ -326,6 +326,296 @@ Résume la danse Bollywood dans le mème "Distracted Boyfriend" – assure-toi q
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Point de vue à la première personne d'une adorable créature qui se réveille
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite pour générer une vidéo réconfortante à la première personne. Elle met en scène une créature mignonne et duveteuse dormant dans la paume d'une main humaine, réveillée doucement d'une pichenette, puis instantanément excitée à la vue d'une sucette, le tout en mettant l'accent sur une atmosphère douillette et douce, et une animation détaillée et expressive.
+
+#### 📝 Prompt
+
+```
+À la première personne, une créature ultra-mignonne, douce et duveteuse dort profondément dans la paume d'une main humaine. La personne qui filme tapote doucement la joue potelée de [@Image 1] du bout du doigt et dit doucement : « Réveille-toi. » [@Image 1] plisse les yeux, fait sa capricieuse et marmonne doucement : « Non, je ne veux pas~ »
+La seconde d'après, la personne qui filme sort une sucette sucrée. [@Image 1] ouvre instantanément ses grands yeux ronds, criant avec excitation : « Donne-la-moi vite ! » Elle saute immédiatement de la paume, serre fermement la sucette avec ses petits bras et secoue son corps avec anxiété : « Donne-la-moi maintenant~ »
+La scène est apaisante et chaleureuse, avec un éclairage doux, des détails exquis, des expressions vives et mignonnes, et une atmosphère pleine de charme.
+```
+
+<img src="https://cms-assets.youmind.com/media/1772949348373_k6u7d9_HC3QCshasAArqMZ.jpg" width="600" alt="Point de vue à la première personne d'une adorable créature qui se réveille">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=855)**
+
+**Auteur:** [PlayForge AI](https://x.com/94vanAI) | **Source:** [Link](https://x.com/94vanAI/status/2030507765739769999) | **Publié:** Mar 8, 2026
+
+---
+### Prompt pour diorama miniature hyperréaliste en stop-motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour générer une vidéo d'animation en volume (stop-motion) hyperréaliste de 12 secondes, représentant un diorama miniature, avec cinq coupes de caméra impeccables. L'invite spécifie un style d'animation en pâte à modeler professionnel, des matériaux tactiles faits à la main, un contrôle précis des prises de vue multiples (gros plan, plan large), des effets physiques intégrés (étincelle, bourdonnement) et une sculpture détaillée des personnages (visage creusé, cernes).
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 réalise une vidéo stop-motion hyperréaliste de diorama miniature de 12 secondes à partir d'une seule invite, avec 5 coupes de caméra impeccables.
+
+Cela réduit votre temps de montage vidéo de plusieurs heures à quelques minutes, doublant la production de mèmes pour le crypto Twitter, transformant plus rapidement les informations en argent.
+
+• Seedance 2.0 gère le style d'animation en pâte à modeler stop-motion professionnel, jusqu'à la chemise en tissu véritable froissée et non rentrée.
+
+L'invite demande des matériaux tactiles faits à la main, le résultat offre un rebond de chemise authentique sur les draps, sans modélisation physique complète.
+
+• Contrôle multi-plan précis : gros plan, très gros plan, plan large — 5 coupes au total.
+
+Chaque [coupe] s'enchaîne parfaitement, reliant la chute de la figurine en pâte à modeler à travers la porte au branchement du câble sans interruption.
+
+• Physique et effets spéciaux intégrés : les prises de câble en pâte à modeler étincellent et bourdonnent, l'écran du ventre passe de 1 % à 12 %.
+
+La lumière du samedi à travers la fenêtre semble naturelle, la physique de la tension du câble est parfaite, surpassant les boucles 2D de base.
+
+• La profondeur d'analyse des invites excelle : le texte VENDREDI 23:00 sur une fine bande de batterie rouge est rendu à l'identique.
+
+Le visage creusé et les cernes profonds sont sculptés fidèlement image par image, évitant le flou typique de l'IA.
+```
+
+<img src="https://cms-assets.youmind.com/media/1772949350531_zz215i_HC1-_iSagAA7yK9.jpg" width="600" alt="Prompt pour diorama miniature hyperréaliste en stop-motion">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=858)**
+
+**Auteur:** [微型土拨鼠](https://x.com/micromarmot) | **Source:** [Link](https://x.com/micromarmot/status/2030418640622047696) | **Publié:** Mar 7, 2026
+
+---
+### Scène d'aventure cinématographique dans des ruines de jungle antique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite très détaillée et multi-scènes pour Seedance 2.0 afin de générer une séquence d'aventure cinématographique. Elle décrit le décor (ruines de jungle au lever du soleil), les personnages (explorateurs et un guide mystérieux), les mouvements de caméra (descente aérienne, gros plans, cercles) et les dialogues, visant un style de film dramatique, réaliste et épique.
+
+#### 📝 Prompt
+
+```
+Une scène d'aventure cinématographique se déroulant dans une vallée de jungle cachée au lever du soleil. D'énormes ruines de pierre anciennes couvertes de mousse s'élèvent d'une végétation tropicale dense. Des statues géantes de guerriers oubliés se dressent brisées parmi de hauts piliers enveloppés de lianes. Une mystérieuse plate-forme circulaire en pierre se trouve au centre des ruines.
+
+Huit explorateurs d'horizons différents se tiennent sur la plate-forme, vêtus de vêtements d'expédition robustes mélangés à des artefacts tribaux qu'ils ont découverts dans les ruines. Leurs visages expriment la tension, la curiosité et la détermination.
+
+Un guide mystérieux vêtu d'un équipement d'expédition moderne sombre traverse lentement la plate-forme tandis que les explorateurs l'observent attentivement. Le vent souffle à travers la canopée de la jungle et les anciennes bannières en tissu suspendues aux piliers. Des torches brûlent de flammes oranges, créant des ombres mouvantes sur les sculptures en pierre.
+
+La caméra commence par un large plan aérien révélant l'énorme vallée de jungle et les ruines cachées, la brume matinale flottant entre les arbres. La caméra descend lentement vers la plate-forme.
+
+Coupe sur des gros plans de plusieurs explorateurs : yeux concentrés, sueur sur leurs visages, mains touchant d'anciens symboles gravés sur le sol en pierre.
+
+Le guide s'arrête au centre et parle calmement :
+
+« Chaque civilisation laisse derrière elle une épreuve. Seuls ceux qui comprennent le passé peuvent contrôler l'avenir. »
+
+Un lointain tonnerre sourd résonne à travers la vallée. La caméra tourne lentement autour du groupe alors qu'ils se regardent, réalisant que c'est le début d'une dangereuse expédition.
+
+Plan final : un explorateur s'agenouille et trace un ancien symbole lumineux sur le sol, suggérant des secrets cachés à l'intérieur des ruines.
+
+Éclairage ultra-cinématographique, atmosphère dramatique, jeu d'acteur humain réaliste, style de film d'aventure épique, brouillard volumétrique au lever du soleil, ambiance jungle, mouvement naturel du vent, faible profondeur de champ, aspect d'objectif anamorphique, léger reflet d'objectif, textures très détaillées, simulation d'environnement réaliste.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/850.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b48e4bfb896fd3da1174fdd12857aca/thumbnails/thumbnail.jpg" width="600" alt="Scène d'aventure cinématographique dans des ruines de jungle antique"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=850)**
+
+**Auteur:** [Ayyoub Ai](https://x.com/MaAyyoub) | **Source:** [Link](https://x.com/MaAyyoub/status/2030412010056303029) | **Publié:** Mar 7, 2026
+
+---
+### Diorama d'animation en argile hyperréaliste d'un personnage épuisé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite détaillée en plusieurs parties pour Seedance 2.0 afin de générer une vidéo d'animation en pâte à modeler image par image. Elle se concentre sur un diorama miniature hyperréaliste d'un personnage s'effondrant dans son lit et se branchant à une prise murale, en mettant l'accent sur les matériaux tactiles, les coupes de caméra spécifiques et un indicateur de batterie faible sur son ventre.
+
+#### 📝 Prompt
+
+```
+Diorama miniature hyperréaliste, animation en pâte à modeler en stop-motion, matériaux tactiles faits à la main, tissu véritable, style d'animation de studio professionnel — chambre miniature, vendredi soir, une figurine en pâte à modeler trébuche en passant la porte avec un énorme visage creusé, des cernes sombres sculptés profondément sous de minuscules yeux morts, traînant les pieds, chemise en tissu véritable froissée et débraillée [coupe] gros plan : il s'effondre face contre terre sur le lit, son corps gigantesque rebondit une fois sur les draps en tissu véritable, les bras mous [coupe] très gros plan : sa main énorme et tremblante se tend derrière son propre dos, tâtonne pour trouver une prise entre ses omoplates, branche un épais câble en pâte à modeler connecté au mur — une étincelle, un léger bourdonnement [coupe] gros plan : sur son énorme ventre, un écran miniature s'allume en clignotant — 1 %, une fine bande rouge, le mot VENDREDI 23:00 en dessous [coupe] plan large : la lumière du samedi matin inonde la fenêtre miniature, il n'a pas bougé d'un millimètre, le câble tendu du mur à son dos, une couverture en tissu véritable est maintenant drapée sur lui d'une manière ou d'une autre [coupe] gros plan : l'écran sur son ventre indique 12 %, toujours rouge.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/851.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/378aa609f178334dc0c5d3d77755248b/thumbnails/thumbnail.jpg" width="600" alt="Diorama d'animation en argile hyperréaliste d'un personnage épuisé"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=851)**
+
+**Auteur:** [AlexandrIA](https://x.com/AleRVG) | **Source:** [Link](https://x.com/AleRVG/status/2030344419560264015) | **Publié:** Mar 7, 2026
+
+---
+### Chaton sournois faisant défiler son téléphone sous les couvertures
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite détaillée et multi-scènes pour Seedance 2.0 afin de générer une vidéo humoristique et réaliste sur un chaton utilisant secrètement un téléphone la nuit. L'invite spécifie le style, l'éclairage, les mouvements de caméra et une séquence narrative impliquant le chaton cachant le téléphone à l'approche de sa mère.
+
+#### 📝 Prompt
+
+```
+Style réaliste, écran vertical, éclairage cinématographique chaleureux. [0-5s] Gros plan sur le lit, léger tremblement de caméra à la main, faible profondeur de champ. Chambre de fin de soirée avec la lueur chaude et tamisée d'une lampe de chevet. Un petit chaton tigré orange est allongé dans son lit sous une couverture douillette, faisant défiler secrètement un téléphone. L'écran du téléphone projette une douce lueur bleue sur son visage poilu. Son expression est concentrée et amusée, de minuscules pattes balayant l'écran, laissant échapper de temps en temps un petit rire discret. [5-10s] Plan rapproché, mouvement de caméra rapide. Soudain, le chaton entend de doux pas de patte devant la porte. Ses oreilles se dressent de panique. Le chaton glisse rapidement le téléphone sous l'oreiller. Il plonge sous les couvertures, ferme les yeux et fait semblant de dormir profondément. Ses petites oreilles tressautent nerveusement. [10-13s] Plan large depuis l'embrasure de la porte, caméra fixe, grande profondeur de champ. La porte de la chambre s'entrouvre lentement. Une grande maman chatte tigrée orange passe la tête, les yeux sévères et méfiants. Une douce lumière pénètre du couloir. Elle scanne le lit attentivement. Le chaton fait semblant de dormir de façon dramatique — corps raide, ronflements exagérés. La maman chatte plisse les yeux, sceptique, puis referme lentement la porte. Dès que la porte se ferme, le chaton ouvre sournoisement un œil avec un sourire malicieux, et sort discrètement le téléphone de sous l'oreiller pour continuer à faire défiler.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/853.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d534f0d0814580e0fd513af6012368af/thumbnails/thumbnail.jpg" width="600" alt="Chaton sournois faisant défiler son téléphone sous les couvertures"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=853)**
+
+**Auteur:** [𝗦𝘆𝗲𝗱 𝗔𝗯𝘂𝘁𝗵𝗮𝗵𝗶𝗿 ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2030329647142211763) | **Publié:** Mar 7, 2026
+
+---
+### Scène de combat d'anime : Chevalier contre monstre de l'ombre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour Seedance 2.0 afin de générer une scène de combat d'anime dynamique mettant en scène un chevalier aux cheveux argentés affrontant un monstre des ombres à cornes, incluant des séquences d'action et un travail de caméra spécifiques.
+
+#### 📝 Prompt
+
+```
+Chevalier aux cheveux d'argent contre monstre des ombres à cornes.
+
+Attaque plongeante météore.
+Combo de lames rémanentes.
+Mouvement de caméra cinématique.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/852.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c39dd9a2d0ceb1191886ecbf6f23941/thumbnails/thumbnail.jpg" width="600" alt="Scène de combat d'anime : Chevalier contre monstre de l'ombre"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=852)**
+
+**Auteur:** [Andreas Hutapea](https://x.com/andrehutap775) | **Source:** [Link](https://x.com/andrehutap775/status/2030290746264502534) | **Publié:** Mar 7, 2026
+
+---
+### Prompt de génération vidéo pour un focus sur les pieds et les jambes d'un modèle cosplay
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite de génération vidéo décrivant une scène où un acteur réel, habillé en modèle de cosplay lors d'une exposition, est filmé avec une caméra ultra-haute définition. La mise au point commence sur ses pieds en talons hauts, remonte lentement le long de ses jambes (portant des bas noirs) et se termine sur ses hanches, le plan final cadrant son menton, masquant l'intégralité de son visage.
+
+#### 📝 Prompt
+
+```
+Un acteur réel jouant un rôle en direct, un modèle participant à une exposition de cosplay. Une caméra ultra haute définition se concentre sur une paire de beaux pieds chaussés de talons hauts. La caméra tourne autour du personnage, remontant lentement, les jambes sont vêtues de bas noirs, remontant jusqu'aux hanches du personnage, et finalement la caméra se pose sur le menton du personnage, masquant entièrement le visage.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/859.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6f5c7f3e6c0e2e6e2903865a644fcb2/thumbnails/thumbnail.jpg" width="600" alt="Prompt de génération vidéo pour un focus sur les pieds et les jambes d'un modèle cosplay"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=859)**
+
+**Auteur:** [极客先生](https://x.com/MrGeekmister) | **Source:** [Link](https://x.com/MrGeekmister/status/2030251280963391858) | **Publié:** Mar 7, 2026
+
+---
+### Vidéo POV du marché de nuit avec ma petite amie taïwanaise
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite détaillée et multi-scènes pour une vidéo POV verticale de 15 secondes simulant l'expérience d'une caméra de téléphone portable tenue à la main dans un marché de nuit taïwanais. La scène comprend des changements d'exposition fréquents, un éclairage mixte, du bruit ambiant, ainsi que des actions et des dialogues spécifiques des personnages liés à l'achat et à la consommation de poulet croustillant au sel.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale de 15 secondes, format 9:16, qualité visuelle POV (point de vue) d'une caméra frontale de téléphone, tremblements de main + changements fréquents d'exposition entre clair et sombre, bokeh d'éclairage de marché de nuit mélangé + ampoules jaunes chaudes des étals + néons, environnement sonore bruyant avec bruit du vent et bruit de fond humain. Le personnage principal est une jeune femme taïwanaise [Image 1], cheveux longs détachés, portant un caraco fleuri + un short en jean, avec une légère brillance de sueur sur son visage. Elle tient le téléphone d'une main pour tout le selfie, et la caméra a un léger tremblement de main suivant ses pas.
+0-4 secondes : La jeune femme tient le téléphone face à elle, poussée par la foule dans l'allée bondée du marché de nuit. Sa main libre se tend en arrière, essayant de vous attraper, et elle regarde en arrière avec anxiété. L'arrière-plan montre des foules en mouvement et des points lumineux de bokeh chauds ; Dialogue (criant anxieusement) : « Hé, marche plus vite ! »
+4-8 secondes : Elle s'arrête devant l'étal de poulet croustillant au sel, retourne le téléphone pour viser la grande marmite de friture. L'huile chaude bouillonne, la vapeur est brumeuse, le patron utilise des pinces en fer pour retourner les articles frits, restant environ 3 secondes. Elle retourne le téléphone face à elle, écarquillant silencieusement les yeux et murmurant : « Tellement parfumé » ; [Seul son ambiant, grésillement de friture]
+8-12 secondes : La caméra tremble brièvement vers le bas (transition pour sortir de l'argent), et quand elle se relève, elle tient un sac en papier, pinçant un morceau de poulet croustillant au sel avec ses doigts et le mettant dans sa bouche, mâchant les yeux fermés de plaisir, faisant un pouce levé à la caméra après quelques bouchées ; [Son ambiant bruyant du marché de nuit, pas de dialogue]
+12-15 secondes : La bouche pleine, elle lève le sac en papier et le secoue vers la caméra, puis gonfle ses joues et plisse les yeux vers la caméra avec un sourire, avec un léger tremblement de main ; Dialogue (bouche pleine, étouffé) : « Héhé. »
+Interdiction d'afficher du texte, des sous-titres, des LOGOs ou des filigranes.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/856.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a10693383a2156559ded809d213e482/thumbnails/thumbnail.jpg" width="600" alt="Vidéo POV du marché de nuit avec ma petite amie taïwanaise"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=856)**
+
+**Auteur:** [MapleShaw](https://x.com/msjiaozhu) | **Source:** [Link](https://x.com/msjiaozhu/status/2030247136148050160) | **Publié:** Mar 7, 2026
+
+---
+### Invite vidéo pour une interaction de couple romantique
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite détaillée et multi-scènes pour générer une vidéo romantique dépeignant l'interaction intime d'un couple. Les scènes se concentrent sur un éclairage doux, une fille enveloppée dans une serviette après s'être lavé les cheveux, buvant du thé et des gestes enjoués du point de vue de la première personne, culminant par un baiser soudain sur la caméra.
+
+#### 📝 Prompt
+
+```
+0-3 secondes : L'écran est rempli d'une lumière douce et brumeuse. Elle vient de se laver les cheveux, qui sont humides et légèrement bouclés, avec de minuscules gouttelettes d'eau accrochées aux pointes. Elle est enveloppée dans une serviette de bain de couleur claire, nichée sur le canapé. Elle tient une tasse en porcelaine blanche à deux mains, de la vapeur s'élevant doucement du thé chaud. Elle vous sourit avec des yeux plissés, ses cils encore humides. Un doux son de guitare se fait entendre.
+
+3-5 secondes : Une main (perspective à la première personne) arrive doucement du coin supérieur droit du cadre, caressant et frottant le dessus de ses cheveux doux, faisant légèrement trembler les gouttelettes d'eau. Elle ferme les yeux et glousse doucement, comme un chat que l'on caresse, laissant échapper un doux « Mmm~ » de sa gorge.
+
+5-7 secondes : Un doigt lui pince la joue de manière espiègle, faisant légèrement gonfler sa joue gauche. Elle souffle sur le thé chaud, son souffle portant le parfum du thé.
+
+7-8,5 secondes : La main à la première personne lui pince la joue. Elle regarde droit dans la caméra (comme si elle vous regardait dans les yeux), et dit doucement avec un sourire : « Arrête de me taquiner. »
+
+8,5-9,5 secondes : La caméra zoome soudainement !
+
+9,5-10 secondes : Elle fait soudainement la moue et envoie un « pop » baiser à la caméra ! Un son de baiser clair~
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/857.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd4966c4643d2a338cc267cc9af61250/thumbnails/thumbnail.jpg" width="600" alt="Invite vidéo pour une interaction de couple romantique"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=857)**
+
+**Auteur:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2030191584483135689) | **Publié:** Mar 7, 2026
+
+---
+### Vidéo en gros plan hyperréaliste d'un modèle de cosplay
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite détaillée pour générer une vidéo hyperréaliste d'une mannequin lors d'une convention de cosplay. La vidéo présente un plan rapproché de ses pieds nus, remontant lentement jusqu'à ses hanches, et se terminant sur son menton, mettant l'accent sur les détails extrêmes, la texture et les expressions subtiles, le tout visant une qualité cinématographique 8K.
+
+#### 📝 Prompt
+
+```
+Un véritable acteur en direct, un mannequin participant à une convention de cosplay. Une caméra ultra-haute définition est braquée sur une paire de pieds nus, sans chaussettes. La caméra tourne autour du personnage, remonte lentement jusqu'aux hanches du personnage, et s'arrête finalement au niveau du menton du personnage, de sorte que le visage entier n'est pas visible.
+
+La caméra recule pour révéler le haut du corps du personnage. Le personnage commence à exhiber sa silhouette dans la scène, avec une expression séductrice, envoyant un baiser vers la caméra, et disant doucement : Suis-je jolie ?
+
+Qualité 8K haute définition, qualité photographique. Véritable acteur en direct, pas une animation, qualité ultra-réaliste, montrant clairement les plis des vêtements de l'acteur, la texture de la peau, les pores, une légère transpiration, de subtiles micro-expressions, capturant de riches détails.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/854.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9958a0e8470bcdfddd2e219bae0e5a1a/thumbnails/thumbnail.jpg" width="600" alt="Vidéo en gros plan hyperréaliste d'un modèle de cosplay"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=854)**
+
+**Auteur:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2030173523499417704) | **Publié:** Mar 7, 2026
+
+---
+### Prompt vidéo détaillé multi-plans pour la comparaison de Seedance 2.0, ViduQ3 et Kling 3.0
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt très détaillé et multi-plans, conçu pour les modèles de génération vidéo (Seedance 2.0, ViduQ3 et Kling 3.0) afin de comparer leurs performances. Le prompt spécifie le style comme étant de l'animation 2D japonaise en cel, en couleur, avec une résolution 8K, un éclairage cinématographique et une atmosphère cyberpunk. Il décrit une séquence de trois plans mettant en scène un personnage féminin de dominatrice aux cheveux argentés et vêtue d'un costume blanc, assise sur un trône devant un mur de caméras de surveillance, incluant des mouvements de caméra spécifiques, des actions (comme claquer des doigts) et des dialogues pour chaque plan.
+
+#### 📝 Prompt
+
+```
+[Style vidéo]
+Animation 2D cel japonaise en couleur, résolution 8K, composition multi-plans, éclairage cinématographique, atmosphère cyberpunk épique, travail de caméra cinématographique, pression psychologique
+
+[Détails du personnage et de la scène]
+Femme (Dominatrice) : Longs cheveux argentés, frange droite, ornement de cheveux mécanique, tailleur blanc, talons hauts. Assise sur un trône adossé à un mur d'innombrables caméras de surveillance.
+Scène : Une pièce avec un nombre impressionnant de caméras de sécurité couvrant tout le mur.
+
+[0s - 3s] Plan 1 : Domination silencieuse
+Caméra : Commence à partir du cadre initial. Zoom cinématographique du corps entier de la femme sur le trône, progressivement jusqu'à un plan buste.
+Action : La femme aux cheveux argentés secoue légèrement ses jambes croisées tout en affichant un sourire calme et froid.
+Dialogue : En japonais, « Haha ! Vous venez juste de le remarquer ? Quelle stupidité. »
+
+[3s - 5s] Plan 2 : Activation du gadget
+Caméra : Gros plan sur la poitrine et le visage de la femme.
+Action : La femme lève lentement sa main droite et claque des doigts près de son visage.
+Dialogue : En japonais, « Fufufu… »
+
+[5s - 8s] Plan 3 : Éveil et déclaration
+Caméra : Zoom arrière rapide et dynamique sur le groupe de caméras de surveillance en arrière-plan.
+Action : Au moment où elle claque des doigts, toutes les lentilles des caméras de surveillance sur le mur émettent simultanément une « lumière rouge », éclairant fortement la femme par l'arrière d'un rouge intense. La femme tourne un sourire captivant de domination écrasante vers la caméra (le spectateur).
+Dialogue : En japonais, « Je vois tout… »
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/860.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a737998fe5744faebd011644b9e376cf/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo détaillé multi-plans pour la comparaison de Seedance 2.0, ViduQ3 et Kling 3.0"></a>
+
+📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=860)**
+
+**Auteur:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2030163070480187436) | **Publié:** Mar 7, 2026
+
+---
 ### Un bus se transformant en chenille mécanique géante cybertronienne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -536,7 +826,7 @@ Environnement : L'arrière-plan est constitué de lumières de voitures de ville
 Plan de 15 secondes d'un récit d'amour pur et magnifique, qualité cinématographique réaliste, format 2.35:1. 0-4 secondes : Teinte jaune chaude, la lumière du soleil de l'après-midi traverse les stores et tombe sur un bureau en bois, créant un subtil effet Tyndall. Une fille dort légèrement sur le bureau, la brise ébouriffe doucement les mèches rebelles près de son oreille et les pages d'un livre. La caméra s'approche lentement pour un gros plan de son profil ; 5-10 secondes : La caméra passe au garçon assis en face d'elle, qui la regarde attentivement, ses yeux clairs et pleins de tendresse. Remarquant le battement de ses cils, il baisse immédiatement la tête paniqué, faisant semblant de lire, frottant nerveusement le coin du livre du bout des doigts ; 11-15 secondes : Très gros plan du moment où leurs regards se croisent. La fille pince timidement les lèvres, et le garçon esquisse un sourire timide. L'arrière-plan est flouté en des taches lumineuses oniriques, et les effets sonores sont de faibles chants de cigales et le bruit des pages tournées. Interdiction de tout filigrane, sous-titre ou texte.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/846.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/731d103987f9b1d50652fe1a5e90ab09/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Récit cinématographique d'amour pur"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/846.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024fde0dbae60eed5960b99c628067a4/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Récit cinématographique d'amour pur"></a>
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=846)**
 
@@ -2653,314 +2943,6 @@ Une peinture à l'huile d'une main de conducteur sur le volant, conduisant sur u
 **Auteur:** [𝙆𝙞𝙡𝙤🌦️](https://x.com/GlacierKilo) | **Source:** [Link](https://x.com/GlacierKilo/status/2028392306722865566) | **Publié:** Mar 2, 2026
 
 ---
-### Modèle universel : Jeune homme marchant dans une forêt d'automne (style cinématographique)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Voici un exemple de modèle illustrant la « formule d'invite universelle » pour Seedance 2.0, axé sur un jeune homme marchant dans une forêt automnale. Cette invite met l'accent sur la référence multimodale, l'action détaillée (marche lente, cheveux flottants), l'éclairage spécifique (contre-jour latéral doré de l'après-midi), le travail de caméra (plan de suivi lent et stable) et des contraintes strictes (4K, qualité cinématographique, visage stable, structure normale, apparence cohérente) pour générer une vidéo verticale de haute qualité de 8 secondes.
-
-#### 📝 Prompt
-
-```
-@Image 1 comme première image pour fixer les traits du visage et l'apparence du personnage. Un jeune homme vêtu d'une chemise blanche marche lentement dans une forêt d'automne. Ses orteils effleurent les feuilles mortes, la brise souffle doucement dans ses cheveux, et son profil regarde tendrement vers la caméra. Contre-jour latéral doré de l'après-midi, les feuilles mortes volent au gré du vent, plan moyen. La caméra suit lentement et régulièrement, style japonais apaisant et frais, ultra haute définition 4K, texture cinématographique, séquences fluides sans saccades, visage du personnage stable et sans distorsion, anatomie humaine normale, apparence et vêtements cohérents tout au long, écran vertical 9:16, durée 8s.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772517590365_vvj5bu_HCZIgX7bIAEFNcF.jpg" width="600" alt="Modèle universel : Jeune homme marchant dans une forêt d'automne (style cinématographique)">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=758)**
-
-**Auteur:** [Joe](https://x.com/ForInitial) | **Source:** [Link](https://x.com/ForInitial/status/2028388444679065926) | **Publié:** Mar 2, 2026
-
----
-### Message-guide pour la vidéo promotionnelle de la ville de Zibo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Une invite Seedance 2.0 pour générer une vidéo cinématographique et vibrante promouvant la ville de Zibo, mêlant paysages urbains modernes et architecture ancienne, avec des coupes rapides, un éclairage néon et un son rythmique puissant.
-
-#### 📝 Prompt
-
-```
-Un paysage urbain moderne et dynamique de Zibo, entrelacé avec la vue nocturne magnifique de la tour Haidai, un point de repère emblématique, et l'architecture antique de la ville commerciale ancienne de Zhoucun. L'écran contient des changements de scène extrêmement riches et rapides, parfois des objets artisanaux en verre coloré, et parfois un trafic urbain incessant. La caméra effectue des panoramiques rapides et des travellings en synchronisation avec le rythme musical puissant, zoomant rapidement d'un grand panorama architectural à un gros plan, en utilisant une transition par coup de fouet avec un flou d'étirement. De puissants effets d'ombre et de lumière néon balayent l'écran, avec des effets de traînées lumineuses dynamiques. Style de couleurs vives et éclatantes, tons d'aurore mélangeant le style chinois traditionnel (Guochao) et la modernité, haute définition 4K, impact visuel extrême. Effets sonores : Des battements de batterie puissants correspondant au rythme, remix de musique électronique moderne.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/765.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/742511a725acc919d32f32fc4f269085/thumbnails/thumbnail.jpg" width="600" alt="Message-guide pour la vidéo promotionnelle de la ville de Zibo"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=765)**
-
-**Auteur:** [全全全象限](https://x.com/SVD_Studio_Q) | **Source:** [Link](https://x.com/SVD_Studio_Q/status/2028387460510851078) | **Publié:** Mar 2, 2026
-
----
-### Prompt d'image IA pour carte de citation large (thème Enthousiasme)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Une invite de génération d'image pour créer une carte de citation large et stylisée, présentant une citation de motivation. Elle spécifie un arrière-plan bleu, une police à empattements or clair, un contenu textuel spécifique et des détails de mise en page pour le texte et le portrait, y compris une transition de dégradé subtile pour la figure.
-
-#### 📝 Prompt
-
-```
-Une grande carte de citation affichant un dicton célèbre, avec un fond bleu, une police à empattements doré clair pour la citation : « {argument name="quote" default="Maintenez l'enthousiasme, maintenez le suivi mutuel"}, » et un texte plus petit : « {argument name="subtitle" default="—Tout est possible"}. » Un grand guillemet subtil apparaît avant le texte. Le portrait de la personne est placé à gauche, le texte à droite, le texte occupant les 2/3 de l'écran et la personne 1/3, et la personne présente un léger effet de transition de dégradé.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772517579794_xnanj9_HCZA67LbEAAZbPR.jpg" width="600" alt="Prompt d'image IA pour carte de citation large (thème Enthousiasme)">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=752)**
-
-**Auteur:** [pgywfy](https://x.com/pgywfy213) | **Source:** [Link](https://x.com/pgywfy213/status/2028380129223913487) | **Publié:** Mar 2, 2026
-
----
-### Nano Banana 2 et Seedance 2.0 : des prompts d'horreur
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Two related prompts: one for Nano Banana 2 to generate a 3x3 image grid of a horror movie screenshot where the killer is a squirrel dressed as a ghost, and a second Seedance 2.0 prompt to generate a video based on the film storyboard (Image 1).
-
-#### 📝 Prompt
-
-```
-Nano Banana 2 Prompt:
-A 3X3 image grid, presented with cinematic camera movement and narrative style, showing the process of the following story: a screenshot from a famous horror movie, but the killer is replaced by a squirrel dressed as a ghost, easily recognizable.
-
-Seedance 2.0 Prompt:
-Present the story from the film storyboard [Image 1]
-```
-
-<img src="https://cms-assets.youmind.com/media/1772517607611_ug9ikh_HCY-MSha4AEzNlT.jpg" width="600" alt="Nano Banana 2 et Seedance 2.0 : des prompts d'horreur">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=764)**
-
-**Auteur:** [全全全象限](https://x.com/SVD_Studio_Q) | **Source:** [Link](https://x.com/SVD_Studio_Q/status/2028377892506493095) | **Publié:** Mar 2, 2026
-
----
-### Prompt de ville miniature macro ultra-réaliste (JSON structuré)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite JSON très structurée et détaillée utilisée pour générer un modèle de ville miniature macro ultra-réaliste, utilisant Nano Banana 2 pour la structure et Seedance 2.0 pour le mouvement.
-
-#### 📝 Prompt
-
-```
-```json
-{
-  "project": "Série mondiale de villes miniatures",
-  "aspect_ratio": "9:16",
-  "style": "Modèle de ville miniature macro ultra-réaliste",
-
-  "composition": {
-    "camera_angle": "macro en plongée",
-    "framing": "ville centrée, base entièrement visible",
-    "tilt_shift": true,
-    "depth_of_field": "faible",
-    "lens": "macro 85mm, f/1.8"
-  },
-
-  "base": {
-    "material": "bois foncé poli",
-    "edges": "arrondis lisses",
-    "city_name_text": {
-      "style": "doré en relief 3D",
-      "font": "moderne épurée",
-      "attached": true,
-      "no_distortion": true
-    }
-  },
-
-  "rock_structure": {
-    "type": "roche naturelle stratifiée flottante",
-    "texture": "strates géologiques très détaillées",
-    "underside_visible": true,
-    "internal_tunnel": true,
-    "tunnel_light": "lueur chaude réaliste",
-    "no_scifi_glow": true
-  },
-
-  "city_core": {
-    "landmarks": ["REMPLACER_PAR_LES_MONUMENTS_DE_LA_VILLE"],
-    "architecture_density": "réaliste",
-    "height_variation": true,
-    "no_fantasy_elements": true
-  },
-
-  "road_system": {
-    "type": "route circulaire en bordure",
-    "lane_clear": true,
-    "traffic_direction": "sens_unique",
-    "vehicles": {
-      "lane_aligned": true,
-      "no_reverse": true,
-      "no_clipping": true,
-      "no_floating": true
-    },
-    "tunnel_rule": "le véhicule peut entrer et disparaître sans réapparaître"
-  },
-
-  "environment": {
-    "setting": "véritable plateau de table",
-    "background": "intérieur de style de vie doux et flou",
-    "lighting": "lumière naturelle intérieure, chaude et subtile",
-    "no_heavy_fog": true
-  },
-
-  "render_quality": {
-    "resolution": "8K",
-    "material_realism": true,
-    "soft_shadows": true,
-    "no_excess_hdr": true,
-    "no_over_saturation": true
-  },
-
-  "negative_rules": [
-    "pas de trafic en sens inverse",
-    "pas d'objets flottants",
-    "pas de tempête extrême",
-    "pas de vent fort",
-    "pas d'eau vitreuse",
-    "pas de lueur cyberpunk",
-    "pas de particules excessives",
-    "pas de reflet d'objectif exagéré"
-  ]
-}
-```
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/749.mp4"><img src="https://cms-assets.youmind.com/media/1772517575048_f5s05m_HCYrjqyaEAELxt0.jpg" width="600" alt="Prompt de ville miniature macro ultra-réaliste (JSON structuré)"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=749)**
-
-**Auteur:** [xiaomiaode](https://x.com/xiaomiaode5383) | **Source:** [Link](https://x.com/xiaomiaode5383/status/2028360648393118001) | **Publié:** Mar 2, 2026
-
----
-### Anime Girl Skateboarding Transformation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for Seedance 2.0 describing a fast-paced FPV drone shot following an anime girl skateboarding down a mountain road, featuring a seamless environmental transformation from summer to winter mid-shot.
-
-#### 📝 Prompt
-
-```
-Plan de suivi rapide d'un drone FPV par derrière, suivant de près une jeune fille aux cheveux blancs de style anime 3D faisant du skateboard sur une route de montagne escarpée et sinueuse à une vitesse incroyablement élevée. Impulsion extrême vers l'avant, perspective grand-angle, effet de vent. La vidéo commence dans un décor estival vibrant avec des montagnes verdoyantes, un ciel ensoleillé et lumineux, un océan lointain et des feuilles brunes qui volent devant la caméra. À la marque des 3 secondes, une vague de givre magique déferle depuis le skateboard : l'environnement se transforme sans transition en un paysage hivernal glacial. L'herbe verte se transforme instantanément en une neige blanche épaisse, de gros flocons de neige commencent à tomber et les montagnes lointaines deviennent des sommets enneigés. La caméra ne rompt jamais le mouvement de suivi intense, fluide et continu en descente. Action à haute intensité, animation 3D de chef-d'œuvre, éclairage photoréaliste.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/747.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/932b36b2ccfab3b099c752b61486a709/thumbnails/thumbnail.jpg" width="600" alt="Anime Girl Skateboarding Transformation Prompt"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=747)**
-
-**Auteur:** [Clown🤡·eth丨Web3拆解](https://x.com/0X0CLOWN) | **Source:** [Link](https://x.com/0X0CLOWN/status/2028354276087730468) | **Publié:** Mar 2, 2026
-
----
-### Seedance 2.0 : Prompt pour l'animation du titre « Slaying Immortals »
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Une instruction très détaillée et horodatée pour Seedance 2.0 afin de générer une animation de titre dynamique et cinématographique pour la phrase « 斩仙 » (Slaying Immortals), en utilisant un mélange de textures d'encre de Chine, de glace et de jade, mettant l'accent sur la tension visuelle et une palette de couleurs bleu Qing prononcée. L'utilisateur suggère également d'adapter la logique pour d'autres styles, comme un titre de style Transformers.
-
-#### 📝 Prompt
-
-```
-0-3 secondes : Le chaos commence, l'intention de jade déferle. L'écran part d'un noir pur absolu, sans aucune source de lumière. Au fur et à mesure que les sons graves de carillon de jade et de craquement de glace commencent, un flux de particules cyan-bleu extrêmement faible commence à émerger au centre de l'écran, convergeant lentement comme un courant sous-marin des profondeurs, formant une faible bande lumineuse annulaire. Les bords de la bande lumineuse sont accompagnés d'effets d'éclaboussures de cristaux de glace fragmentés, et la densité des particules augmente progressivement, créant un sentiment d'oppression de « gelé pendant mille ans ».
-
-3-6 secondes : L'intention d'encre brise la situation, les coups de pinceau apparaissent en premier. Le flux de particules s'accélère soudainement, et une lame lumineuse cyan-bleu perçante jaillit de la bande lumineuse annulaire, pénétrant l'écran, déchirant instantanément l'obscurité comme une épée de châtiment divin. Là où la lumière bleue passe, le radical gauche du caractère « 斩 » (Zhan/Trancher) se forme rapidement à la manière d'une éclaboussure d'encre, les bords des traits ont des effets lumineux en dents de scie de lame de glace acérées, la couleur de l'encre passe progressivement du noir profond au bleu glacier, et des particules réfléchissantes fragmentées ressemblant à du jade coulent à l'intérieur des traits, présentant collectivement la tension dynamique de « la lame d'encre brise la glace ».
-
-6-9 secondes : L'intention immortelle se solidifie, les caractères se forment progressivement. Après la formation du caractère « 斩 », une deuxième lumière bleue, plus percutante, jaillit du bas de l'écran, s'étendant vers le haut. Le trait vertical du caractère « 仙 » (Xian/Immortel) se forme soudainement dans la posture du « pilier de jade soutenant le ciel », la pointe du pinceau est acérée comme une lame de glace, et l'extrémité est accompagnée d'effets d'éclaboussures d'étoiles de cristaux de glace. Les traits horizontaux et balayés de « 仙 » sont dérivés du trait vertical à la manière d'un lavis d'encre, les bords des traits sont accompagnés d'ondulations d'énergie cyan-bleu, présentant collectivement l'effet visuel de « l'intention immortelle se solidifie, la qualité du jade se forme naturellement ». Les traits des deux caractères se répondent dans l'obscurité, formant un fort équilibre visuel.
-
-9-12 secondes : La netteté pleinement révélée, les effets se superposent. Une fois les deux caractères « 斩仙 » entièrement formés, une lueur cyan-bleu fluide commence à apparaître à la surface de la police. La lueur se propage du centre des traits vers les bords, formant l'effet dynamique de « l'énergie de jade environnante ». En même temps, des cristaux de glace fragmentés et des particules d'encre commencent à tomber sur l'écran. Les particules tournent et se heurtent autour de la police, générant de brefs effets d'éclatement de glace. L'effet lumineux en dents de scie sur les bords de la police se renforce progressivement, la luminosité globale augmente de 30 %, et l'arrière-plan passe progressivement du noir pur à une texture de lavis d'encre bleu glacier, créant l'impact visuel de « la netteté pleinement révélée, l'intention immortelle impressionnante ».
-
-12-15 secondes : Arrêt sur image final, charme persistant. Tous les effets dynamiques convergent progressivement, la lueur des caractères « 斩仙 » se stabilise en un cyan-bleu doux, le flux de particules s'arrête, et les cristaux de glace tombent lentement au bas de l'écran et disparaissent. L'arrêt sur image final est : sur un fond de texture de lavis d'encre bleu glacier, les deux caractères « 斩仙 » sont présentés dans une police calligraphique lourde. Les traits de « 斩 » à gauche sont acérés comme des lames de glace, et le trait vertical de « 仙 » à droite est droit comme un pilier de jade. Les bords de la police ont de subtils halos ressemblant à du jade, présentant collectivement l'effet final de « Trancher les Immortels et Chercher le Dao, l'Intention de Jade Persiste ».
-
-Supplément de paramètres techniques (Adaptation Seedance 2.0)
-Intensité du mouvement : 0,75 (Assure une transition fluide, évite les tremblements excessifs)
-Intensité de l'effet : 0,85 (Renforce l'impact visuel des effets de particules d'encre et de jade de glace)
-Correction des couleurs : Ton principal cyan-bleu, complété par des accents noir encre et rouge foncé, contraste augmenté de 20 %
-Langage de la caméra : Caméra fixe tout au long, se concentrant sur le centre de l'écran, pas de changements de mouvement de caméra, soulignant la tension dynamique de la police elle-même.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/733.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37b3162f1254e2c83e90f923af36e02a/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 : Prompt pour l'animation du titre « Slaying Immortals »"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=733)**
-
-**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2028338069863018552) | **Publié:** Mar 2, 2026
-
----
-### Seedance 2.0 : Prompt pour la scène « Mad Driving »
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite simple à plusieurs prises pour Seedance 2.0 (créée sur la plateforme Jimo) afin de générer une séquence décrivant un homme quittant sa maison et conduisant de manière imprudente.
-
-#### 📝 Prompt
-
-```
-Un homme sort de sa maison et se dirige vers sa voiture garée. [Cut] L'homme monte dans la voiture. [Cut] L'homme démarre le moteur ; la fleur sur le tableau de bord tremble légèrement. [Cut] L'homme accélère brusquement et conduit comme un fou. [Cut] Un autre plan de l'homme conduisant comme un fou, renversant des poubelles et des boîtes aux lettres sur son passage. [Cut] Des piétons crient. Pas de musique.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/731.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbdc8854c153537d8b2664334117d7af/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 : Prompt pour la scène « Mad Driving »"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=731)**
-
-**Auteur:** [路飞 🏴‍☠️ AI 研究员🧐](https://x.com/0xluffy_eth) | **Source:** [Link](https://x.com/0xluffy_eth/status/2028320438510907444) | **Publié:** Mar 2, 2026
-
----
-### Combat d'épées dynamique sur un toit éclairé au néon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite utilisée pour générer une vidéo dans Seedance 2.0, montrant deux guerrières engagées dans un combat à l'épée intense et cinématographique sur un toit éclairé au néon.
-
-#### 📝 Prompt
-
-```
-Les deux guerrières s'affrontent dans un combat à l'épée ultra dynamique sur le toit éclairé au néon. Des épées qui s'entrechoquent intensément avec des étincelles, des esquives agiles et des coups puissants. Mouvement de caméra cinématographique suivant l'action, haute qualité, mouvement fluide.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/746.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b1e13db5b3bddd23e1d5177e3c13af5/thumbnails/thumbnail.jpg" width="600" alt="Combat d'épées dynamique sur un toit éclairé au néon"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=746)**
-
-**Auteur:** [Noname Oasis](https://x.com/nonameoasis) | **Source:** [Link](https://x.com/nonameoasis/status/2028320206687240394) | **Publié:** Mar 2, 2026
-
----
-### Scène de réveil matinal pour Seedance 2
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Une invite détaillée et narrative pour Seedance 2 décrivant une femme se réveillant au lit, ses mouvements, ses expressions et son dialogue, en se concentrant sur une humeur somnolente, affectueuse et sensible à la lumière du matin.
-
-#### 📝 Prompt
-
-```
-La caméra surplombe la scène en plongée. La femme caresse inconsciemment l'oreiller du bout des doigts, agrippant le bord du drap, puis lève lentement son visage aux yeux ensommeillés, fixant vaguement la caméra de bas en haut, avec un regard d'affection non dissimulée. Elle frotte doucement sa joue contre l'oreiller, révélant un visage qui était auparavant enfoui, l'air réticent à se lever, comme si elle n'était pas encore complètement réveillée. Elle tend les deux bras vers la caméra, bougeant ses doigts deux fois en vain pour saisir quelque chose dans la lumière du matin, puis se tortille dans le futon et dit de sa voix unique, légèrement rauque et nasale, mêlée à la réticence de se réveiller, sur un ton doux et murmurant : « La lumière... elle est trop forte... (bâillement) Je ne veux pas me lever, reste au lit avec moi encore un peu... » La fin de sa phrase a une résonance vague et rêveuse, se fondant dans le clair gazouillis des oiseaux à l'extérieur de la fenêtre.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/769.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162801daa156a4c0265b651d1e36bdf4/thumbnails/thumbnail.jpg" width="600" alt="Scène de réveil matinal pour Seedance 2"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=769)**
-
-**Auteur:** [てつ（$BCH💎🚀🌙）ビットコインHODL](https://x.com/edwardomgone) | **Source:** [Link](https://x.com/edwardomgone/status/2028316832441197043) | **Publié:** Mar 2, 2026
-
----
-### Animation de découpage de papier traditionnelle chinoise (Seedance 2.0)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Une invite pour Seedance 2.0 afin de générer une vidéo dans le style de l'animation traditionnelle chinoise de découpage de papier, en spécifiant la palette de couleurs (vermillon, jaune doré, bleu indigo) et la composition en couches de la scène, en se concentrant sur les 3 premières secondes de la vidéo.
-
-#### 📝 Prompt
-
-```
-Section 1:
-Écran horizontal 16:9, style d'animation de papier découpé chinois traditionnel, avec le vermillon, le jaune doré et le bleu indigo comme couleurs principales, textures de découpe claires et qualité de papier évidente. 0-3 secondes : plan large, scène de papier découpé multicouche — la couche la plus en avant est un cadre de fenêtre évidé rouge, la couche du milieu est un papier découpé de cour traditionnelle, et la couche d'arrière-plan est un motif de papier découpé de montagnes lointaines et de nuages propices.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/723.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a81d7fad42f8e440f48acdf74b67f537/thumbnails/thumbnail.jpg" width="600" alt="Animation de découpage de papier traditionnelle chinoise (Seedance 2.0)"></a>
-
-📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=723)**
-
-**Auteur:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2028304779026505763) | **Publié:** Mar 2, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3022,6 +3004,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-03-08T05:10:44.608Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-03-08T08:33:26.294Z</sub>
 
 </div>
