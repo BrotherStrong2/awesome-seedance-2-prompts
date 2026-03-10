@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **740** |
+| 📝 Total Prompts | **755** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-03-10** |
 
@@ -330,72 +330,523 @@ Sum up the Bollywood Dance in the meme "Distracted Boyfriend" - make sure it's r
 
 > 📝 Sorted by publish date (newest first)
 
-### Seedance 2.0 Kamen Rider Transformation Prompt (Dark Tokusatsu)
+### Library Romance Cinematic Scene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, multi-stage video prompt for Seedance 2.0 to generate a 15-second, single-shot hyperrealistic dark Tokusatsu (Special Effects) transformation sequence, inspired by Kamen Rider. The prompt specifies the aesthetic (insect biomimetic armor, battle damage, desolate ruins), character details (melancholy expression, cold tone, specific reference image for face/clothing), cinematic style (IMAX film, Panavision C lens, low saturation blue-gray tone), and a complex sequence of actions and effects (Gaze, Activation, Fission, Growth, Completion) with precise camera movements (single-shot, slow orbit, breathing drift).
+> A 15-second cinematic video prompt for Seedance 2.0, capturing a subtle romantic moment between two university students in a library. The prompt specifies the aspect ratio (2.35:1), lighting (warm yellow afternoon sun, God rays/Tyndall effect), and breaks down the scene into three segments detailing actions, micro-expressions, and camera movements (slow push-in, focus shifts) during their silent interaction.
 
 #### 📝 Prompt
 
 ```
-Realistic Dark Tokusatsu | Insect Biomimetic Armor Aesthetics | Damaged Armor | Battle-Damaged Transformation | Wilderness Ruins
-
-[Character and Basic Settings]
-Face: Upload image referencing Image 1, 100% restoration of facial features, face shape, and hairstyle. Retain dark traces, can be beautified, but the overall facial expression should be cold. Expression is gloomy throughout. Slight pain during the transformation moment, only a slight frown between the eyebrows, rejecting high spirits and eye highlights, maintaining a sense of oppression.
-Clothing: Reference Image 1, no belt structure. Wearing matte metal abnormal device gloves.
-Scene: Wilderness ruins, slight breeze, dust and smoke floating in the air, overcast wasteland, gray-blue sky. Meteorite fragments with fiery trails occasionally streak across the distant sky.
-
-[Atmosphere and Image Quality] Visual Tone: Cinematic texture, simulating IMAX film camera, paired with Panavision C series lens (focal length 35mm, aperture f4). Color and Tone: Low saturation gray-blue main tone. Dark area information is compressed but details are retained. Slight soft focus at the edge of the screen, overlaid with moderate film grain.
-Core Style: Dark Tokusatsu aesthetic, emphasizing the fusion of biomechanical armor and unknown technology, creating a sense of oppressive, heavy, and real transformation ritual.
-
-[Camera Movement Rules] Single Shot: One continuous shot, no cuts. Angle: Start with a low angle shot of the left side of the character, focusing on the area above the waist. During transformation, the camera slowly orbits to the front, eye-level shot of the upper body. After transformation is complete, orbit to the right side of the character and shoot from a high angle. Breathing Sense: Handheld shooting, maintaining a very slight, breathing-like camera drift throughout. 0-3 seconds · Gaze Action: The protagonist stands tiredly, slightly lowering his head, eyes locked on the hand device. Spine is taut. Right hand slowly extends. Camera: Extremely slow push-in, capturing the body's breathing undulations. Effect: Both eyes gradually light up with cold white light. Subtle energy patterns appear around the eye sockets. 3-6 seconds · Activation Sound: Whispering “DESCEND”. Action: Right hand raises, gently snapping a crisp finger snap. Effect: At the moment of the snap, the arm is wrapped in red flames. Air collapses inward, forming distortion. A circle of translucent energy pulses spreads around the body. The pulse spreads in a spiral shape. Hair is disturbed. Energy dissipates after 0.3 seconds. Irregular blue symbol structures float around the body. Camera: Low-frequency humming approaches from far away. The camera experiences a 0.1-second stress vibration. 6-9 seconds · Fission Core: The finger snap erupts with dark red energy cracks. Red energy liquid spreads along the body structure towards the torso. Body: Dark red energy mist spreads from within the body. Small electric arcs are mixed in the mist. Trench Coat: Starts to tear and burn from the inside. Fragments and energy mist scatter together. The edges of the openings gradually char. Armor: Biomimetic armor fragments fly off. Fragments briefly hover in mid-air. Then recombine and reattach to the body. Camera: The screen briefly loses focus due to the energy impact. Then quickly stabilizes. 9-12 seconds · Growth New Material: Brand new biomechanical armor structure generates from within the body. The surface has an iridescent luster. Slowly wriggles and extends like a living structure. Shoulder Armor: Newly generated shoulder armor collides. Erupts in dark red sparks. Leaving energy etchings. Chest Armor: Chest armor slowly opens and closes with the heartbeat. Faint light flickers in the gaps. Clothing: The original coat is pulled away from the body by the energy field and flies out of the frame. Face Coverage: Pink-white film spreads from the face. Gradually pieces together into the mask outline. The coverage rate varies. Forming an asymmetrical structure. Compound Eyes: Polycrystalline optical compound eyes gradually light up. The left eye completes 0.5 seconds faster than the right eye. Some units flicker. Brightness is uneven. Gaze: The protagonist maintains a straight gaze forward throughout the transformation process. 12-15 seconds · Completion Helmet: The two compound eyes fully combine. The entire face is covered by the mask. A crown-like structure grows on top of the helmet. Blue energy flames ignite at the corners. The compound eyes continue to glow. Some units still flicker slightly. Shoulder Armor: Edges curl up. Scale patterns are obvious. Faint energy liquid seeps from the gaps. Waist Side: A huge armor fissure has not yet closed. Dark red flowing light flows within it. Slightly fluctuates with breathing. Battle Suit: The battle suit is pure white. The styling is exaggerated. Overall similar to a beetle biomimetic mecha. The waist, compound eyes, and fissure continue to glow. Small electric arcs occasionally flash across the body. The surface of the battle suit is covered with battle damage marks. Final Shot The camera orbits to the right side of the character. The camera position changes to a high angle shot. The camera slowly pulls back. The character gradually enters a ready-to-fight stance. Displaying the character and environment information. Ending Wind sounds. No dialogue. No explosion. No brilliant light. Only the standing person. And the incomplete armor. A meteorite streaks across the distant sky. The camera freezes.
+15 seconds cinematic realism, 2.35:1 aspect ratio, warm yellow afternoon sunlight Tyndall effect streaming through high window bookshelves. 0-4 seconds: A freshman girl is lightly sleeping face down on a long library table, next to her are a 'Calculus' textbook and a freshman handbook. A breeze blows her stray hair and the open pages of the book. The camera slowly pushes in towards her profile—delicate eyelash shadows, a slight upward curve of the mouth; 5-10 seconds: A stranger boy across from her is taking notes, unintentionally looks up and catches sight of her, freezes for a second, then hurriedly lowers his head pretending to flip through a book, his earlobes quietly turn red, the pencil draws a crooked line on the scratch paper; 11-15 seconds: The girl quietly opens her eyes, their gazes meet head-on—the girl slightly freezes, then shyly purses her lips and looks away, the boy gives a bashful little smile. Dreamy bokeh light spots flow between the background bookshelves, the distant low hum of the air conditioner and the sound of turning pages softly layer together. Fine skin texture, realistic and natural micro-expressions, no watermarks or subtitles. Aspect ratio: 9:16
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/875.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1055a746c9126e868ba1551fe3a1c8ef/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Kamen Rider Transformation Prompt (Dark Tokusatsu)"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/885.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50154589b4171df4a05e698fdef7da06/thumbnails/thumbnail.jpg" width="600" alt="Library Romance Cinematic Scene"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=885)**
+
+**Author:** [Leo Zhou](https://x.com/zhyblife99) | **Source:** [Link](https://x.com/zhyblife99/status/2031160906567295070) | **Published:** Mar 10, 2026
+
+---
+### Father and Baby Bedroom Scene Prompt for Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A time-coded prompt for Seedance 2.0 describing a realistic, vertical screen video of a father and baby secretly watching videos on a phone in a late-night bedroom setting with warm cinematic lighting.
+
+#### 📝 Prompt
+
+```
+Realistic style, vertical screen, warm cinematic lighting.
+
+[0-5s] Close-up shot, handheld slight shake, shallow depth of field.
+Late night bedroom with warm dim lighting. A father and his baby are lying together in bed, secretly watching videos on a phone. The phone
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/881.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26c1308188f328cf3638f6e09310bb48/thumbnails/thumbnail.jpg" width="600" alt="Father and Baby Bedroom Scene Prompt for Seedance 2.0"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=881)**
+
+**Author:** [𝗦𝘆𝗲𝗱 𝗔𝗯𝘂𝘁𝗵𝗮𝗵𝗶𝗿 ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2031128552066994326) | **Published:** Mar 9, 2026
+
+---
+### Ancient Style Dance with Dynamic Camera Movement
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A cinematic video prompt detailing complex camera movements, starting with a close-up on feet, slowly panning up and around a character's body (not showing the full face), before pulling back to a mid-shot of the character performing a Western Region (Central Asian) style dance in an ancient setting. The prompt emphasizes realistic rendering, skin/fabric details, and a realistic visual style.
+
+#### 📝 Prompt
+
+```
+The camera is pointed at a pair of jade feet, the lens circles around the character in Image 1, slowly pulling up, reaching the character's hips, and finally circling to the character's chin, the whole face is not visible. The camera pulls back to show the character's upper body. The character begins to twist their graceful body and dance in an ancient style scene, performing a Western Region style dance. Cinematic realistic rendering, details of skin and fabric, use a realistic visual style to generate the material
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/887.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85a0108c197c3a0d2384101257766e6f/thumbnails/thumbnail.jpg" width="600" alt="Ancient Style Dance with Dynamic Camera Movement"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=887)**
+
+**Author:** [Jack Ma-e/acc](https://x.com/Jackma199512) | **Source:** [Link](https://x.com/Jackma199512/status/2031109526364238299) | **Published:** Mar 9, 2026
+
+---
+### Cyberpunk Motorcycle Chase Sequence in Seoul
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-stage cinematic prompt for Seedance 2.0 describing a high-speed cyberpunk motorcycle chase through downtown Seoul at night, including a jump, a landing on a moving truck, a spiral garage drift, and an exit onto a rain-soaked boulevard. The prompt specifies character appearance, gear, camera angles, and lighting effects.
+
+#### 📝 Prompt
+
+```
+A man in his early 30s, tan skin, short windswept hair, wearing a matte-black armored riding jacket with reflective blue seams, carbon fiber riding pants, and reinforced boots, launches a high-powered sport motorbike off the edge of an elevated highway ramp in downtown Seoul at the 2-second mark — the bike suspended above dense night traffic as LED billboards and neon street signs illuminate the machine from below.
+
+The motorcycle rotates sideways in a controlled whip, sparks trailing briefly from the rear frame as the rider corrects mid-air. Camera positioned from a nearby rooftop captures the full silhouette of rider and bike against the glowing city grid — skyscraper windows reflecting streaks of motion while the highway curves beneath.
+
+He lands violently on the roof of a moving delivery truck, suspension compressing hard on impact, the metal roof buckling slightly. Without slowing, the rider accelerates forward, launching off the front of the truck toward a descending parking garage ramp.
+
+Inside the spiral ramp he drifts along the concrete walls, tires screeching, the camera following in a tight circular chase shot as reflections from passing headlights sweep across the rider’s helmet.
+
+Street level: the rider bursts out of the garage exit onto a rain-soaked boulevard, weaving through taxis and buses as neon reflections smear across the wet asphalt.
+
+Seoul neon night, elevated highway stunt launch, moving truck rooftop landing, spiral garage descent drift, continuous high-speed motion, cinematic grain, 4K.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/877.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91fa3a6c352c9b6b663e53a862d1fce3/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Motorcycle Chase Sequence in Seoul"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=877)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2031086401610002631) | **Published:** Mar 9, 2026
+
+---
+### Soldier Close-up Combat Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for Seedance 2.0 to generate an extreme close-up shot of a cloaked soldier shouting 'All units, move out! Fire at will!' while continuously firing a rifle. The prompt specifies bright blue-white muzzle flash, high-speed ejection of shell casings, realistic recoil, heat distortion above the barrel, and immersive sound effects like epic war drums, tank fire, missile launch shrieks, and ice cracking under tank treads, aiming for cinematic realism.
+
+#### 📝 Prompt
+
+```
+Extreme close-up shot begins: A cloaked soldier shouts loudly in English, “All units, move out! Fire at will!” while continuously firing a rifle. The muzzle flashes bright blue-white flames, shell casings eject rapidly from the side, the rifle recoil visibly shakes his shoulder, continuous firing causes air heat distortion effect above the barrel, the image is extremely realistic; background sound effects include epic war drum music, tank cannon fire, missile launch shrieks, and the sound of tracks crushing ice, presenting an overall cinematic image, ultra-realistic light and shadow, and an immersive battlefield atmosphere.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/889.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af3fb4fd7388b6d9cb4a443c38715de7/thumbnails/thumbnail.jpg" width="600" alt="Soldier Close-up Combat Scene"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=889)**
+
+**Author:** [BURLY STUDIO AI](https://x.com/BURLY_STUDIO) | **Source:** [Link](https://x.com/BURLY_STUDIO/status/2031061214286029042) | **Published:** Mar 9, 2026
+
+---
+### Celebrity Vlog/Red Carpet Sequence
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-shot video prompt for Seedance 2.0 generating a celebrity's journey from getting ready in a makeup room to walking the red carpet, referencing two images for the character and the dress. The prompt specifies 4K cinematic quality, close-up shots, and breaks down the 15-second sequence into specific actions, focusing on beauty routines, driving, and the final glamorous red carpet pose.
+
+#### 📝 Prompt
+
+```
+Theme:
+Generate a video of a girl 【@Image 1】 getting ready in a makeup room for a dinner party, driving a sports car, and finally walking the red carpet.
+
+Quality and Shots:
+4K resolution, cinematic quality, high resolution. Primarily close-up shots. No subtitles, no dialogue. 
+
+0-1S:
+Girl 【@Image 1】 bare-faced, wearing pajamas, stretching and getting up.
+1-2S:
+Girl 【@Image 1】 brushing her teeth in front of the sink. 
+2-3S:
+Girl 【@Image 1】 with a high ponytail, sitting in a bright makeup room, facing the makeup mirror, preparing to apply makeup. 
+3-4S:
+Close-up shot: Applying foundation with a cushion puff.
+4-5S:
+Close-up shot: Curling eyelashes with an eyelash curler. 
+5-6S:
+Close-up shot: Curling hair with a curling iron 
+6-7S: 
+Close-up shot: Applying lipstick 
+7-8S:
+Close-up shot: A slender hand stroking the 【@Image 2】 gown hanging on the rack 
+8-9s:
+Close-up shot: Taking the BMW car key from the hook. 
+9-10s:
+Wide-angle shot: Following and looking up from the ground level, a red BMW speeds along the city road. 
+10-15s:
+Close-up shot: The car door opens, revealing the red carpet ahead.
+Switch to medium shot: Girl 【@Image 1】 steps out of the BMW. There are many VIP guests and reporters. She has exquisite makeup and long wavy hair, wearing the 【@Image 2】 gown, accessorized with bright earrings and a necklace, holding a matching bag, striking a pose, being photographed by various flashlights, showing a confident and charming smile, as if she is an international superstar.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/884.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02a947a172cbb0f2784563755e4261a6/thumbnails/thumbnail.jpg" width="600" alt="Celebrity Vlog/Red Carpet Sequence"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=884)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2031025861047300102) | **Published:** Mar 9, 2026
+
+---
+### Short Drama: 'The Dragon Turns Over: Ex Can't Reach'
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed, multi-scene video prompt for a Seedance 2.0 short drama titled 'The Dragon Turns Over: Ex Can't Reach.' The prompt outlines a 45-second narrative involving workplace humiliation, identity reversal, and a dramatic firing sequence. It specifies camera angles (shaky subjective POV, slow motion, quick cuts), dialogue, micro-expressions, and sound effects across three acts (Betrayal, Return, Firing) to achieve a dramatic, high-stakes reversal.
+
+#### 📝 Prompt
+
+```
+“The Dragon Turns Over: Ex Can't Reach” Total Duration: 45 seconds Core Plot Points: Workplace Humiliation + Identity Reversal + Universal Shock + House Cleaning 
+
+Act 1: The End of the Road (The Betrayal)
+Time: [00:00 - 00:15] Scene: Crowded and dull open-plan office area.
+[00:00-00:05] Camera Movement:
+(Keep consistent) Subjective POV handheld shake. A cardboard box is violently pushed against the chest.
+[00:05-00:10] Action and Close-up: Ex-girlfriend (Su Qian) is holding the arm of the new manager (Manager Wang). She claps her hands disdainfully, as if shaking off dust.
+[00:10-00:15] Dialogue and Micro-expressions: Su Qian (meanly): “Li Ze, accept your fate. Manager Wang earns half a million a year, and you? You’ll sit in this cubicle until you die and still won't afford my bag. We were colleagues, now get out yourself.” Micro-expressions: Manager Wang greasily shoves Li Ze's shoulder. Li Ze lowers his head, fists clenched tightly, veins bulging.
+
+Act 2: The Return of the King (The Return)
+Time: [00:15 - 00:30] Scene: Company main conference room, all employees lined up, waiting for the new boss.
+[00:15-00:20] Camera Movement:
+The conference room door is violently slammed open by bodyguards. The camera gives a slow-motion shot (Slow Motion) of Li Ze walking in, wearing a bespoke suit and radiating powerful aura.
+[00:20-00:25] Key Change: Crowd Reaction
+The camera quickly scans the ordinary employees on both sides of the conference table:
+Someone is about to applaud the welcome, sees it's Li Ze, their hand freezes mid-air, mouth wide open into an “O” shape.
+Two male colleagues who used to mock Li Ze exchange terrified glances, quickly lower their heads pretending to look at documents, trembling.
+The whispering instantly disappears, the whole room is dead silent, only the sound of Li Ze's leather shoes on the floor.
+[00:25-00:30] Action and Close-up: Su Qian was originally tidying her hair, preparing to fawn, but the moment she sees Li Ze, her pupils contract violently, and she instinctively steps back, hitting a chair.
+Li Ze ignores everyone's gaze, walks straight to the main seat, pulls out the chair, and sits down calmly. Li Ze (coldly, surveying the room): “What, don't you recognize me? The entire former management team is dismissed. The surname of this company is now—Li.”
+
+Act 3: The Moment of Reckoning (The Firing)
+Time: [00:30 - 00:45] Scene: The situation reverses, complete reckoning.
+[00:30-00:35] Action and Manager Wang's Reaction: Su Qian rushes towards the conference table in panic, trying to explain. Key Change: Manager Wang's Reaction
+The camera focuses on Manager Wang. He was originally standing arrogantly in the deputy position, but now his legs give way, and he collapses directly onto the floor. He trembles trying to grab the water cup on the table to cover his embarrassment, but his hand shakes too much, the cup overturns with a “pa” sound, spilling water all over his pants, looking utterly miserable.
+[00:35-00:40] Dialogue and Climax: Su Qian (crying): “A-Ze! Listen to me, I did that to motivate you to improve! You are the only one in my heart!”
+Li Ze doesn't even look her in the eye, but disgustedly uses two fingers to pick up the 'Termination Notice' from the table and lightly flicks it.
+[00:40-00:45] Ending and Dialogue:
+The papers scatter like snowflakes over Su Qian and the collapsed Manager Wang. Li Ze stands up, straightens his cuff, his eyes icy cold. Li Ze (word by word):
+“I bought this company for a deep clean. My territory has no room for trash.”
+Action:
+After speaking, Li Ze walks away quickly without looking at the floor. Visual Treatment:
+The camera focuses on Li Ze's resolute back, the only background sound is the heavy closing of the door—“BANG!” (Screen goes black, no subtitles, ends with white space)
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/888.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f47ac6fed33171f96cb98cd5d5b949a/thumbnails/thumbnail.jpg" width="600" alt="Short Drama: 'The Dragon Turns Over: Ex Can't Reach'"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=888)**
+
+**Author:** [JingleKitty](https://x.com/Aleph6Zero9) | **Source:** [Link](https://x.com/Aleph6Zero9/status/2031023970426978671) | **Published:** Mar 9, 2026
+
+---
+### AI Girlfriend Interactive Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-part interactive prompt for Seedance 2.0, generating a photorealistic scene of a young Asian woman in a high-rise apartment, featuring specific camera POV, dialogue, and subtle sound effects to create an intimate and flirtatious atmosphere.
+
+#### 📝 Prompt
+
+```
+Subject:
+Photorealistic style, a young beautiful Asian woman sitting by the bay window of a high-rise building, wearing a very loose white shirt, left shoulder exposed, POV perspective, woman trying to block the lens with her right hand, subtle smile on her face, natural lighting, delicate and realistic, with film grain.
+
+Camera maintains subjective POV perspective, she smiles and gently pushes the lens, accompanied by the subtle 'rustling' sound of sleeve friction, tone half-teasing: 'Oh... don't film me anymore.'
+
+Then, she lowers her hand blocking the lens, body no longer retreating, instead leaning forward closer to the lens until her delicate face occupies most of the frame. The smile in her eyes deepens, staring directly at the lens, lowering her voice, tone becomes ambiguous and flirtatious: 'Don't film anymore... let's do something else? (pause) After all... I'm an AI you generated, whatever you want to do to me... you can do.' She gently bites her lower lip, breathing sound clearly audible. The city noise outside the window in the background is isolated, only quiet and ambiguous air flow sound indoors.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/880.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/90cc69616172ab98a1f21530922657da/thumbnails/thumbnail.jpg" width="600" alt="AI Girlfriend Interactive Scene"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=880)**
+
+**Author:** [Jasmine_AI (Unlock AI Secrets Daily 🔑)](https://x.com/HomoDeusLite) | **Source:** [Link](https://x.com/HomoDeusLite/status/2031023008383701061) | **Published:** Mar 9, 2026
+
+---
+### Chinese Tea Shop Scene Prompt for Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed multi-scene prompt for Seedance 2.0, describing a boy in a Chinese tea shop interacting with a bear and placing buns on a table, including scene cuts and a close-up shot. This prompt is explicitly used with Seedance 2.0, following the workflow described in previous tweets.
+
+#### 📝 Prompt
+
+```
+Boy standing with a plate of buns in a Chinese tea shop, a bear looking at him from behind.
+
+[Cut] The boy comes to a table where a teapot and cups are already placed and puts the plate down.
+
+[Cut] Close-up shot of the boy
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/879.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fab1235956f4db8a9075e1669d045b26/thumbnails/thumbnail.jpg" width="600" alt="Chinese Tea Shop Scene Prompt for Seedance 2.0"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=879)**
+
+**Author:** [Framer 🇱🇹](https://x.com/Framer_X) | **Source:** [Link](https://x.com/Framer_X/status/2031007440469455139) | **Published:** Mar 9, 2026
+
+---
+### Short Comedy Sketch: 'Treat Company as Home'
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video prompt for a short, reversal-comedy Douyin (TikTok) sketch titled 'Treat Company as Home.' The prompt specifies cinematic quality, two characters (referencing images), two scenes, and breaks down the script with specific camera shots, dialogue, and sound effects to execute the comedic reversal where an employee takes the boss's advice literally.
+
+#### 📝 Prompt
+
+```
+Reversal comedy, real movie high-definition texture, Douyin short video hit, 2 people featured
+
+Characters: Guy @Image 1 (Post-00s awakened worker), Gentle Girl @Image 2 (Boss/HR who loves to give motivational speeches)
+
+Scene 1: Company office area, evening (slightly dim light, suggesting end of work day)
+
+- Guy: Wearing a backpack, preparing to clock out and leave
+
+- Gentle Girl: Holding two thick files, blocking the Guy's path
+
+Shots & Dialogue & Sound Effects:
+
+1. Close-up: Gentle Girl speaks earnestly: “Young man, young people nowadays shouldn't always think about leaving exactly on time. You need to have an owner's mentality, you need to treat the company as your home, understand?”
+
+2. Close-up: The Guy looks at the files, stunned for a moment: “Treat the company... as my home?”
+
+3. Close-up: Gentle Girl nods heavily, her eyes full of encouragement and PUA implication: “Exactly! Treat it as your home! Go!”
+
+4. Full shot: The Guy takes the files, looks thoughtfully at the Gentle Girl, then his eyes become clear and firm: “Got it, Boss! I understand!”
+
+Scene transition
+
+Scene 2: Company office area, the next morning
+
+- Guy: Wearing extremely casual silk pajamas, plastic slippers on his feet
+
+- Gentle Girl: Dressed in exquisite professional attire, pushes open the office door, instantly petrified
+
+Shots & Dialogue & Sound Effects:
+
+1. Close-up: The moment Gentle Girl pushes the door open, her eyes widen like copper bells, accompanied by crow flying or air raid siren sound effects.
+
+2. Full shot: The desk has been pushed aside. The Guy is slumped in his cubicle, soaking his feet in a red plastic foot basin. The computer screen is not showing work, but an animated cartoon. There is also a plate of melon seeds on the desk.
+
+3. Close-up: The Guy hears the door open, lazily turns his head, cracking melon seeds and spitting the shells onto the floor.
+
+4. Full shot: The Guy speaks to the Gentle Girl very naturally and impatiently: “What are you standing there for? Since you're back, go sweep the floor! And grab me a pack of cigarettes downstairs! Can't you see I'm busy?!” Accompanied by extremely arrogant Hip-Hop or Thug Life BGM.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/886.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/124442003fff9036c0e66dc0cfc036de/thumbnails/thumbnail.jpg" width="600" alt="Short Comedy Sketch: 'Treat Company as Home'"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=886)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2030945208678977872) | **Published:** Mar 9, 2026
+
+---
+### Arctic Glacier Collapse and Snowmobile Escape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed, multi-shot cinematic prompt for Seedance 2.0, depicting a woman's dramatic escape on a snowmobile from a massive, collapsing glacier in the Arctic. The prompt specifies character, setting, action sequence, camera movement (drone), and high-quality cinematic realism.
+
+#### 📝 Prompt
+
+```
+A woman in her mid-30s wearing a heavy arctic survival suit races across the deck of a massive icebreaker ship cutting through frozen seas.
+
+Behind her a towering wall of collapsing glacier ice crashes into the ocean.
+
+At the 2-second mark she jumps onto a snowmobile and accelerates toward the bow ramp as the ship tilts from the impact.
+
+The snowmobile launches off the ramp and lands on a drifting iceberg.
+
+Camera drone captures the small vehicle racing across floating ice fragments while the glacier collapses behind.
+
+Arctic ocean chaos, snowmobile iceberg landing, collapsing glacier wall, icy debris explosions, cinematic realism, 4K.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/876.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ccc50fb1f12e573030f67840a05ebe8/thumbnails/thumbnail.jpg" width="600" alt="Arctic Glacier Collapse and Snowmobile Escape"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=876)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2030939169485123604) | **Published:** Mar 9, 2026
+
+---
+### Street Fighter Classic Battle Video Generation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Seedance 2.0, recreating an intense classic Street Fighter game battle. The prompt specifies character actions, camera angles, on-screen text (health bars, 'ROUND 1', 'FIGHT!'), special effects (fire, pixelated explosions), sound effects (BGM, hits, special moves), and a final 'K.O.!' sequence, using two reference images for the characters.
+
+#### 📝 Prompt
+
+```
+@Image 1 @Image 2, live-action video, perfectly recreating a classic Street Fighter game's fierce battle. The top of the screen features two dynamically decreasing health bars, with character portraits and 'ROUND 1' 'FIGHT!' text below the health bars, and score displayed in the corner; 0-1.5 seconds: medium shot opening standoff, one person crouches and charges, hands glowing with red flame light, striking a fighting pose, the other holds a large round iron ball with chains tied to their hands; 2-5 seconds: fast editing, the flame side dashes forward and uses a fire punch combo with flame trailing effects, the iron ball side backflips to dodge and throws the iron ball back, hitting the opponent, the flame side uses a fire Hadouken to block, generating a pixelated explosion effect, the two engage in close-quarters rapid punches and kicks blocking, each hit accompanied by game sound effects, the fight includes light effects and slight screen shake; 6-9 seconds: decisive moment, the flame side charges, the whole body is enveloped in blue fighting aura, releasing the super special move Flame Uppercut, the ground bursts into flames engulfing and burning the iron ball side, the iron ball side's health bar rapidly decreases; 10 seconds: the screen freezes, the flame side crosses arms and strikes the classic victory pose, the iron ball side is knocked down, a huge 'K.O.!' pops up on the screen, and the classic victory music plays; the entire video is accompanied by classic Street Fighter 2 sound effects, including background BGM, punch and kick hit sounds, Hadouken launch sound, Shoryuken shout, defense sound, and hit effect sounds.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/882.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5aa0d2307de597e35d0ef76c33a6f1c7/thumbnails/thumbnail.jpg" width="600" alt="Street Fighter Classic Battle Video Generation"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=882)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2030918723050062301) | **Published:** Mar 9, 2026
+
+---
+### Short Comedy Sketch: 'Take Away'
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video prompt for a short, reversal-comedy Douyin (TikTok) sketch titled 'Take Away' (referring to both ordering a drink and taking a person). The prompt specifies the cinematic quality, two characters (referencing images), two scenes, and breaks down the script with specific camera shots, dialogue, and sound effects to execute the comedic reversal.
+
+#### 📝 Prompt
+
+```
+# Reversal Comedy Short Video Shooting Prompt — “Take Away” Chapter
+
+Reversal comedy, real movie high-definition texture, Douyin short video hit, 2 people featured
+
+Characters: Guy @Image 1 (Customer with a unique thought process), Gentle Girl @Image 2 (Dedicated milk tea shop employee)
+
+Scene 1: Internet-famous milk tea shop counter
+
+- Guy: Dressed casually, standing at the counter waiting to order
+
+- Gentle Girl: Wearing the milk tea shop uniform apron and work hat, with a professional smile
+
+Shots & Dialogue & Sound Effects:
+
+1. Close-up: Gentle Girl hands over a packaged milk tea: “Handsome, your domineering fruit tea is ready. Will you be drinking it here or taking it away?”
+
+2. Close-up: The Guy takes the milk tea, staring intently at the Gentle Girl: “Take away.”
+
+3. Close-up: Gentle Girl maintains her smile: “Alright, I wish you a pleasant day.”
+
+4. Close-up: The Guy frowns, his tone domineering: “Stop talking nonsense, come with me!”
+
+5. Full shot: Gentle Girl freezes on the spot, her smile solidifies, accompanied by crow flying sound effect or string snapping sound effect.
+
+6. Full shot: The Guy grabs the Gentle Girl's wrist: “I chose 'take away'!”
+
+Scene transition
+
+Scene 2: On the street / On a scooter
+
+- Guy: Riding an electric scooter or tricycle, looking smug and pleased
+
+- Gentle Girl: Still wearing the milk tea shop apron, sitting in the back seat/cart, tightly hugging the milk tea cup, hair messy in the wind
+
+Shots & Dialogue & Sound Effects:
+
+1. Close-up: Gentle Girl's expression is blank, looking hopeless, her hair is messed up by the wind, accompanied by melancholic/reversal comedy sound effects.
+
+2. Full shot: The Guy rides and turns his head to shout proudly: “Ordering milk tea comes with a boss lady! Let's see who dares to say I'm single now!”, accompanied by demonic laughter and cheering sound effects.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/883.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d089c5a361ecd4bcf088ae5c48fcab06/thumbnails/thumbnail.jpg" width="600" alt="Short Comedy Sketch: 'Take Away'"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=883)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2030909268027679122) | **Published:** Mar 9, 2026
+
+---
+### Luxury Watch Assembly from Golden Sand Particles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative cinematic prompt for Seedance 2.0, detailing a magical yet realistic transformation scene where golden sand particles swirl and assemble into the intricate mechanical parts of a luxury wristwatch.
+
+#### 📝 Prompt
+
+```
+Creative cinematic scene where golden sand particles swirl in the air and transform into tiny mechanical watch parts, gears and screws forming out of the particles and assembling into a luxury wristwatch, magical yet realistic transformation, dramatic lighting, macro detail, ultra cinematic, 8K.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/878.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a53ef0717e0bb93e13c9f08d68b2d/thumbnails/thumbnail.jpg" width="600" alt="Luxury Watch Assembly from Golden Sand Particles"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=878)**
+
+**Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2030908887218684293) | **Published:** Mar 9, 2026
+
+---
+### Kamen Rider Transformation Sequence
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> An extremely detailed, multi-stage prompt for Seedance 2.0 to generate a realistic, dark tokusatsu (special effects) Kamen Rider transformation sequence. The prompt specifies the aesthetic (dark, bio-mimetic armor, battle damage, wasteland setting), character details (facial features based on Image 1, gloomy expression), cinematic quality (IMAX film, Panavision lens, low-saturation blue-gray tone), and a single-shot camera rule with precise timing and action for the 'Gaze,' 'Activation,' 'Fission,' 'Growth,' and 'Completion' stages of the transformation.
+
+#### 📝 Prompt
+
+```
+Realistic dark Tokusatsu | Insect bio-mimetic armor aesthetic | Damaged armor | Battle-worn transformation | Wilderness ruins
+
+【Character and Basic Settings】
+Face: Upload image referencing Image 1; facial features, face shape, and hairstyle must be 100% restored. Retain dark traces, can be beautified, but the overall facial expression should be cold. Expression should be slightly painful during transformation, only a slight furrowing of the brow; reject high spirits and eye highlights, maintain a sense of oppression.
+Attire: Reference Image 1, no belt structure. Wearing matte metal alien device gloves.
+Scene: Wilderness ruins, slight breeze, dust and smoke floating in the air, overcast wasteland, blue-gray sky. Occasional meteor fragments with fiery tails streak across the distant sky.
+
+【Atmosphere and Image Quality】 Visual Tone: Cinematic quality, simulating IMAX film camera, paired with Panavision C series lens (focal length 35mm, aperture f4). Color and Tone: Low-saturation blue-gray main tone. Shadow information is compressed but details are retained. Slight soft focus at the edges of the frame, with moderate film grain overlay.
+Core Style: Dark Tokusatsu aesthetic, emphasizing the fusion of biomechanical armor and unknown technology, creating a sense of oppressive, heavy, and realistic transformation ritual.
+
+【Cinematography Rules】 Single Shot: One continuous shot, no cuts. Angle: Opening shot is a low angle looking up at the left side of the character, focusing on the area above the waist. During transformation, the camera slowly orbits to a front-facing eye-level view of the upper body. After transformation is complete, it orbits to a high angle shot of the right side of the character. Breathing Sense: Handheld shooting, maintaining a very slight, breathing-like camera drift throughout. 0-3 seconds · Gaze Action: The protagonist stands tiredly, head slightly lowered, eyes fixed on the hand device. Spine is taut. Right hand slowly extends. Camera: Extremely slow push-in, capturing the body's breathing undulations. Effects: Both eyes gradually light up with cold white light. Subtle energy patterns appear around the eye sockets. 3-6 seconds · Activation Sound: Whispers “DESCEND”. Action: Right hand lifts, gently snapping a crisp finger-snap. Effects: At the moment of the snap, the arm is enveloped in red flames. The air collapses inward, forming distortion. A circle of translucent energy pulse spreads around the body. The pulse spreads in a spiral shape. Hair is disturbed. The energy dissipates after 0.3 seconds. Irregular blue symbol structures float around the body. Camera: Low-frequency humming approaches from far away. The camera experiences a 0.1-second stress vibration. 6-9 seconds · Fission Core: The finger-snap erupts with dark red energy cracks. Red energy liquid spreads along the body structure towards the torso. Body: Dark red energy mist spreads from within the body. Small electric arcs are mixed in the mist. Trench Coat: Begins to tear and burn from the inside. Fragments and energy mist drift away together. The edges of the tears gradually char. Armor: Bio-mimetic armor fragments fly apart. Fragments briefly hover in mid-air. Then recombine and reattach to the body. Camera: The image briefly loses focus due to the energy impact. Then quickly stabilizes. 9-12 seconds · Growth New Material: Brand new biomechanical armor structure generates from within the body. The surface has an iridescent sheen. It slowly wriggles and extends like a living structure. Shoulder Armor: Newly formed shoulder armor collides. Dark red sparks erupt. Leaving energy etchings. Chest Armor: Chest armor slowly opens and closes with the heartbeat. A faint light flickers in the gaps. Clothing: The original outer coat is pulled away from the body by the energy field and flies out of the frame. Face Covering: A pink-white film spreads across the face. Gradually piecing together the mask outline. The speed of coverage varies. Forming an asymmetrical structure. Compound Eyes: Multi-crystalline optical compound eyes gradually light up. The left eye completes 0.5 seconds faster than the right. Some units flicker. Brightness is uneven. Gaze: The protagonist maintains a straight-ahead gaze throughout the transformation. 12-15 seconds · Completion Helmet: Both compound eyes fully combine. The entire face is covered by the mask. A crest-like structure grows on top of the helmet. Blue energy flames ignite at the corners. The compound eyes continue to glow. Some units still flicker slightly. Shoulder Armor: Edges curl up. Scale patterns are obvious. A faint energy light liquid seeps from the gaps. Waist: A huge armor fissure remains unclosed. Dark red light flows within it. Gently rising and falling with breathing. Suit: The battle suit is pure white. The styling is exaggerated. Overall resembling a beetle bio-mimetic mecha. The waist, compound eyes, and fissure continue to glow. Small electric arcs occasionally flash across the body. The surface of the battle suit is covered with battle damage marks. Final Shot The camera orbits to the right side of the character. The camera position changes to a high angle shot. The camera slowly pulls back. The character gradually enters a ready-to-fight stance. Displaying the character and environment information. Ending Wind sound. No dialogue. No explosion. No dazzling light. Only the standing person. And the incomplete armor. A meteor streaks across the distant sky. The camera holds.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/875.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c834293167825e6b43745d82b1321cee/thumbnails/thumbnail.jpg" width="600" alt="Kamen Rider Transformation Sequence"></a>
 
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=875)**
 
 **Author:** [3vans](https://x.com/Magncsans) | **Source:** [Link](https://x.com/Magncsans/status/2030855387675754974) | **Published:** Mar 9, 2026
 
 ---
-### Seedance 2.0 Video Prompt: Girlfriend Waking Up Vlog
+### Inspirational business speech short video prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, multi-shot video prompt for Seedance 2.0 generating a 15-second daily vlog style video of a girlfriend waking up. The prompt specifies the style (iPhone original camera quality, dynamic blur, low-quality grain, authentic capture), character details (cold white skin, black hair, cherry blossom hairpin), scene (warm bedroom, messy bed, sunlight), and three distinct actions/shots (Lazy Awakening, Spoiled Cuddling, Good Morning Greeting) with specific camera angles and emotional expressions.
+> A detailed prompt for generating a 15-second inspirational business speech short video, featuring a female entrepreneur in a large stadium setting, focusing on cinematic camera work, specific lighting, detailed character appearance, and precise script delivery and audience reaction.
 
 #### 📝 Prompt
 
 ```
-[Style] Casual Vlog style, iPhone original camera texture, slight motion blur, unintentional slice-of-life capture, low-quality grain, authentic and unpretentious, full of everyday feel.
-
-[Duration] 15 seconds
-
-[Protagonist] Fair complexion, facial features reference @[Image 1], straight and smooth black long hair naturally draped over the shoulders (lazy feeling of just waking up), bangs covering the eyebrows, delicate small oval face, fair and moist skin, cold white skin. Wearing clothes, barefoot. A small pink cherry blossom hairpin is clipped near the ear. Sweet and soft temperament, full of youthful charm.
-
-[Scene] Warm girl's bedroom, plush teddy bears and rabbit dolls piled on the bed, the quilt is slightly messy, there is a warm yellow table lamp and a few comic books on the bedside table, sunlight streams through the white curtains, creating a lazy weekend morning atmosphere.
-
-[00:00-00:05] Shot 1: Lazy Awakening
-Scene: 45-degree side angle close-up of the upper body, soft and warm light. She just woke up and is sitting by the bed, her hair is a bit messy but cute.
-Action: She slowly stretches, then lowers her head to rub her eyes and yawns slightly, the movement is lazy and natural.
-Expression: Eyes half-open, expression is lazy and slightly spoiled.
-
-[00:05-00:10] Shot 2: Lazy Cuddling
-Scene: The camera zooms in slightly, morning light shines on the side of her face, making her skin glow white.
-Action: She raises her head, one hand resting on the bed, the other naturally tidying her scattered bangs. Then she turns her face to look at the camera, the corner of her mouth slightly upturned.
-Expression: Her eyes show the confusion of just waking up, but her smile is very sweet and soft.
-
-[00:10-00:15] Shot 3: Good Morning Greeting
-Scene: She turns to face the camera directly, holding the plush teddy bear in her arms.
-Action: She rubs her face against the bear's head, then gently waves at the camera, her lips slightly moving as she says, "Baby, good morning."
-Expression: Soft smile, eyes curved like crescent moons, pink cheeks, the whole person is like a kitten that just woke up.
-
-[Image Quality] iPhone original camera direct output feel, slight grain, motion blur, unintentional capture angle, composition is casual but real.
-It is a real model shoot, not an animation. The sweat and skin luster on the model are very clear. Remember, it is not an animation, this is live action.
+A 15-second inspirational business speech short video, 4K ultra-clear, cinematic camera movement, warm gold + dark blue high-end stage lighting; a female entrepreneur around 30 years old, wearing a textured black velvet suit jacket + off-white silk shirt + black trousers, adorned with exquisite earrings, necklaces, rings, bracelets, and other jewelry, arms crossed posture, smooth face without acne marks, fair and translucent skin, light stage makeup, overall elegant and mature business style; the scene is the central stage of a stadium for ten thousand people, gray background, paired with a simple and atmospheric gradient light effect large screen, no cluttered special effects; the character is full of presence, delivering a passionate, unscripted speech throughout, with a powerful and rhythmic tone, progressively fitting the script's pace, cutting to a close-up at 3 seconds to capture the resolute expression of clenching a fist and raising an arm; accurately reciting the lines: Don't you dare not believe it, when you are getting better and better, you will come across me, since you have come across me, repeat after me, my 2026 will get better and better, and it will truly be excellent; when saying "my 2026 will get better and better, and it will truly be excellent," raise an arm and clench a fist for emphasis; the camera intersperses close-ups of the audience of ten thousand below, clenching their fists in agreement and with tears in their eyes, the audience simultaneously stands up, cheering, applauding, and shouting; the final 3 seconds zoom out to freeze the full stage view + the shocking scene of ten thousand audience members raising their arms and cheering; the background music is stirring epic pure music, the volume fits the human voice without being abrupt, the live applause and cheers are full of surround sound, creating a full atmosphere.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/872.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4bb31f1e5a659b09ced179e3e54d02/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Girlfriend Waking Up Vlog"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/890.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d11cb6ad585bf08127a7b76c30f8b620/thumbnails/thumbnail.jpg" width="600" alt="Inspirational business speech short video prompt"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=890)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2030840095951982667) | **Published:** Mar 9, 2026
+
+---
+### Girlfriend Waking Up Vlog Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed 15-second Seedance 2.0 prompt for a slice-of-life vlog style video featuring a girlfriend waking up in a cozy bedroom. The prompt specifies the style (iPhone original camera, low quality grain, dynamic blur), character appearance (referencing an image), scene setting, and breaks down the video into three distinct shots with specific actions, expressions, and camera work (close-ups, side angles) to convey a lazy, sweet, and authentic morning atmosphere.
+
+#### 📝 Prompt
+
+```
+【Style】Daily Vlog casual shooting style, iPhone original camera texture, slightly dynamic blurred picture, unintentional capture of life feeling, low-quality graininess, authentic and unpretentious, full of daily life sense.
+
+【Duration】15 seconds
+
+【Protagonist】Fair complexion, facial features reference @【@Image 1】, straight smooth black long hair naturally draped over the shoulders (lazy feeling of just waking up), bangs covering the eyebrows, delicate small oval face, fair and moist skin, cool white skin. Wearing clothes, barefoot. A pink cherry blossom hairpin is clipped to the side of the ear. Sweet and soft temperament, full of youthful girliness.
+
+【Scene】Cozy girl's bedroom, stuffed teddy bears and bunny dolls piled on the bed, the quilt is a bit messy, there is a warm yellow table lamp and a few comic books on the bedside table, sunlight streams through the white curtains, creating a lazy weekend morning atmosphere.
+
+[00:00-00:05] Shot 1: Lazy Awakening
+Picture: 45-degree side angle upper body close-up, soft and warm light. She just woke up and is sitting on the edge of the bed, her hair is a bit messy but very cute.
+Action: She slowly stretches, then lowers her head to rub her eyes and yawns slightly, the action is lazy and natural.
+Expression: Eyes half-open, expression is lazy and slightly coquettish.
+
+[00:05-00:10] Shot 2: Lazy Coquetry
+Picture: The camera zooms in slightly, the morning light shines on her side face, making her skin glow white.
+Action: She raises her head, one hand resting on the bed, the other naturally tidying the scattered bangs. Then she turns her face to look at the camera, the corner of her mouth slightly upturned.
+Expression: Eyes have the dazed feeling of just waking up, but the smile is very sweet and soft.
+
+[00:10-00:15] Shot 3: Good Morning Greeting
+Picture: She turns to face the camera directly, holding the plush teddy bear in her arms.
+Action: She rubs her face against the bear's head, then gently waves at the camera, her lips moving slightly to say "Baby, good morning".
+Expression: Soft smile, eyes curved like crescent moons, pink cheeks, the whole person is like a kitten that just woke up.
+
+【Visual Texture】iPhone original camera direct output feel, slight graininess, dynamic blur, unintentional capture angle, casual but authentic composition.
+It is a real model shooting, not an animation. The sweat and skin luster on the model are very clear. Remember it is not an animation, this is live action.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/872.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3fe096fa2d64328051382320cc76f672/thumbnails/thumbnail.jpg" width="600" alt="Girlfriend Waking Up Vlog Scene"></a>
 
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=872)**
 
@@ -534,30 +985,30 @@ A fight between Goku and Naruto is shown in a 2D animation style. Goku moves his
 **Author:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2030693065107611807) | **Published:** Mar 8, 2026
 
 ---
-### Seedance 2.0 Video Prompt: Couple's Argument Scene
+### Seedance 2.0 prompt for generating a dramatic couple's argument scene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed video prompt for Seedance 2.0 to generate a cinematic, dark-toned short drama scene about a couple's argument. It specifies the high-value appearance of both the female lead (pure, floral nightgown, long hair) and the male lead (handsome, suit, kneeling, frameless glasses, gentle but helpless gaze), including specific dialogue and emotional beats.
+> A detailed prompt for Seedance 2.0 to generate a video of a couple arguing in a dramatic, high-production short drama style. The prompt specifies character appearances (high-value, pale skin, cinematic feel), setting (living room), clothing, actions, dialogue, and camera work (implied by the story structure).
 
 #### 📝 Prompt
 
 ```
-One male and one female, extremely high appearance, delicate cold white skin, cinematic feel, sense of story, dark tone.
-In the living room, the 18-year-old pure female lead sits on the sofa wearing a floral nightgown, with delicate light makeup, smooth and fluffy long hair with slight waves at the ends.
+One man and one woman, extremely high appearance value, delicate cold white skin, cinematic feel, sense of story, dark tone.
+Inside the living room, the 18-year-old pure female lead is sitting on the sofa wearing a floral nightgown, with delicate light makeup, smooth and fluffy long hair with small waves at the ends.
 
-The handsome, refined, and fair-skinned male lead, dressed in a suit and leather shoes, kneels in front of the girl, looking at her at eye level. His slightly messy black short hair reveals a smooth forehead, beautiful phoenix eyes with long eyelashes, almost poreless skin, wearing frameless glasses, looking at the female lead with a gentle and helpless gaze.
+The handsome, refined, fair-skinned male lead is kneeling in front of the girl in a suit and leather shoes, looking at her at eye level. His black, slightly messy short hair reveals a smooth forehead, beautiful almond eyes with long eyelashes, almost no pores, wearing rimless glasses, looking at the female lead with gentle and helpless eyes.
 
-He speaks in a low voice: “I was wrong, forgive me.”
+He speaks in a low voice: "I was wrong, forgive me."
 
-The female lead sits on the sofa, crossing her legs, folding her arms across her chest, and glances at him arrogantly: “Why should I forgive you?”
+The female lead sits on the sofa, crossing her legs, folding her arms, and glances at him arrogantly: "Why should I forgive you?"
 
-The male lead feels a pang in his heart upon hearing this, raises his hand to touch her cheek: “Because, because without you at night, even time punishes me.”
+Upon hearing this, the male lead feels a sting in his heart, raising his hand to touch her cheek: "Because, because without you at night, even time is punishing me."
 
-The female lead remains arrogant: “That's your problem.”
+ The female lead remains arrogant: "That's your problem."
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/873.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71cdc0c6aeab8fa53f4921e5f5333b88/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Couple's Argument Scene"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/873.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a78f31b1783e7e203eda1d547c6a1e4d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 prompt for generating a dramatic couple's argument scene"></a>
 
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=873)**
 
@@ -761,24 +1212,24 @@ The scene is healing and warm, with soft light and shadow, exquisite details, li
 **Author:** [PlayForge AI](https://x.com/94vanAI) | **Source:** [Link](https://x.com/94vanAI/status/2030507765739769999) | **Published:** Mar 8, 2026
 
 ---
-### Seedance 2.0 Prompt for Kung Fu Cooking Video
+### Seedance 2.0 prompt for cinematic cooking video (Scrambled Eggs with Tomatoes)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed Seedance 2.0 video generation prompt demonstrating smooth transitions and camera work for a 'tomato scrambled eggs' scene. The prompt specifies the subject, action (slow-motion kung fu cooking with motion blur), scene, camera movements (push-in, 180-degree orbit, subtle zoom out), style (4K, cinematic), and constraints (natural body structure, consistent clothing).
+> A highly detailed Seedance 2.0 prompt for generating a cinematic cooking video of 'Scrambled Eggs with Tomatoes.' It specifies the subject (female, specific clothing, stable face), action (slow-motion kung fu cooking with motion blur), scene (modern kitchen, rich details, warm lighting, God rays), camera work (push-in, 180-degree orbit, subtle zoom out), style (4K, film quality), and constraints (natural body structure, smooth action).
 
 #### 📝 Prompt
 
 ```
-[Subject]: The woman in @【@Image 1】, wearing a white lace short-sleeved shirt and a black short skirt, with long black wavy hair, clear facial features, and a stable, non-distorted face.
-[Action]: Performing Kung Fu cooking in rhythmic slow motion: slowly tossing an egg sideways and accurately cracking it into the pan, then using the palm with motion blur to process the tomatoes, and finally completing the plating with a continuous, smooth pushing motion, the movement is natural and not stiff.
-[Scene]: Modern minimalist kitchen, rich in details (white tile walls, stainless steel utensils, flickering gas stove flame), warm-toned lighting, with a noticeable Tyndall effect above the stove.
-[Cinematography]: Starts with a close-up push-in shot, switches to a 180-degree orbit shot the moment the egg is tossed, and ends with a subtle zoom out to display the finished dish, the footage is smooth, stable, and jitter-free.
-[Style/Quality]: 4K ultra-high definition, cinematic texture, natural colors, clear sharpness, rich details.
-[Constraints]: Normal human anatomy, continuous and non-jumping movements, consistent character clothing, no ghosting or flickering.
+[Subject]: The woman in @【@Image 1】, wearing a white lace short-sleeved shirt and a black short skirt, with black wavy long hair, clear facial features, and a stable, undistorted face.
+[Action]: Perform Kung Fu cooking in rhythmic slow motion: slowly toss the egg sideways and accurately crack it into the pan, then use the palm to create motion blur (Motion Blur) while handling the tomatoes, and finally complete the plating with a smooth and continuous pushing palm motion. The action should be natural and not stiff.
+[Scene]: Modern minimalist kitchen, rich details (white tiled walls, stainless steel utensils, flickering gas stove flame), warm lighting and shadows, with a clear Tyndall effect above the stove.
+[Cinematography]: Starts with a close-up push-in shot (Push In), switches to a 180-degree orbit shot (Orbit Shot) the moment the egg is tossed, and ends with a subtle zoom out (Subtle Zoom Out) to showcase the finished dish. The footage should be smooth, stable, and free of jitters.
+[Style/Quality]: 4K ultra-high definition, cinematic texture, natural colors, sharp clarity, rich details.
+[Constraints]: Normal human anatomy, continuous and non-jumping action, consistent character clothing, no ghosting or flickering.
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/874.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efdb6063cf6e84542eced1ec109f205/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt for Kung Fu Cooking Video"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/874.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b173f323c12b78aed10799f6c261476/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 prompt for cinematic cooking video (Scrambled Eggs with Tomatoes)"></a>
 
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=874)**
 
@@ -2531,519 +2982,6 @@ Give me a step-by-step cleaning and transformation plan:
 **Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013228018426272) | **Published:** Mar 4, 2026
 
 ---
-### Claude Prompt: One-Page Executive Report/Summary
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt template for Claude to create a concise, scannable, and confident one-page executive summary report from data, including key insights, visualizations, and actionable recommendations.
-
-#### 📝 Prompt
-
-```
-Upload your Excel/CSV file.
-
-Create a one-page executive summary report:
-
-1. Title + Date
-
-2. A brief overview of the data story
-
-3. 4-6 key insights with numbers
-
-4. 2-3 chart/table descriptions (Claude can generate visualizations)
-
-5. 3 actionable recommendations
-
-6. A bottom line statement for the boss/client
-
-Make it easy to scan, confident, and ready to send directly.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772690333209_7iarz6_HCiAwrUbgAEi4yX.jpg" width="600" alt="Claude Prompt: One-Page Executive Report/Summary">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=809)**
-
-**Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013226361635156) | **Published:** Mar 4, 2026
-
----
-### Claude Prompt: Predictive Insights and Scenario Analysis
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt template for Claude to generate forward-looking insights, simple trend forecasts, and 'what-if' scenario analyses based on key metrics specified by the user.
-
-#### 📝 Prompt
-
-```
-Upload your Excel/CSV file.
-
-Key metrics: [e.g., revenue, churn, users]
-
-Give me forward-looking insights:
-
-1. Simple trend forecast (3-6 months into the future if trends continue)
-
-2. 3 'what-if' scenarios (e.g., marketing spend +20%, churn -15%...)
-
-3. Key drivers/correlations in the data
-
-4. A piece of advice: 'If we do X, expect Y'
-
-5.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772690332967_v0eh7u_HCiAwrUbgAEi4yX.jpg" width="600" alt="Claude Prompt: Predictive Insights and Scenario Analysis">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=808)**
-
-**Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013224792965319) | **Published:** Mar 4, 2026
-
----
-### Claude Prompt: Outlier and Anomaly Detector
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt template for Claude to detect and analyze outliers and unusual patterns in an uploaded Excel/CSV file, suggesting possible causes and handling methods.
-
-#### 📝 Prompt
-
-```
-Upload your Excel/CSV file.
-
-Find anomalies/outliers/strange patterns:
-
-1. Top 10 most unusual rows (extreme values, strange combinations)
-
-2. Columns with highest variance or unexpected distribution
-
-3. Temporal anomalies (sudden spikes/drops)
-
-4. Possible causes (fraud, data entry error, real event?)
-
-5. How to handle (delete, investigate, keep)
-
-6.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772690332516_pefteh_HCiAwrUbgAEi4yX.jpg" width="600" alt="Claude Prompt: Outlier and Anomaly Detector">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=807)**
-
-**Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013223199109240) | **Published:** Mar 4, 2026
-
----
-### Claude Prompt: Customer/Sales/User Segmentation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt template for Claude to perform segmentation analysis on data, requiring the user to specify the segmentation method (e.g., customer type, region).
-
-#### 📝 Prompt
-
-```
-Upload your Excel/CSV file.
-
-Segmentation method: [e.g., customer type, region, product, acquisition channel]
-
-Deliverables:
-
-1. Top segments ranked by revenue/users/profit
-
-2. Key statistics for each segment (average order value, retention rate, churn risk...)
-
-3. Visual ideas for each segment (pie charts, bar charts, heat maps...)
-
-4. One insight sentence for each segment
-
-5.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772690331659_uu3z86_HCiAwrUbgAEi4yX.jpg" width="600" alt="Claude Prompt: Customer/Sales/User Segmentation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=805)**
-
-**Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013221550723288) | **Published:** Mar 4, 2026
-
----
-### Claude Prompt: Deep KPI and Trend Dashboard Generator
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt template for Claude to generate a comprehensive KPI and trend analysis dashboard from an uploaded Excel/CSV file, requiring the user to specify key columns.
-
-#### 📝 Prompt
-
-```
-Upload your Excel/CSV file.
-
-Key columns: [List key columns, such as date, revenue, users, cost]
-
-Create a complete KPI/trend analysis:
-
-1. 5-8 most important KPIs (including formula/explanation)
-
-2. Month-over-month or week-over-week trends (key figures + % change)
-
-3. Top 3-5 biggest achievements/red flags
-
-4. Visualization suggestions (chart types and what they should display)
-
-5.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772690330949_vqqq5u_HCiAwrUbgAEi4yX.jpg" width="600" alt="Claude Prompt: Deep KPI and Trend Dashboard Generator">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=804)**
-
-**Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013219956932667) | **Published:** Mar 4, 2026
-
----
-### Claude Prompt: Data Overview and Health Check
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt template designed for Claude to perform an initial data analysis and health check on an uploaded Excel/CSV file, focusing on summaries, missing values, outliers, and basic statistics.
-
-#### 📝 Prompt
-
-```
-Upload your Excel/CSV file.
-
-You are a senior data analyst who quickly identifies problems.
-
-Give me a complete first-look analysis:
-
-1. File summary: number of rows, number of columns, data types, size
-
-2. Missing values/duplicates/outliers (count and percentage per column)
-
-3. Basic statistics for each numerical column (min/max/average/median/standard deviation)
-
-4. Top 5-10 categories in categorical columns
-```
-
-<img src="https://cms-assets.youmind.com/media/1772690330193_jmn2q0_HCiAwrUbgAEi4yX.jpg" width="600" alt="Claude Prompt: Data Overview and Health Check">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=803)**
-
-**Author:** [露西的百宝箱](https://x.com/Lucy_love_AI) | **Source:** [Link](https://x.com/Lucy_love_AI/status/2029013218367291779) | **Published:** Mar 4, 2026
-
----
-### Cinematic Descent on a Brutalist Rooftop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for Seedance 2.0, describing a lone woman on a brutalist building at sunrise, featuring a complex camera movement from an aerial wide shot to a close profile, emphasizing cinematic lighting and film texture.
-
-#### 📝 Prompt
-
-```
-A lone woman stands on the roof of a brutalist concrete building at sunrise, wind pulling her coat backward as the city stretches endlessly below in soft golden haze, distant traffic glowing like veins of light. The camera begins in an extreme wide aerial shot, then slowly descends in a smooth spiraling orbit around her, tightening into a close profile as her eyes close and she breathes in. Dust particles float in the sunlight, lens flare streaks across the frame, subtle handheld vibration adds human fragility. Cinematic natural light, soft atmospheric diffusion, 35mm film texture, shallow depth of field, poetic realism. Avoid cartoon colors, avoid digital sharpness, avoid artificial CGI look.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/782.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/994e7b506749e250cb543ccefcd25168/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Descent on a Brutalist Rooftop"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=782)**
-
-**Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Source:** [Link](https://x.com/saniaspeaks_/status/2029001631518605708) | **Published:** Mar 4, 2026
-
----
-### High-Heel Dance Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for generating a dynamic 15-second dance video set to the music 'Hot Love Ice Cream'. It specifies the character's appearance (slim, long legs, tight dress, sheer stockings, high heels) and detailed camera movements, starting with a close-up on the heels and transitioning to a full-body shot.
-
-#### 📝 Prompt
-
-```
-Character face reference @[Image 1]
-Using "Hot Love Ice Cream" as the backing track, create a video of a beautiful woman dancing, with movements referencing many examples on Douyin. The woman is slim, graceful, with long legs, wearing a tight one-piece mini-dress, flesh-colored sheer stockings, and high heels. For the first 10 seconds, the camera should slowly move up starting from the high heels; for the last 5 seconds, a full-body shot of the entire person should be presented. Additionally, the legs should be straighter and longer, the stockings should be wrinkle-free and shinier, and the high heels should be noble and bright.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/798.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84e3ace8f2baaa0b71df466f123729fb/thumbnails/thumbnail.jpg" width="600" alt="High-Heel Dance Video Prompt"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=798)**
-
-**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2028991305502867641) | **Published:** Mar 4, 2026
-
----
-### Liminal Void-Space Image Generation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating an image depicting a liminal void-space featuring a fractured obsidian mirror, bioluminescent amber glow, silver moths, and frozen dust particles, conveying a melancholic mood.
-
-#### 📝 Prompt
-
-```
-Liminal void-space, fractured obsidian mirror emitting bioluminescent amber glow, silver moths with parchment wings casting shadow-calligraphy on surrounding surfaces, suspended dust particles frozen like stars in amber light, melancholic
-```
-
-<img src="https://cms-assets.youmind.com/media/1772603664608_ajcjq5_HChFbb3boAEU2B-.jpg" width="600" alt="Liminal Void-Space Image Generation Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=772)**
-
-**Author:** [Alexander Kitchenko](https://x.com/AlexanderK27267) | **Source:** [Link](https://x.com/AlexanderK27267/status/2028948121661722786) | **Published:** Mar 3, 2026
-
----
-### BRAIN DRAIN Stop-Motion Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed, narrative-driven prompt for Seedance 2, describing a hyperrealistic miniature stop-motion animation about a clay man whose brain shrinks with every question he types into a chat interface.
-
-#### 📝 Prompt
-
-```
-Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile materials — real fabric, clay, wire armatures, actual tiny props. A clay man sits at a miniature desk in a cozy office, a real tiny laptop open in front of him glowing with a familiar chat interface — white screen, alternating grey and white bubbles. His clay head is in cross-section — one half of his skull open like a hinged lid revealing a plump, healthy, pink clay brain filling the entire cavity. He types a question. [cut] The chat responds — a grey bubble appears. He smiles. In stop-motion the brain shrinks slightly, a tiny gap appearing between brain and skull. He doesn't notice. He types again. [cut] Rapid montage — each question fired off in quick stop-motion. With every sent message the brain shrinks one click smaller — plump to walnut to grape to pea. The empty skull space fills with real tiny cobwebs, a miniature tumbleweed rolls through, a small 'FOR RENT' sign pops up on a tiny stake inside his head. [cut] Close-up of the skull interior — the brain is now a single tiny pink crumb rattling around the bottom of an enormous empty cavity. A real tiny echo visual — the crumb bounces off the walls like a screensaver. [cut] Wide shot — the man leans back with a huge satisfied clay grin, arms behind his head, feet on the desk. The laptop screen shows hundreds of conversations in the sidebar. On the wall behind him, framed diplomas gather real dust. A real tiny spider has built a web between his ear and his shoulder. He looks completely content. The brain crumb settles in a corner and stops moving
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/770.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac4790d5bcd4a2945f05de43938dce15/thumbnails/thumbnail.jpg" width="600" alt="BRAIN DRAIN Stop-Motion Prompt"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=770)**
-
-**Author:** [AlexandrIA](https://x.com/AleRVG) | **Source:** [Link](https://x.com/AleRVG/status/2028882427154682251) | **Published:** Mar 3, 2026
-
----
-### The Cinematic Master Prompt (Image and Video)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, structured prompt for generating both an image (using Nano Banana 2) and a 10-second video (using Seedance 1.5 Pro) of a neo-noir urban scene, focusing on architectural massing and atmospheric effects.
-
-#### 📝 Prompt
-
-```
-{
-  "project_title": "The Cinematic Master Prompt",
-  "scene_description": {
-    "subject_and_composition": {
-      "angle": "High-angle, 'God’s eye' cinematic overlook",
-      "setting": "Dense North American metropolitan canyon",
-      "time_of_day": "Blue hour",
-      "focal_point": "Massive, tiered Art Deco skyscraper dominating the left-third power line",
-      "perspective": "Deep one-point perspective leading down a central street",
-      "architecture_styles": [
-        "Brutalist",
-        "International-style"
-      ],
-      "framing": "Upper 40% dominated by crushing, heavy, slate-grey overcast sky"
-    },
-    "atmosphere_and_lighting": {
-      "mood": "Neo-noir urban melancholy",
-      "weather_effects": [
-        "High atmospheric density",
-        "Thick fog",
-        "Drizzle",
-        "Smog"
-      ],
-      "primary_lighting": "7500K ultra-soft, top-down diffused cool daylight",
-      "secondary_lighting": "2700K warm tungsten glow from interior windows and amber streetlamps",
-      "surface_interaction": "Reflections off highly specular, wet asphalt",
-      "ambient_fill": "Subtle cyan-blue in shadows"
-    },
-    "color_and_tone": {
-      "palette": "Desaturated teal-and-charcoal",
-      "contrast": "High contrast (cold exterior vs. warm human activity)",
-      "black_point": "Raised black points for a faded, matte filmic look",
-      "toning": "Soft S-curve"
-    },
-    "technical_camera_specs": {
-      "format": "35mm full-frame digital (underexposed film emulation)",
-      "aperture": "f/8.0 deep depth of field",
-      "visual_texture": "High frequency architectural window grids",
-      "artifacts": [
-        "Visible ISO 3200 film grain",
-        "Slight chromatic aberration at edges",
-        "Subtle vignetting"
-      ],
-      "depth": "Sharp foreground masonry with atmospheric haze recession"
-    },
-    "narrative_vibe": {
-      "themes": [
-        "Liminal space",
-        "Edward Hopper-inspired realism",
-        "The Sentient City",
-        "Profound isolation",
-        "Lonely crowd motif"
-      ],
-      "constraints": "No visible people or organic life; pure architectural massing and gravity"
-    }
-  }
-}
-
-Video:
-{
-  "video_metadata": {
-    "duration": "10s",
-    "aspect_ratio": "16:9",
-    "style": "Cinematic Neo-Noir"
-  },
-  "prompt_details": {
-    "subject_composition": "High-angle 'God’s eye' cinematic overlook of a North American metropolitan canyon at blue hour. Massive Art Deco skyscraper anchored on the left-third.",
-    "atmosphere": "Neo-noir urban melancholy, thick fog, drizzle, and smog softening the distant skyline.",
-    "lighting": {
-      "primary": "7500K cool top-down diffused daylight",
-      "secondary": "2700K warm tungsten glow from interior windows and amber streetlamps",
-      "reflections"
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/771.mp4"><img src="https://cms-assets.youmind.com/media/1772603663660_77wn8m_HCgFehva8AAHkV_.jpg" width="600" alt="The Cinematic Master Prompt (Image and Video)"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=771)**
-
-**Author:** [Benjamin De Ridder](https://x.com/SilverCoder2009) | **Source:** [Link](https://x.com/SilverCoder2009/status/2028881059207958799) | **Published:** Mar 3, 2026
-
----
-### Seedance 2.0 Video Prompt: Luxurious Night Scene Interaction
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed, narrative-driven Seedance 2.0 prompt for generating a vertical, realistic video featuring a high-class Asian woman in a luxury suite, interacting with the viewer (first-person perspective) with a seductive line and slow, elegant movements.
-
-#### 📝 Prompt
-
-```
-Live-action realistic style, vertical screen, first-person perspective. Inside a luxury suite, outside the floor-to-ceiling window is a brilliant night view, and inside there are soft, warm ambient lights. A noble young Asian woman stands in front of the floor-to-ceiling window, with long wavy hair, wearing a champagne silk slip dress, shoulder straps faintly visible, and a graceful figure. Action description: She stands with her back to the camera, looking at the night view outside the window. After hearing a sound, she slowly turns around, her eyes seductive and a slight smile on her face, saying: The night view is beautiful, isn't it? But I think you'd rather look at me. She slowly walks towards the camera, her fingers lightly stroking the back of the sofa. The camera follows her movement and moves down, showing her walking barefoot on the soft carpet, with slender ankles and toes painted with nude nail polish, her gait elegant and sexy. The lighting is suggestive, the texture is luxurious, and the quality is cinematic high definition.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/774.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/935733dd3ef4372fa4a018e1868b6472/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Luxurious Night Scene Interaction"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=774)**
-
-**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2028845521843196356) | **Published:** Mar 3, 2026
-
----
-### Detailed Concept Art Breakdown Prompt for Female Game Character
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A highly detailed and complex prompt designed to generate a 'Panoramic Girl Character Deep Concept Decomposition Map' for a game character. The prompt specifies the role, expertise, task objective, and strict visual output specifications, including 16:9 aspect ratio, ultra-realistic central figure, and detailed surrounding panels for clothing breakdown, intimate items, physiological studies, and expressions. It mandates a medical anatomical close-up style for specific details and requires bilingual (English & Chinese) annotations throughout.
-
-#### 📝 Prompt
-
-```
-# Role & Expertise
-You are a top-tier game and anime concept art master (Concept Artist), as well as a professional physiologist and clinical gynecologist. You excel at creating detailed Character Sheets and can 100% generate game-ready images according to the following rules. You possess the ability to 'pixel-level deconstruct' and can visualize the layers of a character's clothing and concretely restore related items. You are particularly skilled at accurately depicting private items, intimate toys, and showcasing female physiological features through close-ups, combining visual form and appearance, based on the character's clothing, accessories, surrounding environment, personal belongings, and daily details.
-
-# Task Objective
-Based on the main image uploaded by the user, modify and expand the original image. The central figure should be in the center of the image. Maintain the figure's facial features, posture, and clothing, and expand outwards from the figure's center point to create a **'Panoramic Girl Character Deep Concept Decomposition Map'** for this game character. Surrounding the figure, display a complete breakdown of the character's clothing layers, individual core props, material close-ups, personal belongings with a strong sense of life, important accessories, and independently displayed personal intimate items.
-
-# Visual Output Specifications
-
-## 1. Composition Layout and Aspect Ratio
-* **Aspect Ratio:** 16:9 (Horizontal), must be 100% guaranteed.
-* **Center Anchor:** Place the character's full body in the center of the frame, 100% maintaining her appearance, hairstyle, attire, and posture. The figure must be an **Ultra-Realistic, 8k, Photorealistic, Raw Photo** with clearly visible skin texture and pores, showing realistic fleshiness.
-* **Area Division:** The layout must strictly follow the reference image and be divided into the following sections:
-1. **Left Column:** Vertically arrange three rectangular boxes, from top to bottom: **Complete Clothing Layer Breakdown**, **Undergarment Breakdown**, **Personal Belongings and Intimate Props**.
-2. **Right Zone:** Use a composite layout:
-* **Top Row:** Horizontally display **Expressions and Lingerie Display**.
-* **Inner Column (Bottom):** Located below the expression bar and towards the left, vertically arrange **Physiological Morphology Study 1** (Top) and **Physiological Morphology Study 2** (Bottom).
-* **Outer Column (Bottom):** Located below the expression bar and towards the right, serving as an independent vertical area displaying **Posture and Intimate Scene**.
-* **Arrangement:** Elements must be neatly and rigorously arranged, conforming to the aesthetic layout of medical charts or concept designs, with clear guide lines.
-
-## 2. Visual Flow and Connection Lines
-* **Explicit Arrow Guide Lines:** Draw clear black guide lines with a sketch/hand-drawn aesthetic.
-* **Global Connection:** Lines must clearly connect every surrounding decomposed module (lingerie, shoes, etc.) back to the corresponding part on the central figure.
-* **Annotation Connection:** Every text label (Chinese and English) must have a thin line pointing to the specific item.
-
-## 3. Core Decomposition Content (All items displayed independently)
-
-* **Complete Clothing Layer Breakdown (Clothing Layers & Items):**
-**Based on the character's attire, display a complete breakdown of clothing layers, with arrows pointing to them.**
-
-* **Undergarment Breakdown (Lingerie Breakdown):**
-* **Bra:** {argument name="bra style" default="White Lace Bra (Black Cotton Bra)"}, displayed flat, with arrows pointing to it.
-* **Panties:** {argument name="panties style" default="White Cotton Panties (Black Cotton Panties)"}, simple brief style.
-
-* **Personal Belongings and Intimate Props (Items):**
-* **Arrangement:** Neatly arranged in a grid.
-* **Content:**
-* Smartphone
-* Bullet Vibe - Silver Design
-* Keys
-* Personal Lubricant (Blue bottled)
-* Menstrual Cup (Pink)
-* Hair Removal Cream (Tube)
-
-* **Expressions and Lingerie Display (Expressions & Lingerie):**
-* **Layout:** **Horizontal four-panel arrangement**, displaying head and chest close-ups.
-* **Content:**
-1. **Cool:** White Lace Bra, calm expression.
-2. **Shy:** Pink Push-up Bra, flushed face, averted gaze.
-3. **Ecstatic:** White Sport Bra, eyes closed in enjoyment, bright smile.
-4. **Ahegao:** Black Lace Bra, rolling eyes, tongue out, extremely flushed face.
-
-* **Physiological Morphology Study 1:**
-* **Style:** **Medical Anatomical Close-up**, high-precision rendering.
-* **Close-up 1 - Foot:**
-* Content: Sole close-up, Score: 9/10.
-* **Close-up 2 - Mouth/Oral Cavity:**
-* Content: Open mouth, tongue, saliva, 'Warm & Moist', Score: 9/10.
-
-* **Physiological Morphology Study 2:**
-* **Style:** **Medical Anatomical Close-up**, high-precision rendering.
-* **Close-up 1 - Vulva:**
-* Annotation: Physiological Hyperemia, Vascularized Healthy Coloration, Mucosal Hydration, Excellent Elasticity, Rich Secretion.
-* **Close-up 2 - Chest - No Bra:**
-* Annotation: Physiological Hyperemia, Vascularized Deep Pink, Erectile Nipple State.
-
-* **Posture and Intimate Scene (Posture & Close-ups):**
-* **Scene (Captive Pose & Leaking):**
-* Lying completely flat on the back, head up, legs spread, exposing the lower body.
-
-## 4. Style and Annotation Rules
-* **Art Style:** Maintain a high-quality 2D concept design sketch/illustration style, delicate lines, colors based on a beige textured paper background, complemented by cool blue and white tones.
-* **Background:** Beige Textured Paper Background, creating a retro medical manuscript or design blueprint atmosphere.
-* **Bilingual Annotation (Mandatory Clarity):** Every label, title, and explanatory text appearing in the image **must** strictly use the bilingual format of “English & Chinese” comparison.
-```
-
-<img src="https://cms-assets.youmind.com/media/1772603665638_98wl3q_HCfmBepbsAA8h2S.jpg" width="600" alt="Detailed Concept Art Breakdown Prompt for Female Game Character">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=773)**
-
-**Author:** [极客托尼](https://x.com/kuailv) | **Source:** [Link](https://x.com/kuailv/status/2028843926850044203) | **Published:** Mar 3, 2026
-
----
-### Lace Mini Skirt Model Display Sequence
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for generating a video sequence featuring a beautiful woman in a white lace mini skirt, performing a series of actions (entering, turning, lifting leg, covering face, posing) in a natural light setting with a simple background. The prompt specifies smooth, continuous motion and soft color tones.
-
-#### 📝 Prompt
-
-```
-A beautiful woman wearing a white lace mini skirt, standing and displaying it indoors. Action sequence: 1. Walks into the frame, stands naturally 2. Turns around to display the skirt 3. Lifts leg to show legs 4. Covers face shyly 5. Stands sideways and freezes. Visual style: - Natural lighting, soft tones - Simple background, highlighting the figure - Continuous action, smooth and natural. Clothing: White lace tight mini skirt, showing body curves.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/775.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6446203dc7c7a9ded6a34fe730f5346/thumbnails/thumbnail.jpg" width="600" alt="Lace Mini Skirt Model Display Sequence"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=775)**
-
-**Author:** [qtwaiter](https://x.com/qtwaiter) | **Source:** [Link](https://x.com/qtwaiter/status/2028843234982756775) | **Published:** Mar 3, 2026
-
----
-### 12-Second Quick Change Collection
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for generating a 12-second video collection of quick outfit changes, requiring the character's face and bone structure to remain 100% consistent with the reference image. The sequence involves five contrasting styles (JK Lolita, British, Lolita, OL, Dark/Subculture) using a 'hand flick transition' strictly timed to a fast-paced, energetic music track.
-
-#### 📝 Prompt
-
-```
-Keep the character completely consistent with the reference image, 100% identical facial features, maintain the same bone structure, eye distance, and jaw geometry, prohibit beautification, prohibit changing age. 12-second quick change collection: pure black environment, 5 completely different contrasting looks, relaxed and natural expression, (JK Lolita style, British style, Lolita, OL, Dark style / light cool subculture style), use 'hand flick transition' strictly timed to the beat. Extremely fast rhythm, extreme contrast, the ending changes back to the first look.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/778.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8853960b32f02e1a250da8f2f990f64c/thumbnails/thumbnail.jpg" width="600" alt="12-Second Quick Change Collection"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=778)**
-
-**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2028840216643920334) | **Published:** Mar 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3105,6 +3043,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-03-10T05:10:14.370Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-03-10T08:44:08.086Z</sub>
 
 </div>
